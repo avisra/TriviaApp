@@ -7,7 +7,7 @@ export default defineConfig({
     react(),
     VitePWA({
       registerType: 'autoUpdate',
-      includeAssets: ['icon.svg', 'robots.txt'],
+      includeAssets: ['icon.svg', 'ball.png', 'robots.txt'],
       manifest: {
         name: 'Trivia Time - Kid-Friendly Quiz Game',
         short_name: 'Trivia Time',
@@ -28,7 +28,7 @@ export default defineConfig({
         ],
       },
       workbox: {
-        globPatterns: ['**/*.{js,css,html,json,svg}'],
+        globPatterns: ['**/*.{js,css,html,json,svg,png}'],
         runtimeCaching: [
           {
             urlPattern: /^https:\/\/fonts\.googleapis\.com\/.*/i,

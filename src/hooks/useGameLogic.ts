@@ -94,15 +94,15 @@ export function generatePlayerQuestions(config: GameConfig): Question[][] {
     const player = config.players[i];
     
     // Get difficulty distribution
-    let easyPercent: number, mediumPercent: number, hardPercent: number;
+    let easyPercent: number, mediumPercent: number;
     if (config.scaleByAge) {
-      [easyPercent, mediumPercent, hardPercent] = getDifficultyDistributionByAge(player.age);
+      [easyPercent, mediumPercent] = getDifficultyDistributionByAge(player.age);
     } else {
       // Default: 40% easy, 40% medium, 20% hard
-      [easyPercent, mediumPercent, hardPercent] = [0.40, 0.40, 0.20];
+      [easyPercent, mediumPercent] = [0.40, 0.40];
     }
     
-    // Calculate counts
+    // Calculate counts (hardCount is remaining to reach total)
     const easyCount = Math.round(config.questionsPerPlayer * easyPercent);
     const mediumCount = Math.round(config.questionsPerPlayer * mediumPercent);
     const hardCount = config.questionsPerPlayer - easyCount - mediumCount;
