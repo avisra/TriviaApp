@@ -1,10 +1,13 @@
 .customization-screen {
   background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  justify-content: flex-start;
+  padding-top: 5vh;
 }
 
 .customization-content {
   text-align: center;
-  padding: 2rem;
+  padding: 1rem 1.5rem;
+  width: 100%;
   max-width: 600px;
   margin: 0 auto;
 }
@@ -19,20 +22,20 @@
 .player-progress {
   font-size: 1.2rem;
   color: rgba(255, 255, 255, 0.9);
-  margin-bottom: 2rem;
+  margin-bottom: 1.25rem;
   font-weight: 600;
 }
 
 .customization-form {
   background: white;
   border-radius: 20px;
-  padding: 2rem;
-  margin-bottom: 1.5rem;
+  padding: 1.5rem;
+  margin-bottom: 1.25rem;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
 .form-section {
-  margin-bottom: 2rem;
+  margin-bottom: 1.5rem;
   text-align: left;
 }
 
@@ -169,19 +172,49 @@
 }
 
 @media (max-width: 600px) {
+  .customization-screen {
+    padding-top: 3vh;
+  }
+
+  .customization-content {
+    padding: 0.75rem 1rem;
+  }
+
   .customization-title {
     font-size: 2rem;
   }
 
+  .player-progress {
+    font-size: 1rem;
+    margin-bottom: 1rem;
+  }
+
+  .customization-form {
+    padding: 1.25rem;
+    margin-bottom: 1rem;
+  }
+
+  .form-section {
+    margin-bottom: 1.25rem;
+  }
+
   .color-grid {
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(4, 1fr);
+    gap: 0.75rem;
+  }
+
+  .color-option {
+    min-height: 60px;
   }
 
   .navigation-buttons {
     flex-direction: column;
+    gap: 0.75rem;
   }
 
   .nav-button {
     max-width: 100%;
+    padding: 0.875rem 1.5rem;
+    font-size: 1.1rem;
   }
 }
