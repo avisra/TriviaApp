@@ -1,47 +1,5 @@
 .game-screen {
-  background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
-}
-
-.transition-screen {
-  background: linear-gradient(135deg, #fa709a 0%, #fee140 100%);
-}
-
-.transition-content {
-  text-align: center;
-  padding: 2rem;
-}
-
-.player-announce {
-  font-size: 4rem;
-  color: white;
-  margin-bottom: 1rem;
-  text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.2);
-  animation: pulse 1s ease-in-out infinite;
-}
-
-.transition-subtitle {
-  font-size: 1.8rem;
-  color: white;
-  margin-bottom: 2rem;
-  font-weight: 500;
-}
-
-.ready-button {
-  background: white;
-  color: #fa709a;
-  border: none;
-  border-radius: 16px;
-  padding: 1.5rem 3rem;
-  font-size: 1.8rem;
-  font-weight: bold;
-  cursor: pointer;
-  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
-  transition: all 0.3s ease;
-}
-
-.ready-button:hover {
-  transform: scale(1.1);
-  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+  /* Background applied dynamically via inline style based on current player */
 }
 
 .game-header {

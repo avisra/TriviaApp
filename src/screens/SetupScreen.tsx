@@ -14,15 +14,26 @@ export const SetupScreen: React.FC<SetupScreenProps> = ({
   onBack,
 }) => {
   const [questionsPerPlayer, setQuestionsPerPlayer] = useState<10 | 20 | 30 | 50>(10);
-  const [category, setCategory] = useState<'animals' | 'pokemon' | 'prehistoric'>('animals');
+  const [categories, setCategories] = useState<('animals' | 'pokemon' | 'prehistoric')[]>(['animals']);
 
   const questionOptions: Array<10 | 20 | 30 | 50> = [10, 20, 30, 50];
+
+  const toggleCategory = (category: 'animals' | 'pokemon' | 'prehistoric') => {
+    if (categories.includes(category)) {
+      // Don't allow deselecting if it's the only one selected
+      if (categories.length > 1) {
+        setCategories(categories.filter(c => c !== category));
+      }
+    } else {
+      setCategories([...categories, category]);
+    }
+  };
 
   const handleStart = () => {
     onStartGame({
       playerCount,
       questionsPerPlayer,
-      category,
+      categories,
     });
   };
 
@@ -42,23 +53,24 @@ export const SetupScreen: React.FC<SetupScreenProps> = ({
         </div>
 
         <div className="setup-section">
-          <p className="setup-label">Category:</p>
+          <p className="setup-label">Categories (select 1 or more):</p>
           <div className="category-grid">
             <button
-              className={`category-option ${category === 'animals' ? 'selected' : ''}`}
-              onClick={() => setCategory('animals')}
+              className={`category-option ${categories.includes('animals') ? 'selected' : ''}`}
+              onClick={() => toggleCategory('animals')}
             >
               🐾 Animals
             </button>
             <button
-              className={`category-option ${category === 'pokemon' ? 'selected' : ''}`}
-              onClick={() => setCategory('pokemon')}
+              className={`category-option ${categories.includes('pokemon') ? 'selected' : ''}`}
+              onClick={() => toggleCategory('pokemon')}
             >
-              ⚡ Pokemon
+              <img src="/ball.png" alt="" className="category-icon" />
+              Pokemon
             </button>
             <button
-              className={`category-option ${category === 'prehistoric' ? 'selected' : ''}`}
-              onClick={() => setCategory('prehistoric')}
+              className={`category-option ${categories.includes('prehistoric') ? 'selected' : ''}`}
+              onClick={() => toggleCategory('prehistoric')}
             >
               🦖 Prehistoric
             </button>

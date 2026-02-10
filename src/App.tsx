@@ -4,6 +4,7 @@ import { SetupScreen } from './screens/SetupScreen';
 import { GameScreen } from './screens/GameScreen';
 import { ResultsScreen } from './screens/ResultsScreen';
 import { generatePlayerQuestions } from './hooks/useGameLogic';
+import { getPlayerColor } from './utils/playerColors';
 import type { GameConfig, GameState, Screen } from './types';
 import './App.css';
 
@@ -17,7 +18,6 @@ function App() {
     currentQuestionIndex: 0,
     playerScores: [],
     playerQuestions: [],
-    showTransition: false,
     gameComplete: false,
   });
 
@@ -41,7 +41,6 @@ function App() {
       currentQuestionIndex: 0,
       playerScores,
       playerQuestions,
-      showTransition: true,
       gameComplete: false,
     });
 
@@ -79,7 +78,6 @@ function App() {
           currentPlayerIndex: 0,
           currentQuestionIndex: nextQuestionIndex,
           playerScores: updatedScores,
-          showTransition: true,
         });
       }
     } else {
@@ -88,16 +86,8 @@ function App() {
         ...gameState,
         currentPlayerIndex: nextPlayerIndex,
         playerScores: updatedScores,
-        showTransition: true,
       });
     }
-  };
-
-  const handleTransitionComplete = () => {
-    setGameState({
-      ...gameState,
-      showTransition: false,
-    });
   };
 
   const handlePlayAgain = () => {
@@ -107,7 +97,6 @@ function App() {
       currentQuestionIndex: 0,
       playerScores: [],
       playerQuestions: [],
-      showTransition: false,
       gameComplete: false,
     });
     setCurrentScreen('welcome');
@@ -143,8 +132,7 @@ function App() {
           totalQuestions={gameState.config.questionsPerPlayer}
           playerScores={gameState.playerScores}
           onAnswer={handleAnswer}
-          showTransition={gameState.showTransition}
-          onTransitionComplete={handleTransitionComplete}
+          playerColor={getPlayerColor(gameState.currentPlayerIndex)}
         />
       )}
       

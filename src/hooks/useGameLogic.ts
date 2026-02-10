@@ -18,7 +18,7 @@ function shuffleArray<T>(array: T[]): T[] {
 /**
  * Get questions for a specific category
  */
-function getQuestionsByCategory(category: GameConfig['category']): Question[] {
+function getQuestionsByCategory(category: 'animals' | 'pokemon' | 'prehistoric'): Question[] {
   switch (category) {
     case 'animals':
       return animalsData as Question[];
@@ -32,11 +32,24 @@ function getQuestionsByCategory(category: GameConfig['category']): Question[] {
 }
 
 /**
+ * Get questions from multiple categories combined
+ */
+function getQuestionsByCategories(categories: GameConfig['categories']): Question[] {
+  const allQuestions: Question[] = [];
+  
+  for (const category of categories) {
+    allQuestions.push(...getQuestionsByCategory(category));
+  }
+  
+  return allQuestions;
+}
+
+/**
  * Generates questions for all players based on game config
  * Questions are shuffled and distributed with proper difficulty mix (70% medium, 30% hard)
  */
 export function generatePlayerQuestions(config: GameConfig): Question[][] {
-  const allQuestions = getQuestionsByCategory(config.category);
+  const allQuestions = getQuestionsByCategories(config.categories);
   
   // Separate by difficulty
   const mediumQuestions = shuffleArray(

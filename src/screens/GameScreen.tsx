@@ -9,8 +9,7 @@ interface GameScreenProps {
   totalQuestions: number;
   playerScores: PlayerScore[];
   onAnswer: (isCorrect: boolean) => void;
-  showTransition: boolean;
-  onTransitionComplete: () => void;
+  playerColor: string;
 }
 
 export const GameScreen: React.FC<GameScreenProps> = ({
@@ -20,8 +19,7 @@ export const GameScreen: React.FC<GameScreenProps> = ({
   totalQuestions,
   playerScores,
   onAnswer,
-  showTransition,
-  onTransitionComplete,
+  playerColor,
 }) => {
   const [selectedAnswer, setSelectedAnswer] = useState<number | null>(null);
   const [showFeedback, setShowFeedback] = useState<boolean>(false);
@@ -43,27 +41,11 @@ export const GameScreen: React.FC<GameScreenProps> = ({
     }, 1500);
   };
 
-  if (showTransition) {
-    return (
-      <div className="screen transition-screen">
-        <div className="transition-content">
-          <h1 className="player-announce">
-            Player {currentPlayer + 1}
-          </h1>
-          <p className="transition-subtitle">Get Ready!</p>
-          <button className="ready-button" onClick={onTransitionComplete}>
-            I'm Ready! 👍
-          </button>
-        </div>
-      </div>
-    );
-  }
-
   const currentPlayerScore = playerScores[currentPlayer];
   const letters = ['A', 'B', 'C', 'D'];
 
   return (
-    <div className="screen game-screen">
+    <div className="screen game-screen" style={{ background: playerColor }}>
       <div className="game-header">
         <div className="current-player">Player {currentPlayer + 1}</div>
         <div className="game-stats">

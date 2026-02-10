@@ -67,6 +67,16 @@
   color: #666;
   transition: all 0.3s ease;
   cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+}
+
+.category-icon {
+  width: 1.5rem;
+  height: 1.5rem;
+  object-fit: contain;
 }
 
 .category-option:hover {
