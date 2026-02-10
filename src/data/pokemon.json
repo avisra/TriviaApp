@@ -2,7 +2,7 @@
     {
       "id": "pokemon_m_0001",
       "category": "pokemon",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "question": "What type of Pokemon is Pikachu?",
       "options": ["Fire", "Electric", "Water", "Grass"],
       "answerIndex": 1
@@ -26,7 +26,7 @@
     {
       "id": "pokemon_m_0004",
       "category": "pokemon",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "question": "What color is Jigglypuff?",
       "options": ["Blue", "Pink", "Yellow", "Green"],
       "answerIndex": 1
@@ -34,7 +34,7 @@
     {
       "id": "pokemon_m_0005",
       "category": "pokemon",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "question": "Which starter Pokemon is a water type?",
       "options": ["Charmander", "Bulbasaur", "Squirtle", "Pikachu"],
       "answerIndex": 2
@@ -50,7 +50,7 @@
     {
       "id": "pokemon_m_0007",
       "category": "pokemon",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "question": "Which Pokemon sleeps most of the time?",
       "options": ["Jigglypuff", "Pikachu", "Snorlax", "Meowth"],
       "answerIndex": 2
@@ -74,7 +74,7 @@
     {
       "id": "pokemon_m_0010",
       "category": "pokemon",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "question": "What is the evolved form of Pikachu?",
       "options": ["Pichu", "Raichu", "Zaptos", "Electabuzz"],
       "answerIndex": 1
@@ -114,7 +114,7 @@
     {
       "id": "pokemon_m_0015",
       "category": "pokemon",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "question": "What shape is the tail of a Pikachu?",
       "options": ["Circle", "Star", "Lightning Bolt", "Heart"],
       "answerIndex": 2
@@ -138,7 +138,7 @@
     {
       "id": "pokemon_m_0018",
       "category": "pokemon",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "question": "Which Pokemon is known for saying its own name?",
       "options": ["All of them", "Only Pikachu", "Only Meowth", "None of them"],
       "answerIndex": 0
@@ -146,7 +146,7 @@
     {
       "id": "pokemon_m_0019",
       "category": "pokemon",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "question": "What color is Charizard?",
       "options": ["Red", "Blue", "Orange", "Green"],
       "answerIndex": 2
@@ -234,7 +234,7 @@
     {
       "id": "pokemon_m_0030",
       "category": "pokemon",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "question": "What move does Magikarp famously know?",
       "options": ["Tackle", "Splash", "Bite", "Water Gun"],
       "answerIndex": 1
@@ -242,7 +242,7 @@
     {
       "id": "pokemon_m_0031",
       "category": "pokemon",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "question": "Which Pokemon is the mascot of Pokemon?",
       "options": ["Charizard", "Pikachu", "Mewtwo", "Eevee"],
       "answerIndex": 1
@@ -282,7 +282,7 @@
     {
       "id": "pokemon_m_0036",
       "category": "pokemon",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "question": "What is Ash's first Pokemon?",
       "options": ["Bulbasaur", "Charmander", "Squirtle", "Pikachu"],
       "answerIndex": 3
@@ -290,7 +290,7 @@
     {
       "id": "pokemon_m_0037",
       "category": "pokemon",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "question": "Which Pokemon is always with Team Rocket?",
       "options": ["Pikachu", "Meowth", "Persian", "Ekans"],
       "answerIndex": 1
@@ -298,7 +298,7 @@
     {
       "id": "pokemon_m_0038",
       "category": "pokemon",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "question": "What type is super effective against Grass types?",
       "options": ["Water", "Electric", "Fire", "Normal"],
       "answerIndex": 2
@@ -338,7 +338,7 @@
     {
       "id": "pokemon_m_0043",
       "category": "pokemon",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "question": "Which Pokemon has a plant bulb on its back?",
       "options": ["Bulbasaur", "Oddish", "Bellsprout", "Tangela"],
       "answerIndex": 0
@@ -386,7 +386,7 @@
     {
       "id": "pokemon_m_0049",
       "category": "pokemon",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "question": "Which Pokemon puts others to sleep with its song?",
       "options": ["Pikachu", "Jigglypuff", "Meowth", "Eevee"],
       "answerIndex": 1
@@ -630,5 +630,125 @@
       "question": "Which type was added in Generation 2?",
       "options": ["Fairy", "Steel", "Dark", "Both B and C"],
       "answerIndex": 3
+    },
+    {
+      "id": "pokemon_m_0050",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "Which type is immune to Ghost-type moves?",
+      "options": ["Normal", "Fighting", "Psychic", "Dark"],
+      "answerIndex": 0
+    },
+    {
+      "id": "pokemon_m_0051",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "What item is needed to evolve Onix into Steelix?",
+      "options": ["Metal Coat", "King's Rock", "Dragon Scale", "Iron Plate"],
+      "answerIndex": 0
+    },
+    {
+      "id": "pokemon_m_0052",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "Which Gen 1 Pokemon has the highest base HP stat?",
+      "options": ["Snorlax", "Chansey", "Wigglytuff", "Lapras"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_m_0053",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "Which type is super effective against Dragon-type Pokemon?",
+      "options": ["Ice", "Dragon", "Fairy", "All of the above"],
+      "answerIndex": 3
+    },
+    {
+      "id": "pokemon_m_0054",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "How many Eeveelutions exist in total (through Gen 8)?",
+      "options": ["5", "6", "7", "8"],
+      "answerIndex": 3
+    },
+    {
+      "id": "pokemon_m_0055",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "What type of move is Thunderbolt?",
+      "options": ["Physical", "Special", "Status", "Priority"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_m_0056",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "Which Pokemon is number 001 in the National Pokedex?",
+      "options": ["Pikachu", "Mew", "Bulbasaur", "Rhydon"],
+      "answerIndex": 2
+    },
+    {
+      "id": "pokemon_m_0057",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "What does a Fire Stone evolve Growlithe into?",
+      "options": ["Arcanine", "Flareon", "Ninetales", "Charizard"],
+      "answerIndex": 0
+    },
+    {
+      "id": "pokemon_m_0058",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "Which type resists both Fire and Water moves?",
+      "options": ["Steel", "Rock", "Dragon", "Ground"],
+      "answerIndex": 2
+    },
+    {
+      "id": "pokemon_m_0059",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "What level does Charmeleon evolve into Charizard?",
+      "options": ["30", "32", "36", "40"],
+      "answerIndex": 2
+    },
+    {
+      "id": "pokemon_m_0060",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "Which Pokemon type was introduced in Generation 6?",
+      "options": ["Dark", "Steel", "Fairy", "Dragon"],
+      "answerIndex": 2
+    },
+    {
+      "id": "pokemon_m_0061",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "What is Meowth's signature move?",
+      "options": ["Scratch", "Pay Day", "Fury Swipes", "Slash"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_m_0062",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "Which legendary bird represents ice?",
+      "options": ["Moltres", "Zapdos", "Articuno", "Lugia"],
+      "answerIndex": 2
+    },
+    {
+      "id": "pokemon_m_0063",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "How many original starter Pokemon are there in Gen 1?",
+      "options": ["3", "4", "6", "9"],
+      "answerIndex": 0
+    },
+    {
+      "id": "pokemon_m_0064",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "What status condition does the move Thunder Wave inflict?",
+      "options": ["Sleep", "Paralysis", "Burn", "Confusion"],
+      "answerIndex": 1
     }
 ]

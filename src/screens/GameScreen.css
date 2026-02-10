@@ -49,6 +49,11 @@
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
 }
 
+.difficulty-badge.easy {
+  background: linear-gradient(135deg, #84fab0 0%, #8fd3f4 100%);
+  color: white;
+}
+
 .difficulty-badge.medium {
   background: linear-gradient(135deg, #ffa726 0%, #fb8c00 100%);
   color: white;

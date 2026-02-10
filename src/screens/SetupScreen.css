@@ -51,6 +51,88 @@
   font-weight: 600;
 }
 
+.player-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  justify-content: center;
+}
+
+.player-chip {
+  border-radius: 12px;
+  padding: 0.75rem 1.25rem;
+  color: white;
+  font-weight: 600;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+.player-chip-name {
+  font-size: 1.1rem;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
+}
+
+.player-chip-age {
+  font-size: 0.9rem;
+  opacity: 0.95;
+}
+
+.toggle-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+  cursor: pointer;
+  user-select: none;
+}
+
+.toggle-checkbox {
+  width: 50px;
+  height: 28px;
+  appearance: none;
+  background: #ddd;
+  border-radius: 14px;
+  position: relative;
+  cursor: pointer;
+  transition: background 0.3s ease;
+  margin-bottom: 0.5rem;
+}
+
+.toggle-checkbox::before {
+  content: '';
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  background: white;
+  top: 2px;
+  left: 2px;
+  transition: transform 0.3s ease;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.toggle-checkbox:checked {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+.toggle-checkbox:checked::before {
+  transform: translateX(22px);
+}
+
+.toggle-label {
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: #333;
+}
+
+.toggle-description {
+  font-size: 0.95rem;
+  color: #666;
+}
+
 .category-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);

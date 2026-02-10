@@ -1,16 +1,17 @@
 import { useState } from 'react';
 import { WelcomeScreen } from './screens/WelcomeScreen';
+import { PlayerCustomizationScreen } from './screens/PlayerCustomizationScreen';
 import { SetupScreen } from './screens/SetupScreen';
 import { GameScreen } from './screens/GameScreen';
 import { ResultsScreen } from './screens/ResultsScreen';
 import { generatePlayerQuestions } from './hooks/useGameLogic';
-import { getPlayerColor } from './utils/playerColors';
-import type { GameConfig, GameState, Screen } from './types';
+import type { GameConfig, GameState, Screen, Player } from './types';
 import './App.css';
 
 function App() {
   const [currentScreen, setCurrentScreen] = useState<Screen>('welcome');
   const [playerCount, setPlayerCount] = useState<number>(1);
+  const [players, setPlayers] = useState<Player[]>([]);
   
   const [gameState, setGameState] = useState<GameState>({
     config: null,
@@ -23,14 +24,25 @@ function App() {
 
   const handleSelectPlayers = (count: number) => {
     setPlayerCount(count);
+    setCurrentScreen('customization');
+  };
+
+  const handleCustomizationComplete = (customizedPlayers: Player[]) => {
+    setPlayers(customizedPlayers);
     setCurrentScreen('setup');
+  };
+
+  const handleCustomizationBack = () => {
+    setCurrentScreen('welcome');
   };
 
   const handleStartGame = (config: GameConfig) => {
     const playerQuestions = generatePlayerQuestions(config);
     
-    const playerScores = Array.from({ length: config.playerCount }, (_, i) => ({
-      playerNumber: i + 1,
+    const playerScores = config.players.map(player => ({
+      playerNumber: player.playerNumber,
+      name: player.name,
+      color: player.color,
       score: 0,
       totalQuestions: config.questionsPerPlayer,
     }));
@@ -59,7 +71,7 @@ function App() {
     const nextPlayerIndex = gameState.currentPlayerIndex + 1;
 
     // Check if we've cycled through all players for this question
-    if (nextPlayerIndex >= gameState.config.playerCount) {
+    if (nextPlayerIndex >= gameState.config.players.length) {
       // Move to next question, reset to first player
       const nextQuestionIndex = gameState.currentQuestionIndex + 1;
 
@@ -102,8 +114,8 @@ function App() {
     setCurrentScreen('welcome');
   };
 
-  const handleBack = () => {
-    setCurrentScreen('welcome');
+  const handleSetupBack = () => {
+    setCurrentScreen('customization');
   };
 
   return (
@@ -112,11 +124,19 @@ function App() {
         <WelcomeScreen onSelectPlayers={handleSelectPlayers} />
       )}
       
+      {currentScreen === 'customization' && (
+        <PlayerCustomizationScreen
+          playerCount={playerCount}
+          onComplete={handleCustomizationComplete}
+          onBack={handleCustomizationBack}
+        />
+      )}
+      
       {currentScreen === 'setup' && (
         <SetupScreen
-          playerCount={playerCount}
+          players={players}
           onStartGame={handleStartGame}
-          onBack={handleBack}
+          onBack={handleSetupBack}
         />
       )}
       
@@ -132,7 +152,7 @@ function App() {
           totalQuestions={gameState.config.questionsPerPlayer}
           playerScores={gameState.playerScores}
           onAnswer={handleAnswer}
-          playerColor={getPlayerColor(gameState.currentPlayerIndex)}
+          playerColor={gameState.config.players[gameState.currentPlayerIndex].color}
         />
       )}
       

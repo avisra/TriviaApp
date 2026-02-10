@@ -1,20 +1,30 @@
 export interface Question {
   id: string;
   category: string;
-  difficulty: 'medium' | 'hard';
+  difficulty: 'easy' | 'medium' | 'hard';
   question: string;
   options: string[];
   answerIndex: number;
 }
 
+export interface Player {
+  playerNumber: number;
+  name: string;
+  color: string;
+  age: number;
+}
+
 export interface GameConfig {
-  playerCount: number;
+  players: Player[];
   questionsPerPlayer: 10 | 20 | 30 | 50;
   categories: ('animals' | 'pokemon' | 'prehistoric')[];
+  scaleByAge: boolean;
 }
 
 export interface PlayerScore {
   playerNumber: number;
+  name: string;
+  color: string;
   score: number;
   totalQuestions: number;
 }
@@ -28,4 +38,4 @@ export interface GameState {
   gameComplete: boolean;
 }
 
-export type Screen = 'welcome' | 'setup' | 'game' | 'results';
+export type Screen = 'welcome' | 'customization' | 'setup' | 'game' | 'results';

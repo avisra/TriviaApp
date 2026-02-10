@@ -1,20 +1,21 @@
 import React, { useState } from 'react';
-import type { GameConfig } from '../types';
+import type { GameConfig, Player } from '../types';
 import './SetupScreen.css';
 
 interface SetupScreenProps {
-  playerCount: number;
+  players: Player[];
   onStartGame: (config: GameConfig) => void;
   onBack: () => void;
 }
 
 export const SetupScreen: React.FC<SetupScreenProps> = ({
-  playerCount,
+  players,
   onStartGame,
   onBack,
 }) => {
   const [questionsPerPlayer, setQuestionsPerPlayer] = useState<10 | 20 | 30 | 50>(10);
   const [categories, setCategories] = useState<('animals' | 'pokemon' | 'prehistoric')[]>(['animals']);
+  const [scaleByAge, setScaleByAge] = useState<boolean>(false);
 
   const questionOptions: Array<10 | 20 | 30 | 50> = [10, 20, 30, 50];
 
@@ -31,9 +32,10 @@ export const SetupScreen: React.FC<SetupScreenProps> = ({
 
   const handleStart = () => {
     onStartGame({
-      playerCount,
+      players,
       questionsPerPlayer,
       categories,
+      scaleByAge,
     });
   };
 
@@ -47,9 +49,30 @@ export const SetupScreen: React.FC<SetupScreenProps> = ({
         <h1 className="setup-title">Game Setup</h1>
         
         <div className="setup-section">
-          <p className="setup-label">
-            Players: <strong>{playerCount}</strong>
-          </p>
+          <p className="setup-label">Players:</p>
+          <div className="player-list">
+            {players.map((player) => (
+              <div key={player.playerNumber} className="player-chip" style={{ background: player.color }}>
+                <span className="player-chip-name">{player.name}</span>
+                <span className="player-chip-age">Age {player.age}</span>
+              </div>
+            ))}
+          </div>
+        </div>
+
+        <div className="setup-section">
+          <label className="toggle-container">
+            <input
+              type="checkbox"
+              checked={scaleByAge}
+              onChange={(e) => setScaleByAge(e.target.checked)}
+              className="toggle-checkbox"
+            />
+            <span className="toggle-label">⚖️ Scale difficulty by age</span>
+            <span className="toggle-description">
+              Younger players get more easy questions
+            </span>
+          </label>
         </div>
 
         <div className="setup-section">

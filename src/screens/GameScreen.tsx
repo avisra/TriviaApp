@@ -47,7 +47,7 @@ export const GameScreen: React.FC<GameScreenProps> = ({
   return (
     <div className="screen game-screen" style={{ background: playerColor }}>
       <div className="game-header">
-        <div className="current-player">Player {currentPlayer + 1}</div>
+        <div className="current-player">{currentPlayerScore.name}</div>
         <div className="game-stats">
           <span className="stat-item">
             Score: {currentPlayerScore.score}/{currentPlayerScore.totalQuestions}
@@ -56,7 +56,8 @@ export const GameScreen: React.FC<GameScreenProps> = ({
             Question {questionNumber} of {totalQuestions}
           </span>
           <span className={`difficulty-badge ${currentQuestion.difficulty}`}>
-            {currentQuestion.difficulty === 'medium' ? '⭐ Medium' : '⭐⭐ Hard'}
+            {currentQuestion.difficulty === 'easy' ? '✨ Easy' : 
+             currentQuestion.difficulty === 'medium' ? '⭐ Medium' : '⭐⭐ Hard'}
           </span>
         </div>
       </div>
