@@ -1,0 +1,18 @@
+{
+  "name": "Trivia Time - Kid-Friendly Quiz Game",
+  "short_name": "Trivia Time",
+  "description": "A fun, kid-friendly multiplayer trivia game",
+  "theme_color": "#667eea",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "orientation": "portrait",
+  "start_url": "/",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
