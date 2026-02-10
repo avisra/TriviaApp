@@ -10,7 +10,7 @@ export interface Question {
 export interface GameConfig {
   playerCount: number;
   questionsPerPlayer: 10 | 20 | 30 | 50;
-  category: 'animals';
+  category: 'animals' | 'pokemon' | 'prehistoric';
 }
 
 export interface PlayerScore {

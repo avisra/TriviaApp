@@ -50,29 +50,24 @@
   border-radius: 20px;
   margin: 1.5rem;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
-.player-info {
-  display: flex;
-  flex-direction: column;
-  gap: 0.5rem;
+  text-align: center;
 }
 
 .current-player {
-  font-size: 1.5rem;
+  font-size: 2rem;
   font-weight: bold;
   color: #4facfe;
+  margin-bottom: 0.75rem;
 }
 
-.score {
-  font-size: 1.1rem;
-  color: #666;
+.game-stats {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  flex-wrap: wrap;
 }
 
-.progress {
+.stat-item {
   font-size: 1.1rem;
   color: #666;
   font-weight: 600;
@@ -82,6 +77,28 @@
   padding: 2rem;
   max-width: 800px;
   margin: 0 auto;
+}
+
+.difficulty-badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.4rem 0.8rem;
+  border-radius: 10px;
+  font-size: 0.85rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
+}
+
+.difficulty-badge.medium {
+  background: linear-gradient(135deg, #ffa726 0%, #fb8c00 100%);
+  color: white;
+}
+
+.difficulty-badge.hard {
+  background: linear-gradient(135deg, #ef5350 0%, #e53935 100%);
+  color: white;
 }
 
 .question-text {
@@ -272,10 +289,16 @@
     padding: 1.2rem 2rem;
   }
 
-  .game-header {
-    flex-direction: column;
+  .current-player {
+    font-size: 1.5rem;
+  }
+
+  .game-stats {
     gap: 1rem;
-    text-align: center;
+  }
+
+  .stat-item {
+    font-size: 0.95rem;
   }
 
   .question-text {

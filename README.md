@@ -7,8 +7,9 @@ A fun, kid-friendly multiplayer trivia game built as a Progressive Web App (PWA)
 - **🎮 Multiplayer Pass-and-Play**: Support for 1-8 players on a single device
 - **📱 Progressive Web App**: Installable on mobile devices, works offline
 - **👶 Kid-Friendly UX**: Large tap targets, minimal text, bright colors, fun animations
-- **🐾 Animal Trivia**: 79 carefully crafted questions about animals (more categories coming soon)
+- **🎯 Multiple Categories**: Animals (79 questions), Pokemon (79 questions), Prehistoric Animals (79 questions)
 - **⚖️ Balanced Difficulty**: 70% medium, 30% hard questions (configurable: 10, 20, 30, or 50 questions per player)
+- **🔄 Turn Rotation**: Players take turns answering one question at a time, keeping everyone engaged
 - **🎨 Beautiful UI**: Gradient backgrounds, smooth transitions, celebration animations
 - **✅ Instant Feedback**: Correct/incorrect animations with clear visual cues
 
@@ -45,7 +46,9 @@ TriviaApp/
 │   └── manifest.webmanifest  # PWA manifest
 ├── src/
 │   ├── data/
-│   │   └── questions.json    # Trivia questions database
+│   │   ├── animals.json      # Animal trivia questions
+│   │   ├── pokemon.json      # Pokemon trivia questions
+│   │   └── prehistoric.json  # Prehistoric trivia questions
 │   ├── hooks/
 │   │   └── useGameLogic.ts   # Question generation & shuffling
 │   ├── screens/
@@ -66,17 +69,19 @@ TriviaApp/
 ## 🎯 Game Flow
 
 1. **Welcome Screen**: Select number of players (1-8)
-2. **Setup Screen**: Choose category (Animals) and questions per player (10/20/30/50)
+2. **Setup Screen**: Choose category (Animals, Pokemon, or Prehistoric) and questions per player (10/20/30/50)
 3. **Game Screen**: 
    - "Pass to Player X" transition
+   - Players take turns answering one question at a time
    - Multiple choice questions with A/B/C/D answers
+   - Difficulty badge shows ⭐ Medium or ⭐⭐ Hard
    - Instant feedback with animations
    - Automatic progression
 4. **Results Screen**: Final scores with winner celebration
 
 ## 📊 Question Format
 
-Questions are stored in `src/data/questions.json`:
+Questions are stored in separate JSON files by category in `src/data/`:
 
 ```json
 {
@@ -91,17 +96,21 @@ Questions are stored in `src/data/questions.json`:
 
 ### Adding New Questions
 
-1. Open `src/data/questions.json`
-2. Add questions to the `animals` array (or create new categories)
+1. Open the appropriate category file:
+   - `src/data/animals.json` for animals
+   - `src/data/pokemon.json` for Pokemon
+   - `src/data/prehistoric.json` for dinosaurs/prehistoric
+2. Add questions to the array
 3. Follow the schema: unique ID, category, difficulty (medium/hard), 4 options, answerIndex (0-3)
 4. Maintain ~70% medium, ~30% hard ratio for balanced gameplay
 
 ### Adding New Categories
 
-1. Add category questions to `src/data/questions.json`
-2. Update types in `src/types/index.ts` (GameConfig.category)
-3. Update UI in `src/screens/SetupScreen.tsx`
-4. Update logic in `src/hooks/useGameLogic.ts`
+1. Create a new JSON file in `src/data/` (e.g., `space.json`)
+2. Add an array of questions following the schema
+3. Update types in `src/types/index.ts` (add to GameConfig.category union type)
+4. Update `src/hooks/useGameLogic.ts` (add case to getQuestionsByCategory switch)
+5. Update UI in `src/screens/SetupScreen.tsx` (add button to category grid)
 
 ## 🎨 Design Decisions
 
@@ -250,12 +259,13 @@ background_color: '#ffffff', // Splash screen background
 ## 🎯 Future Enhancements
 
 - [ ] Age-based scaling (easy/medium/hard distribution by age)
-- [ ] More categories (Space, History, Math, etc.)
+- [ ] More categories (Space, History, Math, Geography, etc.)
 - [ ] Sound effects toggle
 - [ ] Leaderboard persistence (localStorage)
 - [ ] Question timer (optional)
 - [ ] Power-ups/bonuses
 - [ ] Multiplayer over network (future v2.0)
+- [ ] Custom question packs
 
 ## 📄 License
 
@@ -265,7 +275,7 @@ Open source for personal and educational use.
 
 To add more trivia questions:
 1. Fork the repo
-2. Add questions to `src/data/questions.json`
+2. Add questions to the appropriate category file in `src/data/`
 3. Test locally
 4. Submit a pull request
 

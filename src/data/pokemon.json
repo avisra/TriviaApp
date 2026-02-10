@@ -1,0 +1,634 @@
+[
+    {
+      "id": "pokemon_m_0001",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "What type of Pokemon is Pikachu?",
+      "options": ["Fire", "Electric", "Water", "Grass"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_m_0002",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "What does Charmander evolve into?",
+      "options": ["Charizard", "Charmeleon", "Squirtle", "Bulbasaur"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_m_0003",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "Which Pokemon is known as the Tiny Mouse Pokemon?",
+      "options": ["Rattata", "Pikachu", "Pichu", "Raichu"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_m_0004",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "What color is Jigglypuff?",
+      "options": ["Blue", "Pink", "Yellow", "Green"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_m_0005",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "Which starter Pokemon is a water type?",
+      "options": ["Charmander", "Bulbasaur", "Squirtle", "Pikachu"],
+      "answerIndex": 2
+    },
+    {
+      "id": "pokemon_m_0006",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "What type is Eevee?",
+      "options": ["Normal", "Fire", "Psychic", "Electric"],
+      "answerIndex": 0
+    },
+    {
+      "id": "pokemon_m_0007",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "Which Pokemon sleeps most of the time?",
+      "options": ["Jigglypuff", "Pikachu", "Snorlax", "Meowth"],
+      "answerIndex": 2
+    },
+    {
+      "id": "pokemon_m_0008",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "What does Magikarp evolve into?",
+      "options": ["Gyarados", "Magmar", "Goldeen", "Seaking"],
+      "answerIndex": 0
+    },
+    {
+      "id": "pokemon_m_0009",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "Which Pokemon can transform into any other Pokemon?",
+      "options": ["Mew", "Mewtwo", "Ditto", "Eevee"],
+      "answerIndex": 2
+    },
+    {
+      "id": "pokemon_m_0010",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "What is the evolved form of Pikachu?",
+      "options": ["Pichu", "Raichu", "Zaptos", "Electabuzz"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_m_0011",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "Which Pokemon is #001 in the Pokedex?",
+      "options": ["Pikachu", "Charmander", "Bulbasaur", "Squirtle"],
+      "answerIndex": 2
+    },
+    {
+      "id": "pokemon_m_0012",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "What type is super effective against Fire types?",
+      "options": ["Grass", "Electric", "Water", "Bug"],
+      "answerIndex": 2
+    },
+    {
+      "id": "pokemon_m_0013",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "Which Pokemon is a ghost type?",
+      "options": ["Gengar", "Meowth", "Rattata", "Pidgey"],
+      "answerIndex": 0
+    },
+    {
+      "id": "pokemon_m_0014",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "How many original Pokemon were there?",
+      "options": ["100", "150", "151", "200"],
+      "answerIndex": 2
+    },
+    {
+      "id": "pokemon_m_0015",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "What shape is the tail of a Pikachu?",
+      "options": ["Circle", "Star", "Lightning Bolt", "Heart"],
+      "answerIndex": 2
+    },
+    {
+      "id": "pokemon_m_0016",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "Which Pokemon evolves using a Moon Stone?",
+      "options": ["Pikachu", "Eevee", "Clefairy", "Charmander"],
+      "answerIndex": 2
+    },
+    {
+      "id": "pokemon_m_0017",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "What type of Pokemon is Psyduck?",
+      "options": ["Psychic", "Water", "Flying", "Normal"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_m_0018",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "Which Pokemon is known for saying its own name?",
+      "options": ["All of them", "Only Pikachu", "Only Meowth", "None of them"],
+      "answerIndex": 0
+    },
+    {
+      "id": "pokemon_m_0019",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "What color is Charizard?",
+      "options": ["Red", "Blue", "Orange", "Green"],
+      "answerIndex": 2
+    },
+    {
+      "id": "pokemon_m_0020",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "Which legendary bird is associated with fire?",
+      "options": ["Articuno", "Zapdos", "Moltres", "Ho-Oh"],
+      "answerIndex": 2
+    },
+    {
+      "id": "pokemon_m_0021",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "What does Caterpie evolve into?",
+      "options": ["Butterfree", "Metapod", "Weedle", "Beedrill"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_m_0022",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "Which Pokemon has a skull on its head?",
+      "options": ["Cubone", "Marowak", "Charmander", "Bulbasaur"],
+      "answerIndex": 0
+    },
+    {
+      "id": "pokemon_m_0023",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "What type is Meowth?",
+      "options": ["Normal", "Psychic", "Dark", "Fighting"],
+      "answerIndex": 0
+    },
+    {
+      "id": "pokemon_m_0024",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "Which Pokemon can learn the most moves?",
+      "options": ["Pikachu", "Mew", "Ditto", "Charizard"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_m_0025",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "What does Geodude evolve into?",
+      "options": ["Golem", "Graveler", "Onix", "Machop"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_m_0026",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "Which Pokemon is known as the Flame Pokemon?",
+      "options": ["Charmander", "Charizard", "Flareon", "Moltres"],
+      "answerIndex": 0
+    },
+    {
+      "id": "pokemon_m_0027",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "What type of Pokemon is Jigglypuff?",
+      "options": ["Normal", "Normal/Fairy", "Psychic", "Flying"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_m_0028",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "Which Pokemon is a dragon and flying type?",
+      "options": ["Charizard", "Dragonite", "Gyarados", "Aerodactyl"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_m_0029",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "How many evolutions does Eevee have?",
+      "options": ["3", "5", "8", "10"],
+      "answerIndex": 2
+    },
+    {
+      "id": "pokemon_m_0030",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "What move does Magikarp famously know?",
+      "options": ["Tackle", "Splash", "Bite", "Water Gun"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_m_0031",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "Which Pokemon is the mascot of Pokemon?",
+      "options": ["Charizard", "Pikachu", "Mewtwo", "Eevee"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_m_0032",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "What type is Bulbasaur?",
+      "options": ["Grass", "Poison", "Grass/Poison", "Plant"],
+      "answerIndex": 2
+    },
+    {
+      "id": "pokemon_m_0033",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "Which Pokemon can only say its name backwards?",
+      "options": ["Pikachu", "Meowth", "Wobbuffet", "Psyduck"],
+      "answerIndex": 2
+    },
+    {
+      "id": "pokemon_m_0034",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "What item evolves Pikachu into Raichu?",
+      "options": ["Moon Stone", "Thunder Stone", "Fire Stone", "Water Stone"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_m_0035",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "Which Pokemon is a rock and ground type?",
+      "options": ["Geodude", "Sandshrew", "Diglett", "Zubat"],
+      "answerIndex": 0
+    },
+    {
+      "id": "pokemon_m_0036",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "What is Ash's first Pokemon?",
+      "options": ["Bulbasaur", "Charmander", "Squirtle", "Pikachu"],
+      "answerIndex": 3
+    },
+    {
+      "id": "pokemon_m_0037",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "Which Pokemon is always with Team Rocket?",
+      "options": ["Pikachu", "Meowth", "Persian", "Ekans"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_m_0038",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "What type is super effective against Grass types?",
+      "options": ["Water", "Electric", "Fire", "Normal"],
+      "answerIndex": 2
+    },
+    {
+      "id": "pokemon_m_0039",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "Which Pokemon has multiple heads?",
+      "options": ["Doduo", "Meowth", "Pikachu", "Eevee"],
+      "answerIndex": 0
+    },
+    {
+      "id": "pokemon_m_0040",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "What does Togepi evolve into?",
+      "options": ["Togekiss", "Togetic", "Togedex", "Togefly"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_m_0041",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "Which Pokemon is known for its crying?",
+      "options": ["Pikachu", "Psyduck", "Jigglypuff", "Squirtle"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_m_0042",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "What type is Onix?",
+      "options": ["Rock", "Ground", "Rock/Ground", "Steel"],
+      "answerIndex": 2
+    },
+    {
+      "id": "pokemon_m_0043",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "Which Pokemon has a plant bulb on its back?",
+      "options": ["Bulbasaur", "Oddish", "Bellsprout", "Tangela"],
+      "answerIndex": 0
+    },
+    {
+      "id": "pokemon_m_0044",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "What color are Squirtle's eyes?",
+      "options": ["Blue", "Black", "Red", "Brown"],
+      "answerIndex": 2
+    },
+    {
+      "id": "pokemon_m_0045",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "Which Pokemon carries a leek?",
+      "options": ["Psyduck", "Golduck", "Farfetch'd", "Doduo"],
+      "answerIndex": 2
+    },
+    {
+      "id": "pokemon_m_0046",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "What type of Pokemon is Zubat?",
+      "options": ["Flying", "Poison", "Poison/Flying", "Dark"],
+      "answerIndex": 2
+    },
+    {
+      "id": "pokemon_m_0047",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "Which Pokemon evolves into Alakazam?",
+      "options": ["Abra", "Kadabra", "Hypno", "Mr. Mime"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_m_0048",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "What does Staryu evolve into?",
+      "options": ["Starmie", "Starfish", "Starlight", "Golduck"],
+      "answerIndex": 0
+    },
+    {
+      "id": "pokemon_m_0049",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "Which Pokemon puts others to sleep with its song?",
+      "options": ["Pikachu", "Jigglypuff", "Meowth", "Eevee"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_h_0001",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "What is Mewtwo's Pokedex number?",
+      "options": ["149", "150", "151", "152"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_h_0002",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "Which Pokemon has the highest base HP stat?",
+      "options": ["Snorlax", "Chansey", "Blissey", "Wailord"],
+      "answerIndex": 2
+    },
+    {
+      "id": "pokemon_h_0003",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "What is the hidden village in Pokemon called?",
+      "options": ["Pallet Town", "Hidden Valley", "Lavender Town", "Celadon City"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_h_0004",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "Which type combination has the most resistances?",
+      "options": ["Steel/Flying", "Steel/Fairy", "Ghost/Dark", "Water/Ground"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_h_0005",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "What is the only Pokemon that can learn Transform besides Ditto?",
+      "options": ["Mew", "Mewtwo", "Smeargle", "Eevee"],
+      "answerIndex": 0
+    },
+    {
+      "id": "pokemon_h_0006",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "What level does Dragonite evolve from Dragonair?",
+      "options": ["45", "50", "55", "60"],
+      "answerIndex": 2
+    },
+    {
+      "id": "pokemon_h_0007",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "Which Pokemon has the ability Pressure?",
+      "options": ["Pikachu", "Mewtwo", "Charizard", "Blastoise"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_h_0008",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "What is the pre-evolution of Pikachu?",
+      "options": ["Pichu", "Raichu", "Pikablu", "Baby Pikachu"],
+      "answerIndex": 0
+    },
+    {
+      "id": "pokemon_h_0009",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "Which legendary bird has the highest Speed stat?",
+      "options": ["Articuno", "Zapdos", "Moltres", "All the same"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_h_0010",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "What type is immune to Ghost type moves?",
+      "options": ["Dark", "Normal", "Psychic", "Fighting"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_h_0011",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "Which Pokemon weighs the most?",
+      "options": ["Snorlax", "Groudon", "Wailord", "Celesteela"],
+      "answerIndex": 3
+    },
+    {
+      "id": "pokemon_h_0012",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "What is Arceus's signature move?",
+      "options": ["Judgment", "Hyper Beam", "Creation", "Divine Strike"],
+      "answerIndex": 0
+    },
+    {
+      "id": "pokemon_h_0013",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "Which Pokemon can have the ability Wonder Guard?",
+      "options": ["Spiritomb", "Sableye", "Shedinja", "Ditto"],
+      "answerIndex": 2
+    },
+    {
+      "id": "pokemon_h_0014",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "How many types are there in total?",
+      "options": ["17", "18", "19", "20"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_h_0015",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "What is the base stat total of Mewtwo?",
+      "options": ["680", "700", "720", "740"],
+      "answerIndex": 0
+    },
+    {
+      "id": "pokemon_h_0016",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "Which Pokemon has the highest Attack stat?",
+      "options": ["Mewtwo", "Dragonite", "Mega Mewtwo X", "Deoxys Attack"],
+      "answerIndex": 2
+    },
+    {
+      "id": "pokemon_h_0017",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "What is the rarest Pokemon encounter in the original games?",
+      "options": ["Mewtwo", "Mew", "Chansey", "Articuno"],
+      "answerIndex": 2
+    },
+    {
+      "id": "pokemon_h_0018",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "Which move has the highest base power?",
+      "options": ["Hyper Beam", "Explosion", "Self-Destruct", "Eruption"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_h_0019",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "What stadium do you battle in for the Elite Four?",
+      "options": ["Victory Road", "Indigo Plateau", "Pokemon League", "Champion Hall"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_h_0020",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "Which Pokemon can only be obtained through trading?",
+      "options": ["Gengar", "Alakazam", "Golem", "All of these"],
+      "answerIndex": 3
+    },
+    {
+      "id": "pokemon_h_0021",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "What level does Magikarp evolve?",
+      "options": ["15", "18", "20", "25"],
+      "answerIndex": 2
+    },
+    {
+      "id": "pokemon_h_0022",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "Which gym leader uses Dragon-type Pokemon?",
+      "options": ["Giovanni", "Blaine", "Clair", "Sabrina"],
+      "answerIndex": 2
+    },
+    {
+      "id": "pokemon_h_0023",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "What is the strongest weather move?",
+      "options": ["Rain Dance", "Sunny Day", "Sandstorm", "Hail"],
+      "answerIndex": 0
+    },
+    {
+      "id": "pokemon_h_0024",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "Which Pokemon has the ability Levitate?",
+      "options": ["Pidgey", "Gastly", "Zubat", "Butterfree"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_h_0025",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "What item prevents a Pokemon from evolving?",
+      "options": ["Rare Candy", "Everstone", "Moon Stone", "Evolution Stone"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_h_0026",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "Which Pokemon region was introduced first?",
+      "options": ["Johto", "Hoenn", "Kanto", "Sinnoh"],
+      "answerIndex": 2
+    },
+    {
+      "id": "pokemon_h_0027",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "What is the signature move of Pikachu in Pokemon Yellow?",
+      "options": ["Thunderbolt", "Thunder", "Quick Attack", "None"],
+      "answerIndex": 3
+    },
+    {
+      "id": "pokemon_h_0028",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "Which Pokemon can change forms based on the weather?",
+      "options": ["Castform", "Eevee", "Ditto", "Kecleon"],
+      "answerIndex": 0
+    },
+    {
+      "id": "pokemon_h_0029",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "What is the catch rate of a Master Ball?",
+      "options": ["100%", "99%", "255", "Infinite"],
+      "answerIndex": 0
+    },
+    {
+      "id": "pokemon_h_0030",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "Which type was added in Generation 2?",
+      "options": ["Fairy", "Steel", "Dark", "Both B and C"],
+      "answerIndex": 3
+    }
+]

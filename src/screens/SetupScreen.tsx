@@ -14,6 +14,7 @@ export const SetupScreen: React.FC<SetupScreenProps> = ({
   onBack,
 }) => {
   const [questionsPerPlayer, setQuestionsPerPlayer] = useState<10 | 20 | 30 | 50>(10);
+  const [category, setCategory] = useState<'animals' | 'pokemon' | 'prehistoric'>('animals');
 
   const questionOptions: Array<10 | 20 | 30 | 50> = [10, 20, 30, 50];
 
@@ -21,7 +22,7 @@ export const SetupScreen: React.FC<SetupScreenProps> = ({
     onStartGame({
       playerCount,
       questionsPerPlayer,
-      category: 'animals',
+      category,
     });
   };
 
@@ -42,8 +43,25 @@ export const SetupScreen: React.FC<SetupScreenProps> = ({
 
         <div className="setup-section">
           <p className="setup-label">Category:</p>
-          <div className="category-option selected">
-            🐾 Animals
+          <div className="category-grid">
+            <button
+              className={`category-option ${category === 'animals' ? 'selected' : ''}`}
+              onClick={() => setCategory('animals')}
+            >
+              🐾 Animals
+            </button>
+            <button
+              className={`category-option ${category === 'pokemon' ? 'selected' : ''}`}
+              onClick={() => setCategory('pokemon')}
+            >
+              ⚡ Pokemon
+            </button>
+            <button
+              className={`category-option ${category === 'prehistoric' ? 'selected' : ''}`}
+              onClick={() => setCategory('prehistoric')}
+            >
+              🦖 Prehistoric
+            </button>
           </div>
         </div>
 

@@ -57,14 +57,15 @@ function App() {
       updatedScores[gameState.currentPlayerIndex].score++;
     }
 
-    const nextQuestionIndex = gameState.currentQuestionIndex + 1;
+    const nextPlayerIndex = gameState.currentPlayerIndex + 1;
 
-    // Check if current player finished their questions
-    if (nextQuestionIndex >= gameState.config.questionsPerPlayer) {
-      const nextPlayerIndex = gameState.currentPlayerIndex + 1;
+    // Check if we've cycled through all players for this question
+    if (nextPlayerIndex >= gameState.config.playerCount) {
+      // Move to next question, reset to first player
+      const nextQuestionIndex = gameState.currentQuestionIndex + 1;
 
-      // Check if all players finished
-      if (nextPlayerIndex >= gameState.config.playerCount) {
+      // Check if all questions are complete
+      if (nextQuestionIndex >= gameState.config.questionsPerPlayer) {
         setGameState({
           ...gameState,
           playerScores: updatedScores,
@@ -72,21 +73,22 @@ function App() {
         });
         setCurrentScreen('results');
       } else {
-        // Move to next player
+        // Next round of questions, start with player 1
         setGameState({
           ...gameState,
-          currentPlayerIndex: nextPlayerIndex,
-          currentQuestionIndex: 0,
+          currentPlayerIndex: 0,
+          currentQuestionIndex: nextQuestionIndex,
           playerScores: updatedScores,
           showTransition: true,
         });
       }
     } else {
-      // Next question for same player
+      // Move to next player with same question number
       setGameState({
         ...gameState,
-        currentQuestionIndex: nextQuestionIndex,
+        currentPlayerIndex: nextPlayerIndex,
         playerScores: updatedScores,
+        showTransition: true,
       });
     }
   };

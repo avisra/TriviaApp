@@ -1,5 +1,4 @@
-{
-  "animals": [
+[
     {
       "id": "animals_m_0001",
       "category": "animals",
@@ -632,5 +631,4 @@
       "options": ["Human", "Dolphin", "Ant", "Elephant"],
       "answerIndex": 2
     }
-  ]
-}
+]

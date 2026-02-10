@@ -1,5 +1,7 @@
 import type { Question, GameConfig } from '../types';
-import questionsData from '../data/questions.json';
+import animalsData from '../data/animals.json';
+import pokemonData from '../data/pokemon.json';
+import prehistoricData from '../data/prehistoric.json';
 
 /**
  * Shuffles an array using Fisher-Yates algorithm
@@ -14,11 +16,27 @@ function shuffleArray<T>(array: T[]): T[] {
 }
 
 /**
+ * Get questions for a specific category
+ */
+function getQuestionsByCategory(category: GameConfig['category']): Question[] {
+  switch (category) {
+    case 'animals':
+      return animalsData as Question[];
+    case 'pokemon':
+      return pokemonData as Question[];
+    case 'prehistoric':
+      return prehistoricData as Question[];
+    default:
+      return animalsData as Question[];
+  }
+}
+
+/**
  * Generates questions for all players based on game config
  * Questions are shuffled and distributed with proper difficulty mix (70% medium, 30% hard)
  */
 export function generatePlayerQuestions(config: GameConfig): Question[][] {
-  const allQuestions = questionsData[config.category] as Question[];
+  const allQuestions = getQuestionsByCategory(config.category);
   
   // Separate by difficulty
   const mediumQuestions = shuffleArray(
