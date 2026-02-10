@@ -1,0 +1,27 @@
+{
+  "navigationFallback": {
+    "rewrite": "/index.html",
+    "exclude": ["/assets/*", "/*.js", "/*.css", "/*.png", "/*.jpg", "/*.svg", "/*.ico"]
+  },
+  "mimeTypes": {
+    ".json": "application/json",
+    ".webmanifest": "application/manifest+json"
+  },
+  "globalHeaders": {
+    "cache-control": "must-revalidate, max-age=3600"
+  },
+  "routes": [
+    {
+      "route": "/manifest.webmanifest",
+      "headers": {
+        "cache-control": "public, max-age=604800, immutable"
+      }
+    },
+    {
+      "route": "/assets/*",
+      "headers": {
+        "cache-control": "public, max-age=31536000, immutable"
+      }
+    }
+  ]
+}

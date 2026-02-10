@@ -5,12 +5,15 @@ A fun, kid-friendly multiplayer trivia game built as a Progressive Web App (PWA)
 ## ✨ Features
 
 - **🎮 Multiplayer Pass-and-Play**: Support for 1-8 players on a single device
+- **� Player Customization**: Each player can set their name, choose a color, and enter their age
+- **🎨 Personalized Colors**: Each player gets a unique gradient color throughout the game
+- **⚖️ Age-Based Difficulty Scaling**: Optional feature that adjusts question difficulty based on each player's age
 - **📱 Progressive Web App**: Installable on mobile devices, works offline
 - **👶 Kid-Friendly UX**: Large tap targets, minimal text, bright colors, fun animations
-- **🎯 Multiple Categories**: Animals (79 questions), Pokemon (79 questions), Prehistoric Animals (79 questions)
-- **⚖️ Balanced Difficulty**: 70% medium, 30% hard questions (configurable: 10, 20, 30, or 50 questions per player)
-- **🔄 Turn Rotation**: Players take turns answering one question at a time, keeping everyone engaged
-- **🎨 Beautiful UI**: Gradient backgrounds, smooth transitions, celebration animations
+- **🎯 Multiple Categories**: Animals, Pokemon, and Prehistoric (79+ questions each), can select multiple
+- **🎲 3-Tier Difficulty System**: ✨ Easy (44 questions), ⭐ Medium (79 questions), ⭐⭐ Hard (30 questions) per category
+- **🔄 Turn Rotation**: Players alternate answering questions, keeping everyone engaged
+- **🏆 Victory Celebration**: Winner announcement with personalized color display and celebratory sound
 - **✅ Instant Feedback**: Correct/incorrect animations with clear visual cues
 
 ## 🚀 Quick Start
@@ -46,18 +49,21 @@ TriviaApp/
 │   └── manifest.webmanifest  # PWA manifest
 ├── src/
 │   ├── data/
-│   │   ├── animals.json      # Animal trivia questions
-│   │   ├── pokemon.json      # Pokemon trivia questions
-│   │   └── prehistoric.json  # Prehistoric trivia questions
+│   │   ├── animals.json      # Animal trivia questions (79 questions)
+│   │   ├── pokemon.json      # Pokemon trivia questions (79 questions)
+│   │   └── prehistoric.json  # Prehistoric trivia questions (79 questions)
 │   ├── hooks/
-│   │   └── useGameLogic.ts   # Question generation & shuffling
+│   │   └── useGameLogic.ts   # Question generation, shuffling & age-based difficulty
 │   ├── screens/
-│   │   ├── WelcomeScreen.tsx     # Player selection
-│   │   ├── SetupScreen.tsx       # Game configuration
-│   │   ├── GameScreen.tsx        # Question display & answering
-│   │   └── ResultsScreen.tsx     # Final scores & winner
+│   │   ├── WelcomeScreen.tsx              # Player count selection
+│   │   ├── PlayerCustomizationScreen.tsx  # Player names, colors & ages
+│   │   ├── SetupScreen.tsx                # Category selection & age scaling toggle
+│   │   ├── GameScreen.tsx                 # Question display & answering
+│   │   └── ResultsScreen.tsx              # Final scores & winner celebration
 │   ├── types/
 │   │   └── index.ts          # TypeScript definitions
+│   ├── utils/
+│   │   └── playerColors.ts   # Player color gradients
 │   ├── App.tsx               # Main app & state management
 │   ├── App.css               # Global styles
 │   └── main.tsx              # Entry point
@@ -69,15 +75,28 @@ TriviaApp/
 ## 🎯 Game Flow
 
 1. **Welcome Screen**: Select number of players (1-8)
-2. **Setup Screen**: Choose category (Animals, Pokemon, or Prehistoric) and questions per player (10/20/30/50)
-3. **Game Screen**: 
-   - "Pass to Player X" transition
-   - Players take turns answering one question at a time
+2. **Player Customization**: Each player enters:
+   - Name (up to 20 characters)
+   - Color preference (8 unique gradient options)
+   - Age (4-99, used for optional difficulty scaling)
+3. **Setup Screen**: 
+   - Review players (shows names, ages, colors)
+   - Toggle "Scale by Age" option
+   - Select categories (Animals, Pokemon, Prehistoric - can choose multiple)
+   - Choose questions per player (10/20/30/50)
+4. **Game Screen**: 
+   - Background changes to current player's color
+   - Player name displayed in header
+   - Players alternate answering one question at a time
    - Multiple choice questions with A/B/C/D answers
-   - Difficulty badge shows ⭐ Medium or ⭐⭐ Hard
+   - Difficulty badges: ✨ Easy, ⭐ Medium, or ⭐⭐ Hard
    - Instant feedback with animations
    - Automatic progression
-4. **Results Screen**: Final scores with winner celebration
+5. **Results Screen**: 
+   - Victory sound plays
+   - Winner announcement with their personalized color
+   - Final scoreboard with color indicators
+   - "Play Again" to restart
 
 ## 📊 Question Format
 
@@ -155,74 +174,146 @@ Replace `public/icon.svg` with proper PNG icons:
 ## 🚢 Deployment to Azure Static Web Apps
 
 ### Prerequisites
-- Azure account
-- Azure CLI installed
-- GitHub repository (for CI/CD)
+- Azure account (free tier available)
+- GitHub account
+- GitHub repository for this project
 
-### Manual Deployment
+### Step-by-Step Deployment
+
+#### 1. Push Your Code to GitHub
 
 ```bash
-# Build the app
-npm run build
+# Initialize git (if not already done)
+git init
+git add .
+git commit -m "Initial commit"
 
-# Deploy to Azure (first time)
-az staticwebapp create \
-  --name trivia-time \
-  --resource-group your-resource-group \
-  --source ./dist \
-  --location "East US 2" \
-  --branch main \
-  --app-location "/" \
-  --output-location "dist"
+# Create a new repository on GitHub, then:
+git remote add origin https://github.com/YOUR_USERNAME/trivia-app.git
+git branch -M main
+git push -u origin main
 ```
 
-### CI/CD with Azure DevOps
+#### 2. Create Azure Static Web App
 
-1. Create Azure Static Web App in portal
-2. Link to your Azure DevOps repo
-3. Azure will auto-generate a workflow
-4. Customize build settings:
-   - **App location**: `/`
+1. Go to [Azure Portal](https://portal.azure.com)
+2. Click **"Create a resource"** → Search for **"Static Web App"**
+3. Click **"Create"**
+4. Fill in the details:
+   - **Subscription**: Select your subscription
+   - **Resource Group**: Create new or use existing
+   - **Name**: `trivia-time` (or your preferred name)
+   - **Plan type**: **Free** (perfect for this app!)
+   - **Region**: Choose closest to your users (e.g., East US 2)
+   - **Source**: **GitHub**
+   - **Sign in to GitHub** and authorize Azure
+   - **Organization**: Your GitHub username
+   - **Repository**: Select your trivia app repo
+   - **Branch**: `main`
+5. **Build Details**:
+   - **Build Presets**: `React`
+   - **App location**: `/` (leave as root)
+   - **Api location**: (leave empty)
    - **Output location**: `dist`
-   - **Build command**: `npm run build`
+6. Click **"Review + Create"** → **"Create"**
 
-### Recommended azure-pipeline.yml
+#### 3. Automatic CI/CD Setup
 
-```yaml
-trigger:
-  - main
+Azure will automatically:
+- Create a GitHub Actions workflow in `.github/workflows/`
+- Add a deployment secret to your GitHub repository
+- Trigger the first deployment
 
-pool:
-  vmImage: 'ubuntu-latest'
+**Note**: The workflow file has already been created in this repo at `.github/workflows/azure-static-web-apps.yml`. Azure will update it with your deployment token.
 
-steps:
-  - task: NodeTool@0
-    inputs:
-      versionSpec: '20.x'
-    displayName: 'Install Node.js'
+#### 4. Verify Deployment
 
-  - script: npm ci
-    displayName: 'Install dependencies'
+1. Go to **Actions** tab in your GitHub repo
+2. Watch the deployment workflow run
+3. Once complete (usually 2-3 minutes), Azure will provide a URL
+4. Visit your app at: `https://YOUR_APP_NAME.azurestaticapps.net`
 
-  - script: npm run build
-    displayName: 'Build app'
+### CI/CD Workflow
 
-  - task: AzureStaticWebApp@0
-    inputs:
-      app_location: '/'
-      output_location: 'dist'
-      azure_static_web_apps_api_token: $(deployment_token)
+The GitHub Actions workflow automatically:
+- ✅ Runs on every push to `main` branch
+- ✅ Builds the Vite app (`npm run build`)
+- ✅ Deploys to Azure Static Web Apps
+- ✅ Creates preview environments for pull requests
+- ✅ Closes preview environments when PRs are merged
+
+To trigger a deployment:
+```bash
+git add .
+git commit -m "Update trivia questions"
+git push origin main
 ```
+
+### Custom Domain (Optional)
+
+1. In Azure Portal, go to your Static Web App
+2. Click **"Custom domains"** → **"Add"**
+3. Follow instructions to add your domain
+4. Azure provides free SSL certificates automatically
+
+### Configuration
+
+The app includes a `staticwebapp.config.json` file with:
+- ✅ SPA routing fallback (all routes → index.html)
+- ✅ Proper MIME types for PWA files
+- ✅ Optimized cache headers for assets
+- ✅ PWA manifest caching
+
+### Cost
+
+**Azure Static Web Apps Free Tier includes:**
+- ✅ 100 GB bandwidth per month
+- ✅ Free SSL certificate
+- ✅ Custom domains
+- ✅ Global CDN
+- ✅ Automatic HTTPS
+- ✅ GitHub Actions integration
+- ✅ Preview environments
+
+Perfect for a trivia game with moderate traffic!
+
+### Troubleshooting
+
+**Deployment fails?**
+- Check Actions tab for error logs
+- Verify `output_location: "dist"` in workflow file
+- Ensure `npm run build` works locally
+
+**404 errors on routes?**
+- `staticwebapp.config.json` handles SPA routing
+- All routes redirect to `index.html`
+
+**PWA not working?**
+- Check manifest in DevTools
+- HTTPS required (Azure provides automatically)
+- Clear cache and reload
 
 ## 🔧 Configuration
 
 ### Difficulty Mix
 
-Edit `src/hooks/useGameLogic.ts`:
+By default, questions are distributed as **40% easy, 40% medium, 20% hard**.
+
+When **"Scale by Age"** is enabled, distribution is personalized per player:
+- **Age ≤6**: 70% easy, 25% medium, 5% hard
+- **Age 7-8**: 50% easy, 35% medium, 15% hard
+- **Age 9-10**: 40% easy, 40% medium, 20% hard (default)
+- **Age 11-12**: 25% easy, 50% medium, 25% hard
+- **Age 13-15**: 10% easy, 50% medium, 40% hard
+- **Age 16+**: 0% easy, 40% medium, 60% hard
+
+Edit distributions in `src/hooks/useGameLogic.ts`:
 
 ```typescript
-const mediumCount = Math.round(config.questionsPerPlayer * 0.7); // 70% medium
-const hardCount = config.questionsPerPlayer - mediumCount; // 30% hard
+function getDifficultyDistributionByAge(age: number): [number, number, number] {
+  if (age <= 6) return [0.70, 0.25, 0.05];
+  // ... customize age brackets and percentages
+}
 ```
 
 ### Theme Colors
