@@ -17,7 +17,7 @@ export interface Player {
 export interface GameConfig {
   players: Player[];
   questionsPerPlayer: 10 | 20 | 30 | 50;
-  categories: ('animals' | 'pokemon' | 'prehistoric')[];
+  categories: ('animals' | 'pokemon' | 'prehistoric' | 'comics')[];
   scaleByAge: boolean;
 }
 

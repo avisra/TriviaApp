@@ -1222,5 +1222,1181 @@
       "question": "What was the extinction event called that killed the dinosaurs?",
       "options": ["K-T Extinction", "K-Pg Extinction", "Permian Extinction", "Ordovician Extinction"],
       "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0035",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What color were dinosaurs?",
+      "options": ["Only green", "Only brown", "Many different colors", "All black"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_e_0036",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What did most plant-eating dinosaurs eat?",
+      "options": ["Meat", "Plants and leaves", "Fish", "Bugs"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0037",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Which dinosaur had a long neck?",
+      "options": ["T-Rex", "Brachiosaurus", "Velociraptor", "Ankylosaurus"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0038",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What is a baby dinosaur called?",
+      "options": ["Cub", "Puppy", "Hatchling", "Kitten"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_e_0039",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Did dinosaurs lay eggs?",
+      "options": ["Yes", "No", "Some did", "Only the big ones"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_e_0040",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What dinosaur had a spiky tail?",
+      "options": ["Brachiosaurus", "T-Rex", "Stegosaurus", "Triceratops"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_e_0041",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Were dinosaurs real?",
+      "options": ["Yes", "No", "Only in movies", "Only in books"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_e_0042",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What dinosaur name means 'tyrant lizard king'?",
+      "options": ["T-Rex", "Velociraptor", "Triceratops", "Diplodocus"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_e_0043",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Which dinosaur had sharp teeth?",
+      "options": ["Brachiosaurus", "T-Rex", "Diplodocus", "Apatosaurus"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0044",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What did meat-eating dinosaurs eat?",
+      "options": ["Plants", "Other dinosaurs", "Rocks", "Water"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0045",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Which dinosaur had a club on its tail?",
+      "options": ["Ankylosaurus", "Stegosaurus", "T-Rex", "Brachiosaurus"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_e_0046",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What are dinosaur bones called when we find them?",
+      "options": ["Rocks", "Fossils", "Stones", "Artifacts"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0047",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Were dinosaurs around when humans lived?",
+      "options": ["Yes", "No", "Sometimes", "Only in caves"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0048",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What flying reptile lived with dinosaurs?",
+      "options": ["Pterodactyl", "Eagle", "Bat", "Butterfly"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_e_0049",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Which dinosaur had big plates on its back?",
+      "options": ["T-Rex", "Stegosaurus", "Velociraptor", "Triceratops"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0050",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What does 'fossil' mean?",
+      "options": ["New bones", "Old remains turned to stone", "Live animal", "Dinosaur egg"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0051",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Were all dinosaurs huge?",
+      "options": ["Yes", "No, some were small", "All were tiny", "All were medium"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0052",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What did Triceratops use its horns for?",
+      "options": ["Flying", "Swimming", "Protection", "Eating"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_e_0053",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Which dinosaur was really tall?",
+      "options": ["Brachiosaurus", "Velociraptor", "Compsognathus", "Microraptor"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_e_0054",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What does a paleontologist study?",
+      "options": ["Trees", "Dinosaurs and fossils", "Stars", "Weather"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0055",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Could dinosaurs swim?",
+      "options": ["None could", "Some could", "All could", "Only babies"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0056",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What is a Velociraptor?",
+      "options": ["A flying dinosaur", "A fast meat-eater", "A plant-eater", "A sea creature"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0057",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Did some dinosaurs have feathers?",
+      "options": ["Yes", "No", "Only the babies", "Only at night"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_e_0058",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What is the study of dinosaurs called?",
+      "options": ["Biology", "Paleontology", "Geology", "Astronomy"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0059",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Which dinosaur had a big crest on its head?",
+      "options": ["Parasaurolophus", "T-Rex", "Stegosaurus", "Ankylosaurus"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_e_0060",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Were dinosaurs reptiles?",
+      "options": ["Yes", "No", "Some were", "They were birds"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_e_0061",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What color was T-Rex?",
+      "options": ["Nobody knows for sure", "Bright pink", "Blue", "Purple"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_e_0062",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Which dinosaur had a duck-like bill?",
+      "options": ["T-Rex", "Hadrosaur", "Stegosaurus", "Ankylosaurus"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0063",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What did Stegosaurus eat?",
+      "options": ["Other dinosaurs", "Plants", "Fish", "Rocks"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0064",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "How long ago did dinosaurs live?",
+      "options": ["100 years ago", "Millions of years ago", "Last year", "1000 years ago"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0065",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What happened to the dinosaurs?",
+      "options": ["They're still here", "They went extinct", "They flew away", "They hide in caves"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0066",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Which dinosaur could run really fast?",
+      "options": ["Brachiosaurus", "Velociraptor", "Ankylosaurus", "Stegosaurus"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0067",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Did dinosaurs roar?",
+      "options": ["Probably", "No", "Only at night", "Only babies"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_e_0068",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What does T-Rex stand for?",
+      "options": ["Tiny Rex", "Tyrannosaurus Rex", "Tiger Rex", "Tall Rex"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0069",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Were T-Rex's arms long or short?",
+      "options": ["Very long", "Very short", "Medium", "It had no arms"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0070",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What is a Diplodocus?",
+      "options": ["A long-necked dinosaur", "A flying reptile", "A sea dinosaur", "A mammal"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_e_0071",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Did all dinosaurs walk on two legs?",
+      "options": ["Yes", "No, some walked on four", "They all flew", "They all swam"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0072",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What is amber?",
+      "options": ["A dinosaur", "Hardened tree sap", "A type of rock", "Dinosaur bones"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0073",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Which dinosaur laid the biggest eggs?",
+      "options": ["Small dinosaurs", "Big dinosaurs", "All the same size", "Dinosaurs didn't lay eggs"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0074",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What is an Allosaurus?",
+      "options": ["A plant-eater", "A meat-eater", "A flying dinosaur", "A fish"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0075",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Did dinosaurs live in water?",
+      "options": ["All of them", "None of them", "Some did", "Only babies"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_e_0076",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What is a Spinosaurus known for?",
+      "options": ["A sail on its back", "Three horns", "Long neck", "Spiky tail"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_e_0077",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Which animal is related to dinosaurs today?",
+      "options": ["Dogs", "Cats", "Birds", "Fish"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_e_0078",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What is the smallest dinosaur?",
+      "options": ["T-Rex", "Microraptor", "Brachiosaurus", "Diplodocus"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0079",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What period did dinosaurs live in?",
+      "options": ["Ice Age", "Mesozoic Era", "Stone Age", "Modern times"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0080",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Did dinosaurs have good eyesight?",
+      "options": ["Most did", "None did", "Only T-Rex", "Only small ones"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_e_0081",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What is an Iguanodon?",
+      "options": ["A plant-eating dinosaur", "A flying reptile", "A fish", "A mammal"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_e_0082",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Could Pterodactyls walk?",
+      "options": ["Yes", "No", "Only backwards", "Only in water"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_e_0083",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What makes something a dinosaur?",
+      "options": ["Being big", "Being a reptile from Mesozoic Era", "Being scary", "Being green"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0075",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What era came before the Mesozoic?",
+      "options": ["Paleozoic", "Cenozoic", "Precambrian", "Quaternary"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_m_0076",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "How many periods are in the Mesozoic Era?",
+      "options": ["2", "3", "4", "5"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0077",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What was the largest carnivorous dinosaur?",
+      "options": ["T-Rex", "Spinosaurus", "Giganotosaurus", "Allosaurus"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0078",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "Which period did Stegosaurus live in?",
+      "options": ["Triassic", "Jurassic", "Cretaceous", "Permian"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0079",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What was the purpose of Stegosaurus's plates?",
+      "options": ["Flying", "Defense", "Temperature regulation", "Swimming"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_m_0080",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What does the name Velociraptor mean?",
+      "options": ["Fast thief", "Swift seizer", "Quick hunter", "Speed killer"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0081",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "Which dinosaur had the longest neck?",
+      "options": ["Brachiosaurus", "Mamenchisaurus", "Diplodocus", "Apatosaurus"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0082",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What caused the dinosaur extinction?",
+      "options": ["Ice age", "Asteroid impact", "Disease", "Starvation"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0083",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "Where was the asteroid that killed dinosaurs?",
+      "options": ["Africa", "Mexico", "Asia", "Australia"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0084",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What is the smartest dinosaur?",
+      "options": ["T-Rex", "Troodon", "Velocriraptor", "Allosaurus"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0085",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "Which dinosaur had the smallest brain relative to body size?",
+      "options": ["Stegosaurus", "T-Rex", "Velociraptor", "Triceratops"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_m_0086",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What is a Deinonychus?",
+      "options": ["A plant-eater", "A raptor dinosaur", "A flying reptile", "A sea creature"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0087",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "Were Pterodactyls dinosaurs?",
+      "options": ["Yes", "No, they were flying reptiles", "Only some species", "They were birds"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0088",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What is a Mosasaurus?",
+      "options": ["A dinosaur", "A marine reptile", "A flying reptile", "A mammal"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0089",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "Which dinosaur had the strongest bite force?",
+      "options": ["T-Rex", "Allosaurus", "Spinosaurus", "Carnotaurus"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_m_0090",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What is the largest flying reptile?",
+      "options": ["Pteranodon", "Quetzalcoatlus", "Pterodactyl", "Dimorphodon"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0091",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "Which dinosaur had over 1000 teeth?",
+      "options": ["T-Rex", "Nigersaurus", "Spinosaurus", "Allosaurus"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0092",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What does 'saur' mean in dinosaur names?",
+      "options": ["King", "Lizard", "Beast", "Ancient"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0093",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "Which period came last in the Mesozoic Era?",
+      "options": ["Triassic", "Jurassic", "Cretaceous", "Permian"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_m_0094",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What is an Archaeopteryx?",
+      "options": ["First bird", "Dinosaur-bird transition", "Flying dinosaur", "Marine reptile"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0095",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "How long did dinosaurs rule Earth?",
+      "options": ["50 million years", "100 million years", "165 million years", "300 million years"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_m_0096",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What is the name of the supercontinent during dinosaur times?",
+      "options": ["Gondwana", "Pangaea", "Laurasia", "Rodinia"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0097",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "Which dinosaur had thumb spikes?",
+      "options": ["Iguanodon", "Stegosaurus", "Ankylosaurus", "Pachycephalosaurus"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_m_0098",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What is a Pachycephalosaurus known for?",
+      "options": ["Long neck", "Thick skull", "Sharp teeth", "Long tail"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0099",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "Which dinosaur could likely swim?",
+      "options": ["Spinosaurus", "T-Rex", "Triceratops", "Stegosaurus"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_m_0100",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What is coprolite?",
+      "options": ["Dinosaur bone", "Fossilized poop", "Dinosaur egg", "Ancient plant"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0101",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "Which dinosaur had the longest claws?",
+      "options": ["T-Rex", "Therizinosaurus", "Velociraptor", "Allosaurus"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0102",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What is a Carnotaurus known for?",
+      "options": ["Horns above eyes", "Long neck", "Duck bill", "Armored body"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_m_0103",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "Which dinosaur could possibly change color?",
+      "options": ["Sinosauropteryx", "T-Rex", "Triceratops", "Ankylosaurus"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_m_0104",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What is Dreadnoughtus?",
+      "options": ["A small raptor", "One of the largest dinosaurs", "A flying reptile", "A sea creature"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0105",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "Which dinosaur had a parrot-like beak?",
+      "options": ["Psittacosaurus", "T-Rex", "Brachiosaurus", "Allosaurus"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_m_0106",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What is Microraptor?",
+      "options": ["A tiny feathered dinosaur", "A large predator", "A plant-eater", "A sea reptile"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_m_0107",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "Which dinosaur was discovered in China with evidence of feathers?",
+      "options": ["T-Rex", "Yutyrannus", "Stegosaurus", "Triceratops"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0108",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What is an Ankylosaurus's best defense?",
+      "options": ["Speed", "Tail club", "Sharp teeth", "Camouflage"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0109",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "Which dinosaur had a double-beamed tail?",
+      "options": ["Diplodocus", "T-Rex", "Triceratops", "Stegosaurus"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_m_0110",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What is Dimetrodon?",
+      "options": ["A dinosaur", "A pre-dinosaur reptile", "A mammal", "A bird ancestor"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0111",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "Which dinosaur had the most armor?",
+      "options": ["Ankylosaurus", "Stegosaurus", "Triceratops", "Pachycephalosaurus"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_m_0112",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What is an Oviraptor?",
+      "options": ["Egg thief dinosaur", "Plant-eater", "Flying reptile", "Sea creature"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_m_0113",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "Which dinosaur had hollow bones?",
+      "options": ["Only flying reptiles", "Most theropods", "None", "Only herbivores"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0114",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What is Argentinosaurus?",
+      "options": ["A small raptor", "One of the largest dinosaurs", "A flying reptile", "A sea reptile"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0115",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "Which dinosaur is related to chickens?",
+      "options": ["None", "All dinosaurs (birds descended)", "Only Archaeopteryx", "Only small raptors"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0116",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What is a Maiasaura?",
+      "options": ["Good mother lizard", "Terrible lizard", "Fast runner", "Sea creature"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_m_0117",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "Which dinosaur had the best night vision?",
+      "options": ["Troodon", "T-Rex", "Stegosaurus", "Diplodocus"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_m_0118",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What is Giganotosaurus?",
+      "options": ["A small dinosaur", "A large carnivore", "A plant-eater", "A flying reptile"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0119",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "Which dinosaur had a sail on its back?",
+      "options": ["Spinosaurus", "T-Rex", "Triceratops", "Ankylosaurus"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_m_0120",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What did Compsognathus eat?",
+      "options": ["Plants", "Small animals", "Only fish", "Eggs"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0121",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "Which dinosaur had the longest tail?",
+      "options": ["Diplodocus", "T-Rex", "Ankylosaurus", "Triceratops"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_m_0122",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What is Kentrosaurus?",
+      "options": ["A spiky dinosaur", "A long-necked dinosaur", "A flying reptile", "A sea creature"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_m_0123",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "Which dinosaur could stand upright to reach high leaves?",
+      "options": ["Iguanodon", "T-Rex", "Ankylosaurus", "Stegosaurus"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_m_0124",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What is Plesiosaurus?",
+      "options": ["A dinosaur", "A marine reptile", "A flying reptile", "A mammal"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0125",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "Which dinosaur had a bony frill?",
+      "options": ["Triceratops", "T-Rex", "Allosaurus", "Brachiosaurus"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_m_0126",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What is Ceratosaurus?",
+      "options": ["A horned meat-eater", "A plant-eater", "A flying reptile", "A sea creature"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_m_0127",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "Which dinosaur hunted in packs?",
+      "options": ["T-Rex", "Deinonychus", "Brachiosaurus", "Ankylosaurus"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0046",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What is the scientific classification of dinosaurs?",
+      "options": ["Dinosauria", "Reptilia", "Saurischia", "Archosauria"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_h_0047",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "Which dinosaur had pneumatic bones?",
+      "options": ["All theropods", "Only sauropods", "Most dinosaurs", "None"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_h_0048",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What is the encephalization quotient of Troodon?",
+      "options": ["0.2", "0.5", "0.9", "1.5"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_h_0049",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "How many teeth did a T-Rex have?",
+      "options": ["30", "50", "60", "80"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_h_0050",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What is the Ornithischian hip structure?",
+      "options": ["Lizard-hipped", "Bird-hipped", "Mammal-hipped", "Fish-hipped"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0051",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What was the bite force of T-Rex?",
+      "options": ["5,000 N", "8,000 N", "12,800 N", "57,000 N"],
+      "answerIndex": 3
+    },
+    {
+      "id": "prehistoric_h_0052",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "Which theropod had the largest brain-to-body ratio?",
+      "options": ["Troodon", "Velociraptor", "T-Rex", "Deinonychus"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_h_0053",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What is the maximum length of Argentinosaurus?",
+      "options": ["75 feet", "100 feet", "115 feet", "130 feet"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_h_0054",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What family does Velociraptor belong to?",
+      "options": ["Tyrannosauridae", "Dromaeosauridae", "Troodontidae", "Allosauridae"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0055",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "When did the Chicxulub impact occur?",
+      "options": ["60 MYA", "65.5 MYA", "66 MYA", "70 MYA"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_h_0056",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What was the top speed of Velociraptor?",
+      "options": ["24 mph", "34 mph", "40 mph", "50 mph"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_h_0057",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "How many cervical vertebrae did Mamenchisaurus have?",
+      "options": ["15", "19", "21", "25"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0058",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What is the holotype specimen of T-Rex called?",
+      "options": ["CM 9380", "AMNH 5027", "Sue", "Stan"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0059",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What was the metabolic rate of sauropods?",
+      "options": ["Ectothermic", "Endothermic", "Mesothermic", "Variable"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_h_0060",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "How many species of Triceratops are recognized?",
+      "options": ["1", "2", "3", "5"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0061",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What is the wingspan of Quetzalcoatlus?",
+      "options": ["20 feet", "33 feet", "36 feet", "52 feet"],
+      "answerIndex": 3
+    },
+    {
+      "id": "prehistoric_h_0062",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "Which formation yielded the most T-Rex fossils?",
+      "options": ["Morrison Formation", "Hell Creek Formation", "Nemegt Formation", "Yixian Formation"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0063",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What is the tooth replacement rate of Allosaurus?",
+      "options": ["Every 2 months", "Every 6 months", "Every year", "Every 2 years"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_h_0064",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "How many osteoderms did Ankylosaurus have?",
+      "options": ["50-100", "100-200", "200-300", "Over 300"],
+      "answerIndex": 3
+    },
+    {
+      "id": "prehistoric_h_0065",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What was the growth rate of Maiasaura?",
+      "options": ["Reached adult size in 3 years", "Reached adult size in 7 years", "Reached adult size in 10 years", "Reached adult size in 15 years"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0066",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What is the digit ratio of theropod dinosaurs?",
+      "options": ["2-3-4", "3-4-5", "2-3-4-5", "1-2-3"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_h_0067",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "How long was Spinosaurus's sail?",
+      "options": ["3 feet", "5 feet", "7 feet", "10 feet"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_h_0068",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What is the estimated lifespan of Apatosaurus?",
+      "options": ["50 years", "70 years", "100 years", "150 years"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_h_0069",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "Which dinosaur had the highest tooth count?",
+      "options": ["Nigersaurus (500)", "Hadrosaurus (1000+)", "Edmontosaurus (720)", "Parasaurolophus (600)"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0070",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What is the clade containing all theropods more closely related to birds than to Ceratosaurus?",
+      "options": ["Theropoda", "Tetanurae", "Coelurosauria", "Maniraptora"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0071",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "How many gastroliths have been found with sauropods?",
+      "options": ["None confirmed", "Rare occurrences", "Common finds", "All sauropods had them"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0072",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What is the estimated population density of large theropods?",
+      "options": ["1 per sq km", "1 per 10 sq km", "1 per 100 sq km", "1 per 1000 sq km"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_h_0073",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What was the heart rate of Brachiosaurus?",
+      "options": ["20 bpm", "40 bpm", "60 bpm", "80 bpm"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0074",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "How many species exist in the Pachycephalosauridae family?",
+      "options": ["5", "10", "15", "20"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_h_0075",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What is the incubation period for sauropod eggs?",
+      "options": ["30 days", "60 days", "90 days", "120 days"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_h_0076",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What percentage of dinosaur species have been discovered?",
+      "options": ["5-10%", "20-30%", "50-60%", "80-90%"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0077",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What is the femur length of Argentinosaurus?",
+      "options": ["6 feet", "7.5 feet", "8.5 feet", "10 feet"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0078",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "How many air sacs did theropods have?",
+      "options": ["3", "5", "7", "9"],
+      "answerIndex": 3
+    },
+    {
+      "id": "prehistoric_h_0079",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What was the oxygen concentration during the Cretaceous?",
+      "options": ["15%", "18%", "21%", "30%"],
+      "answerIndex": 3
+    },
+    {
+      "id": "prehistoric_h_0080",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What is the running speed estimate for adult T-Rex?",
+      "options": ["12 mph", "17 mph", "25 mph", "35 mph"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0081",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "How many skin impressions of T-Rex have been found?",
+      "options": ["None", "1-5", "10-15", "Over 20"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0082",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What is the diplodocid neck flexibility?",
+      "options": ["Highly flexible", "Moderately flexible", "Limited flexibility", "No flexibility"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_h_0083",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "How many digits did Abelisaurids have?",
+      "options": ["2", "3", "4", "5"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_h_0084",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What was the core body temperature of large sauropods?",
+      "options": ["95°F", "100°F", "105°F", "110°F"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_h_0085",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What percentage of theropods show evidence of cannibalism?",
+      "options": ["5%", "15%", "25%", "40%"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0086",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "How many neural spines did Spinosaurus have?",
+      "options": ["30", "50", "70", "100"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0087",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What is the phalangeal formula for T-Rex?",
+      "options": ["2-3-4-5-3", "2-3-4-0-0", "2-3-0-0-0", "3-4-5-0-0"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0088",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What was the gut processing time for sauropods?",
+      "options": ["12 hours", "3 days", "7 days", "14 days"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_h_0089",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "How many genera are in Ceratopsidae?",
+      "options": ["10", "20", "30", "40"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_h_0090",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What is the daily food consumption of adult Brachiosaurus?",
+      "options": ["200 lbs", "400 lbs", "800 lbs", "1500 lbs"],
+      "answerIndex": 2
     }
 ]

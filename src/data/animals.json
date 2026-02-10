@@ -1230,5 +1230,1173 @@
       "question": "Which mammal has the most teeth?",
       "options": ["Shark", "Dolphin", "Giant Armadillo", "Opossum"],
       "answerIndex": 2
+    },
+    {
+      "id": "animals_e_0036",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What sound does a cow make?",
+      "options": ["Moo", "Meow", "Woof", "Quack"],
+      "answerIndex": 0
+    },
+    {
+      "id": "animals_e_0037",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What color is a zebra?",
+      "options": ["All black", "All white", "Black and white stripes", "Brown and white"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_e_0038",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which animal has a trunk?",
+      "options": ["Lion", "Elephant", "Monkey", "Giraffe"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0039",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What do bees make?",
+      "options": ["Milk", "Honey", "Cheese", "Butter"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0040",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which animal hops and has long ears?",
+      "options": ["Cat", "Dog", "Rabbit", "Mouse"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_e_0041",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What animal says 'oink'?",
+      "options": ["Pig", "Chicken", "Horse", "Duck"],
+      "answerIndex": 0
+    },
+    {
+      "id": "animals_e_0042",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which bird is known for its colorful tail feathers?",
+      "options": ["Sparrow", "Peacock", "Robin", "Crow"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0043",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What color are most flamingos?",
+      "options": ["Blue", "Pink", "Green", "Yellow"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0044",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which animal lives in a hive?",
+      "options": ["Ant", "Bee", "Spider", "Fly"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0045",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What do caterpillars turn into?",
+      "options": ["Beetles", "Butterflies", "Bees", "Ants"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0046",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which animal has a shell and moves slowly?",
+      "options": ["Snail", "Rabbit", "Squirrel", "Mouse"],
+      "answerIndex": 0
+    },
+    {
+      "id": "animals_e_0047",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What animal is known for storing acorns?",
+      "options": ["Bird", "Mouse", "Squirrel", "Rabbit"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_e_0048",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which animal says 'meow'?",
+      "options": ["Dog", "Cat", "Cow", "Bird"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0049",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What do sheep say?",
+      "options": ["Moo", "Baa", "Oink", "Neigh"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0050",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which animal builds dams in rivers?",
+      "options": ["Otter", "Fish", "Beaver", "Duck"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_e_0051",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What animal has eight legs?",
+      "options": ["Ant", "Spider", "Beetle", "Butterfly"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0052",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which animal is the king of the jungle?",
+      "options": ["Tiger", "Elephant", "Lion", "Bear"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_e_0053",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What color is a polar bear's fur?",
+      "options": ["White", "Black", "Brown", "Gray"],
+      "answerIndex": 0
+    },
+    {
+      "id": "animals_e_0054",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which animal can change colors?",
+      "options": ["Lizard", "Chameleon", "Snake", "Turtle"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0055",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What do pandas eat?",
+      "options": ["Fish", "Bamboo", "Meat", "Insects"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0056",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which animal has spots and runs very fast?",
+      "options": ["Leopard", "Zebra", "Giraffe", "Cheetah"],
+      "answerIndex": 3
+    },
+    {
+      "id": "animals_e_0057",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What animal says 'cluck cluck'?",
+      "options": ["Duck", "Chicken", "Turkey", "Goose"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0058",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which sea animal has eight tentacles?",
+      "options": ["Jellyfish", "Squid", "Octopus", "Starfish"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_e_0059",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What do horses eat?",
+      "options": ["Meat", "Fish", "Hay and grass", "Trash"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_e_0060",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which animal is known for its long neck?",
+      "options": ["Elephant", "Giraffe", "Horse", "Camel"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0061",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What kind of animal is a goldfish?",
+      "options": ["Mammal", "Bird", "Fish", "Reptile"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_e_0062",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which animal produces wool?",
+      "options": ["Cow", "Sheep", "Pig", "Horse"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0063",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What animal is Nemo from Finding Nemo?",
+      "options": ["Shark", "Clownfish", "Whale", "Dolphin"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0064",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which animal can fly and hangs upside down?",
+      "options": ["Bird", "Butterfly", "Bat", "Bee"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_e_0065",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What animal is known for being very slow?",
+      "options": ["Cheetah", "Rabbit", "Sloth", "Monkey"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_e_0066",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which animal has a pouch for its babies?",
+      "options": ["Kangaroo", "Bear", "Deer", "Fox"],
+      "answerIndex": 0
+    },
+    {
+      "id": "animals_e_0067",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What do frogs start their life as?",
+      "options": ["Eggs", "Tadpoles", "Small frogs", "Fish"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0068",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which animal is known for playing tricks?",
+      "options": ["Bear", "Fox", "Deer", "Rabbit"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0069",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What animal rolls into a ball when scared?",
+      "options": ["Skunk", "Porcupine", "Hedgehog", "Rabbit"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_e_0070",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which bird cannot fly?",
+      "options": ["Penguin", "Eagle", "Parrot", "Robin"],
+      "answerIndex": 0
+    },
+    {
+      "id": "animals_e_0071",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What animal says 'neigh'?",
+      "options": ["Cow", "Horse", "Donkey", "Sheep"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0072",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which animal has a bushy tail and climbs trees?",
+      "options": ["Raccoon", "Squirrel", "Mouse", "Rabbit"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0073",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What kind of home does a bird make?",
+      "options": ["Den", "Nest", "Burrow", "Cave"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0074",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which animal howls at the moon?",
+      "options": ["Dog", "Cat", "Wolf", "Fox"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_e_0075",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What do chameleons catch with their tongue?",
+      "options": ["Water", "Insects", "Leaves", "Nuts"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0076",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which animal has antlers?",
+      "options": ["Horse", "Deer", "Cow", "Goat"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0077",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What animal is known for stealing shiny things?",
+      "options": ["Crow", "Sparrow", "Robin", "Owl"],
+      "answerIndex": 0
+    },
+    {
+      "id": "animals_e_0078",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which animal has quills for protection?",
+      "options": ["Hedgehog", "Porcupine", "Both hedgehog and porcupine", "Neither"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_e_0079",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What do koalas eat?",
+      "options": ["Bamboo", "Eucalyptus leaves", "Fish", "Insects"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0080",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which animal sprays a smelly liquid when threatened?",
+      "options": ["Fox", "Skunk", "Raccoon", "Opossum"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0081",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What animal loves to eat carrots?",
+      "options": ["Dog", "Cat", "Rabbit", "Mouse"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_e_0082",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which animal purrs when happy?",
+      "options": ["Dog", "Cat", "Rabbit", "Bird"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0083",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What animal says 'ribbit'?",
+      "options": ["Toad", "Frog", "Both toad and frog", "Lizard"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_m_0075",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What is a group of lions called?",
+      "options": ["Pack", "Herd", "Pride", "Flock"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_m_0076",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "How many legs does a lobster have?",
+      "options": ["6", "8", "10", "12"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_m_0077",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What is the fastest land animal?",
+      "options": ["Lion", "Cheetah", "Horse", "Greyhound"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0078",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "Which animal has the longest migration?",
+      "options": ["Wildebeest", "Arctic Tern", "Monarch Butterfly", "Salmon"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0079",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What do you call a baby kangaroo?",
+      "options": ["Cub", "Pup", "Joey", "Kit"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_m_0080",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "How many hearts does an octopus have?",
+      "options": ["1", "2", "3", "4"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_m_0081",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What is the largest species of penguin?",
+      "options": ["King Penguin", "Emperor Penguin", "Gentoo Penguin", "Chinstrap Penguin"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0082",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "Which mammal can truly fly?",
+      "options": ["Flying squirrel", "Sugar glider", "Bat", "Flying lemur"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_m_0083",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What is the only mammal that lays eggs?",
+      "options": ["Echidna and Platypus", "Kangaroo", "Opossum", "Hedgehog"],
+      "answerIndex": 0
+    },
+    {
+      "id": "animals_m_0084",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "How long is an elephant pregnant?",
+      "options": ["9 months", "12 months", "18 months", "22 months"],
+      "answerIndex": 3
+    },
+    {
+      "id": "animals_m_0085",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What is a group of crows called?",
+      "options": ["A flock", "A murder", "A gaggle", "A swarm"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0086",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "Which animal has fingerprints almost identical to humans?",
+      "options": ["Chimpanzee", "Gorilla", "Koala", "Orangutan"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_m_0087",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What is the lifespan of a mayfly?",
+      "options": ["1 hour", "1 day", "1 week", "1 month"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0088",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "Which bird has the largest wingspan?",
+      "options": ["Bald Eagle", "Condor", "Albatross", "Pelican"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_m_0089",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What color is a giraffe's tongue?",
+      "options": ["Pink", "Red", "Blue-black", "White"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_m_0090",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "How many chambers does a cow's stomach have?",
+      "options": ["1", "2", "3", "4"],
+      "answerIndex": 3
+    },
+    {
+      "id": "animals_m_0091",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What is the slowest animal in the world?",
+      "options": ["Sloth", "Snail", "Tortoise", "Starfish"],
+      "answerIndex": 0
+    },
+    {
+      "id": "animals_m_0092",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "Which animal can survive without water the longest?",
+      "options": ["Camel", "Kangaroo rat", "Desert tortoise", "Giraffe"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0093",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What is the loudest animal on Earth?",
+      "options": ["Elephant", "Blue Whale", "Howler Monkey", "Lion"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0094",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "How many bones does a shark have?",
+      "options": ["None", "50", "100", "200"],
+      "answerIndex": 0
+    },
+    {
+      "id": "animals_m_0095",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What is a baby swan called?",
+      "options": ["Cygnet", "Duckling", "Chick", "Gosling"],
+      "answerIndex": 0
+    },
+    {
+      "id": "animals_m_0096",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "Which animal can hold its breath underwater the longest?",
+      "options": ["Whale", "Dolphin", "Cuvier's Beaked Whale", "Sea Turtle"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_m_0097",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What is the national animal of Australia?",
+      "options": ["Koala", "Kangaroo", "Emu", "Platypus"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0098",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "How many eyes does a bee have?",
+      "options": ["2", "3", "5", "8"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_m_0099",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What is the smallest mammal in the world?",
+      "options": ["Mouse", "Bumblebee Bat", "Shrew", "Hamster"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0100",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "Which animal sleeps standing up?",
+      "options": ["Cow", "Horse", "Elephant", "All of these"],
+      "answerIndex": 3
+    },
+    {
+      "id": "animals_m_0101",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What is a group of whales called?",
+      "options": ["School", "Pod", "Herd", "Fleet"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0102",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "How many toes does a cat have in total?",
+      "options": ["16", "18", "20", "22"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0103",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "Which animal has a blue tongue?",
+      "options": ["Giraffe", "Blue-tongued Skink", "Pangolin", "Okapi"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0104",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What is the largest reptile?",
+      "options": ["Komodo Dragon", "Anaconda", "Saltwater Crocodile", "Leatherback Sea Turtle"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_m_0105",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "Which animal can regenerate its limbs?",
+      "options": ["Lizard", "Starfish", "Salamander", "All of these"],
+      "answerIndex": 3
+    },
+    {
+      "id": "animals_m_0106",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What is the tallest bird?",
+      "options": ["Ostrich", "Emu", "Cassowary", "Crane"],
+      "answerIndex": 0
+    },
+    {
+      "id": "animals_m_0107",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "How long can a camel go without water?",
+      "options": ["1 week", "2 weeks", "1 month", "6 months"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0108",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "Which mammal has the most powerful bite?",
+      "options": ["Lion", "Grizzly Bear", "Hippopotamus", "Great White Shark"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_m_0109",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What color is a polar bear's skin?",
+      "options": ["White", "Pink", "Black", "Gray"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_m_0110",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "Which animal has the thickest fur?",
+      "options": ["Polar Bear", "Sea Otter", "Arctic Fox", "Muskox"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0111",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What is a group of owls called?",
+      "options": ["A hoot", "A parliament", "A wisdom", "A watch"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0112",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "How many teeth does an adult human have?",
+      "options": ["28", "30", "32", "34"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_m_0113",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "Which insect can lift 50 times its body weight?",
+      "options": ["Beetle", "Ant", "Grasshopper", "Bee"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0114",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What is the only continent where giraffes live in the wild?",
+      "options": ["Asia", "Africa", "South America", "Australia"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0115",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "How many noses does a slug have?",
+      "options": ["1", "2", "3", "4"],
+      "answerIndex": 3
+    },
+    {
+      "id": "animals_m_0116",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "Which animal has rectangular pupils?",
+      "options": ["Cat", "Goat", "Snake", "Owl"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0117",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What is a baby goat called?",
+      "options": ["Calf", "Kid", "Lamb", "Foal"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0118",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "Which bird is a symbol of peace?",
+      "options": ["Eagle", "Dove", "Sparrow", "Robin"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0119",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "How many legs does a centipede typically have?",
+      "options": ["Exactly 100", "Between 30-354", "Always 50", "Over 1000"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0120",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What is the largest big cat?",
+      "options": ["Lion", "Tiger", "Jaguar", "Leopard"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0121",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "Which animal can drink salt water?",
+      "options": ["Human", "Dog", "Albatross", "Elephant"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_m_0122",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What is the only bird that can swim but not fly?",
+      "options": ["Penguin", "Dodo", "Kiwi", "Ostrich"],
+      "answerIndex": 0
+    },
+    {
+      "id": "animals_m_0123",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "How many humps does a Dromedary camel have?",
+      "options": ["0", "1", "2", "3"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0124",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "Which animal's stripes are unique like human fingerprints?",
+      "options": ["Tiger", "Zebra", "Both Tiger and Zebra", "Neither"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_m_0125",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What is the fastest marine mammal?",
+      "options": ["Dolphin", "Orca", "Sailfish", "Sea Lion"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0126",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "How many species of bears are there?",
+      "options": ["5", "8", "10", "12"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_h_0046",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What is the gestation period of an African elephant?",
+      "options": ["12 months", "18 months", "22 months", "24 months"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0047",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "Which animal has the highest blood pressure?",
+      "options": ["Elephant", "Giraffe", "Blue Whale", "Horse"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_h_0048",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many bones are in a giraffe's neck?",
+      "options": ["7", "14", "21", "28"],
+      "answerIndex": 0
+    },
+    {
+      "id": "animals_h_0049",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What is the only mammal capable of true sustained flight?",
+      "options": ["Flying squirrel", "Bat", "Sugar glider", "Colugo"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_h_0050",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many species of venomous snakes are there approximately?",
+      "options": ["200", "400", "600", "800"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0051",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What is the brain-to-body mass ratio of a human compared to other animals?",
+      "options": ["1:40", "1:50", "1:60", "1:70"],
+      "answerIndex": 0
+    },
+    {
+      "id": "animals_h_0052",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "Which animal has the longest lifespan?",
+      "options": ["Bowhead Whale", "Greenland Shark", "Giant Tortoise", "Ocean Quahog Clam"],
+      "answerIndex": 3
+    },
+    {
+      "id": "animals_h_0053",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many chromosomes do humans have?",
+      "options": ["23", "44", "46", "48"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0054",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What percentage of a jellyfish is water?",
+      "options": ["75%", "85%", "95%", "98%"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0055",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many species of animals are estimated to exist on Earth?",
+      "options": ["1 million", "8.7 million", "20 million", "50 million"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_h_0056",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What is the top speed of a peregrine falcon in a dive?",
+      "options": ["150 mph", "200 mph", "240 mph", "300 mph"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0057",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many chambers does an earthworm have in its hearts?",
+      "options": ["1", "5", "10", "0 - it has aortic arches"],
+      "answerIndex": 3
+    },
+    {
+      "id": "animals_h_0058",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What is the scientific name for the African elephant?",
+      "options": ["Loxodonta africana", "Elephas maximus", "Mammuthus primigenius", "Elephantidae africanus"],
+      "answerIndex": 0
+    },
+    {
+      "id": "animals_h_0059",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many neurons are in an octopus's brain?",
+      "options": ["50 million", "100 million", "500 million", "1 billion"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0060",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What is the gestational period of a Virginia opossum?",
+      "options": ["8 days", "13 days", "21 days", "30 days"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_h_0061",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "Which animal has the most complex eye structure?",
+      "options": ["Eagle", "Mantis Shrimp", "Chameleon", "Dragonfly"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_h_0062",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What is the maximum depth a sperm whale can dive?",
+      "options": ["1,000 feet", "3,000 feet", "7,000 feet", "10,000 feet"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0063",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many taste buds does a catfish have?",
+      "options": ["10,000", "50,000", "100,000", "175,000"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0064",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What is the average heart rate of a blue whale?",
+      "options": ["2-8 bpm", "10-20 bpm", "30-40 bpm", "60-80 bpm"],
+      "answerIndex": 0
+    },
+    {
+      "id": "animals_h_0065",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What percentage of DNA do humans share with chimpanzees?",
+      "options": ["92%", "95%", "98.7%", "99.9%"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0066",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many species of beetles are there approximately?",
+      "options": ["100,000", "250,000", "400,000", "1 million"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0067",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What is the body temperature of a hummingbird during torpor?",
+      "options": ["50°F", "70°F", "90°F", "100°F"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_h_0068",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many vertebrae does a python have?",
+      "options": ["100-150", "200-400", "500-600", "Over 1000"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_h_0069",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What is the diving depth record for an emperor penguin?",
+      "options": ["500 meters", "1,000 meters", "1,850 feet (564 meters)", "2,000 meters"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0070",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many photoreceptor types does a mantis shrimp have?",
+      "options": ["3", "8", "12", "16"],
+      "answerIndex": 3
+    },
+    {
+      "id": "animals_h_0071",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What is the metabolic rate of a shrew relative to its body weight?",
+      "options": ["Lowest among mammals", "Average for mammals", "Highest among mammals", "Same as humans"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0072",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many teeth does a great white shark grow in its lifetime?",
+      "options": ["1,000", "10,000", "20,000", "50,000"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0073",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What is the frequency range bats use for echolocation?",
+      "options": ["10-50 kHz", "20-100 kHz", "50-200 kHz", "100-500 kHz"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0074",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many olfactory receptor genes do dogs have?",
+      "options": ["400", "800", "1,200", "2,000"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_h_0075",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What is the wing beat frequency of a mosquito?",
+      "options": ["50 Hz", "200 Hz", "500 Hz", "1000 Hz"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0076",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How much weight can a leafcutter ant carry?",
+      "options": ["10 times its weight", "25 times its weight", "50 times its weight", "100 times its weight"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0077",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What is the incubation period for a king penguin egg?",
+      "options": ["35 days", "55 days", "75 days", "95 days"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_h_0078",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many segments does a tapeworm have?",
+      "options": ["10-50", "100-500", "1,000-2,000", "Over 4,000"],
+      "answerIndex": 3
+    },
+    {
+      "id": "animals_h_0079",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What is the bioluminescent wavelength of fireflies?",
+      "options": ["400-500 nm", "510-670 nm", "700-800 nm", "900-1000 nm"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_h_0080",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many chambers are in a crocodile's heart?",
+      "options": ["2", "3", "4", "5"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0081",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What is the strike speed of a mantis shrimp's punch?",
+      "options": ["23 m/s", "50 m/s", "75 m/s", "100 m/s"],
+      "answerIndex": 0
+    },
+    {
+      "id": "animals_h_0082",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many miles can a monarch butterfly migrate?",
+      "options": ["1,000 miles", "2,000 miles", "3,000 miles", "5,000 miles"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0083",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What is the gestation period of a black alpine salamander?",
+      "options": ["1 year", "2 years", "3 years", "5 years"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0084",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many cells are in the brain of a honeybee?",
+      "options": ["50,000", "500,000", "1 million", "10 million"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0085",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What is the pH of a vampire bat's stomach acid?",
+      "options": ["1.0", "2.0", "3.5", "5.0"],
+      "answerIndex": 0
+    },
+    {
+      "id": "animals_h_0086",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many facets are in a dragonfly's compound eye?",
+      "options": ["10,000", "20,000", "30,000", "50,000"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0087",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What is the electric discharge of an electric eel?",
+      "options": ["200 volts", "400 volts", "600 volts", "800 volts"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0088",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many species of birds can mimic human speech?",
+      "options": ["5", "15", "30", "Over 50"],
+      "answerIndex": 3
+    },
+    {
+      "id": "animals_h_0089",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What is the terminal velocity of a falling cat?",
+      "options": ["40 mph", "60 mph", "80 mph", "100 mph"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_h_0090",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many chromosomes does a fruit fly have?",
+      "options": ["4", "8", "12", "16"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_h_0091",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What is the hibernation body temperature of an Arctic ground squirrel?",
+      "options": ["-5°F (-20°C)", "-3°C (27°F)", "0°C (32°F)", "5°C (41°F)"],
+      "answerIndex": 1
     }
 ]

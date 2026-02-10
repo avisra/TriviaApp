@@ -1230,5 +1230,1173 @@
       "question": "What is the maximum number of EVs a Pokemon can have?",
       "options": ["255", "510", "512", "1020"],
       "answerIndex": 1
+    },
+    {
+      "id": "pokemon_e_0036",
+      "category": "pokemon",
+      "difficulty": "easy",
+      "question": "What color is Pikachu?",
+      "options": ["Red", "Yellow", "Blue", "Green"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_e_0037",
+      "category": "pokemon",
+      "difficulty": "easy",
+      "question": "What does Squirtle evolve into?",
+      "options": ["Wartortle", "Blastoise", "Charizard", "Pikachu"],
+      "answerIndex": 0
+    },
+    {
+      "id": "pokemon_e_0038",
+      "category": "pokemon",
+      "difficulty": "easy",
+      "question": "What type is Bulbasaur?",
+      "options": ["Fire", "Water", "Grass/Poison", "Electric"],
+      "answerIndex": 2
+    },
+    {
+      "id": "pokemon_e_0039",
+      "category": "pokemon",
+      "difficulty": "easy",
+      "question": "What animal is Psyduck based on?",
+      "options": ["Duck", "Swan", "Goose", "Chicken"],
+      "answerIndex": 0
+    },
+    {
+      "id": "pokemon_e_0040",
+      "category": "pokemon",
+      "difficulty": "easy",
+      "question": "What is the final evolution of Charmander?",
+      "options": ["Charmeleon", "Charizard", "Blastoise", "Dragonite"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_e_0041",
+      "category": "pokemon",
+      "difficulty": "easy",
+      "question": "What type is super effective against Water types?",
+      "options": ["Fire", "Electric", "Water", "Normal"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_e_0042",
+      "category": "pokemon",
+      "difficulty": "easy",
+      "question": "What color is Jigglypuff?",
+      "options": ["Blue", "Pink", "Yellow", "Green"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_e_0043",
+      "category": "pokemon",
+      "difficulty": "easy",
+      "question": "What does Pikachu evolve into?",
+      "options": ["Raichu", "Pichu", "Electrode", "Electabuzz"],
+      "answerIndex": 0
+    },
+    {
+      "id": "pokemon_e_0044",
+      "category": "pokemon",
+      "difficulty": "easy",
+      "question": "What type is Meowth?",
+      "options": ["Electric", "Psychic", "Normal", "Fighting"],
+      "answerIndex": 2
+    },
+    {
+      "id": "pokemon_e_0045",
+      "category": "pokemon",
+      "difficulty": "easy",
+      "question": "What Pokemon sleeps all the time?",
+      "options": ["Pikachu", "Snorlax", "Eevee", "Meowth"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_e_0046",
+      "category": "pokemon",
+      "difficulty": "easy",
+      "question": "What is Ash's last name?",
+      "options": ["Oak", "Ketchum", "Maple", "Willow"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_e_0047",
+      "category": "pokemon",
+      "difficulty": "easy",
+      "question": "What Pokemon says 'Pika Pika'?",
+      "options": ["Raichu", "Pichu", "Pikachu", "Electrode"],
+      "answerIndex": 2
+    },
+    {
+      "id": "pokemon_e_0048",
+      "category": "pokemon",
+      "difficulty": "easy",
+      "question": "What type is Geodude?",
+      "options": ["Ground", "Rock/Ground", "Steel", "Normal"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_e_0049",
+      "category": "pokemon",
+      "difficulty": "easy",
+      "question": "What does Eevee need to evolve into Vaporeon?",
+      "options": ["Fire Stone", "Water Stone", "Thunder Stone", "Leaf Stone"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_e_0050",
+      "category": "pokemon",
+      "difficulty": "easy",
+      "question": "What type of Pokemon is Magikarp?",
+      "options": ["Normal", "Dragon", "Water", "Flying"],
+      "answerIndex": 2
+    },
+    {
+      "id": "pokemon_e_0051",
+      "category": "pokemon",
+      "difficulty": "easy",
+      "question": "Who is the Pokemon Professor in Kanto?",
+      "options": ["Professor Oak", "Professor Elm", "Professor Birch", "Professor Rowan"],
+      "answerIndex": 0
+    },
+    {
+      "id": "pokemon_e_0052",
+      "category": "pokemon",
+      "difficulty": "easy",
+      "question": "What type is super effective against Fire types?",
+      "options": ["Grass", "Electric", "Water", "Normal"],
+      "answerIndex": 2
+    },
+    {
+      "id": "pokemon_e_0053",
+      "category": "pokemon",
+      "difficulty": "easy",
+      "question": "What does Caterpie evolve into?",
+      "options": ["Butterfree", "Metapod", "Weedle", "Kakuna"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_e_0054",
+      "category": "pokemon",
+      "difficulty": "easy",
+      "question": "What color is Charizard?",
+      "options": ["Blue", "Red/Orange", "Green", "Yellow"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_e_0055",
+      "category": "pokemon",
+      "difficulty": "easy",
+      "question": "What Pokemon is number 001 in the Pokedex?",
+      "options": ["Pikachu", "Charmander", "Bulbasaur", "Squirtle"],
+      "answerIndex": 2
+    },
+    {
+      "id": "pokemon_e_0056",
+      "category": "pokemon",
+      "difficulty": "easy",
+      "question": "What does Magikarp evolve into?",
+      "options": ["Gyarados", "Dragonite", "Lapras", "Kingdra"],
+      "answerIndex": 0
+    },
+    {
+      "id": "pokemon_e_0057",
+      "category": "pokemon",
+      "difficulty": "easy",
+      "question": "What Pokemon is known as the Balloon Pokemon?",
+      "options": ["Jigglypuff", "Wigglytuff", "Clefairy", "Ditto"],
+      "answerIndex": 0
+    },
+    {
+      "id": "pokemon_e_0058",
+      "category": "pokemon",
+      "difficulty": "easy",
+      "question": "What type is Onix?",
+      "options": ["Ground", "Steel", "Rock/Ground", "Normal"],
+      "answerIndex": 2
+    },
+    {
+      "id": "pokemon_e_0059",
+      "category": "pokemon",
+      "difficulty": "easy",
+      "question": "What is Team Rocket's cat Pokemon?",
+      "options": ["Persian", "Meowth", "Skitty", "Glameow"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_e_0060",
+      "category": "pokemon",
+      "difficulty": "easy",
+      "question": "What Pokemon has a flame on its tail?",
+      "options": ["Vulpix", "Growlithe", "Charmander", "Torchic"],
+      "answerIndex": 2
+    },
+    {
+      "id": "pokemon_e_0061",
+      "category": "pokemon",
+      "difficulty": "easy",
+      "question": "What type is Dragonite?",
+      "options": ["Dragon", "Flying", "Dragon/Flying", "Water/Flying"],
+      "answerIndex": 2
+    },
+    {
+      "id": "pokemon_e_0062",
+      "category": "pokemon",
+      "difficulty": "easy",
+      "question": "What item makes Pokemon evolve?",
+      "options": ["Potion", "Evolution Stone", "Pokeball", "Rare Candy"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_e_0063",
+      "category": "pokemon",
+      "difficulty": "easy",
+      "question": "What Pokemon is a mouse?",
+      "options": ["Rattata", "Pikachu", "Both Rattata and Pikachu", "Sandshrew"],
+      "answerIndex": 2
+    },
+    {
+      "id": "pokemon_e_0064",
+      "category": "pokemon",
+      "difficulty": "easy",
+      "question": "What does Oddish evolve into?",
+      "options": ["Gloom", "Vileplume", "Bellsprout", "Victreebel"],
+      "answerIndex": 0
+    },
+    {
+      "id": "pokemon_e_0065",
+      "category": "pokemon",
+      "difficulty": "easy",
+      "question": "What type is Machop?",
+      "options": ["Normal", "Fighting", "Rock", "Ground"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_e_0066",
+      "category": "pokemon",
+      "difficulty": "easy",
+      "question": "What Pokemon has a skull on its head?",
+      "options": ["Cubone", "Marowak", "Both Cubone and Marowak", "Haunter"],
+      "answerIndex": 2
+    },
+    {
+      "id": "pokemon_e_0067",
+      "category": "pokemon",
+      "difficulty": "easy",
+      "question": "What is Nurse Joy's helper Pokemon?",
+      "options": ["Jigglypuff", "Clefairy", "Chansey", "Blissey"],
+      "answerIndex": 2
+    },
+    {
+      "id": "pokemon_e_0068",
+      "category": "pokemon",
+      "difficulty": "easy",
+      "question": "What type is Abra?",
+      "options": ["Normal", "Psychic", "Fighting", "Dark"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_e_0069",
+      "category": "pokemon",
+      "difficulty": "easy",
+      "question": "What Pokemon has multiple heads?",
+      "options": ["Doduo", "Weezing", "Magneton", "All of these"],
+      "answerIndex": 3
+    },
+    {
+      "id": "pokemon_e_0070",
+      "category": "pokemon",
+      "difficulty": "easy",
+      "question": "What type is Gastly?",
+      "options": ["Ghost", "Ghost/Poison", "Dark", "Psychic"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_e_0071",
+      "category": "pokemon",
+      "difficulty": "easy",
+      "question": "What Pokemon can transform into any other Pokemon?",
+      "options": ["Mew", "Ditto", "Mewtwo", "Zoroark"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_e_0072",
+      "category": "pokemon",
+      "difficulty": "easy",
+      "question": "What does Poliwag evolve into?",
+      "options": ["Poliwhirl", "Poliwrath", "Politoed", "Golduck"],
+      "answerIndex": 0
+    },
+    {
+      "id": "pokemon_e_0073",
+      "category": "pokemon",
+      "difficulty": "easy",
+      "question": "What type is Lapras?",
+      "options": ["Water", "Ice", "Water/Ice", "Dragon/Ice"],
+      "answerIndex": 2
+    },
+    {
+      "id": "pokemon_e_0074",
+      "category": "pokemon",
+      "difficulty": "easy",
+      "question": "What Pokemon is a seed?",
+      "options": ["Bulbasaur", "Oddish", "Bellsprout", "Sunkern"],
+      "answerIndex": 0
+    },
+    {
+      "id": "pokemon_e_0075",
+      "category": "pokemon",
+      "difficulty": "easy",
+      "question": "What does Horsea evolve into?",
+      "options": ["Seadra", "Kingdra", "Goldeen", "Gyarados"],
+      "answerIndex": 0
+    },
+    {
+      "id": "pokemon_e_0076",
+      "category": "pokemon",
+      "difficulty": "easy",
+      "question": "What type is Voltorb?",
+      "options": ["Normal", "Electric", "Steel", "Psychic"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_e_0077",
+      "category": "pokemon",
+      "difficulty": "easy",
+      "question": "What Pokemon looks like a Pokeball?",
+      "options": ["Electrode", "Voltorb", "Both Electrode and Voltorb", "Foongus"],
+      "answerIndex": 2
+    },
+    {
+      "id": "pokemon_e_0078",
+      "category": "pokemon",
+      "difficulty": "easy",
+      "question": "What does Zubat evolve into?",
+      "options": ["Golbat", "Crobat", "Noibat", "Swoobat"],
+      "answerIndex": 0
+    },
+    {
+      "id": "pokemon_e_0079",
+      "category": "pokemon",
+      "difficulty": "easy",
+      "question": "What type is Snorlax?",
+      "options": ["Fighting", "Ground", "Normal", "Psychic"],
+      "answerIndex": 2
+    },
+    {
+      "id": "pokemon_e_0080",
+      "category": "pokemon",
+      "difficulty": "easy",
+      "question": "What Pokemon has a propeller tail?",
+      "options": ["Slowpoke", "Psyduck", "Goldeen", "Horsea"],
+      "answerIndex": 2
+    },
+    {
+      "id": "pokemon_e_0081",
+      "category": "pokemon",
+      "difficulty": "easy",
+      "question": "What does Bellsprout evolve into?",
+      "options": ["Weepinbell", "Victreebel", "Gloom", "Vileplume"],
+      "answerIndex": 0
+    },
+    {
+      "id": "pokemon_e_0082",
+      "category": "pokemon",
+      "difficulty": "easy",
+      "question": "What type is Muk?",
+      "options": ["Poison", "Ground", "Water", "Dark"],
+      "answerIndex": 0
+    },
+    {
+      "id": "pokemon_e_0083",
+      "category": "pokemon",
+      "difficulty": "easy",
+      "question": "What Pokemon loves to eat dreams?",
+      "options": ["Hypno", "Drowzee", "Both Hypno and Drowzee", "Gengar"],
+      "answerIndex": 2
+    },
+    {
+      "id": "pokemon_m_0075",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "How many Eevee evolutions are there?",
+      "options": ["5", "6", "8", "10"],
+      "answerIndex": 2
+    },
+    {
+      "id": "pokemon_m_0076",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "What is the max level a Pokemon can reach?",
+      "options": ["100", "99", "120", "255"],
+      "answerIndex": 0
+    },
+    {
+      "id": "pokemon_m_0077",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "What type is immune to Ghost-type moves?",
+      "options": ["Normal", "Dark", "Psychic", "Fighting"],
+      "answerIndex": 0
+    },
+    {
+      "id": "pokemon_m_0078",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "Which legendary bird represents ice?",
+      "options": ["Articuno", "Zapdos", "Moltres", "Lugia"],
+      "answerIndex": 0
+    },
+    {
+      "id": "pokemon_m_0079",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "What is Misty's signature Pokemon?",
+      "options": ["Psyduck", "Staryu", "Starmie", "Togepi"],
+      "answerIndex": 2
+    },
+    {
+      "id": "pokemon_m_0080",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "Which Pokemon was created by scientists?",
+      "options": ["Mew", "Mewtwo", "Ditto", "Porygon"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_m_0081",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "What generation introduced Fairy type?",
+      "options": ["Generation 4", "Generation 5", "Generation 6", "Generation 7"],
+      "answerIndex": 2
+    },
+    {
+      "id": "pokemon_m_0082",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "What is Brock's strongest Pokemon?",
+      "options": ["Geodude", "Onix", "Steelix", "Golem"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_m_0083",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "Which Pokemon has the highest base HP?",
+      "options": ["Snorlax", "Wailord", "Blissey", "Chansey"],
+      "answerIndex": 2
+    },
+    {
+      "id": "pokemon_m_0084",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "What type combination does Charizard have?",
+      "options": ["Fire/Dragon", "Fire/Flying", "Fire only", "Dragon/Flying"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_m_0085",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "Which Pokemon is known as the Genetic Pokemon?",
+      "options": ["Mew", "Mewtwo", "Ditto", "Deoxys"],
+      "answerIndex": 0
+    },
+    {
+      "id": "pokemon_m_0086",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "What is Gary Oak's starter Pokemon?",
+      "options": ["Charmander", "Bulbasaur", "Squirtle", "Eevee"],
+      "answerIndex": 2
+    },
+    {
+      "id": "pokemon_m_0087",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "Which Pokemon has the move Payday?",
+      "options": ["Meowth", "Persian", "Both Meowth and Persian", "Pikachu"],
+      "answerIndex": 2
+    },
+    {
+      "id": "pokemon_m_0088",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "What region is the first Pokemon game set in?",
+      "options": ["Johto", "Hoenn", "Kanto", "Sinnoh"],
+      "answerIndex": 2
+    },
+    {
+      "id": "pokemon_m_0089",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "Which Pokemon evolves with a Moon Stone?",
+      "options": ["Clefairy", "Pikachu", "Vulpix", "Growlithe"],
+      "answerIndex": 0
+    },
+    {
+      "id": "pokemon_m_0090",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "What is the first Gym Leader in Pokemon Red/Blue?",
+      "options": ["Misty", "Brock", "Lt. Surge", "Erika"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_m_0091",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "Which Pokemon can learn the most HM moves?",
+      "options": ["Mew", "Dragonite", "Gyarados", "All HM moves"],
+      "answerIndex": 0
+    },
+    {
+      "id": "pokemon_m_0092",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "What item evolves Eevee into Umbreon?",
+      "options": ["Moon Stone", "Dark Stone", "Happiness at night", "Night Stone"],
+      "answerIndex": 2
+    },
+    {
+      "id": "pokemon_m_0093",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "Which Pokemon is number 150 in the National Dex?",
+      "options": ["Mew", "Mewtwo", "Dragonite", "Articuno"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_m_0094",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "What type is super effective against Dragon?",
+      "options": ["Dragon", "Ice", "Fairy", "All of these"],
+      "answerIndex": 3
+    },
+    {
+      "id": "pokemon_m_0095",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "Which Pokemon holds the Master Ball in the Pokemon anime?",
+      "options": ["Ash", "Gary", "James", "No one - it's rarely shown"],
+      "answerIndex": 3
+    },
+    {
+      "id": "pokemon_m_0096",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "What was the first Pokemon ever designed?",
+      "options": ["Pikachu", "Bulbasaur", "Rhydon", "Mew"],
+      "answerIndex": 2
+    },
+    {
+      "id": "pokemon_m_0097",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "Which Pokemon type has the most weaknesses?",
+      "options": ["Grass", "Rock", "Ice", "Psychic"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_m_0098",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "What does Scyther evolve into?",
+      "options": ["Pinsir", "Scizor", "Heracross", "Kabutops"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_m_0099",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "Which Pokemon is known as the Flame Pokemon?",
+      "options": ["Charmander", "Charmeleon", "Charizard", "Moltres"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_m_0100",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "What generation introduced breeding?",
+      "options": ["Generation 1", "Generation 2", "Generation 3", "Generation 4"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_m_0101",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "Which Pokemon has the highest base Speed?",
+      "options": ["Electrode", "Ninjask", "Aerodactyl", "Jolteon"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_m_0102",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "What is Slowpoke's dual type?",
+      "options": ["Water", "Water/Psychic", "Psychic", "Water/Ground"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_m_0103",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "Which Pokemon can have the ability Levitate?",
+      "options": ["Gengar", "Haunter", "Gastly", "All of these"],
+      "answerIndex": 3
+    },
+    {
+      "id": "pokemon_m_0104",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "What item lets Pikachu use Volt Tackle?",
+      "options": ["Light Ball", "Thunder Stone", "Magnet", "Zap Plate"],
+      "answerIndex": 0
+    },
+    {
+      "id": "pokemon_m_0105",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "Which Pokemon evolves into Alakazam?",
+      "options": ["Abra", "Kadabra", "Mr. Mime", "Hypno"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_m_0106",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "What is Ash's Pikachu's gender?",
+      "options": ["Male", "Female", "Genderless", "Unknown"],
+      "answerIndex": 0
+    },
+    {
+      "id": "pokemon_m_0107",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "Which Pokemon has a Mega Evolution in X and Y?",
+      "options": ["Dragonite", "Arcanine", "Lucario", "Flygon"],
+      "answerIndex": 2
+    },
+    {
+      "id": "pokemon_m_0108",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "What type is Gyarados?",
+      "options": ["Water/Dragon", "Water/Flying", "Water/Dark", "Dragon/Flying"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_m_0109",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "Which Pokemon is not in the Kanto Pokedex?",
+      "options": ["Togepi", "Mew", "Mewtwo", "Articuno"],
+      "answerIndex": 0
+    },
+    {
+      "id": "pokemon_m_0110",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "What is the Champion's name in Pokemon Red/Blue?",
+      "options": ["Gary", "Blue", "Green", "All acceptable names"],
+      "answerIndex": 3
+    },
+    {
+      "id": "pokemon_m_0111",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "Which Pokemon has the highest HP stat?",
+      "options": ["Blissey", "Chansey", "Snorlax", "Wailord"],
+      "answerIndex": 0
+    },
+    {
+      "id": "pokemon_m_0112",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "What generation introduced the splitting of Special into Special Attack and Special Defense?",
+      "options": ["Generation 1", "Generation 2", "Generation 3", "Generation 4"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_m_0113",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "Which Pokemon can change its form based on the weather?",
+      "options": ["Eevee", "Castform", "Kecleon", "Rotom"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_m_0114",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "Which move has the highest base power?",
+      "options": ["Hyper Beam", "Explosion", "Self-Destruct", "Giga Impact"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_m_0115",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "What does Onix evolve into?",
+      "options": ["Golem", "Steelix", "Rhydon", "It doesn't evolve"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_m_0116",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "Which Pokemon type was added in Generation 2?",
+      "options": ["Fairy", "Steel", "Dark", "Both Steel and Dark"],
+      "answerIndex": 3
+    },
+    {
+      "id": "pokemon_m_0117",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "What is the rarest Pokemon in Pokemon Go at launch?",
+      "options": ["Mewtwo", "Mew", "Dragonite", "Regional exclusives"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_m_0118",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "Which Pokemon has the ability Thick Fat?",
+      "options": ["Snorlax", "Munchlax", "Marill", "All of these"],
+      "answerIndex": 3
+    },
+    {
+      "id": "pokemon_m_0119",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "What does Haunter evolve into?",
+      "options": ["Gengar", "Gastly", "Mismagius", "Dusknoir"],
+      "answerIndex": 0
+    },
+    {
+      "id": "pokemon_m_0120",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "Which Pokemon evolves by holding a King's Rock and trading?",
+      "options": ["Poliwhirl", "Slowpoke", "Both Poliwhirl and Slowpoke", "Onix"],
+      "answerIndex": 2
+    },
+    {
+      "id": "pokemon_m_0121",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "What is Jigglypuff's evolution?",
+      "options": ["Clefable", "Wigglytuff", "Blissey", "Chansey"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_m_0122",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "Which Pokemon has the move Splash?",
+      "options": ["Magikarp", "Feebas", "Hoppip", "All of these"],
+      "answerIndex": 3
+    },
+    {
+      "id": "pokemon_m_0123",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "What type is Lugia?",
+      "options": ["Water/Flying", "Psychic/Flying", "Dragon/Flying", "Flying only"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_m_0124",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "Which Pokemon evolves from Togepi?",
+      "options": ["Togekiss", "Togetic", "Clefairy", "Azumarill"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_m_0125",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "What is the signature move of Pikachu?",
+      "options": ["Thunder", "Thunderbolt", "Thunder Shock", "Volt Tackle"],
+      "answerIndex": 3
+    },
+    {
+      "id": "pokemon_m_0126",
+      "category": "pokemon",
+      "difficulty": "medium",
+      "question": "Which legendary Pokemon can learn Aeroblast?",
+      "options": ["Lugia", "Ho-Oh", "Rayquaza", "Articuno"],
+      "answerIndex": 0
+    },
+    {
+      "id": "pokemon_h_0046",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "What is the base stat total of Arceus?",
+      "options": ["680", "700", "720", "780"],
+      "answerIndex": 2
+    },
+    {
+      "id": "pokemon_h_0047",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "Which Pokemon has the ability Wonder Guard?",
+      "options": ["Shedinja", "Spiritomb", "Sableye", "Aegislash"],
+      "answerIndex": 0
+    },
+    {
+      "id": "pokemon_h_0048",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "What is the catch rate of Mewtwo in Generation 1?",
+      "options": ["3", "5", "10", "15"],
+      "answerIndex": 0
+    },
+    {
+      "id": "pokemon_h_0049",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "Which generation introduced the Fairy type?",
+      "options": ["Gen 5", "Gen 6", "Gen 7", "Gen 8"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_h_0050",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "What is the maximum IV value for a single stat?",
+      "options": ["15", "31", "63", "255"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_h_0051",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "Which Pokemon has the highest base stat total?",
+      "options": ["Mewtwo", "Arceus", "Mega Rayquaza", "Eternamax Eternatus"],
+      "answerIndex": 3
+    },
+    {
+      "id": "pokemon_h_0052",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "What is the accuracy of the move Thunder?",
+      "options": ["70%", "75%", "80%", "85%"],
+      "answerIndex": 0
+    },
+    {
+      "id": "pokemon_h_0053",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "Which Pokemon has the highest base Attack stat?",
+      "options": ["Mega Mewtwo X", "Mega Heracross", "Kartana", "Deoxys Attack Forme"],
+      "answerIndex": 3
+    },
+    {
+      "id": "pokemon_h_0054",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "What is the base power of Explosion?",
+      "options": ["200", "250", "300", "500"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_h_0055",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "Which Pokemon has the signature move V-create?",
+      "options": ["Victini", "Volcarona", "Reshiram", "Ho-Oh"],
+      "answerIndex": 0
+    },
+    {
+      "id": "pokemon_h_0056",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "How many Pokemon were in Generation 1?",
+      "options": ["150", "151", "251", "386"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_h_0057",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "What is Smeargle's unique characteristic?",
+      "options": ["Can learn any move via Sketch", "Has all types", "Highest stats", "Never faints"],
+      "answerIndex": 0
+    },
+    {
+      "id": "pokemon_h_0058",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "Which Pokemon has the ability Huge Power?",
+      "options": ["Diggersby", "Azumarill", "Mawile", "All of these"],
+      "answerIndex": 3
+    },
+    {
+      "id": "pokemon_h_0059",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "What is the STAB (Same Type Attack Bonus) multiplier?",
+      "options": ["1.25x", "1.5x", "1.75x", "2x"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_h_0060",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "Which Pokemon evolves at the highest level?",
+      "options": ["Hydreigon at 64", "Volcarona at 59", "Dragonite at 55", "Tyranitar at 55"],
+      "answerIndex": 0
+    },
+    {
+      "id": "pokemon_h_0061",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "What is the base power of Draco Meteor?",
+      "options": ["120", "130", "140", "150"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_h_0062",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "Which Pokemon type combination has the most resistances?",
+      "options": ["Steel/Fairy", "Steel/Flying", "Bug/Steel", "Ghost/Dark"],
+      "answerIndex": 0
+    },
+    {
+      "id": "pokemon_h_0063",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "What is the maximum amount of PP a move can have with PP Max?",
+      "options": ["32", "40", "48", "64"],
+      "answerIndex": 3
+    },
+    {
+      "id": "pokemon_h_0064",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "Which Pokemon has the lowest base stat total?",
+      "options": ["Magikarp", "Feebas", "Sunkern", "Caterpie"],
+      "answerIndex": 2
+    },
+    {
+      "id": "pokemon_h_0065",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "What generation introduced abilities?",
+      "options": ["Generation 2", "Generation 3", "Generation 4", "Generation 5"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_h_0066",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "Which Pokemon learns the most moves by level up?",
+      "options": ["Mew", "Smeargle", "Eevee", "Ditto"],
+      "answerIndex": 0
+    },
+    {
+      "id": "pokemon_h_0067",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "What is the shiny encounter rate in Pokemon X/Y?",
+      "options": ["1/4096", "1/8192", "1/2048", "1/1024"],
+      "answerIndex": 0
+    },
+    {
+      "id": "pokemon_h_0068",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "Which move has perfect accuracy regardless of evasion?",
+      "options": ["Swift", "Aerial Ace", "Aura Sphere", "All of these"],
+      "answerIndex": 3
+    },
+    {
+      "id": "pokemon_h_0069",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "What is the maximum number of EVs a Pokemon can have in one stat?",
+      "options": ["128", "252", "255", "510"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_h_0070",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "Which Pokemon learns the signature move Spacial Rend?",
+      "options": ["Dialga", "Palkia", "Giratina", "Arceus"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_h_0071",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "What is the base power of Tackle?",
+      "options": ["35", "40", "45", "50"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_h_0072",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "Which legendary trio consists of Uxie, Mesprit, and Azelf?",
+      "options": ["Lake Guardians", "Creation Trio", "Forces of Nature", "Legendary Beasts"],
+      "answerIndex": 0
+    },
+    {
+      "id": "pokemon_h_0073",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "What is the base power of Hyper Beam?",
+      "options": ["120", "140", "150", "200"],
+      "answerIndex": 2
+    },
+    {
+      "id": "pokemon_h_0074",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "Which Pokemon has the highest base Defense stat?",
+      "options": ["Shuckle", "Steelix", "Regirock", "Cloyster"],
+      "answerIndex": 0
+    },
+    {
+      "id": "pokemon_h_0075",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "What is the critical hit ratio for moves like Slash?",
+      "options": ["1/8", "1/16", "1/24", "1/32"],
+      "answerIndex": 0
+    },
+    {
+      "id": "pokemon_h_0076",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "Which Pokemon type has no effect on Normal types?",
+      "options": ["Ghost", "None", "Fighting", "Psychic"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_h_0077",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "What is the only type combination that has no weaknesses with an ability?",
+      "options": ["Electric with Levitate", "Steel/Flying with Levitate", "Normal/Ghost", "Dark/Ghost"],
+      "answerIndex": 0
+    },
+    {
+      "id": "pokemon_h_0078",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "Which move can hit Ghost-type Pokemon when the user is Normal type?",
+      "options": ["Foresight", "Odor Sleuth", "Scrappy ability", "All of these"],
+      "answerIndex": 3
+    },
+    {
+      "id": "pokemon_h_0079",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "What is the encounter rate for a roaming legendary?",
+      "options": ["Very low", "1/2048", "Depends on location", "Random encounters"],
+      "answerIndex": 2
+    },
+    {
+      "id": "pokemon_h_0080",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "Which Pokemon has the signature ability Shadow Tag?",
+      "options": ["Wobbuffet", "Wynaut", "Mega Gengar", "All of these"],
+      "answerIndex": 3
+    },
+    {
+      "id": "pokemon_h_0081",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "What is the base experience yield of Chansey?",
+      "options": ["255", "395", "500", "800"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_h_0082",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "Which move was introduced in Generation 1 with 120 base power and 100% accuracy?",
+      "options": ["None - no such move existed", "Thunderbolt", "Surf", "Psychic"],
+      "answerIndex": 0
+    },
+    {
+      "id": "pokemon_h_0083",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "What percentage of HP does Substitute take?",
+      "options": ["10%", "25%", "33%", "50%"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_h_0084",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "Which Pokemon has the ability Normalize?",
+      "options": ["Skitty", "Delcatty", "Both Skitty and Delcatty", "Eevee"],
+      "answerIndex": 2
+    },
+    {
+      "id": "pokemon_h_0085",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "What is the formula for calculating damage in Pokemon?",
+      "options": ["((2*Level/5+2)*Power*A/D/50)+2", "Level*Power*A/D", "(Level+Power)*A/D", "Power*A/D*Level"],
+      "answerIndex": 0
+    },
+    {
+      "id": "pokemon_h_0086",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "Which status move has 255 priority?",
+      "options": ["Protect", "Quick Attack", "None - max is +5", "Helping Hand"],
+      "answerIndex": 2
+    },
+    {
+      "id": "pokemon_h_0087",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "What is the egg cycle for most Pokemon?",
+      "options": ["10 cycles", "20 cycles", "40 cycles", "Varies by species"],
+      "answerIndex": 3
+    },
+    {
+      "id": "pokemon_h_0088",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "Which Pokemon has the ability Protean?",
+      "options": ["Greninja", "Kecleon", "Both Greninja and Kecleon", "Ditto"],
+      "answerIndex": 2
+    },
+    {
+      "id": "pokemon_h_0089",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "What is the accuracy of Sheer Cold?",
+      "options": ["20%", "30%", "40%", "50%"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_h_0090",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "Which Pokemon has the highest base Special Attack?",
+      "options": ["Mewtwo", "Mega Mewtwo Y", "Chandelure", "Alakazam"],
+      "answerIndex": 1
+    },
+    {
+      "id": "pokemon_h_0091",
+      "category": "pokemon",
+      "difficulty": "hard",
+      "question": "What is the hidden stat in Generation 1 that affected critical hits?",
+      "options": ["HP", "Speed", "Attack", "Special"],
+      "answerIndex": 1
     }
 ]

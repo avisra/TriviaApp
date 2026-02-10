@@ -2,6 +2,7 @@ import type { Question, GameConfig } from '../types';
 import animalsData from '../data/animals.json';
 import pokemonData from '../data/pokemon.json';
 import prehistoricData from '../data/prehistoric.json';
+import comicsData from '../data/comics.json';
 
 /**
  * Shuffles an array using Fisher-Yates algorithm
@@ -44,7 +45,7 @@ function getDifficultyDistributionByAge(age: number): [number, number, number] {
 /**
  * Get questions for a specific category
  */
-function getQuestionsByCategory(category: 'animals' | 'pokemon' | 'prehistoric'): Question[] {
+function getQuestionsByCategory(category: 'animals' | 'pokemon' | 'prehistoric' | 'comics'): Question[] {
   switch (category) {
     case 'animals':
       return animalsData as Question[];
@@ -52,6 +53,8 @@ function getQuestionsByCategory(category: 'animals' | 'pokemon' | 'prehistoric')
       return pokemonData as Question[];
     case 'prehistoric':
       return prehistoricData as Question[];
+    case 'comics':
+      return comicsData as Question[];
     default:
       return animalsData as Question[];
   }

@@ -14,12 +14,12 @@ export const SetupScreen: React.FC<SetupScreenProps> = ({
   onBack,
 }) => {
   const [questionsPerPlayer, setQuestionsPerPlayer] = useState<10 | 20 | 30 | 50>(10);
-  const [categories, setCategories] = useState<('animals' | 'pokemon' | 'prehistoric')[]>(['animals']);
+  const [categories, setCategories] = useState<('animals' | 'pokemon' | 'prehistoric' | 'comics')[]>(['animals']);
   const [scaleByAge, setScaleByAge] = useState<boolean>(false);
 
   const questionOptions: Array<10 | 20 | 30 | 50> = [10, 20, 30, 50];
 
-  const toggleCategory = (category: 'animals' | 'pokemon' | 'prehistoric') => {
+  const toggleCategory = (category: 'animals' | 'pokemon' | 'prehistoric' | 'comics') => {
     if (categories.includes(category)) {
       // Don't allow deselecting if it's the only one selected
       if (categories.length > 1) {
@@ -96,6 +96,12 @@ export const SetupScreen: React.FC<SetupScreenProps> = ({
               onClick={() => toggleCategory('prehistoric')}
             >
               🦖 Prehistoric
+            </button>
+            <button
+              className={`category-option ${categories.includes('comics') ? 'selected' : ''}`}
+              onClick={() => toggleCategory('comics')}
+            >
+              🦸 Comics
             </button>
           </div>
         </div>
