@@ -750,5 +750,485 @@
       "question": "Which marine mammal can hold its breath the longest underwater?",
       "options": ["Dolphin", "Seal", "Cuvier's Beaked Whale", "Orca"],
       "answerIndex": 2
+    },
+    {
+      "id": "animals_m_0065",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What sound does a cow make?",
+      "options": ["Baa", "Moo", "Neigh", "Oink"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0066",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What color is a polar bear's skin?",
+      "options": ["White", "Pink", "Black", "Brown"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_m_0067",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which animal has a pouch for carrying babies?",
+      "options": ["Monkey", "Kangaroo", "Bear", "Rabbit"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0068",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What do caterpillars turn into?",
+      "options": ["Butterflies", "Bees", "Beetles", "Dragonflies"],
+      "answerIndex": 0
+    },
+    {
+      "id": "animals_m_0069",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which animal says 'ribbit'?",
+      "options": ["Toad", "Frog", "Cricket", "Bird"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0070",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What do bees make?",
+      "options": ["Milk", "Honey", "Silk", "Wax only"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0071",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which animal has a long trunk?",
+      "options": ["Rhino", "Hippo", "Elephant", "Giraffe"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_m_0072",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What is a baby dog called?",
+      "options": ["Kitten", "Puppy", "Cub", "Calf"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0073",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which bird cannot fly?",
+      "options": ["Sparrow", "Eagle", "Penguin", "Robin"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_m_0074",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What is a group of fish called?",
+      "options": ["Pack", "Herd", "School", "Flock"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_m_0075",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which animal is known for building dams?",
+      "options": ["Otter", "Beaver", "Muskrat", "Duck"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0076",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What do rabbits eat?",
+      "options": ["Meat", "Carrots and plants", "Fish", "Eggs"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0077",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which animal has black and white stripes?",
+      "options": ["Tiger", "Leopard", "Zebra", "Horse"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_m_0078",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What is a baby cat called?",
+      "options": ["Puppy", "Kitten", "Cub", "Chick"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0079",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which animal lives in a hive?",
+      "options": ["Ant", "Bee", "Spider", "Butterfly"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0080",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What color are flamingos?",
+      "options": ["Blue", "Pink", "Green", "Yellow"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0081",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which animal has a shell on its back?",
+      "options": ["Turtle", "Frog", "Lizard", "Snake"],
+      "answerIndex": 0
+    },
+    {
+      "id": "animals_m_0082",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What is the largest ocean animal?",
+      "options": ["Shark", "Blue Whale", "Octopus", "Dolphin"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0083",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which animal has a mane?",
+      "options": ["Tiger", "Lion", "Cheetah", "Leopard"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0084",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What do squirrels collect and store?",
+      "options": ["Nuts", "Fish", "Meat", "Berries only"],
+      "answerIndex": 0
+    },
+    {
+      "id": "animals_m_0085",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "Which animal can sleep standing up?",
+      "options": ["Cow", "Horse", "Elephant", "All of the above"],
+      "answerIndex": 3
+    },
+    {
+      "id": "animals_m_0086",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What is the smallest mammal in the world?",
+      "options": ["Mouse", "Bumblebee Bat", "Shrew", "Hamster"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0087",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "Which animal has the longest lifespan?",
+      "options": ["Elephant", "Turtle", "Greenland Shark", "Parrot"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_m_0088",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What is a group of crows called?",
+      "options": ["Flock", "Murder", "Pack", "Swarm"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0089",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "Which mammal lays eggs?",
+      "options": ["Echidna", "Kangaroo", "Bat", "Seal"],
+      "answerIndex": 0
+    },
+    {
+      "id": "animals_m_0090",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "How many hearts does an octopus have?",
+      "options": ["1", "2", "3", "4"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_m_0091",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "Which bird is the symbol of peace?",
+      "options": ["Eagle", "Dove", "Swan", "Owl"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0092",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What is the only mammal that can truly fly?",
+      "options": ["Flying squirrel", "Bat", "Sugar glider", "Flying lemur"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0093",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "Which animal has the most powerful kick?",
+      "options": ["Horse", "Kangaroo", "Zebra", "Giraffe"],
+      "answerIndex": 3
+    },
+    {
+      "id": "animals_m_0094",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What is the largest species of bear?",
+      "options": ["Grizzly Bear", "Polar Bear", "Kodiak Bear", "Black Bear"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0095",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "Which animal can regrow its tail?",
+      "options": ["Frog", "Lizard", "Snake", "Turtle"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0096",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What is the fastest swimming fish?",
+      "options": ["Tuna", "Sailfish", "Marlin", "Swordfish"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0097",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "Which animal has fingerprints almost identical to humans?",
+      "options": ["Chimpanzee", "Gorilla", "Koala", "Orangutan"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_m_0098",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What color is a giraffe's tongue?",
+      "options": ["Pink", "Red", "Blue-black", "Brown"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_m_0099",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "Which animal can run the longest distance without water?",
+      "options": ["Camel", "Kangaroo Rat", "Desert Tortoise", "Fennec Fox"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0100",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What is a baby swan called?",
+      "options": ["Cygnet", "Duckling", "Chick", "Gosling"],
+      "answerIndex": 0
+    },
+    {
+      "id": "animals_m_0101",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "Which snake is the longest in the world?",
+      "options": ["Anaconda", "Python", "King Cobra", "Boa Constrictor"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0102",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What is the loudest animal on Earth?",
+      "options": ["Lion", "Howler Monkey", "Blue Whale", "Elephant"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_m_0103",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "Which animal can live without its head for weeks?",
+      "options": ["Cockroach", "Ant", "Spider", "Beetle"],
+      "answerIndex": 0
+    },
+    {
+      "id": "animals_m_0104",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What do sea otters do while sleeping to stay together?",
+      "options": ["Link tails", "Hold hands", "Huddle in groups", "Tie themselves to kelp"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0105",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "Which bird can mimic human speech the best?",
+      "options": ["Parrot", "Crow", "African Grey Parrot", "Myna Bird"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_m_0106",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What percentage of a cat's life is spent sleeping?",
+      "options": ["50%", "60%", "70%", "80%"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_m_0107",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "Which animal has the thickest fur?",
+      "options": ["Polar Bear", "Sea Otter", "Arctic Fox", "Musk Ox"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0108",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What is the only bird that can fly backwards and hover?",
+      "options": ["Kingfisher", "Hummingbird", "Woodpecker", "Swift"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0109",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "Which animal has blue blood?",
+      "options": ["Octopus", "Shark", "Eel", "Crab"],
+      "answerIndex": 0
+    },
+    {
+      "id": "animals_h_0031",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What is the only mammal capable of echolocation besides bats?",
+      "options": ["Dolphin", "Shrew", "Whale", "All of the above"],
+      "answerIndex": 3
+    },
+    {
+      "id": "animals_h_0032",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many neurons does an octopus have in its entire body?",
+      "options": ["100 million", "300 million", "500 million", "1 billion"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0033",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "Which animal has the longest migration route?",
+      "options": ["Arctic Tern", "Monarch Butterfly", "Gray Whale", "Caribou"],
+      "answerIndex": 0
+    },
+    {
+      "id": "animals_h_0034",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What is the gestation period of an African elephant?",
+      "options": ["12 months", "18 months", "22 months", "24 months"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0035",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "Which animal has the most complex eye structure?",
+      "options": ["Eagle", "Mantis Shrimp", "Dragonfly", "Chameleon"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_h_0036",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What percentage of a jellyfish's body is water?",
+      "options": ["75%", "85%", "95%", "98%"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0037",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "Which species of parrot is the only flightless parrot?",
+      "options": ["Kea", "Kakapo", "Cockatoo", "Macaw"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_h_0038",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many chambers does a cow's stomach have?",
+      "options": ["2", "3", "4", "5"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0039",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What is the diving depth record for a Sperm Whale?",
+      "options": ["1,000 meters", "2,000 meters", "3,000 meters", "Over 3,000 meters"],
+      "answerIndex": 3
+    },
+    {
+      "id": "animals_h_0040",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "Which animal has the highest blood pressure?",
+      "options": ["Elephant", "Giraffe", "Blue Whale", "Rhino"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_h_0041",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What is the maximum recorded lifespan of a Galapagos tortoise?",
+      "options": ["100 years", "150 years", "175 years", "Over 175 years"],
+      "answerIndex": 3
+    },
+    {
+      "id": "animals_h_0042",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "Which animal has the longest tongue relative to body length?",
+      "options": ["Chameleon", "Anteater", "Tube-lipped Nectar Bat", "Giraffe"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0043",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many species of animals are bioluminescent?",
+      "options": ["Less than 100", "Around 700", "Over 1,500", "Over 3,000"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0044",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What is the bite force of a Nile crocodile in PSI?",
+      "options": ["2,500 PSI", "3,700 PSI", "5,000 PSI", "6,500 PSI"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0045",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "Which mammal has the most teeth?",
+      "options": ["Shark", "Dolphin", "Giant Armadillo", "Opossum"],
+      "answerIndex": 2
     }
 ]

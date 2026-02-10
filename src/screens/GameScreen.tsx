@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import type { Question, PlayerScore } from '../types';
 import './GameScreen.css';
 
@@ -24,6 +24,14 @@ export const GameScreen: React.FC<GameScreenProps> = ({
   const [selectedAnswer, setSelectedAnswer] = useState<number | null>(null);
   const [showFeedback, setShowFeedback] = useState<boolean>(false);
   const [isCorrect, setIsCorrect] = useState<boolean>(false);
+
+  // Reset focus when question changes
+  useEffect(() => {
+    // Remove focus from any active element
+    if (document.activeElement instanceof HTMLElement) {
+      document.activeElement.blur();
+    }
+  }, [currentQuestion.id, currentPlayer]);
 
   const handleAnswerClick = (index: number) => {
     if (selectedAnswer !== null) return; // Already answered

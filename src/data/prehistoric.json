@@ -742,5 +742,485 @@
       "question": "Which dinosaur had a club-like tail for defense?",
       "options": ["Stegosaurus", "Ankylosaurus", "Triceratops", "Diplodocus"],
       "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0064",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What color were dinosaurs?",
+      "options": ["Green", "Gray", "We don't know for sure", "Brown"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_m_0065",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Were dinosaurs reptiles?",
+      "options": ["Yes", "No", "Some were", "They were birds"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_m_0066",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What did T-Rex eat?",
+      "options": ["Plants", "Meat", "Fish", "Insects"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0067",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Which dinosaur had a long neck to eat tall plants?",
+      "options": ["T-Rex", "Brachiosaurus", "Velociraptor", "Pteranodon"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0068",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "How did dinosaurs have babies?",
+      "options": ["Live birth", "Laid eggs", "Cloning", "Splitting"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0069",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What is a fossil?",
+      "options": ["Old bones turned to rock", "Dinosaur food", "A type of plant", "Ancient tools"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_m_0070",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Could dinosaurs fly?",
+      "options": ["All of them", "None of them", "Some could", "Only babies"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_m_0071",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What ended the age of dinosaurs?",
+      "options": ["Ice age", "Meteor impact", "Volcano", "Old age"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0072",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Which dinosaur name means 'three-horned face'?",
+      "options": ["Triceratops", "Stegosaurus", "T-Rex", "Pteranodon"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_m_0073",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Were woolly mammoths dinosaurs?",
+      "options": ["Yes", "No", "Sometimes", "Only small ones"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0074",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What are scientists who study dinosaurs called?",
+      "options": ["Biologists", "Paleontologists", "Geologists", "Archaeologists"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0075",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Which dinosaur had tiny arms?",
+      "options": ["T-Rex", "Brachiosaurus", "Triceratops", "Stegosaurus"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_m_0076",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Did humans and dinosaurs live at the same time?",
+      "options": ["Yes", "No", "Only in movies", "In some places"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0077",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What are baby dinosaurs called?",
+      "options": ["Pups", "Hatchlings", "Cubs", "Chicks"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0078",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Which animal today is most related to dinosaurs?",
+      "options": ["Lizards", "Birds", "Crocodiles", "Snakes"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0079",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "How long ago did dinosaurs live?",
+      "options": ["1,000 years", "Millions of years", "100 years", "Billions of years"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0080",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Which dinosaur is the fastest runner we know of?",
+      "options": ["T-Rex", "Velociraptor", "Gallimimus", "Stegosaurus"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_m_0081",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What were the big flying reptiles called?",
+      "options": ["Dragons", "Pterosaurs", "Flying dinosaurs", "Winged lizards"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0082",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Where do we find dinosaur fossils?",
+      "options": ["In trees", "In the ground", "In caves only", "Under water only"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0083",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Did all dinosaurs roar?",
+      "options": ["Yes", "No", "We don't know", "Only meat-eaters"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_m_0084",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "Which period did NOT have dinosaurs?",
+      "options": ["Triassic", "Jurassic", "Cretaceous", "Cambrian"],
+      "answerIndex": 3
+    },
+    {
+      "id": "prehistoric_m_0085",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What does 'Velociraptor' mean?",
+      "options": ["Fast thief", "Swift seizer", "Quick hunter", "Speedy killer"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0086",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "Which dinosaur had the thickest skull?",
+      "options": ["Pachycephalosaurus", "T-Rex", "Triceratops", "Ankylosaurus"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_m_0087",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "Where was the first complete dinosaur skeleton found?",
+      "options": ["USA", "China", "England", "Argentina"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_m_0088",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "Which dinosaur had over 500 teeth?",
+      "options": ["T-Rex", "Nigersaurus", "Diplodocus", "Spinosaurus"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0089",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What was the largest carnivorous dinosaur?",
+      "options": ["T-Rex", "Giganotosaurus", "Spinosaurus", "Carcharodontosaurus"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_m_0090",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "Which dinosaur could swim?",
+      "options": ["Spinosaurus", "All dinosaurs", "None", "Only small ones"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_m_0091",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "How long was a Brachiosaurus?",
+      "options": ["25 feet", "50 feet", "75 feet", "100 feet"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_m_0092",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "Which dinosaur had feathers?",
+      "options": ["Archaeopteryx", "T-Rex babies", "Velociraptor", "All of the above"],
+      "answerIndex": 3
+    },
+    {
+      "id": "prehistoric_m_0093",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What did Stegosaurus use its tail spikes for?",
+      "options": ["Eating", "Defense", "Walking", "Flying"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0094",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "How big was a T-Rex tooth?",
+      "options": ["2 inches", "6 inches", "12 inches", "18 inches"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_m_0095",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "Which continent has NO dinosaur fossils found?",
+      "options": ["Antarctica", "Australia", "Africa", "None, all have fossils"],
+      "answerIndex": 3
+    },
+    {
+      "id": "prehistoric_m_0096",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What color were dinosaur eggs?",
+      "options": ["White", "Brown", "Various colors", "Green"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_m_0097",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "Which dinosaur had the longest name?",
+      "options": ["Micropachycephalosaurus", "Archaeornithomimus", "Eustreptospondylus", "Huehuecanauhtlus"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_m_0098",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "How fast could a T-Rex run?",
+      "options": ["10 mph", "17 mph", "25 mph", "40 mph"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0099",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What was the first dinosaur to be named?",
+      "options": ["Iguanodon", "Megalosaurus", "T-Rex", "Triceratops"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0100",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "Which dinosaur had armored skin?",
+      "options": ["Ankylosaurus", "Stegosaurus", "Both", "Neither"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_m_0101",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "How many horns did Triceratops have?",
+      "options": ["3", "4", "5", "2"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_m_0102",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "Which dinosaur had the best eyesight?",
+      "options": ["T-Rex", "Troodon", "Velociraptor", "Archaeopteryx"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_m_0103",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What did Parasaurolophus use its head crest for?",
+      "options": ["Fighting", "Communication", "Flying", "Eating"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0104",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "How long did dinosaurs rule the Earth?",
+      "options": ["65 million years", "135 million years", "165 million years", "200 million years"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_m_0105",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "Which dinosaur could see in the dark best?",
+      "options": ["Troodon", "T-Rex", "Velociraptor", "Deinonychus"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_m_0106",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What was unique about Deinocheirus?",
+      "options": ["Giant arms", "No teeth", "Duck bill", "All of the above"],
+      "answerIndex": 3
+    },
+    {
+      "id": "prehistoric_m_0107",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "Which dinosaur had a sail on its back?",
+      "options": ["Spinosaurus", "Dimetrodon", "Both A and B", "Neither"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_m_0108",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "How many fingers did T-Rex have?",
+      "options": ["2", "3", "4", "5"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_h_0031",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What was the bite force of a T-Rex in PSI?",
+      "options": ["6,000", "8,000", "12,000", "15,000"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_h_0032",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "Which dinosaur had the longest claws ever discovered?",
+      "options": ["Therizinosaurus", "Deinonychus", "Utahraptor", "Velociraptor"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_h_0033",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "How many species of dinosaurs have been discovered?",
+      "options": ["Over 300", "Over 500", "Over 700", "Over 1,000"],
+      "answerIndex": 3
+    },
+    {
+      "id": "prehistoric_h_0034",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What was the estimated population of T-Rex at any one time?",
+      "options": ["2,500", "20,000", "200,000", "2 million"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0035",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "Which period had the most oxygen in the atmosphere?",
+      "options": ["Triassic", "Jurassic", "Cretaceous", "Carboniferous"],
+      "answerIndex": 3
+    },
+    {
+      "id": "prehistoric_h_0036",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What was the wingspan of Quetzalcoatlus?",
+      "options": ["20 feet", "30 feet", "36 feet", "40 feet"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_h_0037",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "How long did it take for a sauropod egg to hatch?",
+      "options": ["30 days", "60 days", "6 months", "1 year"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_h_0038",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What was the brain size of a Stegosaurus?",
+      "options": ["Size of a walnut", "Size of an apple", "Size of a lime", "Size of a softball"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_h_0039",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "Which theropod had the longest arms?",
+      "options": ["Deinocheirus", "Therizinosaurus", "Gigantoraptor", "T-Rex"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_h_0040",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What percentage of dinosaur species were carnivores?",
+      "options": ["30%", "40%", "50%", "65%"],
+      "answerIndex": 3
+    },
+    {
+      "id": "prehistoric_h_0041",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "How many bones are in a complete T-Rex skeleton?",
+      "options": ["Around 200", "Around 300", "Around 380", "Around 500"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_h_0042",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What was the estimated lifespan of a T-Rex?",
+      "options": ["15-20 years", "20-30 years", "30-40 years", "40-50 years"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0043",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "Which dinosaur had the most powerful tail weapon?",
+      "options": ["Ankylosaurus", "Stegosaurus", "Sauropelta", "Kentrosaurus"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_h_0044",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "How much did a Brachiosaurus weigh?",
+      "options": ["30 tons", "50 tons", "80 tons", "100 tons"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_h_0045",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What was the extinction event called that killed the dinosaurs?",
+      "options": ["K-T Extinction", "K-Pg Extinction", "Permian Extinction", "Ordovician Extinction"],
+      "answerIndex": 1
     }
 ]
