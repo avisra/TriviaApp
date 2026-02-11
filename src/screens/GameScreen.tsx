@@ -9,6 +9,7 @@ interface GameScreenProps {
   totalQuestions: number;
   playerScores: PlayerScore[];
   onAnswer: (isCorrect: boolean) => void;
+  onQuit: () => void;
   playerColor: string;
 }
 
@@ -19,6 +20,7 @@ export const GameScreen: React.FC<GameScreenProps> = ({
   totalQuestions,
   playerScores,
   onAnswer,
+  onQuit,
   playerColor,
 }) => {
   const [selectedAnswer, setSelectedAnswer] = useState<number | null>(null);
@@ -54,6 +56,9 @@ export const GameScreen: React.FC<GameScreenProps> = ({
 
   return (
     <div className="screen game-screen" style={{ background: playerColor }}>
+      <button className="quit-button" onClick={onQuit} title="Quit Game">
+        ✕
+      </button>
       <div className="game-header">
         <div className="current-player">{currentPlayerScore.name}</div>
         <div className="game-stats">

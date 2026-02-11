@@ -93,6 +93,11 @@ export function generatePlayerQuestions(config: GameConfig): Question[][] {
   
   const playerQuestions: Question[][] = [];
   
+  // Track current index for each difficulty to avoid duplicates
+  let easyIndex = 0;
+  let mediumIndex = 0;
+  let hardIndex = 0;
+  
   for (let i = 0; i < config.players.length; i++) {
     const player = config.players[i];
     
@@ -110,19 +115,15 @@ export function generatePlayerQuestions(config: GameConfig): Question[][] {
     const mediumCount = Math.round(config.questionsPerPlayer * mediumPercent);
     const hardCount = config.questionsPerPlayer - easyCount - mediumCount;
     
-    // Get questions for this player
-    const playerEasy = easyQuestions.slice(
-      i * easyCount,
-      (i + 1) * easyCount
-    );
-    const playerMedium = mediumQuestions.slice(
-      i * mediumCount,
-      (i + 1) * mediumCount
-    );
-    const playerHard = hardQuestions.slice(
-      i * hardCount,
-      (i + 1) * hardCount
-    );
+    // Get questions for this player using tracked indices
+    const playerEasy = easyQuestions.slice(easyIndex, easyIndex + easyCount);
+    const playerMedium = mediumQuestions.slice(mediumIndex, mediumIndex + mediumCount);
+    const playerHard = hardQuestions.slice(hardIndex, hardIndex + hardCount);
+    
+    // Update indices for next player
+    easyIndex += easyCount;
+    mediumIndex += mediumCount;
+    hardIndex += hardCount;
     
     // Shuffle the combined questions for this player
     const combinedQuestions = shuffleArray([...playerEasy, ...playerMedium, ...playerHard]);

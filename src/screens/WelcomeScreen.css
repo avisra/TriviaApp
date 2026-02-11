@@ -1,7 +1,7 @@
 .welcome-screen {
   background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  justify-content: flex-start;
-  padding-top: 5vh;
+  justify-content: center;
+  padding: 2rem 0;
 }
 
 .welcome-content {
@@ -123,7 +123,7 @@
 /* Optimize for tall screens (like Pixel Pro) */
 @media (min-height: 800px) and (max-width: 600px) {
   .welcome-screen {
-    padding-top: 8vh;
+    padding: 3rem 0;
   }
 
   .game-title {

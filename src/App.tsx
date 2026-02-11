@@ -114,6 +114,18 @@ function App() {
     setCurrentScreen('welcome');
   };
 
+  const handleQuitGame = () => {
+    setGameState({
+      config: null,
+      currentPlayerIndex: 0,
+      currentQuestionIndex: 0,
+      playerScores: [],
+      playerQuestions: [],
+      gameComplete: false,
+    });
+    setCurrentScreen('welcome');
+  };
+
   const handleSetupBack = () => {
     setCurrentScreen('customization');
   };
@@ -152,6 +164,7 @@ function App() {
           totalQuestions={gameState.config.questionsPerPlayer}
           playerScores={gameState.playerScores}
           onAnswer={handleAnswer}
+          onQuit={handleQuitGame}
           playerColor={gameState.config.players[gameState.currentPlayerIndex].color}
         />
       )}

@@ -111,15 +111,19 @@ export const PlayerCustomizationScreen: React.FC<PlayerCustomizationScreenProps>
           </div>
 
           <div className="form-section">
-            <label className="form-label">Age:</label>
+            <label className="form-label">Age: {currentPlayer.age}</label>
             <input
-              type="number"
-              className="age-input"
+              type="range"
+              className="age-slider"
               value={currentPlayer.age}
               onChange={(e) => handleAgeChange(e.target.value)}
               min={4}
               max={99}
             />
+            <div className="age-range-labels">
+              <span>4</span>
+              <span>99</span>
+            </div>
           </div>
         </div>
 

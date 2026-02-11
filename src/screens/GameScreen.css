@@ -2,6 +2,37 @@
   /* Background applied dynamically via inline style based on current player */
 }
 
+.quit-button {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  width: 3rem;
+  height: 3rem;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.9);
+  border: 2px solid rgba(0, 0, 0, 0.1);
+  font-size: 1.5rem;
+  color: #666;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 10;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+.quit-button:hover {
+  background: rgba(255, 255, 255, 1);
+  color: #ff4444;
+  transform: scale(1.1);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.quit-button:active {
+  transform: scale(0.95);
+}
+
 .game-header {
   background: white;
   padding: 1.5rem;
