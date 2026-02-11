@@ -22,23 +22,23 @@ function shuffleArray<T>(array: T[]): T[] {
  */
 function getDifficultyDistributionByAge(age: number): [number, number, number] {
   if (age <= 6) {
-    // Very young: 70% easy, 25% medium, 5% hard
-    return [0.70, 0.25, 0.05];
-  } else if (age <= 8) {
-    // Young: 50% easy, 35% medium, 15% hard
+    // Very young: 50% easy, 35% medium, 15% hard
     return [0.50, 0.35, 0.15];
+  } else if (age <= 8) {
+    // Young: 35% easy, 45% medium, 20% hard
+    return [0.35, 0.45, 0.20];
   } else if (age <= 10) {
-    // Default kids: 40% easy, 40% medium, 20% hard
-    return [0.40, 0.40, 0.20];
+    // Default kids: 30% easy, 45% medium, 25% hard
+    return [0.30, 0.45, 0.25];
   } else if (age <= 12) {
-    // Older kids: 25% easy, 50% medium, 25% hard
-    return [0.25, 0.50, 0.25];
+    // Older kids: 20% easy, 50% medium, 30% hard
+    return [0.20, 0.50, 0.30];
   } else if (age <= 15) {
-    // Teens: 10% easy, 50% medium, 40% hard
-    return [0.10, 0.50, 0.40];
+    // Teens: 10% easy, 45% medium, 45% hard
+    return [0.10, 0.45, 0.45];
   } else {
-    // Adults: 0% easy, 40% medium, 60% hard
-    return [0.0, 0.40, 0.60];
+    // Adults: 0% easy, 35% medium, 65% hard
+    return [0.0, 0.35, 0.65];
   }
 }
 
