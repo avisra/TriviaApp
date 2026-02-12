@@ -2398,5 +2398,805 @@
     "question": "What is the Mirror of Erised's inscription?",
     "options": ["I show desire", "Erised stra ehru oyt ube cafru oyt on wohsi", "See your heart", "Show me truth"],
     "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0101",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What is the name of Harry's godfather?",
+    "options": ["Remus Lupin", "Sirius Black", "James Potter", "Peter Pettigrew"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0102",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What color is Hufflepuff?",
+    "options": ["Yellow and black", "Red and gold", "Green and silver", "Blue and bronze"],
+    "answerIndex": 0
+  },
+  {
+    "id": "harrypotter_e_0103",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What spell makes light appear at the end of your wand?",
+    "options": ["Expelliarmus", "Lumos", "Alohomora", "Accio"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0104",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What is Hermione's cat's name?",
+    "options": ["Fluffy", "Crookshanks", "Mrs. Norris", "Scabbers"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0105",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What platform does the Hogwarts Express leave from?",
+    "options": ["Platform 9", "Platform 10", "Platform 9 3/4", "Platform 8"],
+    "answerIndex": 2
+  },
+  {
+    "id": "harrypotter_e_0106",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What creature guards the entrance to Gryffindor Tower?",
+    "options": ["A dragon", "The Fat Lady", "A statue", "Peeves"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0107",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What street does Harry live on with the Dursleys?",
+    "options": ["Spinner's End", "Grimmauld Place", "Privet Drive", "Diagon Alley"],
+    "answerIndex": 2
+  },
+  {
+    "id": "harrypotter_e_0108",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What is the name of Harry's cousin?",
+    "options": ["Vernon", "Dudley", "Petunia", "Marge"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0109",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What do wizard children ride to get to Hogwarts?",
+    "options": ["Flying carpet", "Broomstick", "Hogwarts Express", "Floo powder"],
+    "answerIndex": 2
+  },
+  {
+    "id": "harrypotter_e_0110",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What color is Ravenclaw?",
+    "options": ["Blue and bronze", "Yellow and black", "Red and gold", "Green and silver"],
+    "answerIndex": 0
+  },
+  {
+    "id": "harrypotter_m_0101",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What is the name of the Weasley family home?",
+    "options": ["The Burrow", "The Den", "The Nest", "The Warren"],
+    "answerIndex": 0
+  },
+  {
+    "id": "harrypotter_m_0102",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What spell unlocks doors?",
+    "options": ["Colloportus", "Alohomora", "Bombarda", "Reducto"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0103",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What is the name of Dumbledore's phoenix?",
+    "options": ["Fawkes", "Hedwig", "Buckbeak", "Norbert"],
+    "answerIndex": 0
+  },
+  {
+    "id": "harrypotter_m_0104",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What is the core of Harry's wand?",
+    "options": ["Dragon heartstring", "Unicorn hair", "Phoenix feather", "Thestral tail hair"],
+    "answerIndex": 2
+  },
+  {
+    "id": "harrypotter_m_0105",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What is the name of the Slytherin ghost?",
+    "options": ["The Fat Friar", "The Bloody Baron", "Nearly Headless Nick", "The Grey Lady"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0106",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What creature can only be seen by those who have witnessed death?",
+    "options": ["Dementor", "Thestral", "Boggart", "Hippogriff"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0107",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What is the spell to summon objects?",
+    "options": ["Accio", "Wingardium Leviosa", "Mobiliarbus", "Locomotor"],
+    "answerIndex": 0
+  },
+  {
+    "id": "harrypotter_m_0108",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "Who is the Half-Blood Prince?",
+    "options": ["Tom Riddle", "Sirius Black", "Severus Snape", "Draco Malfoy"],
+    "answerIndex": 2
+  },
+  {
+    "id": "harrypotter_m_0109",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What is the name of the poltergeist at Hogwarts?",
+    "options": ["Moaning Myrtle", "Peeves", "The Bloody Baron", "Nearly Headless Nick"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0110",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What is Voldemort's real name?",
+    "options": ["Tom Riddle", "Tom Marvolo Riddle", "Marvolo Gaunt", "Salazar Slytherin"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0111",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What plant's cry is fatal to anyone who hears it?",
+    "options": ["Devil's Snare", "Mandrake", "Venomous Tentacula", "Gillyweed"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0112",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What is the name of the three-headed dog?",
+    "options": ["Cerberus", "Fang", "Fluffy", "Ripper"],
+    "answerIndex": 2
+  },
+  {
+    "id": "harrypotter_m_0113",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What is the Patronus charm used against?",
+    "options": ["Death Eaters", "Dementors", "Voldemort", "Boggarts"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0114",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What shape is Harry's Patronus?",
+    "options": ["Stag", "Otter", "Jack Russell Terrier", "Phoenix"],
+    "answerIndex": 0
+  },
+  {
+    "id": "harrypotter_m_0115",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What is the name of the pub in Hogsmeade?",
+    "options": ["The Leaky Cauldron", "The Hog's Head", "The Three Broomsticks", "The Boar's Head"],
+    "answerIndex": 2
+  },
+  {
+    "id": "harrypotter_m_0116",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What potion allows you to take the form of another person?",
+    "options": ["Felix Felicis", "Polyjuice Potion", "Veritaserum", "Amortentia"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0117",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What are the Deathly Hallows?",
+    "options": ["Three magical objects", "Four houses", "Seven Horcruxes", "Five founders"],
+    "answerIndex": 0
+  },
+  {
+    "id": "harrypotter_m_0118",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What is the name of the wizarding bank?",
+    "options": ["Gringotts", "Flourish and Blotts", "Ollivanders", "The Daily Prophet"],
+    "answerIndex": 0
+  },
+  {
+    "id": "harrypotter_m_0119",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What creatures run Gringotts?",
+    "options": ["House-elves", "Goblins", "Wizards", "Centaurs"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0120",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What is the motto of Hogwarts?",
+    "options": ["Never tickle a sleeping dragon", "Knowledge is power", "Magic is might", "Wit beyond measure"],
+    "answerIndex": 0
+  },
+  {
+    "id": "harrypotter_m_0121",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What is Hermione's Patronus?",
+    "options": ["Cat", "Otter", "Horse", "Rabbit"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0122",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What does the spell 'Expecto Patronum' do?",
+    "options": ["Disarms opponent", "Creates a Patronus", "Makes light", "Unlocks doors"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0123",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What is the name of the Hogwarts caretaker?",
+    "options": ["Argus Filch", "Horace Slughorn", "Filius Flitwick", "Rubeus Hagrid"],
+    "answerIndex": 0
+  },
+  {
+    "id": "harrypotter_m_0124",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What is Filch's cat's name?",
+    "options": ["Crookshanks", "Mrs. Norris", "Mr. Tibbles", "Fluffy"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0125",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What does the Sorting Hat do?",
+    "options": ["Grants wishes", "Sorts students into houses", "Tells the future", "Teaches spells"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0126",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What magical object does Harry inherit from Dumbledore?",
+    "options": ["Elder Wand", "Invisibility Cloak", "Resurrection Stone", "Deluminator"],
+    "answerIndex": 2
+  },
+  {
+    "id": "harrypotter_m_0127",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What does Ron inherit from Dumbledore?",
+    "options": ["A book", "The Deluminator", "A wand", "A photo"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0128",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What creature is Aragog?",
+    "options": ["Dragon", "Basilisk", "Acromantula", "Hippogriff"],
+    "answerIndex": 2
+  },
+  {
+    "id": "harrypotter_m_0129",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What is the name of the Weasley twins?",
+    "options": ["Fred and George", "Bill and Charlie", "Percy and Ron", "Gideon and Fabian"],
+    "answerIndex": 0
+  },
+  {
+    "id": "harrypotter_m_0130",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What does O.W.L. stand for?",
+    "options": ["Ordinary Wizarding Level", "Outstanding Wizard Learning", "Official Wizard License", "Ordinary Wizard License"],
+    "answerIndex": 0
+  },
+  {
+    "id": "harrypotter_m_0131",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What creature guards Azkaban?",
+    "options": ["Dragons", "Dementors", "Giants", "Werewolves"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0132",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What is the name of Neville's pet toad?",
+    "options": ["Trevor", "Scabbers", "Fang", "Norbert"],
+    "answerIndex": 0
+  },
+  {
+    "id": "harrypotter_m_0133",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What does the Marauder's Map show?",
+    "options": ["Treasure locations", "Secret passages and people's locations", "The future", "Spells"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0134",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What are the Marauders' nicknames?",
+    "options": ["Moony, Wormtail, Padfoot, Prongs", "Snape, Potter, Black, Lupin", "The Troublemakers", "The Pranksters"],
+    "answerIndex": 0
+  },
+  {
+    "id": "harrypotter_m_0135",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What form does Ron's Boggart take?",
+    "options": ["Voldemort", "Spider", "Dementor", "Snake"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0136",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What is the name of Sirius Black's house?",
+    "options": ["12 Grimmauld Place", "The Burrow", "Malfoy Manor", "Spinner's End"],
+    "answerIndex": 0
+  },
+  {
+    "id": "harrypotter_m_0137",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What is the incantation for the disarming spell?",
+    "options": ["Stupefy", "Expelliarmus", "Protego", "Impedimenta"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0138",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What is the name of the house-elf who serves the Malfoys?",
+    "options": ["Kreacher", "Winky", "Dobby", "Hokey"],
+    "answerIndex": 2
+  },
+  {
+    "id": "harrypotter_m_0139",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What is Dumbledore's full name?",
+    "options": ["Albus Dumbledore", "Albus Percival Wulfric Brian Dumbledore", "Albus Brian Dumbledore", "Albus Wulfric Dumbledore"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0140",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What creature is Buckbeak?",
+    "options": ["Dragon", "Phoenix", "Hippogriff", "Griffin"],
+    "answerIndex": 2
+  },
+  {
+    "id": "harrypotter_m_0141",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What does Felix Felicis do?",
+    "options": ["Makes you invisible", "Brings good luck", "Heals wounds", "Makes you fly"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0142",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What is the nickname for Felix Felicis?",
+    "options": ["Lucky Potion", "Liquid Luck", "Golden Drop", "Fortune's Friend"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0143",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What is Snape's Patronus?",
+    "options": ["Snake", "Doe", "Bat", "Raven"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0144",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What is the Room of Requirement?",
+    "options": ["A hidden room", "A room that appears when you need it", "Dumbledore's office", "The Great Hall"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0145",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What is the Triwizard Tournament?",
+    "options": ["A Quidditch match", "A magical competition", "A school exam", "A dueling club"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0146",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "How many schools compete in the Triwizard Tournament?",
+    "options": ["Two", "Three", "Four", "Five"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0147",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What is the name of the Ravenclaw ghost?",
+    "options": ["The Bloody Baron", "The Grey Lady", "Nearly Headless Nick", "The Fat Friar"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0148",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What subject does Professor McGonagall teach?",
+    "options": ["Potions", "Charms", "Transfiguration", "Defense Against the Dark Arts"],
+    "answerIndex": 2
+  },
+  {
+    "id": "harrypotter_m_0149",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What spell turns the lights off?",
+    "options": ["Lumos", "Nox", "Finite", "Obscuro"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0150",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What is the Elder Wand made from?",
+    "options": ["Oak", "Ash", "Elder", "Yew"],
+    "answerIndex": 2
+  },
+  {
+    "id": "harrypotter_m_0151",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What potion allows you to breathe underwater?",
+    "options": ["Gillyweed", "Felix Felicis", "Polyjuice Potion", "Draught of Living Death"],
+    "answerIndex": 0
+  },
+  {
+    "id": "harrypotter_m_0152",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "Who is the ghost of Gryffindor?",
+    "options": ["The Bloody Baron", "The Grey Lady", "Nearly Headless Nick", "The Fat Friar"],
+    "answerIndex": 2
+  },
+  {
+    "id": "harrypotter_m_0153",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What is the name of Hagrid's giant half-brother?",
+    "options": ["Grawp", "Karkus", "Golgomath", "Fridwulfa"],
+    "answerIndex": 0
+  },
+  {
+    "id": "harrypotter_m_0154",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What is the spell to levitate objects?",
+    "options": ["Accio", "Wingardium Leviosa", "Locomotor", "Ascendio"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0155",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What does N.E.W.T. stand for?",
+    "options": ["Nastily Exhausting Wizarding Test", "New Excellent Wizard Test", "Notable Educational Wizard Trial", "Necessary Educational Wizard Test"],
+    "answerIndex": 0
+  },
+  {
+    "id": "harrypotter_m_0156",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What language does Harry discover he can speak?",
+    "options": ["Mermish", "Gobbledegook", "Parseltongue", "Troll"],
+    "answerIndex": 2
+  },
+  {
+    "id": "harrypotter_m_0157",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What is Parseltongue?",
+    "options": ["Dragon language", "Snake language", "Ancient runes", "Goblin language"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0158",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What is the name of the basilisk in the Chamber of Secrets?",
+    "options": ["Nagini", "Slytherin's Monster", "The Serpent", "It has no name"],
+    "answerIndex": 3
+  },
+  {
+    "id": "harrypotter_m_0159",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What does the Time-Turner do?",
+    "options": ["Tells time", "Allows time travel", "Stops time", "Speeds up time"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0160",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "Who gives Hermione the Time-Turner?",
+    "options": ["Dumbledore", "McGonagall", "Snape", "Flitwick"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0101",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What is the full incantation of the Patronus Charm?",
+    "options": ["Expecto Patronum", "Expecto Patronus", "Patronus Expecto", "Expectum Patronus"],
+    "answerIndex": 0
+  },
+  {
+    "id": "harrypotter_h_0102",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What is the name of Dumbledore's brother?",
+    "options": ["Albus", "Aberforth", "Percival", "Kendra"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0103",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What is the address of Sirius Black's house?",
+    "options": ["11 Grimmauld Place", "12 Grimmauld Place", "13 Grimmauld Place", "10 Grimmauld Place"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0104",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What is the name of the Black family house-elf?",
+    "options": ["Dobby", "Winky", "Kreacher", "Hokey"],
+    "answerIndex": 2
+  },
+  {
+    "id": "harrypotter_h_0105",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What are the three Unforgivable Curses?",
+    "options": ["Imperius, Cruciatus, Avada Kedavra", "Imperius, Crucio, Killing Curse", "Confundus, Cruciatus, Avada Kedavra", "Imperio, Torture, Death"],
+    "answerIndex": 0
+  },
+  {
+    "id": "harrypotter_h_0106",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What is the incantation for the Killing Curse?",
+    "options": ["Avada Kedavra", "Crucio", "Imperio", "Sectumsempra"],
+    "answerIndex": 0
+  },
+  {
+    "id": "harrypotter_h_0107",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What is Voldemort's mother's name?",
+    "options": ["Merope Gaunt", "Bellatrix Lestrange", "Narcissa Malfoy", "Rowena Ravenclaw"],
+    "answerIndex": 0
+  },
+  {
+    "id": "harrypotter_h_0108",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "How many Horcruxes did Voldemort create?",
+    "options": ["Five", "Six", "Seven", "Eight"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0109",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What was the first Horcrux destroyed?",
+    "options": ["The ring", "The diary", "The locket", "The cup"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0110",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What is the name of the wandmaker?",
+    "options": ["Gregorovitch", "Ollivander", "Both A and B", "None"],
+    "answerIndex": 2
+  },
+  {
+    "id": "harrypotter_h_0111",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What is the core of Voldemort's wand?",
+    "options": ["Dragon heartstring", "Phoenix feather", "Unicorn hair", "Thestral tail"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0112",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "Whose wand core is the twin of Harry's?",
+    "options": ["Dumbledore's", "Voldemort's", "Snape's", "McGonagall's"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0113",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What is the most powerful love potion?",
+    "options": ["Felix Felicis", "Polyjuice Potion", "Amortentia", "Veritaserum"],
+    "answerIndex": 2
+  },
+  {
+    "id": "harrypotter_h_0114",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What does Veritaserum do?",
+    "options": ["Makes you fall in love", "Forces you to tell the truth", "Makes you invisible", "Heals wounds"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0115",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What is the name of Voldemort's snake?",
+    "options": ["Nagini", "Basilisk", "Serpent", "Python"],
+    "answerIndex": 0
+  },
+  {
+    "id": "harrypotter_h_0116",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What type of creature is Nagini?",
+    "options": ["Basilisk", "Horcrux and snake", "Python", "Magical serpent"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0117",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What is the Fidelius Charm?",
+    "options": ["A protection spell", "A spell that hides a secret", "An invisibility spell", "A truth spell"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0118",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "Who was the Secret Keeper for the Potters?",
+    "options": ["Sirius Black", "Remus Lupin", "Peter Pettigrew", "Albus Dumbledore"],
+    "answerIndex": 2
+  },
+  {
+    "id": "harrypotter_h_0119",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What creature is Professor Lupin?",
+    "options": ["Vampire", "Werewolf", "Animagus", "Metamorphmagus"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0120",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What potion helps werewolves control their transformation?",
+    "options": ["Wolfsbane Potion", "Polyjuice Potion", "Felix Felicis", "Draught of Peace"],
+    "answerIndex": 0
+  },
+  {
+    "id": "harrypotter_h_0121",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What is an Animagus?",
+    "options": ["A werewolf", "A wizard who can turn into an animal", "A magical creature", "A spell"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0122",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What animal does Sirius Black transform into?",
+    "options": ["Wolf", "Stag", "Dog", "Rat"],
+    "answerIndex": 2
+  },
+  {
+    "id": "harrypotter_h_0123",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What animal does Peter Pettigrew transform into?",
+    "options": ["Rat", "Cat", "Dog", "Beetle"],
+    "answerIndex": 0
+  },
+  {
+    "id": "harrypotter_h_0124",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What animal does James Potter transform into?",
+    "options": ["Dog", "Wolf", "Stag", "Horse"],
+    "answerIndex": 2
+  },
+  {
+    "id": "harrypotter_h_0125",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What is a Metamorphmagus?",
+    "options": ["A shape-shifter", "Someone who can change their appearance at will", "An Animagus", "A potion master"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0126",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "Who is a Metamorphmagus in the series?",
+    "options": ["Hermione", "Tonks", "Luna", "Ginny"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0127",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What is the name of the Order of the Phoenix headquarters?",
+    "options": ["The Burrow", "12 Grimmauld Place", "Hogwarts", "The Ministry"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0128",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What potion is also known as 'Draught of Living Death'?",
+    "options": ["A sleeping potion", "A deadly poison", "A transformation potion", "A healing potion"],
+    "answerIndex": 0
+  },
+  {
+    "id": "harrypotter_h_0129",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What is the Resurrection Stone?",
+    "options": ["A stone that brings back the dead", "One of the Deathly Hallows", "A magical gem", "Both A and B"],
+    "answerIndex": 3
+  },
+  {
+    "id": "harrypotter_h_0130",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What is the Cloak of Invisibility?",
+    "options": ["A spell", "One of the Deathly Hallows", "A potion effect", "A charm"],
+    "answerIndex": 1
   }
 ]

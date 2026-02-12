@@ -2398,5 +2398,2405 @@
       "question": "What is the hibernation body temperature of an Arctic ground squirrel?",
       "options": ["-5°F (-20°C)", "-3°C (27°F)", "0°C (32°F)", "5°C (41°F)"],
       "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0084",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What color is a polar bear's skin under its fur?",
+      "options": ["White", "Black", "Pink", "Brown"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0085",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which bird is known for its colorful tail feathers?",
+      "options": ["Peacock", "Crow", "Sparrow", "Robin"],
+      "answerIndex": 0
+    },
+    {
+      "id": "animals_e_0086",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "How many humps does a Bactrian camel have?",
+      "options": ["One", "Two", "Three", "Four"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0087",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What do caterpillars turn into?",
+      "options": ["Beetles", "Butterflies", "Dragonflies", "Grasshoppers"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0088",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which ocean animal has eight arms?",
+      "options": ["Squid", "Jellyfish", "Octopus", "Starfish"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_e_0089",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What is the fastest land animal?",
+      "options": ["Lion", "Cheetah", "Horse", "Gazelle"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0090",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which reptile can change its color?",
+      "options": ["Snake", "Turtle", "Chameleon", "Alligator"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_e_0091",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What do bees collect from flowers?",
+      "options": ["Water", "Nectar", "Seeds", "Leaves"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0092",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which animal is known for building dams?",
+      "options": ["Otter", "Beaver", "Muskrat", "Raccoon"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0093",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What is a baby horse called?",
+      "options": ["Calf", "Foal", "Cub", "Kid"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0094",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which animal has a long trunk?",
+      "options": ["Rhino", "Hippo", "Elephant", "Giraffe"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_e_0095",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What do penguins use to swim?",
+      "options": ["Flippers", "Paws", "Hooves", "Claws"],
+      "answerIndex": 0
+    },
+    {
+      "id": "animals_e_0096",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which insect makes honey?",
+      "options": ["Wasp", "Ant", "Bee", "Butterfly"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_e_0097",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What is the largest ocean animal?",
+      "options": ["Great White Shark", "Blue Whale", "Giant Squid", "Orca"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0098",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which animal has black and white stripes?",
+      "options": ["Horse", "Zebra", "Tiger", "Leopard"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0099",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What do snakes use to smell?",
+      "options": ["Nose", "Tongue", "Eyes", "Skin"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0100",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which bird cannot fly?",
+      "options": ["Eagle", "Penguin", "Parrot", "Hawk"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0101",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What do ladybugs eat?",
+      "options": ["Flowers", "Aphids", "Grass", "Wood"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0102",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which animal lives in a hive?",
+      "options": ["Ant", "Spider", "Bee", "Butterfly"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_e_0103",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What is a group of fish called?",
+      "options": ["Flock", "Herd", "School", "Pack"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_e_0104",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which animal has a pouch for its baby?",
+      "options": ["Koala", "Kangaroo", "Opossum", "All of these"],
+      "answerIndex": 3
+    },
+    {
+      "id": "animals_e_0105",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What do frogs eat?",
+      "options": ["Plants", "Insects", "Seeds", "Fruit"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0106",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which animal is known for its slow movement?",
+      "options": ["Sloth", "Monkey", "Squirrel", "Rabbit"],
+      "answerIndex": 0
+    },
+    {
+      "id": "animals_e_0107",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What is a baby duck called?",
+      "options": ["Chick", "Duckling", "Gosling", "Eaglet"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0108",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which animal has a shell on its back?",
+      "options": ["Lizard", "Turtle", "Snake", "Frog"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0109",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What do spiders spin?",
+      "options": ["Silk", "Cotton", "Wool", "Thread"],
+      "answerIndex": 0
+    },
+    {
+      "id": "animals_e_0110",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which animal is known for hopping?",
+      "options": ["Dog", "Cat", "Rabbit", "Mouse"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_e_0111",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What is the tallest animal in the world?",
+      "options": ["Elephant", "Giraffe", "Camel", "Ostrich"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0112",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which bird is a symbol of peace?",
+      "options": ["Eagle", "Dove", "Owl", "Hawk"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0113",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What do koalas mainly eat?",
+      "options": ["Bamboo", "Eucalyptus leaves", "Berries", "Fish"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0114",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which animal has antlers?",
+      "options": ["Cow", "Horse", "Deer", "Goat"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_e_0115",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What is a baby goat called?",
+      "options": ["Lamb", "Calf", "Kid", "Foal"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_e_0116",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which sea animal has a hard shell?",
+      "options": ["Fish", "Crab", "Dolphin", "Whale"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0117",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What do squirrels collect and store for winter?",
+      "options": ["Leaves", "Nuts", "Water", "Stones"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0118",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which animal howls at the moon?",
+      "options": ["Dog", "Wolf", "Fox", "Coyote"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0119",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What type of animal is a goldfish?",
+      "options": ["Mammal", "Bird", "Fish", "Reptile"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_e_0120",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which insect has colorful wings?",
+      "options": ["Ant", "Butterfly", "Beetle", "Fly"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0121",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What do owls hunt at?",
+      "options": ["Dawn", "Day", "Night", "Noon"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_e_0122",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which animal is known for carrying its home?",
+      "options": ["Snail", "Worm", "Ant", "Beetle"],
+      "answerIndex": 0
+    },
+    {
+      "id": "animals_e_0123",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What do rabbits eat?",
+      "options": ["Meat", "Vegetables", "Fish", "Insects"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0124",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which animal has a mane?",
+      "options": ["Tiger", "Lion", "Leopard", "Cheetah"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0125",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What is a baby seal called?",
+      "options": ["Pup", "Calf", "Kit", "Cub"],
+      "answerIndex": 0
+    },
+    {
+      "id": "animals_e_0126",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which bird lays the largest eggs?",
+      "options": ["Eagle", "Ostrich", "Chicken", "Emu"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0127",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What do dolphins use to breathe?",
+      "options": ["Gills", "Blowhole", "Mouth", "Nose"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0128",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which animal is known for playing dead?",
+      "options": ["Raccoon", "Opossum", "Skunk", "Fox"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0129",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What type of animal is a crocodile?",
+      "options": ["Mammal", "Bird", "Reptile", "Amphibian"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_e_0130",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which animal has spots?",
+      "options": ["Zebra", "Tiger", "Leopard", "Lion"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_e_0131",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What do ants live in?",
+      "options": ["Hive", "Colony", "Nest", "Den"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0132",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which animal is known for its quills?",
+      "options": ["Hedgehog", "Porcupine", "Both hedgehog and porcupine", "Skunk"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_e_0133",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What is a baby bear called?",
+      "options": ["Pup", "Cub", "Kit", "Calf"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0127",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "Which mammal can truly fly?",
+      "options": ["Flying squirrel", "Sugar glider", "Bat", "Flying lemur"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_m_0128",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What is the migration distance of Arctic terns each year?",
+      "options": ["10,000 miles", "25,000 miles", "44,000 miles", "60,000 miles"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_m_0129",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "Which reptile can detach its tail to escape predators?",
+      "options": ["Snake", "Crocodile", "Gecko", "Turtle"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_m_0130",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "How many chambers does a fish heart have?",
+      "options": ["One", "Two", "Three", "Four"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0131",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "Which insect can lift up to 50 times its own weight?",
+      "options": ["Beetle", "Ant", "Grasshopper", "Bee"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0132",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What is the only continent where penguins live in the wild?",
+      "options": ["Arctic", "Antarctica and nearby", "North America", "Asia"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0133",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "How do elephants communicate over long distances?",
+      "options": ["Loud trumpeting", "Infrasound", "Body language", "Scent marking"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0134",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "Which bird has the fastest diving speed?",
+      "options": ["Eagle", "Hawk", "Peregrine Falcon", "Osprey"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_m_0135",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What is unique about a platypus?",
+      "options": ["It's a venomous mammal", "It lays eggs", "It has a duck bill", "All of these"],
+      "answerIndex": 3
+    },
+    {
+      "id": "animals_m_0136",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "How many legs does a lobster have?",
+      "options": ["6", "8", "10", "12"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_m_0137",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What is the function of a camel's hump?",
+      "options": ["Store water", "Store fat", "Balance", "Temperature regulation"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0138",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "Which snake is the longest in the world?",
+      "options": ["Python", "Anaconda", "Reticulated Python", "King Cobra"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_m_0139",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "How do whales sleep?",
+      "options": ["Fully submerged", "On the surface", "One brain hemisphere at a time", "They don't sleep"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_m_0140",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What is a group of crows called?",
+      "options": ["Murder", "Flock", "Gaggle", "Parliament"],
+      "answerIndex": 0
+    },
+    {
+      "id": "animals_m_0141",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "Which animal has the strongest bite force relative to its size?",
+      "options": ["Crocodile", "Shark", "Tasmanian Devil", "Hyena"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_m_0142",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "How many eyes does a bee have?",
+      "options": ["2", "3", "5", "6"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_m_0143",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What is the primary diet of a Giant Panda?",
+      "options": ["Fish", "Bamboo", "Insects", "Small mammals"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0144",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "Which bird is known for its elaborate courtship dance?",
+      "options": ["Swan", "Peacock", "Bird of Paradise", "Flamingo"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_m_0145",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "How do sea turtles navigate back to their birthplace?",
+      "options": ["Memory", "Stars", "Earth's magnetic field", "Ocean currents"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_m_0146",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What is the only mammal that can't jump?",
+      "options": ["Elephant", "Hippo", "Rhino", "All of these"],
+      "answerIndex": 3
+    },
+    {
+      "id": "animals_m_0147",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "Which insect has the shortest lifespan?",
+      "options": ["Fruit fly", "Mayfly", "Ant", "Mosquito"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0148",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What is unique about the mantis shrimp's vision?",
+      "options": ["It sees in infrared", "It sees 16 color receptors", "It's colorblind", "It can see behind itself"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0149",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "How do flying squirrels glide?",
+      "options": ["Wings", "Patagium (skin membrane)", "Hollow bones", "Powered flight"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0150",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "Which reptile can run on water?",
+      "options": ["Basilisk lizard", "Water snake", "Crocodile", "Sea turtle"],
+      "answerIndex": 0
+    },
+    {
+      "id": "animals_m_0151",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What is the gestation period of an elephant?",
+      "options": ["9 months", "12 months", "18 months", "22 months"],
+      "answerIndex": 3
+    },
+    {
+      "id": "animals_m_0152",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "Which bird can mimic human speech most accurately?",
+      "options": ["Parrot", "Crow", "African Grey Parrot", "Mynah bird"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_m_0153",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "How do rattlesnakes produce their rattle sound?",
+      "options": ["Tail segments clicking", "Vocal cords", "Vibrating scales", "Air pockets"],
+      "answerIndex": 0
+    },
+    {
+      "id": "animals_m_0154",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What is the primary hunting method of orcas?",
+      "options": ["Ambush", "Pack hunting", "Echolocation", "All of these"],
+      "answerIndex": 3
+    },
+    {
+      "id": "animals_m_0155",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "Which insect can see ultraviolet light?",
+      "options": ["Ant", "Bee", "Butterfly", "All of these"],
+      "answerIndex": 3
+    },
+    {
+      "id": "animals_m_0156",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What is the lifespan of a queen bee?",
+      "options": ["1 year", "2-3 years", "5-7 years", "10 years"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_m_0157",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "Which mammal has the most powerful jaw muscles?",
+      "options": ["Lion", "Gorilla", "Hippopotamus", "Grizzly bear"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_m_0158",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "How do chameleons change color?",
+      "options": ["Pigment cells", "Chromatophores", "Nanocrystals in skin cells", "Diet"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_m_0159",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What is the deepest diving marine mammal?",
+      "options": ["Sperm whale", "Elephant seal", "Cuvier's beaked whale", "Orca"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_m_0160",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "Which bird has the largest wingspan?",
+      "options": ["Condor", "Albatross", "Eagle", "Pelican"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0161",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "How many hearts does an octopus have?",
+      "options": ["1", "2", "3", "4"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_m_0162",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What is the purpose of a zebra's stripes?",
+      "options": ["Camouflage", "Temperature regulation", "Insect deterrent", "All theories are debated"],
+      "answerIndex": 3
+    },
+    {
+      "id": "animals_m_0163",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "Which snake can spit venom?",
+      "options": ["Rattlesnake", "King Cobra", "Spitting Cobra", "Black Mamba"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_m_0164",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "How do bats navigate in the dark?",
+      "options": ["Night vision", "Echolocation", "Infrared", "Magnetic sense"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0165",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What is the world's smallest mammal by weight?",
+      "options": ["Pygmy shrew", "Etruscan shrew", "Bumblebee bat", "Mouse lemur"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_m_0166",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "Which animal has the longest pregnancy?",
+      "options": ["Elephant", "Whale", "Rhinoceros", "Giraffe"],
+      "answerIndex": 0
+    },
+    {
+      "id": "animals_m_0167",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What is unique about the axolotl?",
+      "options": ["It never metamorphoses", "It can regenerate limbs", "It's critically endangered", "All of these"],
+      "answerIndex": 3
+    },
+    {
+      "id": "animals_m_0168",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "How do electric eels generate electricity?",
+      "options": ["Specialized cells called electrocytes", "Chemical reactions", "Static buildup", "Muscle contractions"],
+      "answerIndex": 0
+    },
+    {
+      "id": "animals_m_0169",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "Which bird can sleep while flying?",
+      "options": ["Swift", "Albatross", "Frigatebird", "All of these"],
+      "answerIndex": 3
+    },
+    {
+      "id": "animals_m_0170",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What is the social structure of meerkats called?",
+      "options": ["Pack", "Mob", "Colony", "Troop"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0171",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "How do sea otters keep warm in cold water?",
+      "options": ["Blubber", "Dense fur", "High metabolism", "Both dense fur and high metabolism"],
+      "answerIndex": 3
+    },
+    {
+      "id": "animals_m_0172",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "Which insect can survive being frozen?",
+      "options": ["Ant", "Woolly bear caterpillar", "Bee", "Grasshopper"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0173",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What is the purpose of a peacock's tail display?",
+      "options": ["Warning predators", "Attracting mates", "Territorial display", "Temperature regulation"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0174",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "How do woodpeckers avoid brain damage?",
+      "options": ["Thick skull", "Shock-absorbing tissues", "Special cerebrospinal fluid", "All of these"],
+      "answerIndex": 3
+    },
+    {
+      "id": "animals_m_0175",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "Which animal has the best memory?",
+      "options": ["Elephant", "Dolphin", "Crow", "All have exceptional memory"],
+      "answerIndex": 3
+    },
+    {
+      "id": "animals_m_0176",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What is the hunting technique of archerfish?",
+      "options": ["Ambush", "Shooting water jets", "Luring prey", "Pack hunting"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_h_0092",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What is the metabolic rate decrease during a hummingbird's torpor?",
+      "options": ["25%", "50%", "75%", "95%"],
+      "answerIndex": 3
+    },
+    {
+      "id": "animals_h_0093",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many species of venomous mammals exist?",
+      "options": ["3", "8", "15", "Over 20"],
+      "answerIndex": 3
+    },
+    {
+      "id": "animals_h_0094",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What is the gestation period of the Alpine salamander?",
+      "options": ["6 months", "1 year", "2-3 years", "5 years"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0095",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many neurons are in an octopus's arms?",
+      "options": ["10 million", "50 million", "200 million", "500 million"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0096",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What percentage of a sloth's life is spent hanging upside down?",
+      "options": ["50%", "75%", "90%", "Almost 100%"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0097",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many species of ants have been documented worldwide?",
+      "options": ["5,000", "8,000", "12,000", "Over 15,000"],
+      "answerIndex": 3
+    },
+    {
+      "id": "animals_h_0098",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What is the blood pressure of a giraffe?",
+      "options": ["120/80 mmHg", "180/120 mmHg", "280/180 mmHg", "350/230 mmHg"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0099",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many taste buds does a catfish have?",
+      "options": ["10,000", "50,000", "100,000", "Over 175,000"],
+      "answerIndex": 3
+    },
+    {
+      "id": "animals_h_0100",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What is the frequency range of elephant infrasound communication?",
+      "options": ["1-10 Hz", "14-35 Hz", "50-100 Hz", "100-200 Hz"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_h_0101",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many times per second does a mosquito's wings beat?",
+      "options": ["100", "300", "500-600", "1000"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0102",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What is the diving depth record for a Cuvier's beaked whale?",
+      "options": ["1,000 meters", "2,000 meters", "2,992 meters", "4,000 meters"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0103",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many photoreceptor types do mantis shrimps have?",
+      "options": ["3", "8", "12", "16"],
+      "answerIndex": 3
+    },
+    {
+      "id": "animals_h_0104",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What is the speed of a peregrine falcon's hunting dive?",
+      "options": ["150 mph", "200 mph", "242 mph", "300 mph"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0105",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How long can a Greenland shark live?",
+      "options": ["100 years", "200 years", "300 years", "Over 400 years"],
+      "answerIndex": 3
+    },
+    {
+      "id": "animals_h_0106",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What is the voltage generated by a full-grown electric eel?",
+      "options": ["200 volts", "400 volts", "600 volts", "860 volts"],
+      "answerIndex": 3
+    },
+    {
+      "id": "animals_h_0107",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many segments are in a tapeworm's body?",
+      "options": ["10-20", "50-100", "100-500", "Up to 4,000"],
+      "answerIndex": 3
+    },
+    {
+      "id": "animals_h_0108",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What is the heart rate of a blue whale?",
+      "options": ["2-8 bpm", "20-30 bpm", "60-80 bpm", "100-120 bpm"],
+      "answerIndex": 0
+    },
+    {
+      "id": "animals_h_0109",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many cells does a sponge have approximately?",
+      "options": ["1,000", "10,000", "100,000", "Millions"],
+      "answerIndex": 3
+    },
+    {
+      "id": "animals_h_0110",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What is the bite force of a Nile crocodile in PSI?",
+      "options": ["1,000 PSI", "3,000 PSI", "5,000 PSI", "7,700 PSI"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0111",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many species are in the order Coleoptera (beetles)?",
+      "options": ["100,000", "200,000", "350,000+", "500,000"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0112",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What is the regeneration time for a starfish's arm?",
+      "options": ["1 week", "1 month", "3-6 months", "1 year"],
+      "answerIndex": 3
+    },
+    {
+      "id": "animals_h_0113",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many spines does a hedgehog have?",
+      "options": ["500-1,000", "2,000-3,000", "5,000-7,000", "10,000-15,000"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0114",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What is the body temperature of a frigatebird during flight?",
+      "options": ["38-40°C", "40-42°C", "43-45°C", "46-48°C"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_h_0115",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many muscles are in an elephant's trunk?",
+      "options": ["10,000", "25,000", "40,000", "Over 100,000"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0116",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What is the lifespan of a tardigrade (water bear)?",
+      "options": ["1 month", "6 months", "2 years", "Up to 60 years in cryptobiosis"],
+      "answerIndex": 3
+    },
+    {
+      "id": "animals_h_0117",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many teeth does a garden snail have?",
+      "options": ["100", "1,000", "10,000", "Over 14,000"],
+      "answerIndex": 3
+    },
+    {
+      "id": "animals_h_0118",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What is the surface area of a human lung compared to a blue whale's lung?",
+      "options": ["1:10", "1:50", "1:100", "1:200"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0119",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many chromosomes does an Indian muntjac deer have?",
+      "options": ["6", "12", "23", "46"],
+      "answerIndex": 0
+    },
+    {
+      "id": "animals_h_0120",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What is the territorial range of a tiger?",
+      "options": ["10-20 km²", "50-100 km²", "100-400 km²", "500-1000 km²"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0121",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many species of coral are there worldwide?",
+      "options": ["500", "1,000", "2,175", "5,000"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0122",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What is the running speed of a basilisk lizard on water?",
+      "options": ["3 mph", "5 mph", "7-8 mph", "12 mph"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0123",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many times its body weight can a dung beetle pull?",
+      "options": ["50 times", "500 times", "1,141 times", "5,000 times"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0124",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What is the gestational period of a black Alpine salamander?",
+      "options": ["9 months", "18 months", "38 months", "48 months"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0125",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many neurons are in a crow's brain?",
+      "options": ["100 million", "500 million", "1.5 billion", "5 billion"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0126",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What is the wing beat frequency of a ruby-throated hummingbird?",
+      "options": ["25 beats/sec", "53 beats/sec", "80 beats/sec", "120 beats/sec"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_h_0127",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many olfactory receptor genes do dogs have?",
+      "options": ["300", "800", "1,200", "Over 2,000"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_h_0128",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What is the maximum depth a leatherback sea turtle can dive?",
+      "options": ["500 meters", "1,000 meters", "1,280 meters", "2,000 meters"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0129",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many species of parasitic wasps exist?",
+      "options": ["1,000", "10,000", "50,000+", "100,000"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0130",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What is the acceleration rate of a mantis shrimp's strike?",
+      "options": ["100 m/s²", "1,000 m/s²", "10,400 m/s²", "50,000 m/s²"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0131",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many species of cicadas are there worldwide?",
+      "options": ["500", "1,500", "3,000+", "10,000"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0132",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What is the pressure of a pistol shrimp's bubble collapse?",
+      "options": ["100 psi", "500 psi", "2,000 psi", "8,000 psi"],
+      "answerIndex": 3
+    },
+    {
+      "id": "animals_h_0133",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many species are in the phylum Arthropoda?",
+      "options": ["500,000", "1 million", "1.2 million+", "5 million"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0134",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What is the swimming speed of a sailfish?",
+      "options": ["35 mph", "55 mph", "68 mph", "82 mph"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0135",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many genes does the water flea Daphnia have?",
+      "options": ["10,000", "20,000", "31,000", "50,000"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0136",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What is the frequency range of bat echolocation?",
+      "options": ["1-10 kHz", "10-30 kHz", "20-120 kHz", "50-200 kHz"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0137",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many vertebrae are in a giraffe's neck?",
+      "options": ["7", "14", "21", "28"],
+      "answerIndex": 0
+    },
+    {
+      "id": "animals_h_0138",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What is the lifespan of a queen termite?",
+      "options": ["5 years", "15 years", "30-50 years", "80 years"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0139",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many species of sharks exist?",
+      "options": ["100", "300", "500+", "1,000"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0140",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What is the temperature range tolerated by tardigrades?",
+      "options": ["-50°C to 100°C", "-100°C to 150°C", "-272°C to 150°C", "-300°C to 200°C"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0141",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many species of jellyfish are there?",
+      "options": ["500", "1,000", "2,000+", "5,000"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_e_0134",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What do koalas mainly eat?",
+      "options": ["Bamboo", "Eucalyptus leaves", "Berries", "Fish"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0135",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which animal is known for migrating the longest distance?",
+      "options": ["Arctic tern", "Monarch butterfly", "Whale", "Salmon"],
+      "answerIndex": 0
+    },
+    {
+      "id": "animals_e_0136",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What is a group of lions called?",
+      "options": ["Pack", "Herd", "Pride", "Flock"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_e_0137",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which big cat is endangered?",
+      "options": ["Tiger", "House cat", "Lynx", "Bobcat"],
+      "answerIndex": 0
+    },
+    {
+      "id": "animals_e_0138",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What do herbivores eat?",
+      "options": ["Meat", "Plants", "Both plants and meat", "Fish"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0139",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which animal is known for having a long lifespan?",
+      "options": ["Mouse", "Elephant", "Rabbit", "Hamster"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0140",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What is a group of fish called?",
+      "options": ["Herd", "School", "Pack", "Flock"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0141",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which bird migrates to warmer places in winter?",
+      "options": ["Penguin", "Ostrich", "Swallow", "Chicken"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_e_0142",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What do carnivores eat?",
+      "options": ["Plants", "Meat", "Rocks", "Wood"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0143",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which animal has a thick layer of blubber as an adaptation?",
+      "options": ["Giraffe", "Polar bear", "Lion", "Monkey"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0144",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What is a group of wolves called?",
+      "options": ["Pack", "Herd", "Pride", "Flock"],
+      "answerIndex": 0
+    },
+    {
+      "id": "animals_e_0145",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which endangered animal is black and white?",
+      "options": ["Tiger", "Lion", "Giant panda", "Elephant"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_e_0146",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What do omnivores eat?",
+      "options": ["Only plants", "Only meat", "Both plants and meat", "Nothing"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_e_0147",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which animal hibernates in winter?",
+      "options": ["Bear", "Lion", "Elephant", "Horse"],
+      "answerIndex": 0
+    },
+    {
+      "id": "animals_e_0148",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What is a group of birds called?",
+      "options": ["Pack", "Herd", "Flock", "School"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_e_0149",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which animal uses camouflage as an adaptation?",
+      "options": ["Chameleon", "Elephant", "Horse", "Cow"],
+      "answerIndex": 0
+    },
+    {
+      "id": "animals_e_0150",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What do sea turtles eat?",
+      "options": ["Wood", "Jellyfish and seagrass", "Rocks", "Sand"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0151",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which endangered animal has a horn?",
+      "options": ["Rhinoceros", "Zebra", "Lion", "Tiger"],
+      "answerIndex": 0
+    },
+    {
+      "id": "animals_e_0152",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What is a group of elephants called?",
+      "options": ["Pack", "Herd", "Pride", "School"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0153",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which animal migration is famous for crossing rivers?",
+      "options": ["Penguin", "Wildebeest", "Polar bear", "Koala"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0154",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What adaptation helps desert animals survive?",
+      "options": ["Thick fur", "Storing water", "Flying", "Swimming"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0155",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which animal has the longest lifespan?",
+      "options": ["Dog", "Cat", "Tortoise", "Rabbit"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_e_0156",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What is a group of gorillas called?",
+      "options": ["Band", "Herd", "Pack", "School"],
+      "answerIndex": 0
+    },
+    {
+      "id": "animals_e_0157",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which endangered animal lives in bamboo forests?",
+      "options": ["Lion", "Red panda", "Tiger", "Elephant"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0158",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What do butterflies eat?",
+      "options": ["Meat", "Nectar", "Wood", "Rocks"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0159",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which adaptation helps animals in cold climates?",
+      "options": ["Thin skin", "Thick fur", "Long legs", "Small ears"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0160",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What is a group of geese called?",
+      "options": ["Pack", "Gaggle", "Pride", "School"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0161",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which animal is known for annual salmon migration?",
+      "options": ["Salmon", "Goldfish", "Guppy", "Angelfish"],
+      "answerIndex": 0
+    },
+    {
+      "id": "animals_e_0162",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What do bats eat?",
+      "options": ["Only blood", "Insects and fruits", "Wood", "Rocks"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0163",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which endangered marine animal is the largest?",
+      "options": ["Dolphin", "Blue whale", "Shark", "Seal"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0164",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What is a group of ants called?",
+      "options": ["Army", "Herd", "Pack", "School"],
+      "answerIndex": 0
+    },
+    {
+      "id": "animals_e_0165",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which adaptation helps owls hunt at night?",
+      "options": ["Colorful feathers", "Excellent night vision", "Long tail", "Webbed feet"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0166",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What do deer eat?",
+      "options": ["Meat", "Plants and grass", "Fish", "Insects"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0167",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which animal has a shorter lifespan?",
+      "options": ["Elephant", "Whale", "Mouse", "Parrot"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_e_0168",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What is a group of crows called?",
+      "options": ["Murder", "Herd", "Pack", "School"],
+      "answerIndex": 0
+    },
+    {
+      "id": "animals_e_0169",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which endangered animal swims in oceans?",
+      "options": ["Sea turtle", "Cow", "Horse", "Chicken"],
+      "answerIndex": 0
+    },
+    {
+      "id": "animals_e_0170",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What adaptation helps camels survive in deserts?",
+      "options": ["Humps for storing fat", "Gills", "Wings", "Fins"],
+      "answerIndex": 0
+    },
+    {
+      "id": "animals_e_0171",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What do frogs eat?",
+      "options": ["Grass", "Insects", "Rocks", "Wood"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0172",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which animal migrates by flying south for winter?",
+      "options": ["Penguin", "Goose", "Ostrich", "Kiwi"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0173",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What is a group of bees called?",
+      "options": ["Swarm", "Herd", "Pack", "School"],
+      "answerIndex": 0
+    },
+    {
+      "id": "animals_e_0174",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which adaptation helps fish breathe underwater?",
+      "options": ["Lungs", "Gills", "Nose", "Mouth"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0175",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What do eagles eat?",
+      "options": ["Plants", "Small animals and fish", "Wood", "Rocks"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0176",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which endangered animal has spots?",
+      "options": ["Snow leopard", "Polar bear", "Elephant", "Rhinoceros"],
+      "answerIndex": 0
+    },
+    {
+      "id": "animals_e_0177",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What is a group of dolphins called?",
+      "options": ["Pack", "Pod", "Pride", "Herd"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0178",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which animal lives longest in the ocean?",
+      "options": ["Dolphin", "Shark", "Bowhead whale", "Seal"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_e_0179",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What adaptation helps arctic animals stay warm?",
+      "options": ["Thin fur", "Thick blubber and fur", "Long legs", "Big ears"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0180",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What do squirrels eat?",
+      "options": ["Meat", "Nuts and seeds", "Fish", "Rocks"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0181",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which endangered bird cannot fly?",
+      "options": ["Eagle", "Kakapo", "Hawk", "Falcon"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_e_0182",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "What is a group of penguins called?",
+      "options": ["Colony", "Herd", "Pack", "School"],
+      "answerIndex": 0
+    },
+    {
+      "id": "animals_e_0183",
+      "category": "animals",
+      "difficulty": "easy",
+      "question": "Which animal migrates over 3,000 miles?",
+      "options": ["Chicken", "Monarch butterfly", "Hamster", "Rabbit"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0177",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "How long do Asian elephants typically live in the wild?",
+      "options": ["20-30 years", "40-50 years", "60-70 years", "90-100 years"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_m_0178",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What is the main diet of a giant anteater?",
+      "options": ["Termites and ants", "Fruits", "Small mammals", "Grass"],
+      "answerIndex": 0
+    },
+    {
+      "id": "animals_m_0179",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "Which endangered species is known as the 'sea cow'?",
+      "options": ["Walrus", "Manatee", "Sea lion", "Seal"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0180",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What is a group of flamingos called?",
+      "options": ["Flock", "Flamboyance", "Colony", "Murder"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0181",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "How far can Arctic terns migrate annually?",
+      "options": ["10,000 miles", "25,000 miles", "44,000 miles", "60,000 miles"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_m_0182",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What adaptation allows sloths to hang upside down?",
+      "options": ["Strong tail", "Curved claws", "Sticky paws", "Magnetic fur"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0183",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What is the primary diet of a red panda?",
+      "options": ["Meat", "Bamboo", "Fruits", "Insects"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0184",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "How long can a Galápagos tortoise live?",
+      "options": ["50 years", "100 years", "Over 150 years", "200 years"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_m_0185",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What is a group of zebras called?",
+      "options": ["Herd", "Dazzle", "Pride", "Pack"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0186",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "Which adaptation helps fennec foxes survive in deserts?",
+      "options": ["Small ears", "Large ears for heat dissipation", "Thick fur", "No fur"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0187",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What do baleen whales primarily eat?",
+      "options": ["Large fish", "Krill and small organisms", "Seaweed", "Squid"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0188",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "Which endangered great ape is native to Borneo?",
+      "options": ["Gorilla", "Chimpanzee", "Orangutan", "Bonobo"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_m_0189",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "How long do annual cicadas live underground?",
+      "options": ["1 year", "2-5 years", "13-17 years", "50 years"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0190",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What is a group of otters called?",
+      "options": ["Pack", "Raft", "Herd", "School"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0191",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "Which migration involves millions of animals crossing the Serengeti?",
+      "options": ["Caribou migration", "Wildebeest migration", "Monarch migration", "Salmon run"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0192",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What adaptation allows electric eels to stun prey?",
+      "options": ["Venom", "Electric organs", "Teeth", "Claws"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0193",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What is the primary diet of a kookaburra?",
+      "options": ["Seeds", "Nectar", "Small animals and insects", "Leaves"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_m_0194",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "How long do African grey parrots typically live?",
+      "options": ["10-15 years", "20-30 years", "40-60 years", "80-100 years"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_m_0195",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What is a group of rhinoceroses called?",
+      "options": ["Herd", "Crash", "Pride", "Pack"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0196",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "Which endangered whale is known for its singing?",
+      "options": ["Blue whale", "Humpback whale", "Orca", "Beluga whale"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0197",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What adaptation allows chameleons to catch prey?",
+      "options": ["Fast running", "Projectile tongue", "Venomous bite", "Sharp claws"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0198",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What do vampire bats primarily feed on?",
+      "options": ["Insects", "Blood", "Fruits", "Nectar"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0199",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "How long can periodical cicadas live?",
+      "options": ["1 year", "5 years", "17 years", "30 years"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_m_0200",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What is a group of jellyfish called?",
+      "options": ["School", "Smack", "Pod", "Herd"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0201",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "Which adaptation helps sea turtles navigate during migration?",
+      "options": ["Following birds", "Earth's magnetic field", "Star navigation", "Random swimming"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0202",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What is the diet of a pangolin?",
+      "options": ["Leaves", "Ants and termites", "Fish", "Fruits"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0203",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "How long do Greenland sharks live?",
+      "options": ["50 years", "100 years", "Over 400 years", "1,000 years"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_m_0204",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What is a group of porcupines called?",
+      "options": ["Prickle", "Herd", "Pack", "Colony"],
+      "answerIndex": 0
+    },
+    {
+      "id": "animals_m_0205",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "Which endangered animal is the world's smallest porpoise?",
+      "options": ["Dolphin", "Vaquita", "Narwhal", "Beluga"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0206",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What adaptation allows archerfish to hunt?",
+      "options": ["Flying", "Spitting water jets", "Electric shock", "Venom"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0207",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What do honey badgers eat?",
+      "options": ["Only honey", "Almost anything including honey", "Only plants", "Only meat"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0208",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "How long do queen bees typically live?",
+      "options": ["1 month", "6 months", "2-5 years", "10 years"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_m_0209",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What is a group of hedgehogs called?",
+      "options": ["Array", "Herd", "Pack", "School"],
+      "answerIndex": 0
+    },
+    {
+      "id": "animals_m_0210",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "Which bird migrates from Alaska to New Zealand?",
+      "options": ["Goose", "Bar-tailed godwit", "Robin", "Sparrow"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0211",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What adaptation helps axolotls regenerate limbs?",
+      "options": ["Special diet", "Stem cells", "Magic", "Sunlight"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0212",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What is the primary diet of a spectacled bear?",
+      "options": ["Fish", "Plants and fruits", "Only meat", "Insects"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0213",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "How long do macaws live in captivity?",
+      "options": ["10-20 years", "30-40 years", "50-80 years", "100 years"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_m_0214",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What is a group of kangaroos called?",
+      "options": ["Pack", "Mob", "Pride", "Herd"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0215",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "Which critically endangered species is related to horses?",
+      "options": ["Donkey", "Grevy's zebra", "Mule", "Tapir"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0216",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What adaptation allows mudskippers to survive on land?",
+      "options": ["Lungs", "Skin breathing and gill chambers", "Wings", "Scales"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0217",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What do leafcutter ants eat?",
+      "options": ["Leaves directly", "Fungus grown on leaves", "Insects", "Nectar"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0218",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "How long do box jellyfish live?",
+      "options": ["Less than 1 year", "5 years", "10 years", "20 years"],
+      "answerIndex": 0
+    },
+    {
+      "id": "animals_m_0219",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What is a group of peacocks called?",
+      "options": ["Party", "Muster", "Flock", "Pride"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0220",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "Which salmon species migrates the farthest?",
+      "options": ["Pink salmon", "Chinook salmon", "Atlantic salmon", "Coho salmon"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0221",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What adaptation allows bombardier beetles to defend themselves?",
+      "options": ["Camouflage", "Chemical spray", "Stinging", "Biting"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0222",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What is the diet of a tasmanian devil?",
+      "options": ["Plants", "Carrion and live prey", "Insects only", "Fruits"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0223",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "How long do ocean quahog clams live?",
+      "options": ["10 years", "50 years", "Over 500 years", "1,000 years"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_m_0224",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What is a group of stingrays called?",
+      "options": ["School", "Fever", "Pod", "Pack"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0225",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "Which endangered cat is adapted to high altitudes?",
+      "options": ["Lion", "Snow leopard", "Cheetah", "Jaguar"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_m_0226",
+      "category": "animals",
+      "difficulty": "medium",
+      "question": "What adaptation allows glass frogs to be transparent?",
+      "options": ["No skin", "Minimal tissue pigmentation", "Air pockets", "Light reflection"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_h_0142",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many years can a Bowhead whale live?",
+      "options": ["100 years", "150 years", "Over 200 years", "500 years"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0143",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What percentage of their body weight can hummingbirds eat daily?",
+      "options": ["25%", "50%", "100%", "200%"],
+      "answerIndex": 3
+    },
+    {
+      "id": "animals_h_0144",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many stomachs does a Baird's beaked whale have?",
+      "options": ["1", "4", "10", "13"],
+      "answerIndex": 3
+    },
+    {
+      "id": "animals_h_0145",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What is the gestation period of an African elephant?",
+      "options": ["12 months", "18 months", "22 months", "30 months"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0146",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many species of lemurs are critically endangered?",
+      "options": ["5-10", "20-30", "Over 30", "Over 100"],
+      "answerIndex": 3
+    },
+    {
+      "id": "animals_h_0147",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What is the metabolic rate of a sloth compared to similar-sized mammals?",
+      "options": ["25%", "40-45%", "60%", "80%"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_h_0148",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many taste receptors do catfish have per square centimeter?",
+      "options": ["100", "1,000", "10,000", "100,000"],
+      "answerIndex": 3
+    },
+    {
+      "id": "animals_h_0149",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What is the diving depth record for a Cuvier's beaked whale?",
+      "options": ["1,000 meters", "2,000 meters", "2,992 meters", "5,000 meters"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0150",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many chromosomes does the red viscacha rat have?",
+      "options": ["10", "46", "72", "102"],
+      "answerIndex": 3
+    },
+    {
+      "id": "animals_h_0151",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What percentage of a giant panda's diet is bamboo?",
+      "options": ["50%", "75%", "90%", "99%"],
+      "answerIndex": 3
+    },
+    {
+      "id": "animals_h_0152",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many years can the glass sponge live?",
+      "options": ["100 years", "500 years", "1,000 years", "Over 15,000 years"],
+      "answerIndex": 3
+    },
+    {
+      "id": "animals_h_0153",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What is the heart rate of a hibernating bear?",
+      "options": ["5-10 bpm", "8-19 bpm", "30-40 bpm", "50-60 bpm"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_h_0154",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many teeth does an aardvark have as an adult?",
+      "options": ["0", "20", "32", "42"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_h_0155",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What is the population estimate of Javan rhinoceros?",
+      "options": ["Less than 100", "500-1,000", "2,000-3,000", "Over 5,000"],
+      "answerIndex": 0
+    },
+    {
+      "id": "animals_h_0156",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many miles can a bar-tailed godwit fly non-stop?",
+      "options": ["2,000 miles", "5,000 miles", "7,500 miles", "Over 11,000 miles"],
+      "answerIndex": 3
+    },
+    {
+      "id": "animals_h_0157",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What is the voltage produced by an electric eel?",
+      "options": ["50 volts", "200 volts", "600 volts", "1,000 volts"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0158",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many hearts does an octopus have?",
+      "options": ["1", "2", "3", "4"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0159",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What is the bite force of a saltwater crocodile in PSI?",
+      "options": ["1,000", "2,500", "3,700", "5,000"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0160",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many noses does a hagfish have?",
+      "options": ["1", "2", "3", "4"],
+      "answerIndex": 3
+    },
+    {
+      "id": "animals_h_0161",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What is the maximum lifespan of the immortal jellyfish?",
+      "options": ["100 years", "500 years", "Potentially indefinite", "1,000 years"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0162",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many eggs can a queen termite lay per day?",
+      "options": ["100", "1,000", "10,000", "30,000"],
+      "answerIndex": 3
+    },
+    {
+      "id": "animals_h_0163",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What percentage of oxygen do sea otters need to consume daily in food?",
+      "options": ["10%", "15%", "20%", "25%"],
+      "answerIndex": 3
+    },
+    {
+      "id": "animals_h_0164",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many individuals remain of the vaquita porpoise?",
+      "options": ["Less than 10", "50-100", "500-1,000", "2,000+"],
+      "answerIndex": 0
+    },
+    {
+      "id": "animals_h_0165",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What is the wing beat frequency of a mosquito?",
+      "options": ["50 Hz", "200 Hz", "500-600 Hz", "1,000 Hz"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0166",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many segments are in a scorpion's tail?",
+      "options": ["3", "5", "7", "10"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_h_0167",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What is the gestation period of an Alpine salamander?",
+      "options": ["3 months", "1 year", "Up to 3 years", "5 years"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0168",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many chambers does a hagfish heart have?",
+      "options": ["1", "2", "3", "4"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0169",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What is the body temperature of a naked mole rat?",
+      "options": ["Room temperature", "25°C", "Varies with ambient", "37°C"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0170",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many neurons does a leech have?",
+      "options": ["100", "302", "10,000", "100,000"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0171",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What is the lifespan of a mayfly adult?",
+      "options": ["1 hour", "24 hours", "1 week", "1 month"],
+      "answerIndex": 1
+    },
+    {
+      "id": "animals_h_0172",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many species of pangolin exist?",
+      "options": ["2", "4", "8", "12"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0173",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What is the blood pressure of a giraffe in mm Hg?",
+      "options": ["120/80", "180/120", "280/180", "350/240"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0174",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many photoreceptors do mantis shrimp have?",
+      "options": ["3", "8", "12-16", "20"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0175",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What is the migration distance of the sooty shearwater?",
+      "options": ["10,000 miles", "25,000 miles", "40,000 miles", "Over 64,000 km annually"],
+      "answerIndex": 3
+    },
+    {
+      "id": "animals_h_0176",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many eyelids does a camel have per eye?",
+      "options": ["1", "2", "3", "4"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0177",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What percentage of water loss can a camel survive?",
+      "options": ["10%", "20%", "25%", "40%"],
+      "answerIndex": 3
+    },
+    {
+      "id": "animals_h_0178",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many species of rhinos are critically endangered?",
+      "options": ["1", "2", "3", "4"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0179",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What is the incubation period of a kiwi egg?",
+      "options": ["30 days", "60 days", "75-80 days", "120 days"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0180",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many teeth does a narwhal have?",
+      "options": ["0-2", "10", "32", "50"],
+      "answerIndex": 0
+    },
+    {
+      "id": "animals_h_0181",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What is the maximum speed of a peregrine falcon dive?",
+      "options": ["100 mph", "200 mph", "240 mph", "300 mph"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0182",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many chambers does a cockroach heart have?",
+      "options": ["1", "4", "13", "20"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0183",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What percentage of their body weight can African bush elephants drink daily?",
+      "options": ["5%", "10%", "15%", "20%"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0184",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many species of seahorse are threatened?",
+      "options": ["5", "15", "Over 30", "Over 50"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0185",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What is the gestation period of a black Alpine salamander at high altitude?",
+      "options": ["6 months", "1 year", "2-3 years", "5 years"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0186",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many bones does a shark have?",
+      "options": ["0", "50", "100", "206"],
+      "answerIndex": 0
+    },
+    {
+      "id": "animals_h_0187",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What is the maximum lifespan of a tuatara?",
+      "options": ["50 years", "75 years", "Over 100 years", "200 years"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0188",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many kilometers do monarch butterflies migrate?",
+      "options": ["1,000 km", "2,500 km", "Up to 4,800 km", "10,000 km"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0189",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What percentage of amphibian species are threatened with extinction?",
+      "options": ["10%", "25%", "Over 40%", "60%"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0190",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "How many years can a geoduck clam live?",
+      "options": ["50 years", "100 years", "Over 140 years", "500 years"],
+      "answerIndex": 2
+    },
+    {
+      "id": "animals_h_0191",
+      "category": "animals",
+      "difficulty": "hard",
+      "question": "What is the population of Amur leopards in the wild?",
+      "options": ["Around 100", "500", "1,000", "5,000"],
+      "answerIndex": 0
     }
 ]

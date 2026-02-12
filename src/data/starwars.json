@@ -2398,5 +2398,805 @@
     "question": "What is the Armorer's role?",
     "options": ["Leader", "Makes Mandalorian armor", "Warrior", "All of these"],
     "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0101",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What is the name of the desert planet where Luke Skywalker grew up?",
+    "options": ["Hoth", "Tatooine", "Endor", "Naboo"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0102",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What is the name of Darth Vader's master?",
+    "options": ["Emperor Palpatine", "Darth Maul", "Count Dooku", "Kylo Ren"],
+    "answerIndex": 0
+  },
+  {
+    "id": "starwars_e_0103",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What spaceship does Luke fly in the Death Star battle?",
+    "options": ["TIE Fighter", "Millennium Falcon", "X-Wing", "Star Destroyer"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_e_0104",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What planet is covered in ice and snow?",
+    "options": ["Tatooine", "Hoth", "Naboo", "Coruscant"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0105",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What is the invisible energy field that Jedi use?",
+    "options": ["The Power", "The Force", "The Magic", "The Energy"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0106",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What color is Mace Windu's lightsaber?",
+    "options": ["Red", "Blue", "Purple", "Green"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_e_0107",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What do stormtroopers wear?",
+    "options": ["Black suits", "White armor", "Brown robes", "Red capes"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0108",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What is the name of the orange and white rolling droid?",
+    "options": ["R2-D2", "C-3PO", "BB-8", "K-2SO"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_e_0109",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What weapon does a Jedi carry?",
+    "options": ["Blaster", "Lightsaber", "Sword", "Staff"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0110",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What is the name of the ice planet?",
+    "options": ["Hoth", "Tatooine", "Endor", "Dagobah"],
+    "answerIndex": 0
+  },
+  {
+    "id": "starwars_m_0101",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What type of starfighter does Poe Dameron pilot?",
+    "options": ["X-Wing", "TIE Fighter", "A-Wing", "Y-Wing"],
+    "answerIndex": 0
+  },
+  {
+    "id": "starwars_m_0102",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "Who trained Obi-Wan Kenobi?",
+    "options": ["Yoda", "Mace Windu", "Qui-Gon Jinn", "Count Dooku"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_m_0103",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What planet is the capital of the Republic?",
+    "options": ["Naboo", "Alderaan", "Coruscant", "Tatooine"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_m_0104",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What is the name of Boba Fett's father?",
+    "options": ["Cad Bane", "Jango Fett", "Greedo", "Din Djarin"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0105",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What is Count Dooku's Sith name?",
+    "options": ["Darth Maul", "Darth Sidious", "Darth Tyranus", "Darth Vader"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_m_0106",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What is the name of the swamp planet where Yoda lives?",
+    "options": ["Kashyyyk", "Felucia", "Dagobah", "Mustafar"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_m_0107",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What is the planet of the Wookiees?",
+    "options": ["Kashyyyk", "Endor", "Hoth", "Tatooine"],
+    "answerIndex": 0
+  },
+  {
+    "id": "starwars_m_0108",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What type of ship is the Slave I?",
+    "options": ["Freighter", "Bounty hunter ship", "Fighter", "Transport"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0109",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "Who is Darth Maul's master?",
+    "options": ["Darth Vader", "Darth Sidious", "Count Dooku", "Darth Plagueis"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0110",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What color was Anakin's lightsaber before becoming Darth Vader?",
+    "options": ["Red", "Green", "Blue", "Purple"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_m_0111",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What is the name of the spaceport city on Tatooine?",
+    "options": ["Mos Espa", "Mos Eisley", "Mos Pelgo", "Anchorhead"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0112",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What is the Jedi Council's main location?",
+    "options": ["Jedi Temple on Coruscant", "Yavin 4", "Ilum", "Ahch-To"],
+    "answerIndex": 0
+  },
+  {
+    "id": "starwars_m_0113",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What is Kylo Ren's real name?",
+    "options": ["Luke Solo", "Ben Solo", "Han Skywalker", "Ben Skywalker"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0114",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What species is Ahsoka Tano?",
+    "options": ["Human", "Togruta", "Twi'lek", "Zabrak"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0115",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What is the name of the Emperor's Royal Guards' home base?",
+    "options": ["Death Star", "Coruscant", "Exegol", "Mustafar"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0116",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What is the name of the crystal that powers a lightsaber?",
+    "options": ["Force crystal", "Kyber crystal", "Light crystal", "Saber crystal"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0117",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What planet was Princess Leia from?",
+    "options": ["Naboo", "Alderaan", "Coruscant", "Corellia"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0118",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What creature lives in the garbage compactor on the Death Star?",
+    "options": ["Rancor", "Dianoga", "Sarlacc", "Wampa"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0119",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What is the name of Jabba's palace band leader?",
+    "options": ["Max Rebo", "Figrin D'an", "Sy Snootles", "Droopy McCool"],
+    "answerIndex": 0
+  },
+  {
+    "id": "starwars_m_0120",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What type of creature is a Tauntaun?",
+    "options": ["Desert animal", "Snow beast", "Forest creature", "Space animal"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0121",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What is the name of the bounty hunter droid in Rogue One?",
+    "options": ["IG-88", "K-2SO", "HK-47", "4-LOM"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0122",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What is the name of Han Solo's home planet?",
+    "options": ["Tatooine", "Alderaan", "Corellia", "Naboo"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_m_0123",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What is the weapon of choice for Tusken Raiders?",
+    "options": ["Blaster", "Gaffi stick", "Lightsaber", "Bowcaster"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0124",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What is Padmé Amidala's home planet?",
+    "options": ["Alderaan", "Coruscant", "Naboo", "Chandrila"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_m_0125",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What is the name of the volcanic planet where Anakin fought Obi-Wan?",
+    "options": ["Mustafar", "Sullust", "Geonosis", "Tatooine"],
+    "answerIndex": 0
+  },
+  {
+    "id": "starwars_m_0126",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What species is Chewbacca's co-pilot Nien Nunb?",
+    "options": ["Rodian", "Sullustan", "Mon Calamari", "Bothan"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0127",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What is the name of the Empire's elite soldiers?",
+    "options": ["Clone Troopers", "Stormtroopers", "Death Troopers", "Scout Troopers"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_m_0128",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What is General Grievous?",
+    "options": ["Human", "Droid", "Cyborg", "Alien"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_m_0129",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What planet do the clones originate from?",
+    "options": ["Coruscant", "Kamino", "Geonosis", "Mandalore"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0130",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What is the name of the mining planet where Lando was administrator?",
+    "options": ["Bespin", "Mustafar", "Sullust", "Kessel"],
+    "answerIndex": 0
+  },
+  {
+    "id": "starwars_m_0131",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What color is Qui-Gon Jinn's lightsaber?",
+    "options": ["Blue", "Green", "Purple", "Yellow"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0132",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What species is Admiral Ackbar?",
+    "options": ["Mon Calamari", "Quarren", "Nautolan", "Aqualish"],
+    "answerIndex": 0
+  },
+  {
+    "id": "starwars_m_0133",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What type of fighter does Darth Vader pilot?",
+    "options": ["TIE Fighter", "TIE Advanced", "TIE Interceptor", "TIE Bomber"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0134",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What is the name of the Jedi who survived Order 66 and became an Inquisitor?",
+    "options": ["Barriss Offee", "Asajj Ventress", "The Grand Inquisitor", "Trilla Suduri"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_m_0135",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What is the home planet of the Ewoks?",
+    "options": ["Endor Moon", "Forest Moon of Endor", "Kashyyyk", "Felucia"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0136",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What is Finn's stormtrooper designation?",
+    "options": ["TK-421", "FN-2187", "CT-5555", "CC-2224"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0137",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What is the name of Rey's droid?",
+    "options": ["R2-D2", "C-3PO", "BB-8", "D-O"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_m_0138",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What is the name of Poe Dameron's droid?",
+    "options": ["BB-8", "R2-D2", "C-3PO", "D-O"],
+    "answerIndex": 0
+  },
+  {
+    "id": "starwars_m_0139",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What is the name of the hidden Sith planet?",
+    "options": ["Korriban", "Moraband", "Exegol", "Ziost"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_m_0140",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What is the name of Chewbacca's weapon?",
+    "options": ["Blaster rifle", "Bowcaster", "Heavy blaster", "Crossbow"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0141",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What is the name of the clone who became a commander?",
+    "options": ["Rex", "Cody", "Fives", "All of them"],
+    "answerIndex": 3
+  },
+  {
+    "id": "starwars_m_0142",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What species is Darth Maul?",
+    "options": ["Sith", "Zabrak", "Human", "Dathomirian"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0143",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What is the name of the separatist droid army's standard infantry unit?",
+    "options": ["Super Battle Droid", "Droideka", "Battle Droid", "Commando Droid"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_m_0144",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What is the name of the Mandalorian's ship in The Mandalorian?",
+    "options": ["Razor Crest", "Slave I", "Dagger", "Havoc Marauder"],
+    "answerIndex": 0
+  },
+  {
+    "id": "starwars_m_0145",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What planet is Rey from?",
+    "options": ["Tatooine", "Jakku", "Pasaana", "Scarif"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0146",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What is the Sith rule about apprentices?",
+    "options": ["Always one", "Always two", "Always three", "No limit"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0147",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What is Obi-Wan's last name?",
+    "options": ["Kenobi", "Wan-Kenobi", "Ben", "Skywalker"],
+    "answerIndex": 0
+  },
+  {
+    "id": "starwars_m_0148",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What species is Yoda?",
+    "options": ["Unknown", "Yodian", "Jedi", "Ancient being"],
+    "answerIndex": 0
+  },
+  {
+    "id": "starwars_m_0149",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What is the name of Luke's home on Dagobah?",
+    "options": ["Yoda's hut", "Luke's camp", "He didn't have one", "Tree cave"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_m_0150",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What is the name of the energy shield protecting the second Death Star?",
+    "options": ["Deflector shield", "Ray shield", "Energy shield", "Thermal shield"],
+    "answerIndex": 0
+  },
+  {
+    "id": "starwars_m_0151",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What type of ship is a Star Destroyer?",
+    "options": ["Frigate", "Cruiser", "Capital ship", "Corvette"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_m_0152",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What is the name of the planet with two suns where Anakin was a slave?",
+    "options": ["Tatooine", "Jakku", "Geonosis", "Utapau"],
+    "answerIndex": 0
+  },
+  {
+    "id": "starwars_m_0153",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What is the name of the prison planet?",
+    "options": ["Kessel", "Wobani", "Scarif", "Eadu"],
+    "answerIndex": 0
+  },
+  {
+    "id": "starwars_m_0154",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What is the name of Lando's co-pilot droid?",
+    "options": ["L3-37", "K-2SO", "R2-D2", "C-3PO"],
+    "answerIndex": 0
+  },
+  {
+    "id": "starwars_m_0155",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What is the sacred weapon of the Mandalorians?",
+    "options": ["Blaster", "Darksaber", "Lightsaber", "Spear"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0156",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What is the name of the ice creature on Hoth?",
+    "options": ["Rancor", "Wampa", "Tauntaun", "Yeti"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0157",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What is the name of the planet where the Clone Wars began?",
+    "options": ["Kamino", "Geonosis", "Coruscant", "Naboo"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0158",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What is the color of a Sith lightsaber?",
+    "options": ["Blue", "Green", "Red", "Purple"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_m_0159",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What protocol does C-3PO specialize in?",
+    "options": ["Battle tactics", "Etiquette and translation", "Navigation", "Repair"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0160",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What is the name of the creatures in the Sarlacc pit?",
+    "options": ["Sarlacc", "Rancor", "Krayt Dragon", "Dianoga"],
+    "answerIndex": 0
+  },
+  {
+    "id": "starwars_h_0101",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is the designation of the clone template Jango Fett?",
+    "options": ["Alpha-01", "Prime Clone", "Template Zero", "He has no designation"],
+    "answerIndex": 3
+  },
+  {
+    "id": "starwars_h_0102",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is the homeworld of Admiral Thrawn?",
+    "options": ["Csilla", "Rentor", "Copero", "None listed"],
+    "answerIndex": 3
+  },
+  {
+    "id": "starwars_h_0103",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is the true name of Darth Sidious?",
+    "options": ["Sheev Palpatine", "Cosinga Palpatine", "Emperor Palpatine", "The Senate"],
+    "answerIndex": 0
+  },
+  {
+    "id": "starwars_h_0104",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is the name of the ancient Sith homeworld?",
+    "options": ["Korriban", "Moraband", "Both A and B", "Ziost"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_h_0105",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is the length of an Imperial Star Destroyer?",
+    "options": ["900 meters", "1200 meters", "1600 meters", "2400 meters"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_h_0106",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is the name of the Jedi who created the Rule of Two for the Sith?",
+    "options": ["Darth Bane", "Darth Revan", "Darth Plagueis", "Darth Sidious"],
+    "answerIndex": 0
+  },
+  {
+    "id": "starwars_h_0107",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is the diameter of the first Death Star?",
+    "options": ["100 kilometers", "120 kilometers", "140 kilometers", "160 kilometers"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_h_0108",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is the name of the planet where Kyber crystals are mined?",
+    "options": ["Jedha", "Ilum", "Both A and B", "Christophsis"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_h_0109",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is Grievous's species before becoming a cyborg?",
+    "options": ["Kaleesh", "Kel Dor", "Muun", "Unknown"],
+    "answerIndex": 0
+  },
+  {
+    "id": "starwars_h_0110",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is the designation of Captain Rex?",
+    "options": ["CT-7567", "CC-2224", "CT-5555", "CC-1004"],
+    "answerIndex": 0
+  },
+  {
+    "id": "starwars_h_0111",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is the name of the ancient Jedi temple planet?",
+    "options": ["Tython", "Ossus", "Ahch-To", "All of these"],
+    "answerIndex": 3
+  },
+  {
+    "id": "starwars_h_0112",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is the species of the ancient Sith?",
+    "options": ["Human", "Sith Purebloods", "Zabrak", "Mixed"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_h_0113",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is the name of the Force ability to see the future?",
+    "options": ["Force Vision", "Precognition", "Foresight", "All of these"],
+    "answerIndex": 3
+  },
+  {
+    "id": "starwars_h_0114",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is the designation of Commander Cody?",
+    "options": ["CT-7567", "CC-2224", "CT-5555", "CC-1004"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_h_0115",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is the Jedi training sequence?",
+    "options": ["Youngling, Padawan, Knight, Master", "Padawan, Knight, Master", "Initiate, Padawan, Knight, Master", "Youngling, Initiate, Padawan, Knight, Master"],
+    "answerIndex": 0
+  },
+  {
+    "id": "starwars_h_0116",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is the ancient Force organization that predated the Jedi?",
+    "options": ["Je'daii Order", "Bendu", "Whills", "All mentioned"],
+    "answerIndex": 0
+  },
+  {
+    "id": "starwars_h_0117",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is the name of the Sith ritual to transfer essence?",
+    "options": ["Force transfer", "Essence transfer", "Spirit transfer", "Soul transfer"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_h_0118",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is the maximum speed of the Millennium Falcon?",
+    "options": ["0.5 past lightspeed", "1.5 past lightspeed", "Hyperdrive class 0.5", "Hyperdrive class 1.5"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_h_0119",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is the name of the kyber crystal planet turned into Starkiller Base?",
+    "options": ["Ilum", "Jedha", "Christophsis", "Unknown"],
+    "answerIndex": 0
+  },
+  {
+    "id": "starwars_h_0120",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is the Sith Code's opening line?",
+    "options": ["Peace is a lie", "Through passion I gain strength", "The Force shall free me", "There is only passion"],
+    "answerIndex": 0
+  },
+  {
+    "id": "starwars_h_0121",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is the name of the ancient Sith superweapon?",
+    "options": ["Star Forge", "Death Star", "Eclipse", "Multiple exist"],
+    "answerIndex": 3
+  },
+  {
+    "id": "starwars_h_0122",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is the name of the purge that nearly eliminated Force users?",
+    "options": ["Order 66", "The Great Purge", "Jedi Purge", "All correct"],
+    "answerIndex": 3
+  },
+  {
+    "id": "starwars_h_0123",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is the species of Grand Admiral Thrawn?",
+    "options": ["Chiss", "Pantoran", "Duros", "Near-human"],
+    "answerIndex": 0
+  },
+  {
+    "id": "starwars_h_0124",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is the highest rank in the Jedi Order?",
+    "options": ["Master", "Grand Master", "Council Member", "Master of the Order"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_h_0125",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is the name of the Force bond between two Force users?",
+    "options": ["Force connection", "Force dyad", "Force bond", "All mentioned"],
+    "answerIndex": 3
+  },
+  {
+    "id": "starwars_h_0126",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is the real name of the planet Moraband?",
+    "options": ["Korriban", "Pesegam", "Ziost", "Same name"],
+    "answerIndex": 0
+  },
+  {
+    "id": "starwars_h_0127",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is the designation of Clone Force 99?",
+    "options": ["Special Operations", "ARC Troopers", "Bad Batch", "Clone Commandos"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_h_0128",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is the name of the ancient Jedi texts location?",
+    "options": ["Coruscant", "Ossus", "Ahch-To", "All of these"],
+    "answerIndex": 3
+  },
+  {
+    "id": "starwars_h_0129",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is the name of Darth Plagueis's master?",
+    "options": ["Darth Tenebrous", "Darth Sidious", "Darth Bane", "Unknown"],
+    "answerIndex": 0
+  },
+  {
+    "id": "starwars_h_0130",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is the planet where the Jedi Order was founded?",
+    "options": ["Coruscant", "Tython", "Ossus", "Ahch-To"],
+    "answerIndex": 1
   }
 ]

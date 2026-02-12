@@ -2397,5 +2397,805 @@
       "question": "Who is the Hands in DC Comics?",
       "options": ["Perpetual race", "Multiverse creators", "Super Celestials", "All of these"],
       "answerIndex": 3
+    },
+    {
+      "id": "comics_e_0101",
+      "category": "comics",
+      "difficulty": "easy",
+      "question": "What animal does Black Panther represent?",
+      "options": ["Lion", "Panther", "Tiger", "Leopard"],
+      "answerIndex": 1
+    },
+    {
+      "id": "comics_e_0102",
+      "category": "comics",
+      "difficulty": "easy",
+      "question": "What is the Flash's main superpower?",
+      "options": ["Flying", "Super strength", "Super speed", "Invisibility"],
+      "answerIndex": 2
+    },
+    {
+      "id": "comics_e_0103",
+      "category": "comics",
+      "difficulty": "easy",
+      "question": "What weapon does Wonder Woman use?",
+      "options": ["Lasso of Truth", "Magic wand", "Sword only", "Bow and arrow"],
+      "answerIndex": 0
+    },
+    {
+      "id": "comics_e_0104",
+      "category": "comics",
+      "difficulty": "easy",
+      "question": "Where is Aquaman the king of?",
+      "options": ["Sky City", "Gotham", "Atlantis", "Asgard"],
+      "answerIndex": 2
+    },
+    {
+      "id": "comics_e_0105",
+      "category": "comics",
+      "difficulty": "easy",
+      "question": "What color is the Joker's hair?",
+      "options": ["Black", "Green", "Red", "Blonde"],
+      "answerIndex": 1
+    },
+    {
+      "id": "comics_e_0106",
+      "category": "comics",
+      "difficulty": "easy",
+      "question": "What is Captain America's shield made of?",
+      "options": ["Steel", "Iron", "Vibranium", "Titanium"],
+      "answerIndex": 2
+    },
+    {
+      "id": "comics_e_0107",
+      "category": "comics",
+      "difficulty": "easy",
+      "question": "Who is Spider-Man's aunt?",
+      "options": ["Aunt May", "Aunt Martha", "Aunt Sarah", "Aunt Jane"],
+      "answerIndex": 0
+    },
+    {
+      "id": "comics_e_0108",
+      "category": "comics",
+      "difficulty": "easy",
+      "question": "What city does Batman protect?",
+      "options": ["New York", "Metropolis", "Gotham City", "Star City"],
+      "answerIndex": 2
+    },
+    {
+      "id": "comics_e_0109",
+      "category": "comics",
+      "difficulty": "easy",
+      "question": "What does the X in X-Men stand for?",
+      "options": ["X-gene", "Xavier", "Extra powers", "Extreme"],
+      "answerIndex": 0
+    },
+    {
+      "id": "comics_e_0110",
+      "category": "comics",
+      "difficulty": "easy",
+      "question": "What hammer does Thor carry?",
+      "options": ["Stormbreaker", "Mjolnir", "Thunderer", "Odinforce"],
+      "answerIndex": 1
+    },
+    {
+      "id": "comics_m_0101",
+      "category": "comics",
+      "difficulty": "medium",
+      "question": "Who founded the X-Men?",
+      "options": ["Magneto", "Cyclops", "Professor X", "Wolverine"],
+      "answerIndex": 2
+    },
+    {
+      "id": "comics_m_0102",
+      "category": "comics",
+      "difficulty": "medium",
+      "question": "What is the real name of Black Widow?",
+      "options": ["Natasha Romanoff", "Maria Hill", "Sharon Carter", "Peggy Carter"],
+      "answerIndex": 0
+    },
+    {
+      "id": "comics_m_0103",
+      "category": "comics",
+      "difficulty": "medium",
+      "question": "Who killed Batman's parents?",
+      "options": ["The Joker", "Two-Face", "Joe Chill", "The Penguin"],
+      "answerIndex": 2
+    },
+    {
+      "id": "comics_m_0104",
+      "category": "comics",
+      "difficulty": "medium",
+      "question": "What is the name of Tony Stark's AI assistant?",
+      "options": ["FRIDAY", "JARVIS", "EDITH", "KAREN"],
+      "answerIndex": 1
+    },
+    {
+      "id": "comics_m_0105",
+      "category": "comics",
+      "difficulty": "medium",
+      "question": "What is Daredevil's real name?",
+      "options": ["Frank Castle", "Matt Murdock", "Danny Rand", "Luke Cage"],
+      "answerIndex": 1
+    },
+    {
+      "id": "comics_m_0106",
+      "category": "comics",
+      "difficulty": "medium",
+      "question": "Which villain is Batman's archenemy?",
+      "options": ["Riddler", "Penguin", "Joker", "Bane"],
+      "answerIndex": 2
+    },
+    {
+      "id": "comics_m_0107",
+      "category": "comics",
+      "difficulty": "medium",
+      "question": "What planet is Superman from?",
+      "options": ["Mars", "Krypton", "Tamaran", "Thanagar"],
+      "answerIndex": 1
+    },
+    {
+      "id": "comics_m_0108",
+      "category": "comics",
+      "difficulty": "medium",
+      "question": "Who is the God of Thunder in Marvel Comics?",
+      "options": ["Odin", "Loki", "Thor", "Heimdall"],
+      "answerIndex": 2
+    },
+    {
+      "id": "comics_m_0109",
+      "category": "comics",
+      "difficulty": "medium",
+      "question": "What is Green Lantern's power source?",
+      "options": ["Power Ring", "Magic Staff", "Solar Energy", "Kryptonite"],
+      "answerIndex": 0
+    },
+    {
+      "id": "comics_m_0110",
+      "category": "comics",
+      "difficulty": "medium",
+      "question": "Who is the leader of the Fantastic Four?",
+      "options": ["The Thing", "Human Torch", "Mr. Fantastic", "Invisible Woman"],
+      "answerIndex": 2
+    },
+    {
+      "id": "comics_m_0111",
+      "category": "comics",
+      "difficulty": "medium",
+      "question": "What is Wolverine's mutant ability?",
+      "options": ["Healing factor", "Super strength", "Telepathy", "Energy blasts"],
+      "answerIndex": 0
+    },
+    {
+      "id": "comics_m_0112",
+      "category": "comics",
+      "difficulty": "medium",
+      "question": "Who is Batman's butler?",
+      "options": ["Jarvis", "Alfred", "Baxter", "Edwin"],
+      "answerIndex": 1
+    },
+    {
+      "id": "comics_m_0113",
+      "category": "comics",
+      "difficulty": "medium",
+      "question": "What is the Scarlet Witch's power?",
+      "options": ["Time travel", "Reality manipulation", "Super speed", "Flight"],
+      "answerIndex": 1
+    },
+    {
+      "id": "comics_m_0114",
+      "category": "comics",
+      "difficulty": "medium",
+      "question": "Who is Superman's cousin?",
+      "options": ["Supergirl", "Power Girl", "Both A and B", "Wonder Girl"],
+      "answerIndex": 2
+    },
+    {
+      "id": "comics_m_0115",
+      "category": "comics",
+      "difficulty": "medium",
+      "question": "What team does Deadpool sometimes join?",
+      "options": ["Avengers", "X-Force", "Justice League", "Defenders"],
+      "answerIndex": 1
+    },
+    {
+      "id": "comics_m_0116",
+      "category": "comics",
+      "difficulty": "medium",
+      "question": "Who is the fastest man alive in DC Comics?",
+      "options": ["Superman", "The Flash", "Quicksilver", "Shazam"],
+      "answerIndex": 1
+    },
+    {
+      "id": "comics_m_0117",
+      "category": "comics",
+      "difficulty": "medium",
+      "question": "What is Bruce Banner's profession?",
+      "options": ["Engineer", "Physicist", "Chemist", "Biologist"],
+      "answerIndex": 1
+    },
+    {
+      "id": "comics_m_0118",
+      "category": "comics",
+      "difficulty": "medium",
+      "question": "Who is the ruler of Latveria?",
+      "options": ["Red Skull", "Baron Zemo", "Doctor Doom", "Magneto"],
+      "answerIndex": 2
+    },
+    {
+      "id": "comics_m_0119",
+      "category": "comics",
+      "difficulty": "medium",
+      "question": "What is the name of Batman's vehicle?",
+      "options": ["Batmobile", "Dark Knight Car", "Bat Car", "Shadow Mobile"],
+      "answerIndex": 0
+    },
+    {
+      "id": "comics_m_0120",
+      "category": "comics",
+      "difficulty": "medium",
+      "question": "Who is the master of magnetism?",
+      "options": ["Magneto", "Polaris", "Magnet Man", "Metal Master"],
+      "answerIndex": 0
+    },
+    {
+      "id": "comics_m_0121",
+      "category": "comics",
+      "difficulty": "medium",
+      "question": "What is Captain Marvel's real name?",
+      "options": ["Carol Danvers", "Maria Rambeau", "Monica Rambeau", "Mar-Vell"],
+      "answerIndex": 0
+    },
+    {
+      "id": "comics_m_0122",
+      "category": "comics",
+      "difficulty": "medium",
+      "question": "Who is the sidekick known as Robin in Batman comics?",
+      "options": ["Jason Todd", "Dick Grayson", "Tim Drake", "All of these"],
+      "answerIndex": 3
+    },
+    {
+      "id": "comics_m_0123",
+      "category": "comics",
+      "difficulty": "medium",
+      "question": "What metal are Wolverine's claws coated with?",
+      "options": ["Titanium", "Vibranium", "Adamantium", "Carbonadium"],
+      "answerIndex": 2
+    },
+    {
+      "id": "comics_m_0124",
+      "category": "comics",
+      "difficulty": "medium",
+      "question": "Who is the Norse god of mischief in Marvel?",
+      "options": ["Thor", "Odin", "Loki", "Heimdall"],
+      "answerIndex": 2
+    },
+    {
+      "id": "comics_m_0125",
+      "category": "comics",
+      "difficulty": "medium",
+      "question": "What does S.H.I.E.L.D. stand for?",
+      "options": ["Strategic Hazard Intervention Espionage Logistics", "Supreme Headquarters International Espionage Law-enforcement", "Strategic Homeland Intervention Enforcement Logistics", "None of these"],
+      "answerIndex": 2
+    },
+    {
+      "id": "comics_m_0126",
+      "category": "comics",
+      "difficulty": "medium",
+      "question": "Who is the king of Wakanda?",
+      "options": ["Black Panther", "Storm", "M'Baku", "Shuri"],
+      "answerIndex": 0
+    },
+    {
+      "id": "comics_m_0127",
+      "category": "comics",
+      "difficulty": "medium",
+      "question": "What is the name of Thor's hammer?",
+      "options": ["Gungnir", "Mjolnir", "Stormbreaker", "Jarnbjorn"],
+      "answerIndex": 1
+    },
+    {
+      "id": "comics_m_0128",
+      "category": "comics",
+      "difficulty": "medium",
+      "question": "Who trained Batman?",
+      "options": ["Ra's al Ghul", "Nightwing", "Superman", "Wonder Woman"],
+      "answerIndex": 0
+    },
+    {
+      "id": "comics_m_0129",
+      "category": "comics",
+      "difficulty": "medium",
+      "question": "What is the Hulk's famous catchphrase?",
+      "options": ["Hulk angry!", "Hulk smash!", "Hulk strong!", "Hulk destroy!"],
+      "answerIndex": 1
+    },
+    {
+      "id": "comics_m_0130",
+      "category": "comics",
+      "difficulty": "medium",
+      "question": "Who is the ruler of Apokolips?",
+      "options": ["Darkseid", "Steppenwolf", "Desaad", "Kalibak"],
+      "answerIndex": 0
+    },
+    {
+      "id": "comics_m_0131",
+      "category": "comics",
+      "difficulty": "medium",
+      "question": "What is the real name of the Winter Soldier?",
+      "options": ["Steve Rogers", "Sam Wilson", "Bucky Barnes", "John Walker"],
+      "answerIndex": 2
+    },
+    {
+      "id": "comics_m_0132",
+      "category": "comics",
+      "difficulty": "medium",
+      "question": "Who is the leader of the Teen Titans?",
+      "options": ["Beast Boy", "Robin", "Starfire", "Cyborg"],
+      "answerIndex": 1
+    },
+    {
+      "id": "comics_m_0133",
+      "category": "comics",
+      "difficulty": "medium",
+      "question": "What is Peter Parker's job?",
+      "options": ["Teacher", "Scientist", "Photographer", "Reporter"],
+      "answerIndex": 2
+    },
+    {
+      "id": "comics_m_0134",
+      "category": "comics",
+      "difficulty": "medium",
+      "question": "Who is the Green Arrow?",
+      "options": ["Bruce Wayne", "Oliver Queen", "Barry Allen", "Hal Jordan"],
+      "answerIndex": 1
+    },
+    {
+      "id": "comics_m_0135",
+      "category": "comics",
+      "difficulty": "medium",
+      "question": "What is the source of Spider-Man's powers?",
+      "options": ["Mutation", "Radioactive spider bite", "Super soldier serum", "Magic spell"],
+      "answerIndex": 1
+    },
+    {
+      "id": "comics_m_0136",
+      "category": "comics",
+      "difficulty": "medium",
+      "question": "Who is the Merc with a Mouth?",
+      "options": ["Spider-Man", "Deadpool", "Punisher", "Cable"],
+      "answerIndex": 1
+    },
+    {
+      "id": "comics_m_0137",
+      "category": "comics",
+      "difficulty": "medium",
+      "question": "What is Superman's weakness?",
+      "options": ["Magic", "Kryptonite", "Both A and B", "Fire"],
+      "answerIndex": 2
+    },
+    {
+      "id": "comics_m_0138",
+      "category": "comics",
+      "difficulty": "medium",
+      "question": "Who is the Sorcerer Supreme?",
+      "options": ["Doctor Strange", "Scarlet Witch", "Loki", "Zatanna"],
+      "answerIndex": 0
+    },
+    {
+      "id": "comics_m_0139",
+      "category": "comics",
+      "difficulty": "medium",
+      "question": "What team do Iron Man, Thor, and Captain America belong to?",
+      "options": ["X-Men", "Justice League", "Avengers", "Fantastic Four"],
+      "answerIndex": 2
+    },
+    {
+      "id": "comics_m_0140",
+      "category": "comics",
+      "difficulty": "medium",
+      "question": "Who is Clark Kent?",
+      "options": ["Batman", "Superman", "The Flash", "Green Lantern"],
+      "answerIndex": 1
+    },
+    {
+      "id": "comics_m_0141",
+      "category": "comics",
+      "difficulty": "medium",
+      "question": "What is the name of the place where Thor is from?",
+      "options": ["Olympus", "Valhalla", "Asgard", "Midgard"],
+      "answerIndex": 2
+    },
+    {
+      "id": "comics_m_0142",
+      "category": "comics",
+      "difficulty": "medium",
+      "question": "Who is the vigilante known as the Punisher?",
+      "options": ["Frank Castle", "Billy Russo", "Nick Fury", "Wade Wilson"],
+      "answerIndex": 0
+    },
+    {
+      "id": "comics_m_0143",
+      "category": "comics",
+      "difficulty": "medium",
+      "question": "What is Catwoman's real name?",
+      "options": ["Selina Kyle", "Talia al Ghul", "Harley Quinn", "Poison Ivy"],
+      "answerIndex": 0
+    },
+    {
+      "id": "comics_m_0144",
+      "category": "comics",
+      "difficulty": "medium",
+      "question": "Who can control the weather in the X-Men?",
+      "options": ["Jean Grey", "Storm", "Rogue", "Mystique"],
+      "answerIndex": 1
+    },
+    {
+      "id": "comics_m_0145",
+      "category": "comics",
+      "difficulty": "medium",
+      "question": "What is the name of Wonder Woman's home?",
+      "options": ["Atlantis", "Themyscira", "Paradise Island", "Both B and C"],
+      "answerIndex": 3
+    },
+    {
+      "id": "comics_m_0146",
+      "category": "comics",
+      "difficulty": "medium",
+      "question": "Who is Spider-Man's best friend?",
+      "options": ["Harry Osborn", "Ned Leeds", "Both A and B", "Flash Thompson"],
+      "answerIndex": 2
+    },
+    {
+      "id": "comics_m_0147",
+      "category": "comics",
+      "difficulty": "medium",
+      "question": "What is Aquaman's real name?",
+      "options": ["Arthur Curry", "Orin", "Both A and B", "Kaldur'ahm"],
+      "answerIndex": 2
+    },
+    {
+      "id": "comics_m_0148",
+      "category": "comics",
+      "difficulty": "medium",
+      "question": "Who is the villain Thanos?",
+      "options": ["Mad Titan", "God of Death", "Eternal from Titan", "Both A and C"],
+      "answerIndex": 3
+    },
+    {
+      "id": "comics_m_0149",
+      "category": "comics",
+      "difficulty": "medium",
+      "question": "What is the name of Superman's home city?",
+      "options": ["Gotham City", "Central City", "Metropolis", "Star City"],
+      "answerIndex": 2
+    },
+    {
+      "id": "comics_m_0150",
+      "category": "comics",
+      "difficulty": "medium",
+      "question": "Who is the master archer in DC Comics?",
+      "options": ["Hawkeye", "Green Arrow", "Arsenal", "Speedy"],
+      "answerIndex": 1
+    },
+    {
+      "id": "comics_m_0151",
+      "category": "comics",
+      "difficulty": "medium",
+      "question": "What is the name of the Hulk's alter ego?",
+      "options": ["Bruce Banner", "Robert Bruce Banner", "Both A and B", "David Banner"],
+      "answerIndex": 2
+    },
+    {
+      "id": "comics_m_0152",
+      "category": "comics",
+      "difficulty": "medium",
+      "question": "Who is the villain with two faces?",
+      "options": ["Two-Face", "Harvey Dent", "Both A and B", "Double Down"],
+      "answerIndex": 2
+    },
+    {
+      "id": "comics_m_0153",
+      "category": "comics",
+      "difficulty": "medium",
+      "question": "What is Nightwing's real name?",
+      "options": ["Jason Todd", "Tim Drake", "Dick Grayson", "Damian Wayne"],
+      "answerIndex": 2
+    },
+    {
+      "id": "comics_m_0154",
+      "category": "comics",
+      "difficulty": "medium",
+      "question": "Who is the fastest mutant in Marvel Comics?",
+      "options": ["Quicksilver", "Speed", "Northstar", "Aurora"],
+      "answerIndex": 0
+    },
+    {
+      "id": "comics_m_0155",
+      "category": "comics",
+      "difficulty": "medium",
+      "question": "What is the name of the Flash's city?",
+      "options": ["Keystone City", "Central City", "Both A and B", "Coast City"],
+      "answerIndex": 2
+    },
+    {
+      "id": "comics_m_0156",
+      "category": "comics",
+      "difficulty": "medium",
+      "question": "Who is the villain known as the Clown Prince of Crime?",
+      "options": ["Riddler", "Joker", "Penguin", "Mad Hatter"],
+      "answerIndex": 1
+    },
+    {
+      "id": "comics_m_0157",
+      "category": "comics",
+      "difficulty": "medium",
+      "question": "What is Hawkeye's real name?",
+      "options": ["Clint Barton", "Oliver Queen", "Roy Harper", "Connor Hawke"],
+      "answerIndex": 0
+    },
+    {
+      "id": "comics_m_0158",
+      "category": "comics",
+      "difficulty": "medium",
+      "question": "Who is the daughter of Batman?",
+      "options": ["Catwoman", "Batgirl", "Batwoman", "Huntress"],
+      "answerIndex": 3
+    },
+    {
+      "id": "comics_m_0159",
+      "category": "comics",
+      "difficulty": "medium",
+      "question": "What team protects the galaxy in Marvel?",
+      "options": ["Avengers", "X-Men", "Guardians of the Galaxy", "Fantastic Four"],
+      "answerIndex": 2
+    },
+    {
+      "id": "comics_m_0160",
+      "category": "comics",
+      "difficulty": "medium",
+      "question": "Who is the son of Batman?",
+      "options": ["Dick Grayson", "Jason Todd", "Tim Drake", "Damian Wayne"],
+      "answerIndex": 3
+    },
+    {
+      "id": "comics_h_0101",
+      "category": "comics",
+      "difficulty": "hard",
+      "question": "What is the name of the cosmic force that powers the Infinity Stones?",
+      "options": ["Cosmic Cube", "Universal Force", "Infinity Force", "Primordial energies"],
+      "answerIndex": 3
+    },
+    {
+      "id": "comics_h_0102",
+      "category": "comics",
+      "difficulty": "hard",
+      "question": "Who is the first Green Lantern of Earth?",
+      "options": ["Hal Jordan", "Alan Scott", "Guy Gardner", "John Stewart"],
+      "answerIndex": 1
+    },
+    {
+      "id": "comics_h_0103",
+      "category": "comics",
+      "difficulty": "hard",
+      "question": "What is the name of Wolverine's son?",
+      "options": ["X-23", "Daken", "Wild Child", "Sabretooth"],
+      "answerIndex": 1
+    },
+    {
+      "id": "comics_h_0104",
+      "category": "comics",
+      "difficulty": "hard",
+      "question": "Who created the Infinity Gauntlet?",
+      "options": ["Thanos", "The Dwarves of Nidavellir", "Eitri", "Odin"],
+      "answerIndex": 2
+    },
+    {
+      "id": "comics_h_0105",
+      "category": "comics",
+      "difficulty": "hard",
+      "question": "What is the name of the symbiote that bonded with Eddie Brock?",
+      "options": ["Carnage", "Venom", "Toxin", "Riot"],
+      "answerIndex": 1
+    },
+    {
+      "id": "comics_h_0106",
+      "category": "comics",
+      "difficulty": "hard",
+      "question": "Who is the Monitor in DC Comics?",
+      "options": ["Cosmic being", "Multiverse guardian", "Reality watcher", "All of these"],
+      "answerIndex": 3
+    },
+    {
+      "id": "comics_h_0107",
+      "category": "comics",
+      "difficulty": "hard",
+      "question": "What is the name of Doctor Strange's sanctum?",
+      "options": ["Sanctum Sanctorum", "Temple of Vishanti", "House of Mystery", "Library of Alexandria"],
+      "answerIndex": 0
+    },
+    {
+      "id": "comics_h_0108",
+      "category": "comics",
+      "difficulty": "hard",
+      "question": "Who is the cosmic entity known as the Living Tribunal?",
+      "options": ["Judge of multiverse", "God of law", "Balance keeper", "All of these"],
+      "answerIndex": 3
+    },
+    {
+      "id": "comics_h_0109",
+      "category": "comics",
+      "difficulty": "hard",
+      "question": "What is the name of the dimension where Dormammu rules?",
+      "options": ["Dark Dimension", "Shadow Realm", "Negative Zone", "Limbo"],
+      "answerIndex": 0
+    },
+    {
+      "id": "comics_h_0110",
+      "category": "comics",
+      "difficulty": "hard",
+      "question": "Who is the father of Thanos?",
+      "options": ["A'Lars", "Kronos", "Uranos", "Mentor"],
+      "answerIndex": 3
+    },
+    {
+      "id": "comics_h_0111",
+      "category": "comics",
+      "difficulty": "hard",
+      "question": "What is the name of Batman's most powerful contingency plan?",
+      "options": ["Tower of Babel", "Justice Buster", "Both A and B", "Failsafe"],
+      "answerIndex": 2
+    },
+    {
+      "id": "comics_h_0112",
+      "category": "comics",
+      "difficulty": "hard",
+      "question": "Who is the cosmic being that devours planets?",
+      "options": ["Galactus", "Unicron", "Anti-Monitor", "Imperiex"],
+      "answerIndex": 0
+    },
+    {
+      "id": "comics_h_0113",
+      "category": "comics",
+      "difficulty": "hard",
+      "question": "What is the name of the ultimate evil in DC Comics?",
+      "options": ["Darkseid", "Anti-Monitor", "The Great Darkness", "Barbatos"],
+      "answerIndex": 2
+    },
+    {
+      "id": "comics_h_0114",
+      "category": "comics",
+      "difficulty": "hard",
+      "question": "Who created the Lazarus Pit?",
+      "options": ["Ra's al Ghul", "Ancient alchemists", "Vandal Savage", "The Court of Owls"],
+      "answerIndex": 1
+    },
+    {
+      "id": "comics_h_0115",
+      "category": "comics",
+      "difficulty": "hard",
+      "question": "What is the name of the cosmic force in DC Comics?",
+      "options": ["The Source", "The Presence", "Both A and B", "The Light"],
+      "answerIndex": 2
+    },
+    {
+      "id": "comics_h_0116",
+      "category": "comics",
+      "difficulty": "hard",
+      "question": "Who is the first mutant in Marvel Comics?",
+      "options": ["Apocalypse", "Selene", "Both could claim this", "Wolverine"],
+      "answerIndex": 2
+    },
+    {
+      "id": "comics_h_0117",
+      "category": "comics",
+      "difficulty": "hard",
+      "question": "What is the name of the Watchers' home planet?",
+      "options": ["T-37X", "The Moon", "Watchworld", "They have none"],
+      "answerIndex": 1
+    },
+    {
+      "id": "comics_h_0118",
+      "category": "comics",
+      "difficulty": "hard",
+      "question": "Who killed the entire Green Lantern Corps?",
+      "options": ["Sinestro", "Parallax", "Nekron", "Krona"],
+      "answerIndex": 1
+    },
+    {
+      "id": "comics_h_0119",
+      "category": "comics",
+      "difficulty": "hard",
+      "question": "What is the name of the anti-life equation seeker?",
+      "options": ["Darkseid", "Thanos", "Apocalypse", "Ultron"],
+      "answerIndex": 0
+    },
+    {
+      "id": "comics_h_0120",
+      "category": "comics",
+      "difficulty": "hard",
+      "question": "Who is the Beyonder?",
+      "options": ["Cosmic cube entity", "Pre-retcon omnipotent", "Mutant Inhuman hybrid", "Reality warper"],
+      "answerIndex": 1
+    },
+    {
+      "id": "comics_h_0121",
+      "category": "comics",
+      "difficulty": "hard",
+      "question": "What is the name of the negative universe in Marvel?",
+      "options": ["Negative Zone", "Cancerverse", "Dark Dimension", "Shadow Realm"],
+      "answerIndex": 0
+    },
+    {
+      "id": "comics_h_0122",
+      "category": "comics",
+      "difficulty": "hard",
+      "question": "Who is the avatar of Death in Marvel Comics?",
+      "options": ["Thanos", "Deadpool", "Both were cursed by Death", "Death herself"],
+      "answerIndex": 2
+    },
+    {
+      "id": "comics_h_0123",
+      "category": "comics",
+      "difficulty": "hard",
+      "question": "What is the name of the first Lantern?",
+      "options": ["Volthoom", "Krona", "Alan Scott", "Relic"],
+      "answerIndex": 0
+    },
+    {
+      "id": "comics_h_0124",
+      "category": "comics",
+      "difficulty": "hard",
+      "question": "Who created the Sentinels?",
+      "options": ["Tony Stark", "Bolivar Trask", "William Stryker", "Sebastian Shaw"],
+      "answerIndex": 1
+    },
+    {
+      "id": "comics_h_0125",
+      "category": "comics",
+      "difficulty": "hard",
+      "question": "What is the name of the Phoenix Force's true form?",
+      "options": ["White Phoenix", "White Crown", "Phoenix God", "Life Force"],
+      "answerIndex": 1
+    },
+    {
+      "id": "comics_h_0126",
+      "category": "comics",
+      "difficulty": "hard",
+      "question": "Who is the Batman Who Laughs?",
+      "options": ["Jokerized Batman", "Dark Multiverse Batman", "Both A and B", "Evil Bruce Wayne"],
+      "answerIndex": 2
+    },
+    {
+      "id": "comics_h_0127",
+      "category": "comics",
+      "difficulty": "hard",
+      "question": "What is the name of the reality-altering artifact in Marvel?",
+      "options": ["Cosmic Cube", "Infinity Gauntlet", "Both A and B", "Ultimate Nullifier"],
+      "answerIndex": 2
+    },
+    {
+      "id": "comics_h_0128",
+      "category": "comics",
+      "difficulty": "hard",
+      "question": "Who is the spirit of God's vengeance?",
+      "options": ["Ghost Rider", "The Spectre", "Both in their universes", "Spawn"],
+      "answerIndex": 2
+    },
+    {
+      "id": "comics_h_0129",
+      "category": "comics",
+      "difficulty": "hard",
+      "question": "What is the name of the Omega Sanction?",
+      "options": ["Death loop", "Darkseid's punishment", "Living death", "All of these"],
+      "answerIndex": 3
+    },
+    {
+      "id": "comics_h_0130",
+      "category": "comics",
+      "difficulty": "hard",
+      "question": "Who is the One Above All in Marvel?",
+      "options": ["Supreme being", "Omnipotent creator", "God of Marvel", "All of these"],
+      "answerIndex": 3
     }
 ]

@@ -2398,5 +2398,2405 @@
       "question": "What is the daily food consumption of adult Brachiosaurus?",
       "options": ["200 lbs", "400 lbs", "800 lbs", "1500 lbs"],
       "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_e_0084",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What did carnivore dinosaurs eat?",
+      "options": ["Plants", "Meat", "Rocks", "Water"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0085",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Which dinosaur had a long neck?",
+      "options": ["Brachiosaurus", "T-Rex", "Velociraptor", "Ankylosaurus"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_e_0086",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What is a fossil?",
+      "options": ["A living dinosaur", "Remains of ancient life", "A type of rock", "A dinosaur egg"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0087",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Which prehistoric animal could fly?",
+      "options": ["T-Rex", "Pterodactyl", "Triceratops", "Stegosaurus"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0088",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What did Triceratops use its horns for?",
+      "options": ["Flying", "Swimming", "Defense", "Eating"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_e_0089",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What lived in the ocean during dinosaur times?",
+      "options": ["Sharks", "Dolphins", "Whales", "Penguins"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_e_0090",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What is a paleontologist?",
+      "options": ["A dinosaur", "Someone who studies fossils", "A type of rock", "Someone who digs for gold"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0091",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Which dinosaur had a club on its tail?",
+      "options": ["Ankylosaurus", "Diplodocus", "Spinosaurus", "Compsognathus"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_e_0092",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What color were dinosaurs?",
+      "options": ["We don't know for sure", "All green", "All brown", "All gray"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_e_0093",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Did dinosaurs lay eggs?",
+      "options": ["Yes", "No", "Only some", "Only big ones"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_e_0094",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What was the smallest dinosaur?",
+      "options": ["T-Rex", "Compsognathus", "Brachiosaurus", "Triceratops"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0095",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What made Stegosaurus special?",
+      "options": ["Plates on its back", "Long neck", "Big teeth", "Wings"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_e_0096",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What does herbivore mean?",
+      "options": ["Meat eater", "Plant eater", "Fish eater", "Bug eater"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0097",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Which marine reptile had a long neck?",
+      "options": ["Mosasaurus", "Plesiosaur", "Ichthyosaur", "Megalodon"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0098",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What did Spinosaurus have on its back?",
+      "options": ["Wings", "A sail", "Horns", "Spikes"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0099",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "When did dinosaurs live?",
+      "options": ["With cavemen", "Millions of years ago", "100 years ago", "Last week"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0100",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What does carnivore mean?",
+      "options": ["Plant eater", "Meat eater", "Rock eater", "Water drinker"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0101",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Which dinosaur was the biggest?",
+      "options": ["Velociraptor", "Compsognathus", "Argentinosaurus", "Microraptor"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_e_0102",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What are dinosaur bones called when found in rock?",
+      "options": ["Fossils", "Stones", "Crystals", "Treasure"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_e_0103",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Did all dinosaurs roar?",
+      "options": ["We're not sure", "Yes, all of them", "No, none of them", "Only T-Rex"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_e_0104",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What is an omnivore?",
+      "options": ["Eats only meat", "Eats only plants", "Eats both meat and plants", "Eats rocks"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_e_0105",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Which came first: dinosaurs or mammals?",
+      "options": ["Dinosaurs", "Mammals", "Both at once", "Neither"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0106",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What was a Mammoth?",
+      "options": ["A dinosaur", "A prehistoric elephant", "A plant", "A fish"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0107",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Did dinosaurs have feathers?",
+      "options": ["Some did", "None did", "All did", "Only flying ones"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_e_0108",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What happened to the dinosaurs?",
+      "options": ["They flew away", "They went extinct", "They turned into lizards", "They're still here"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0109",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Where do scientists find dinosaur fossils?",
+      "options": ["In trees", "In rocks", "In water", "In clouds"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0110",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What is a Saber-toothed cat?",
+      "options": ["A dinosaur", "A prehistoric mammal", "A bird", "A fish"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0111",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Did dinosaurs live in the Ice Age?",
+      "options": ["No", "Yes", "Some did", "Only small ones"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_e_0112",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What did Brachiosaurus eat?",
+      "options": ["Meat", "Plants", "Fish", "Rocks"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0113",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Which dinosaur was very fast?",
+      "options": ["Brachiosaurus", "Stegosaurus", "Velociraptor", "Ankylosaurus"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_e_0114",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What are baby dinosaurs called?",
+      "options": ["Puppies", "Hatchlings", "Cubs", "Chicks"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0115",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Did pterodactyls have feathers?",
+      "options": ["No, they had leathery skin", "Yes, all over", "Only on wings", "Only on tail"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_e_0116",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What is amber?",
+      "options": ["A rock", "Fossilized tree sap", "Dinosaur bone", "A crystal"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0117",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Which dinosaur had the longest tail?",
+      "options": ["T-Rex", "Diplodocus", "Triceratops", "Stegosaurus"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0118",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What were cave bears?",
+      "options": ["Dinosaurs", "Prehistoric bears", "Fish", "Birds"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0119",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Did dinosaurs live underwater?",
+      "options": ["No, but some reptiles did", "Yes, all of them", "Only T-Rex", "Only small ones"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_e_0120",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What is a coprolite?",
+      "options": ["Fossilized poop", "A type of dinosaur", "A plant", "A rock"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_e_0121",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Which animal is related to dinosaurs today?",
+      "options": ["Birds", "Lizards", "Snakes", "Crocodiles"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_e_0122",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What did Allosaurus eat?",
+      "options": ["Plants", "Other dinosaurs", "Rocks", "Water"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0123",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What was special about Pachycephalosaurus?",
+      "options": ["Thick skull", "Long neck", "Big claws", "Wings"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_e_0124",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Did dinosaurs have good eyesight?",
+      "options": ["Many did", "None did", "Only T-Rex", "Only herbivores"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_e_0125",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What is a Woolly Rhinoceros?",
+      "options": ["A dinosaur", "A prehistoric mammal", "A bird", "A fish"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0126",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "How many horns did Styracosaurus have?",
+      "options": ["One", "Three", "Many", "None"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_e_0127",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What did Iguanodon have on its thumbs?",
+      "options": ["Spikes", "Claws", "Nothing", "Feathers"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_e_0128",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Were all prehistoric animals big?",
+      "options": ["No, some were small", "Yes, all were huge", "Only dinosaurs", "Only mammals"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_e_0129",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What is a trace fossil?",
+      "options": ["A complete skeleton", "Footprints or tracks", "Dinosaur teeth", "Bones"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0130",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Did dinosaurs take care of their babies?",
+      "options": ["Some did", "None did", "All did", "Only T-Rex"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_e_0131",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What is a Dodo?",
+      "options": ["A dinosaur", "An extinct bird", "A fish", "A mammal"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0132",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What did Parasaurolophus have on its head?",
+      "options": ["A crest", "Horns", "Spikes", "Nothing"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_e_0133",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Were dinosaurs warm-blooded or cold-blooded?",
+      "options": ["Scientists still debate", "All warm", "All cold", "Only big ones warm"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_m_0128",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What period did T-Rex live in?",
+      "options": ["Triassic", "Jurassic", "Cretaceous", "Permian"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_m_0129",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "How long ago did dinosaurs go extinct?",
+      "options": ["10 million years", "65 million years", "200 million years", "1 billion years"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0130",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What caused the dinosaur extinction?",
+      "options": ["Ice age", "Asteroid impact", "Disease", "Hunting"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0131",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What does Velociraptor mean?",
+      "options": ["Fast claw", "Swift seizer", "Quick thief", "Rapid hunter"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0132",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "Which group includes T-Rex?",
+      "options": ["Sauropods", "Theropods", "Ceratopsians", "Ornithopods"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0133",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What was the largest flying prehistoric animal?",
+      "options": ["Pteranodon", "Quetzalcoatlus", "Pterodactyl", "Archaeopteryx"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0134",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What era came after the dinosaurs?",
+      "options": ["Paleozoic", "Mesozoic", "Cenozoic", "Precambrian"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_m_0135",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "Which marine reptile was the largest?",
+      "options": ["Plesiosaur", "Ichthyosaur", "Mosasaurus", "Kronosaurus"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_m_0136",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What does the name Triceratops mean?",
+      "options": ["Three horned face", "Three headed beast", "Triple horn", "Tri-crowned"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_m_0137",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "Which period came first?",
+      "options": ["Jurassic", "Cretaceous", "Triassic", "Permian"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_m_0138",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What was unique about Spinosaurus?",
+      "options": ["It could swim well", "It had wings", "It was the smallest", "It had no teeth"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_m_0139",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "How many fingers did T-Rex have?",
+      "options": ["Two", "Three", "Four", "Five"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_m_0140",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What is the study of fossils called?",
+      "options": ["Archaeology", "Paleontology", "Geology", "Biology"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0141",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "Which dinosaur had the longest claws?",
+      "options": ["Velociraptor", "Therizinosaurus", "Deinonychus", "Allosaurus"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0142",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What was a Megatherium?",
+      "options": ["Giant sloth", "Giant bear", "Giant cat", "Giant wolf"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_m_0143",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "How long was the Mesozoic Era?",
+      "options": ["50 million years", "100 million years", "186 million years", "300 million years"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_m_0144",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What did Stegosaurus use its tail spikes for?",
+      "options": ["Defense", "Eating", "Flying", "Digging"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_m_0145",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "Which dinosaur had the smallest brain?",
+      "options": ["Stegosaurus", "T-Rex", "Triceratops", "Velociraptor"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_m_0146",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What was Archaeopteryx?",
+      "options": ["First bird", "Flying dinosaur", "Transitional fossil", "Marine reptile"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_m_0147",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "How did Ankylosaurus defend itself?",
+      "options": ["Speed", "Tail club", "Sharp teeth", "Hiding"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0148",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What was a Glyptodon?",
+      "options": ["Giant armadillo", "Giant turtle", "Giant lizard", "Giant bird"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_m_0149",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "Which dinosaur had hollow bones?",
+      "options": ["All dinosaurs", "Only theropods", "Only sauropods", "Most dinosaurs"],
+      "answerIndex": 3
+    },
+    {
+      "id": "prehistoric_m_0150",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What was the bite force of T-Rex?",
+      "options": ["1,000 pounds", "3,000 pounds", "6,000 pounds", "12,000 pounds"],
+      "answerIndex": 3
+    },
+    {
+      "id": "prehistoric_m_0151",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "Which continent has the most dinosaur fossils?",
+      "options": ["Asia", "North America", "Africa", "South America"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0152",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What was a Dimetrodon?",
+      "options": ["A dinosaur", "A synapsid", "A mammal", "A reptile"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0153",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "How fast could Velociraptor run?",
+      "options": ["15 mph", "25 mph", "40 mph", "60 mph"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_m_0154",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What was special about Dracorex?",
+      "options": ["Horned skull", "Dragon-like appearance", "Flying ability", "Fire breathing"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0155",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "Which dinosaur had the longest neck?",
+      "options": ["Brachiosaurus", "Diplodocus", "Mamenchisaurus", "Apatosaurus"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_m_0156",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What was the Ice Age?",
+      "options": ["When dinosaurs lived", "Period of glaciation", "Asteroid impact", "Volcanic era"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0157",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "How many horns did Carnotaurus have?",
+      "options": ["None", "Two", "Three", "Four"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0158",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What was a Dire Wolf?",
+      "options": ["A dinosaur", "Prehistoric wolf", "Giant dog", "Mythical creature"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0159",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "Which dinosaur had a parrot-like beak?",
+      "options": ["Psittacosaurus", "T-Rex", "Brachiosaurus", "Spinosaurus"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_m_0160",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What were gastroliths?",
+      "options": ["Stomach stones", "Teeth", "Claws", "Bones"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_m_0161",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "Which period had the most dinosaur diversity?",
+      "options": ["Triassic", "Jurassic", "Cretaceous", "Permian"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_m_0162",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What was a Microraptor?",
+      "options": ["Small raptor with four wings", "Flying mammal", "Marine reptile", "Large herbivore"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_m_0163",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "How long could a Brachiosaurus live?",
+      "options": ["20 years", "50 years", "100 years", "200 years"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_m_0164",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What was special about Edmontosaurus?",
+      "options": ["Duck-billed", "Armored", "Horned", "Flying"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_m_0165",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "Which animal survived the dinosaur extinction?",
+      "options": ["Crocodiles", "All dinosaurs", "Pterosaurs", "Mosasaurs"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_m_0166",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What was the Chicxulub crater?",
+      "options": ["Volcano", "Asteroid impact site", "Dinosaur nest", "Fossil bed"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0167",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "How many species of dinosaurs existed?",
+      "options": ["100", "300", "700+", "2000+"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_m_0168",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What was Giganotosaurus?",
+      "options": ["Larger than T-Rex carnivore", "Giant herbivore", "Flying reptile", "Marine predator"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_m_0169",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "Which dinosaur had the thickest skull?",
+      "options": ["Pachycephalosaurus", "T-Rex", "Triceratops", "Stegosaurus"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_m_0170",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What was a Basilosaurus?",
+      "options": ["Dinosaur", "Prehistoric whale", "Flying reptile", "Giant lizard"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0171",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "How tall was a T-Rex?",
+      "options": ["10 feet", "13 feet", "20 feet", "30 feet"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_m_0172",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What were pterosaurs covered in?",
+      "options": ["Scales", "Feathers", "Pycnofibers", "Fur"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_m_0173",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "Which dinosaur had the best sense of smell?",
+      "options": ["T-Rex", "Velociraptor", "Stegosaurus", "Brachiosaurus"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_m_0174",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What was a Megalodon?",
+      "options": ["Giant shark", "Giant whale", "Giant squid", "Giant reptile"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_m_0175",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "Which dinosaur had feathers first discovered?",
+      "options": ["Sinosauropteryx", "T-Rex", "Velociraptor", "Archaeopteryx"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_m_0176",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What was the Permian extinction?",
+      "options": ["Dinosaur extinction", "Largest mass extinction", "Ice age", "Asteroid impact"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0177",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "How many teeth did a T-Rex have?",
+      "options": ["20", "40", "60", "80"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_h_0091",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What is the K-Pg boundary?",
+      "options": ["Rock layer marking extinction", "Fossil dating method", "Geological formation", "Crater rim"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_h_0092",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What was the length of Argentinosaurus?",
+      "options": ["70 feet", "100 feet", "115 feet", "140 feet"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_h_0093",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "Which family does Velociraptor belong to?",
+      "options": ["Tyrannosauridae", "Dromaeosauridae", "Troodontidae", "Ornithomimidae"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0094",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What is taphonomy?",
+      "options": ["Study of fossilization", "Dating method", "Rock formation", "Extinction study"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_h_0095",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What was the atmospheric oxygen level in the Carboniferous?",
+      "options": ["15%", "21%", "35%", "45%"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_h_0096",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "Which clade includes both birds and crocodiles?",
+      "options": ["Dinosauria", "Archosauria", "Reptilia", "Sauropsida"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0097",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What was the brain-to-body ratio of Stegosaurus?",
+      "options": ["1:1000", "1:10000", "1:100000", "1:1000000"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0098",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What is the Morrison Formation?",
+      "options": ["Jurassic fossil site", "Triassic fossil site", "Cretaceous fossil site", "Permian fossil site"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_h_0099",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "Which isotope is used for radiometric dating of fossils?",
+      "options": ["Carbon-14", "Uranium-238", "Potassium-40", "Rubidium-87"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_h_0100",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What was the purpose of Stegosaurus plates?",
+      "options": ["Thermoregulation", "Defense", "Display", "Unknown/debated"],
+      "answerIndex": 3
+    },
+    {
+      "id": "prehistoric_h_0101",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What is the encephalization quotient of T-Rex?",
+      "options": ["0.5", "1.0", "2.4", "5.0"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_h_0102",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "Which supercontinent existed during the Triassic?",
+      "options": ["Gondwana", "Laurasia", "Pangaea", "Rodinia"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_h_0103",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What was the wingspan of Quetzalcoatlus?",
+      "options": ["20 feet", "33 feet", "40 feet", "52 feet"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_h_0104",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What is the Hell Creek Formation?",
+      "options": ["Late Cretaceous fossil site", "Jurassic fossil site", "Triassic fossil site", "Permian fossil site"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_h_0105",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "Which dinosaur had the highest tooth replacement rate?",
+      "options": ["T-Rex", "Hadrosaurs", "Ceratopsians", "Sauropods"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0106",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What is the Burgess Shale?",
+      "options": ["Cambrian fossil site", "Triassic fossil site", "Jurassic fossil site", "Cretaceous fossil site"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_h_0107",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What was the metabolic rate of sauropods?",
+      "options": ["Ectothermic", "Endothermic", "Mesothermic", "Gigantothermic"],
+      "answerIndex": 3
+    },
+    {
+      "id": "prehistoric_h_0108",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "Which dinosaur showed evidence of brooding behavior?",
+      "options": ["Oviraptor", "T-Rex", "Stegosaurus", "Diplodocus"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_h_0109",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What is the Solnhofen Limestone famous for?",
+      "options": ["Archaeopteryx fossils", "T-Rex fossils", "Trilobite fossils", "Mammoth fossils"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_h_0110",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What was the growth rate of T-Rex?",
+      "options": ["1000 lbs/year", "2000 lbs/year", "4000 lbs/year", "6000 lbs/year"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0111",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "Which theropod had the longest arms relative to body?",
+      "options": ["Deinocheirus", "Therizinosaurus", "Spinosaurus", "Gigantoraptor"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_h_0112",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What is the Chicxulub impactor estimated diameter?",
+      "options": ["5 miles", "6 miles", "10 miles", "15 miles"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0113",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What was the bite force quotient of Allosaurus?",
+      "options": ["55", "70", "95", "120"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_h_0114",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "Which period had the lowest sea levels?",
+      "options": ["Triassic", "Jurassic", "Cretaceous", "Permian"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_h_0115",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What is the Jehol Biota?",
+      "options": ["Cretaceous fossil site in China", "Jurassic site in Germany", "Triassic site in USA", "Permian site in Russia"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_h_0116",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What was the neck vertebrae count in Mamenchisaurus?",
+      "options": ["15", "19", "26", "35"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0117",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "Which dinosaur had the highest nasal chamber complexity?",
+      "options": ["Parasaurolophus", "T-Rex", "Triceratops", "Stegosaurus"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_h_0118",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What is the Deccan Traps?",
+      "options": ["Volcanic formation", "Fossil site", "Rock layer", "Crater"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_h_0119",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What was the estimated IQ range of Troodon?",
+      "options": ["Similar to opossum", "Similar to crow", "Similar to dog", "Similar to dolphin"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_h_0120",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "Which formation yielded the most complete T-Rex specimen?",
+      "options": ["Morrison Formation", "Hell Creek Formation", "Chinle Formation", "Ischigualasto Formation"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0121",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What was the lung capacity of Argentinosaurus?",
+      "options": ["500 liters", "1000 liters", "1800 liters", "3000 liters"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_h_0122",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "Which dinosaur had the most complex social structure?",
+      "options": ["Maiasaura", "Velociraptor", "T-Rex", "Triceratops"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_h_0123",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What is the Kem Kem Beds?",
+      "options": ["Cretaceous formation in Morocco", "Jurassic site in USA", "Triassic site in Argentina", "Permian site in South Africa"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_h_0124",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What was the jaw closing speed of T-Rex?",
+      "options": ["10 mph", "20 mph", "30 mph", "45 mph"],
+      "answerIndex": 3
+    },
+    {
+      "id": "prehistoric_h_0125",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "Which dinosaur exhibited the most pneumatization?",
+      "options": ["Sauropods", "Theropods", "Ceratopsians", "Ankylosaurs"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_h_0126",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What is the osteohistology?",
+      "options": ["Study of bone microstructure", "Dating method", "Fossil preparation", "DNA extraction"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_h_0127",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What was the reproductive strategy of pterosaurs?",
+      "options": ["K-selected", "r-selected", "Mixed", "Unknown"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_h_0128",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "Which dinosaur had the highest dental battery count?",
+      "options": ["Edmontosaurus", "Triceratops", "Stegosaurus", "T-Rex"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_h_0129",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What is the Liaoning Province famous for?",
+      "options": ["Feathered dinosaur fossils", "Giant sauropods", "Marine reptiles", "Trilobites"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_h_0130",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What was the stride length of Giganotosaurus?",
+      "options": ["10 feet", "12 feet", "15 feet", "18 feet"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_h_0131",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "Which clade does Spinosaurus belong to?",
+      "options": ["Megalosauroidea", "Allosauroidea", "Coelurosauria", "Carnosauria"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_h_0132",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What is the Lagerst├ñtten?",
+      "options": ["Exceptional fossil preservation site", "Dating method", "Rock type", "Geological era"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_h_0133",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What was the hearing range of Parasaurolophus?",
+      "options": ["20-100 Hz", "200-500 Hz", "30-240 Hz", "1000-2000 Hz"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_h_0134",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "Which period had the highest CO2 levels?",
+      "options": ["Triassic", "Jurassic", "Cretaceous", "Permian"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_h_0135",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What is the phylogenetic position of Archaeopteryx?",
+      "options": ["Basal avialae", "True bird", "Dromaeosaur", "Troodontid"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_h_0136",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What was the gestation period of sauropods?",
+      "options": ["3 months", "6 months", "9 months", "12 months"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0137",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "Which dinosaur had the most derived tail structure?",
+      "options": ["Yi qi", "Therizinosaurus", "Deinocheirus", "Beipiaosaurus"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_h_0138",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What is the Santana Formation?",
+      "options": ["Cretaceous site in Brazil", "Jurassic site in USA", "Triassic site in Argentina", "Permian site in Russia"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_h_0139",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What was the visual acuity of T-Rex compared to humans?",
+      "options": ["Half as good", "Equal", "13 times better", "50 times better"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_h_0140",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "Which sauropod had the most complex tooth morphology?",
+      "options": ["Nigersaurus", "Diplodocus", "Brachiosaurus", "Camarasaurus"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_e_0134",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What are fossils?",
+      "options": ["Old rocks", "Remains of ancient life", "Colored stones", "Broken bones"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0135",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What was the Ice Age?",
+      "options": ["A very cold period", "A movie", "A type of rock", "A dinosaur name"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_e_0136",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What killed the dinosaurs?",
+      "options": ["Humans", "Ice", "An asteroid impact", "Old age"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_e_0137",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What is a paleontologist?",
+      "options": ["A fossil scientist", "A rock climber", "A dragon hunter", "A museum guard"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_e_0138",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What did mammoths have that elephants today don't?",
+      "options": ["Trunks", "Long tusks", "Thick fur", "Four legs"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_e_0139",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What do we call plants that ate insects long ago?",
+      "options": ["Carnivorous plants", "Scary plants", "Bug eaters", "Flower plants"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_e_0140",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Where are most dinosaur fossils found?",
+      "options": ["In trees", "In the ground", "In water", "In caves only"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0141",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What were saber-toothed cats known for?",
+      "options": ["Long claws", "Big teeth", "Fast running", "Flying"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0142",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What is amber?",
+      "options": ["A color", "Hardened tree sap", "Yellow rock", "Ice"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0143",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Did dinosaurs live in the Ice Age?",
+      "options": ["Yes", "No", "Only small ones", "Only in cold areas"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0144",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What were prehistoric ferns?",
+      "options": ["Ancient plants", "Small dinosaurs", "Flying insects", "Sea creatures"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_e_0145",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "How long does it take for fossils to form?",
+      "options": ["One year", "100 years", "Millions of years", "One week"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_e_0146",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What is an extinction?",
+      "options": ["Birth of a species", "Death of all members of a species", "Migration", "Evolution"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0147",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What did Triceratops use its horns for?",
+      "options": ["Flying", "Defense", "Eating", "Swimming"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0148",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Were there flowers in the time of dinosaurs?",
+      "options": ["Yes, some", "No, never", "Only roses", "Only in winter"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_e_0149",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What is a fossil dig site?",
+      "options": ["A place to find fossils", "A museum", "A zoo", "A park"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_e_0150",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What covered the earth during the Ice Age?",
+      "options": ["Sand", "Water", "Ice and snow", "Lava"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_e_0151",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Did some dinosaurs live in groups?",
+      "options": ["Yes", "No", "Only on Sundays", "Only babies"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_e_0152",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What are fossil footprints called?",
+      "options": ["Tracks", "Bones", "Prints", "Marks"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_e_0153",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What did plant-eating dinosaurs have?",
+      "options": ["Sharp teeth", "Flat teeth", "No teeth", "Metal teeth"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0154",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What were giant ground sloths?",
+      "options": ["Huge slow animals", "Fast dinosaurs", "Flying creatures", "Sea monsters"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_e_0155",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Can fossils be found in deserts?",
+      "options": ["Yes", "No", "Only at night", "Only in winter"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_e_0156",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What did many dinosaurs have on their bodies?",
+      "options": ["Fur", "Scales", "Feathers", "Both B and C"],
+      "answerIndex": 3
+    },
+    {
+      "id": "prehistoric_e_0157",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What are petrified fossils?",
+      "options": ["Scared fossils", "Fossils turned to stone", "Broken fossils", "Fake fossils"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0158",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What was special about prehistoric trees?",
+      "options": ["They were purple", "Some were very tall", "They walked", "They ate meat"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0159",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Did dinosaurs take care of their babies?",
+      "options": ["Yes, many did", "No, never", "Only on rainy days", "We don't know"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_e_0160",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What is the La Brea Tar Pits famous for?",
+      "options": ["Gold", "Trapped Ice Age animals", "Diamonds", "Ancient robots"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0161",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What did Stegosaurus use its tail spikes for?",
+      "options": ["Flying", "Defense", "Eating", "Walking"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0162",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Were all prehistoric animals big?",
+      "options": ["Yes", "No, many were small", "Only in summer", "Only the fish"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0163",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What can be preserved in fossils besides bones?",
+      "options": ["Teeth and shells", "Thoughts", "Colors", "Sounds"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_e_0164",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What did prehistoric dragonflies look like?",
+      "options": ["Same as today", "Much bigger", "Smaller", "They didn't exist"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0165",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Why did dinosaurs migrate?",
+      "options": ["For fun", "To find food and water", "To dance", "They didn't"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0166",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What is coal made from?",
+      "options": ["Rocks", "Ancient plants", "Dinosaur bones", "Ice"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0167",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Were there palm trees when dinosaurs lived?",
+      "options": ["Yes", "No", "Only fake ones", "Only in movies"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_e_0168",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What do paleontologists use to dig up fossils?",
+      "options": ["Spoons", "Special tools", "Their hands only", "Magic"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0169",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Did some dinosaurs make nests?",
+      "options": ["Yes", "No", "Only in trees", "Only underwater"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_e_0170",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What were woolly rhinos?",
+      "options": ["Hairy Ice Age animals", "Dinosaurs", "Plants", "Birds"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_e_0171",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Can scientists tell dinosaur colors from fossils?",
+      "options": ["Sometimes from feathers", "Always perfectly", "Never", "Only on Tuesdays"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_e_0172",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What is fossilized poop called?",
+      "options": ["Yucky rock", "Coprolite", "Poo stone", "Dino waste"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0173",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Were there giant mushrooms long ago?",
+      "options": ["Yes", "No", "Only small ones", "Mushrooms are new"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_e_0174",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What did many meat-eating dinosaurs hunt?",
+      "options": ["Plants", "Other dinosaurs", "Cars", "Houses"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0175",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Where is Dinosaur National Monument?",
+      "options": ["USA", "Mars", "Under the sea", "In a mall"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_e_0176",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What happened to most species in a mass extinction?",
+      "options": ["They died out", "They grew bigger", "They learned to fly", "Nothing"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_e_0177",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Were there any grasses when dinosaurs first appeared?",
+      "options": ["No", "Yes, everywhere", "Only on hills", "Only purple grass"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_e_0178",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What did Ankylosaurus use its club tail for?",
+      "options": ["Swimming", "Defense against predators", "Eating", "Making music"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_e_0179",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Can fossils be found in rocks?",
+      "options": ["Yes", "No", "Only soft rocks", "Only red rocks"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_e_0180",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What were cave bears?",
+      "options": ["Ice Age bears that lived in caves", "Flying bears", "Tiny bears", "Bears that built caves"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_e_0181",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Did some dinosaurs swim?",
+      "options": ["Yes", "No, they all sank", "Only backwards", "Only in juice"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_e_0182",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "What do we call ancient cone-bearing plants?",
+      "options": ["Conifers", "Flowers", "Grasses", "Weeds"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_e_0183",
+      "category": "prehistoric",
+      "difficulty": "easy",
+      "question": "Where would paleontologists work?",
+      "options": ["Dig sites and museums", "Only at home", "In space", "At the beach only"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_m_0178",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What caused the Permian-Triassic extinction?",
+      "options": ["Asteroid impact", "Volcanic eruptions and climate change", "Ice Age", "Flooding"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0179",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "How are fossils dated?",
+      "options": ["By color", "Radiometric dating", "By weight", "By smell"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0180",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What was unique about Spinosaurus behavior?",
+      "options": ["It only ate plants", "It was semi-aquatic", "It flew", "It lived underground"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0181",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What were cycads?",
+      "options": ["Prehistoric palm-like plants", "Flying reptiles", "Small mammals", "Sea creatures"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_m_0182",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "When did the last Ice Age end?",
+      "options": ["1000 years ago", "About 11,700 years ago", "50,000 years ago", "100 years ago"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0183",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What is the Burgess Shale famous for?",
+      "options": ["Dinosaur eggs", "Cambrian fossils", "Ice Age mammals", "Volcanic ash"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0184",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "Who discovered the first complete Iguanodon?",
+      "options": ["Charles Darwin", "Gideon Mantell", "Mary Anning", "Roy Chapman Andrews"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0185",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What process turns organic material into fossils?",
+      "options": ["Freezing", "Permineralization", "Burning", "Melting"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0186",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What percentage of species died in the K-T extinction?",
+      "options": ["25%", "50%", "About 75%", "90%"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_m_0187",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What evidence suggests some dinosaurs were social?",
+      "options": ["DNA tests", "Trackways and bonebeds", "Cave paintings", "Videos"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0188",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What are stromatolites?",
+      "options": ["Ancient bacterial structures", "Dinosaur eggs", "Prehistoric fish", "Ice formations"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_m_0189",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What was the Younger Dryas?",
+      "options": ["A dinosaur", "A cold period during Ice Age", "A scientist", "A fossil site"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0190",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "Which formation in Montana is rich in dinosaur fossils?",
+      "options": ["Morrison Formation", "Hell Creek Formation", "Burgess Shale", "Green River Formation"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0191",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What did hadrosaurs likely use their crests for?",
+      "options": ["Flying", "Communication and display", "Digging", "Swimming"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0192",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What are trace fossils?",
+      "options": ["Very small fossils", "Evidence of activity like footprints", "Fake fossils", "Broken bones"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0193",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What were horsetails in prehistoric times?",
+      "options": ["Actual horse tails", "Primitive vascular plants", "Flying reptiles", "Sea sponges"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0194",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What caused the megafauna extinctions?",
+      "options": ["Asteroids", "Climate change and human hunting", "Dinosaurs", "Diseases only"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0195",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "Who was Mary Anning?",
+      "options": ["A queen", "Famous fossil hunter from England", "A dinosaur", "An astronaut"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0196",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What are gastroliths?",
+      "options": ["Stomach stones for digestion", "Teeth fossils", "Ancient bacteria", "Ice crystals"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_m_0197",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "Where is the Valley of the Dinosaurs in Argentina?",
+      "options": ["Buenos Aires", "Patagonia", "Andes Mountains", "Amazon"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0198",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What protected Stegosaurus' neck?",
+      "options": ["Thick skin", "Small bony plates called osteoderms", "Long hair", "Nothing"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0199",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What is taphonomy?",
+      "options": ["Study of dinosaur names", "Study of how organisms become fossils", "Study of rocks", "Study of extinction"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0200",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What were Glossopteris?",
+      "options": ["Seed ferns from Permian period", "Flying reptiles", "Sea creatures", "Dinosaurs"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_m_0201",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "When did flowering plants first appear?",
+      "options": ["Triassic", "Early Cretaceous", "Permian", "Ice Age"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0202",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What is the Chicxulub crater?",
+      "options": ["A volcano", "Impact site of dinosaur-killing asteroid", "A lake", "A mountain"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0203",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What did Oviraptors actually eat?",
+      "options": ["Only eggs", "Probably mollusks and plants", "Only meat", "Rocks"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0204",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What is the Solnhofen Limestone famous for?",
+      "options": ["Gold deposits", "Archaeopteryx fossils", "Diamonds", "Prehistoric humans"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0205",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What adaptation helped mammals survive the Ice Age?",
+      "options": ["Thick fur and layers of fat", "Wings", "Gills", "Poison"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_m_0206",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "Who named the Tyrannosaurus rex?",
+      "options": ["Mary Anning", "Henry Fairfield Osborn", "Charles Darwin", "Sue Hendrickson"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0207",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What are molds and casts in fossil formation?",
+      "options": ["Diseases", "Types of fossil preservation", "Digging tools", "Rocks"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0208",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What is the 'Bone Wars'?",
+      "options": ["A movie", "Rivalry between Cope and Marsh", "A video game", "A museum"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0209",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What did pachycephalosaurs use their thick skulls for?",
+      "options": ["Flying", "Head-butting displays", "Swimming", "Eating"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0210",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What are body fossils?",
+      "options": ["Human remains", "Preserved remains of organisms", "Only bones", "Rock formations"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0211",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What caused the Ordovician-Silurian extinction?",
+      "options": ["Asteroid", "Glaciation and sea level changes", "Volcanic eruption", "Disease"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0212",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "Where is Ghost Ranch fossil site?",
+      "options": ["Texas", "New Mexico", "California", "Florida"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0213",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What were club mosses in the Carboniferous?",
+      "options": ["Small plants", "Giant tree-like plants", "Animals", "Fungi"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0214",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What is the Morrison Formation known for?",
+      "options": ["Ice Age fossils", "Jurassic dinosaur fossils", "Human artifacts", "Volcanic ash"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0215",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What behavior do nesting sites reveal?",
+      "options": ["Dinosaurs didn't care for young", "Parental care in some species", "All dinosaurs were cold-blooded", "Nothing useful"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0216",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What is the significance of the Gobi Desert?",
+      "options": ["No fossils there", "Rich in dinosaur fossils and eggs", "Only plants found", "Ice Age only"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0217",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What were bennettitales?",
+      "options": ["Extinct seed plants", "Dinosaurs", "Ice formations", "Rocks"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_m_0218",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What is biostratigraphy?",
+      "options": ["Study of living animals", "Dating rocks using fossils", "Study of atmospheres", "Cave exploration"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0219",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What caused the Triassic-Jurassic extinction?",
+      "options": ["Ice Age", "Volcanic activity and climate change", "Meteor only", "Ocean currents"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0220",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What did Deinonychus claws suggest about behavior?",
+      "options": ["They were herbivores", "Active predatory behavior", "They couldn't hunt", "They were slow"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0221",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "Who discovered Sue, the T. rex?",
+      "options": ["Mary Anning", "Sue Hendrickson", "Roy Chapman Andrews", "Jack Horner"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0222",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What are index fossils used for?",
+      "options": ["Making jewelry", "Dating rock layers", "Building materials", "Nothing"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0223",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What preserved insects in detail?",
+      "options": ["Ice", "Amber", "Water", "Sand"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0224",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What role did ginkgo trees play?",
+      "options": ["They're extinct", "Living fossils, survived since dinosaurs", "Only in museums", "Never existed"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0225",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What is the Karoo Basin known for?",
+      "options": ["Modern cities", "Permian-Triassic fossils in South Africa", "Oil deposits only", "Nothing special"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0226",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What evidence shows dinosaurs were warm-blooded?",
+      "options": ["None exists", "Bone structure and growth rates", "Skin color", "Tooth size"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_m_0227",
+      "category": "prehistoric",
+      "difficulty": "medium",
+      "question": "What did Velociraptors hunt?",
+      "options": ["Only plants", "Small dinosaurs and mammals", "Humans", "Nothing"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0141",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What was the duration of the Deccan Traps eruptions?",
+      "options": ["10 years", "1000 years", "About 30,000 years", "1 million years"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_h_0142",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What is diagenesis in fossilization?",
+      "options": ["Bone cleaning", "Chemical and physical changes after burial", "Excavation method", "Dating technique"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0143",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What was the proposed function of Therizinosaurus claws?",
+      "options": ["Predation only", "Herbivorous foraging and defense", "Flying", "Swimming"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0144",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What is the significance of Archaefructus?",
+      "options": ["First dinosaur", "Earliest known flowering plant", "First mammal", "Ancient fungus"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0145",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What caused Heinrich Events during Ice Age?",
+      "options": ["Meteor impacts", "Massive iceberg discharges", "Volcanic eruptions", "Earthquakes"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0146",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "Where is the Liaoning Province fossil site?",
+      "options": ["Japan", "China", "Mongolia", "Korea"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0147",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "Who proposed the Alvarez hypothesis?",
+      "options": ["Charles Darwin", "Luis and Walter Alvarez", "Mary Anning", "Richard Owen"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0148",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What is authigenic mineralization?",
+      "options": ["Rock melting", "Mineral formation during fossilization", "Ice formation", "Bone growth"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0149",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What percentage died in Permian extinction?",
+      "options": ["50%", "75%", "Over 90%", "20%"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_h_0150",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What was the encephalization quotient of Troodon?",
+      "options": ["Very low", "Similar to modern birds", "Higher than humans", "Zero"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0151",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What are Medullosan seed ferns?",
+      "options": ["Modern plants", "Extinct Carboniferous seed plants", "Dinosaurs", "Bacteria"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0152",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What is the Signor-Lipps effect?",
+      "options": ["A disease", "Apparent gradual extinction in fossil record", "A dating method", "A rock type"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0153",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What was the paleoenvironment of Hell Creek?",
+      "options": ["Desert", "Coastal plain with rivers", "Ocean", "Tundra"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0154",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What is gregarious behavior evidence in dinosaurs?",
+      "options": ["Single fossils", "Mass death assemblages and trackways", "Tooth marks", "Coprolites"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0155",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What is the Yixian Formation?",
+      "options": ["Volcanic formation", "Early Cretaceous lagerstätte in China", "Ice sheet", "Mountain range"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0156",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "Who established the concept of deep time?",
+      "options": ["Charles Darwin", "James Hutton", "Mary Anning", "Georges Cuvier"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0157",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What is pyrite disease in fossils?",
+      "options": ["A bacteria", "Degradation from pyrite oxidation", "Preservation method", "Cleaning technique"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0158",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What were Calamites?",
+      "options": ["Fish", "Giant prehistoric horsetails", "Fungi", "Insects"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0159",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What is the duration of Last Glacial Maximum?",
+      "options": ["100 years", "1,000 years", "About 26,500-19,000 years ago", "50 years"],
+      "answerIndex": 2
+    },
+    {
+      "id": "prehistoric_h_0160",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What is exceptional preservation called?",
+      "options": ["Normal fossils", "Lagerstätten", "Regular rocks", "Coprolites"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0161",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What caused the Late Devonian extinctions?",
+      "options": ["Single asteroid", "Multiple causes including anoxia", "Ice only", "Predators"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0162",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What is pneumaticity in sauropods?",
+      "options": ["Disease", "Air-filled bone structure", "Tooth type", "Scale pattern"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0163",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "Who developed cladistic analysis?",
+      "options": ["Darwin", "Willi Hennig", "Linnaeus", "Cuvier"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0164",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What are Cordaites?",
+      "options": ["Animals", "Extinct tree-like gymnosperms", "Bacteria", "Minerals"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0165",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What is the Jehol Biota?",
+      "options": ["A disease", "Early Cretaceous ecosystem in China", "A rock type", "A museum"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0166",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What is niche partitioning in ceratopsians?",
+      "options": ["Fighting", "Resource division to reduce competition", "Migration pattern", "Mating ritual"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0167",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What is carbon-14 dating limit?",
+      "options": ["1 million years", "About 50,000 years", "10 years", "Unlimited"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0168",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What is the Ischigualasto Formation?",
+      "options": ["Modern city", "Triassic fossil site in Argentina", "Ice formation", "Mountain range"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0169",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What are Lepidodendron?",
+      "options": ["Dinosaurs", "Scale trees from Carboniferous", "Fish", "Fungi"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0170",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What is sexual dimorphism evidence in T. rex?",
+      "options": ["None found", "Chevron bone structure differences", "Color", "Size only"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0171",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What was the oxygen level in Carboniferous?",
+      "options": ["Same as today", "About 35% vs 21% today", "Lower than today", "Zero"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0172",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What is the holotype specimen?",
+      "options": ["Any fossil", "Original specimen used to define species", "Fake fossil", "Museum display"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0173",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "Who discovered Compsognathus?",
+      "options": ["Mary Anning", "Andreas Wagner (described it)", "Roy Chapman Andrews", "Jack Horner"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0174",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What is taphonomic bias?",
+      "options": ["Personal opinion", "Selective preservation in fossil record", "Dating error", "Excavation mistake"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0175",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What are Arbor vitae in duck-billed dinosaurs?",
+      "options": ["Teeth", "Complex brain structures for balance", "Scales", "Claws"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0176",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What is the Silurian Hypothesis?",
+      "options": ["Ancient advanced civilization concept", "Asteroid theory", "Dating method", "Fossil type"],
+      "answerIndex": 0
+    },
+    {
+      "id": "prehistoric_h_0177",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What are Williamsonia?",
+      "options": ["Dinosaurs", "Mesozoic bennettitalean plants", "Insects", "Fish"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0178",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What is Milankovitch cycles' role?",
+      "options": ["None", "Orbital variations affecting climate", "Volcanic patterns", "Meteor frequency"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0179",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "Where is Dinosaur Provincial Park?",
+      "options": ["USA", "Alberta, Canada", "Mexico", "Australia"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0180",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What is alloparenting behavior?",
+      "options": ["Solo parenting", "Cooperative care of young", "Abandonment", "Egg stealing"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0181",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What is Rhynie Chert?",
+      "options": ["A disease", "Devonian fossil site with plants", "Dinosaur", "Mountain"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0182",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What is competitive exclusion in dinosaurs?",
+      "options": ["Fighting", "Species outcompeting others for resources", "Migration", "Extinction event"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0183",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "Who proposed dinosaur endothermy?",
+      "options": ["Darwin", "John Ostrom and Robert Bakker", "Mary Anning", "Linnaeus"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0184",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What is strontium isotope analysis used for?",
+      "options": ["Color determination", "Determining animal migration patterns", "Dating only", "Nothing"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0185",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What were Sigillaria?",
+      "options": ["Animals", "Carboniferous lycopsid trees", "Bacteria", "Minerals"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0186",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What is the Tanis site significance?",
+      "options": ["Nothing special", "Potential K-T boundary impact evidence", "Human remains", "Modern city"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0187",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What is heterochrony in evolution?",
+      "options": ["Color change", "Timing changes in developmental processes", "Size change", "Diet change"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0188",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What is the Green River Formation?",
+      "options": ["Modern river", "Eocene fossil lake deposits", "Mountain range", "Desert"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0189",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "What are phytoliths?",
+      "options": ["Rocks", "Silica structures in plants", "Fossils", "Minerals"],
+      "answerIndex": 1
+    },
+    {
+      "id": "prehistoric_h_0190",
+      "category": "prehistoric",
+      "difficulty": "hard",
+      "question": "Who was Barnum Brown?",
+      "options": ["A president", "Famous dinosaur hunter who found first T. rex", "A painter", "A writer"],
+      "answerIndex": 1
     }
 ]

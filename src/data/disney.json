@@ -2398,5 +2398,805 @@
     "question": "What year was Frozen 2 released?",
     "options": ["2017", "2018", "2019", "2020"],
     "answerIndex": 2
+  },
+  {
+    "id": "disney_e_0101",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What is the name of the lion cub in The Lion King?",
+    "options": ["Simba", "Nala", "Scar", "Mufasa"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_e_0102",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What does Cinderella lose at the ball?",
+    "options": ["Her necklace", "Her shoe", "Her crown", "Her glove"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_e_0103",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What does Pinocchio's nose do when he lies?",
+    "options": ["It shrinks", "It grows", "It turns red", "It falls off"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_e_0104",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What is the name of the toy piggy bank in Toy Story?",
+    "options": ["Bacon", "Hamm", "Porky", "Piglet"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_e_0105",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What color is the Mad Hatter's hat?",
+    "options": ["Blue", "Green", "Red", "Purple"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_e_0106",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What is the name of the girl in Inside Out?",
+    "options": ["Emily", "Riley", "Sarah", "Jessica"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_e_0107",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What kind of animal is Dumbo?",
+    "options": ["Hippo", "Rhino", "Elephant", "Giraffe"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_e_0108",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What does Rapunzel want to see on her birthday?",
+    "options": ["The ocean", "The lanterns", "The mountains", "The stars"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_e_0109",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What is the name of the little blue alien in Monsters, Inc.?",
+    "options": ["Boo", "Mike", "Sulley", "The aliens have no names"],
+    "answerIndex": 3
+  },
+  {
+    "id": "disney_e_0110",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What is the name of Aladdin's friend who is a monkey?",
+    "options": ["Raja", "Abu", "Iago", "Genie"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_m_0101",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of the kingdom where Anna and Elsa live?",
+    "options": ["Arendelle", "Corona", "DunBroch", "Agrabah"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_m_0102",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What song does Elsa sing as she creates her ice palace?",
+    "options": ["Do You Want to Build a Snowman", "Let It Go", "For the First Time in Forever", "Into the Unknown"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_m_0103",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of the rat chef's idol in Ratatouille?",
+    "options": ["Chef Skinner", "Auguste Gusteau", "Alfredo Linguini", "Anton Ego"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_m_0104",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of the daycare in Toy Story 3?",
+    "options": ["Sunny Days", "Sunnyside", "Happy Days", "Rainbow Day"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_m_0105",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "Who is the villain in Sleeping Beauty?",
+    "options": ["Ursula", "Maleficent", "Evil Queen", "Lady Tremaine"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_m_0106",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is Carl Fredricksen trying to reach in Up?",
+    "options": ["Antarctica", "Paradise Falls", "Mount Everest", "The Amazon"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_m_0107",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of the arcade in Wreck-It Ralph?",
+    "options": ["Litwak's Arcade", "Flynn's Arcade", "Ralph's Arcade", "Game Central"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_m_0108",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What song does Moana's grandmother sing about the island's past?",
+    "options": ["How Far I'll Go", "We Know the Way", "Where You Are", "Shiny"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_m_0109",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of Miguel's great-great-grandfather in Coco?",
+    "options": ["Ernesto de la Cruz", "Hector", "Julio", "Oscar"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_m_0110",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of the main street in Disney parks?",
+    "options": ["Main Street USA", "Disney Avenue", "Magic Kingdom Street", "Castle Way"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_m_0111",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What song does Sebastian sing to convince Ariel to stay under the sea?",
+    "options": ["Part of Your World", "Under the Sea", "Kiss the Girl", "Poor Unfortunate Souls"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_m_0112",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of the cave where Aladdin finds the lamp?",
+    "options": ["Cave of Treasures", "Cave of Wonders", "Cave of Wishes", "Cave of Gold"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_m_0113",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of Belle's horse in Beauty and the Beast?",
+    "options": ["Philippe", "Maximus", "Khan", "Angus"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_m_0114",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What power does Mirabel NOT have in Encanto?",
+    "options": ["Super strength", "She has no magical gift", "Healing", "Weather control"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_m_0115",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of the Pizza Planet truck's license plate?",
+    "options": ["A113", "B113", "A112", "C113"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_m_0116",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What kind of animal does Merida's mother turn into?",
+    "options": ["Wolf", "Bear", "Deer", "Fox"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_m_0117",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What song does Timon and Pumbaa sing to Simba?",
+    "options": ["Circle of Life", "Hakuna Matata", "Can You Feel the Love Tonight", "I Just Can't Wait to Be King"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_m_0118",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of the original Disney park castle?",
+    "options": ["Cinderella Castle", "Sleeping Beauty Castle", "Snow White Castle", "Princess Castle"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_m_0119",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What does Joy look like in Inside Out?",
+    "options": ["Red with horns", "Yellow and glowing", "Purple with glasses", "Blue and sad"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_m_0120",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is WALL-E's favorite musical?",
+    "options": ["Singin' in the Rain", "Hello, Dolly!", "The Sound of Music", "Mary Poppins"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_m_0121",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of Jack Sparrow's ship?",
+    "options": ["Flying Dutchman", "Black Pearl", "Queen Anne's Revenge", "Silent Mary"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_m_0122",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What song does Maui sing about his accomplishments?",
+    "options": ["How Far I'll Go", "You're Welcome", "Shiny", "We Know the Way"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_m_0123",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of Buzz Lightyear's arch enemy?",
+    "options": ["Lotso", "Emperor Zurg", "Sid", "Stinky Pete"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_m_0124",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What Disney park opened in 1971?",
+    "options": ["Disneyland", "Epcot", "Walt Disney World", "Tokyo Disneyland"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_m_0125",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of the chameleon in Tangled?",
+    "options": ["Pascal", "Maximus", "Flynn", "Hook Hand"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_m_0126",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What song does Pocahontas sing about nature?",
+    "options": ["Just Around the Riverbend", "Colors of the Wind", "Savages", "Listen With Your Heart"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_m_0127",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of the dragon in Mulan?",
+    "options": ["Sisu", "Mushu", "Khan", "Cri-Kee"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_m_0128",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What does Buzz Lightyear always say?",
+    "options": ["To infinity and beyond!", "Reach for the sky!", "There's a snake in my boot!", "You've got a friend in me!"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_m_0129",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of the villain in The Little Mermaid?",
+    "options": ["Morgana", "Maleficent", "Ursula", "Yzma"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_m_0130",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of Nemo's lucky fin?",
+    "options": ["His right fin", "His left fin", "His small fin", "His lucky fin"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_m_0131",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of the villain in Wreck-It Ralph?",
+    "options": ["Ralph", "King Candy", "Vanellope", "Felix"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_m_0132",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What song does Belle sing in the village?",
+    "options": ["Belle", "Beauty and the Beast", "Be Our Guest", "Something There"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_m_0133",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is Tiana's dream in The Princess and the Frog?",
+    "options": ["To marry a prince", "To own a restaurant", "To be a princess", "To travel the world"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_m_0134",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of Woody's original owner?",
+    "options": ["Andy", "Bonnie", "Emily", "Sid"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_m_0135",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What does Gus Gus call Cinderella?",
+    "options": ["Cindy", "Ella", "Cinderelly", "Princess"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_m_0136",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of the Space Mountain ride at Disney parks?",
+    "options": ["Space Mountain", "Star Mountain", "Rocket Mountain", "Galaxy Mountain"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_m_0137",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What song does Kristoff sing about Sven?",
+    "options": ["For the First Time in Forever", "In Summer", "Reindeer(s) Are Better Than People", "Fixer Upper"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_m_0138",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of the restaurant in Lady and the Tramp?",
+    "options": ["Tony's", "Luigi's", "Mario's", "Giuseppe's"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_m_0139",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What song does Hercules sing with Megara?",
+    "options": ["Go the Distance", "Zero to Hero", "I Won't Say I'm in Love", "A Star Is Born"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_m_0140",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is Mr. Incredible's superpower?",
+    "options": ["Super speed", "Super strength", "Flying", "Invisibility"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_m_0141",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What song does Rapunzel sing about her dream?",
+    "options": ["When Will My Life Begin", "I See the Light", "I've Got a Dream", "Mother Knows Best"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_m_0142",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of the inventor in Big Hero 6?",
+    "options": ["Hiro", "Tadashi", "Callaghan", "Alistair Krei"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_m_0143",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What song does Simba sing as a cub?",
+    "options": ["Circle of Life", "Hakuna Matata", "I Just Can't Wait to Be King", "Can You Feel the Love Tonight"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_m_0144",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of the haunted mansion ride at Disney parks?",
+    "options": ["The Haunted House", "Haunted Mansion", "Ghost House", "Spooky Manor"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_m_0145",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of the toy store in Toy Story 2?",
+    "options": ["Toys R Us", "Al's Toy Barn", "Toy Palace", "Andy's Toys"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_m_0146",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What song does Mother Gothel sing to Rapunzel?",
+    "options": ["When Will My Life Begin", "Mother Knows Best", "I See the Light", "I've Got a Dream"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_m_0147",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of the emotion that wears glasses in Inside Out?",
+    "options": ["Sadness", "Fear", "Disgust", "Anger"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_m_0148",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is Elastigirl's superpower?",
+    "options": ["Super strength", "Invisibility", "Elasticity", "Force fields"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_m_0149",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What song does Tamatoa sing in Moana?",
+    "options": ["How Far I'll Go", "You're Welcome", "Shiny", "We Know the Way"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_m_0150",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of the pirate ride at Disney parks?",
+    "options": ["Pirates of the Caribbean", "Pirate's Cove", "Buccaneer Bay", "Treasure Island"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_m_0151",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What song does Judy Hopps sing as a young bunny?",
+    "options": ["Try Everything", "Let It Go", "Shake It Off", "She doesn't sing"],
+    "answerIndex": 3
+  },
+  {
+    "id": "disney_m_0152",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is Violet's superpower in The Incredibles?",
+    "options": ["Super speed", "Invisibility and force fields", "Super strength", "Elasticity"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_m_0153",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What song does Flynn Rider and Rapunzel sing together?",
+    "options": ["When Will My Life Begin", "I See the Light", "I've Got a Dream", "Mother Knows Best"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_m_0154",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is Dash's superpower in The Incredibles?",
+    "options": ["Super strength", "Super speed", "Flying", "Invisibility"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_m_0155",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What song does Esmeralda sing in The Hunchback of Notre Dame?",
+    "options": ["God Help the Outcasts", "Out There", "Topsy Turvy", "Heaven's Light"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_m_0156",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of Epcot's signature attraction?",
+    "options": ["Spaceship Earth", "Test Track", "Soarin'", "Mission: SPACE"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_m_0157",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What song does Quasimodo sing about leaving the tower?",
+    "options": ["Out There", "God Help the Outcasts", "Topsy Turvy", "Heaven's Light"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_m_0158",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of the singing animatronic ride at Disney?",
+    "options": ["Splash Mountain", "It's a Small World", "Pirates of the Caribbean", "Haunted Mansion"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_m_0159",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What song does Anna sing to Elsa through the door?",
+    "options": ["Do You Want to Build a Snowman", "Let It Go", "For the First Time in Forever", "Love Is an Open Door"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_m_0160",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of the safari ride at Disney's Animal Kingdom?",
+    "options": ["Jungle Cruise", "Safari Trek", "Kilimanjaro Safaris", "Wild Adventure"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_h_0101",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What year was Encanto released?",
+    "options": ["2019", "2020", "2021", "2022"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_h_0102",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "How many years was the Beast cursed in Beauty and the Beast?",
+    "options": ["By his 21st birthday", "10 years", "Until the last petal falls", "The film doesn't specify"],
+    "answerIndex": 3
+  },
+  {
+    "id": "disney_h_0103",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What is the name of the theme park at Walt Disney World that opened in 1982?",
+    "options": ["Magic Kingdom", "Epcot", "Hollywood Studios", "Animal Kingdom"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_h_0104",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What is the license plate number that appears in many Pixar films?",
+    "options": ["A113", "B113", "A112", "C113"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_h_0105",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What year was Lilo & Stitch released?",
+    "options": ["2000", "2001", "2002", "2003"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_h_0106",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "How many Academy Awards did the original Mary Poppins win?",
+    "options": ["3", "4", "5", "6"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_h_0107",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What year was Atlantis: The Lost Empire released?",
+    "options": ["1999", "2000", "2001", "2002"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_h_0108",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What is the name of the volcano in Moana?",
+    "options": ["Te Fiti", "Te Ka", "Mauna Loa", "Motunui"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_h_0109",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "How many fingers does each character have in most Disney animations?",
+    "options": ["3", "4", "5", "Varies by character"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_h_0110",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What year did Hollywood Studios open at Walt Disney World?",
+    "options": ["1987", "1988", "1989", "1990"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_h_0111",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What is the name of Prince Charming in the original Cinderella film?",
+    "options": ["Henry", "Christopher", "The film doesn't give him a name", "Ferdinand"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_h_0112",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What year was Treasure Planet released?",
+    "options": ["2000", "2001", "2002", "2003"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_h_0113",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "How many Disney theme parks are there worldwide?",
+    "options": ["6", "8", "10", "12"],
+    "answerIndex": 3
+  },
+  {
+    "id": "disney_h_0114",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What year was Brother Bear released?",
+    "options": ["2001", "2002", "2003", "2004"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_h_0115",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What is the name of the scientist in Atlantis: The Lost Empire?",
+    "options": ["Milo Thatch", "Commander Rourke", "Vinny", "Dr. Sweet"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_h_0116",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What year did Disney's Animal Kingdom open?",
+    "options": ["1996", "1997", "1998", "1999"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_h_0117",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What year was The Emperor's New Groove released?",
+    "options": ["1998", "1999", "2000", "2001"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_h_0118",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "How many songs did Phil Collins write for Tarzan?",
+    "options": ["3", "4", "5", "6"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_h_0119",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What year was Tarzan released?",
+    "options": ["1997", "1998", "1999", "2000"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_h_0120",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What is the total number of Disney Princesses in the official lineup?",
+    "options": ["11", "12", "13", "14"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_h_0121",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What year was Fantasia 2000 released?",
+    "options": ["1998", "1999", "2000", "2001"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_h_0122",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What was the first Disney park to open outside the United States?",
+    "options": ["Tokyo Disneyland", "Disneyland Paris", "Hong Kong Disneyland", "Shanghai Disneyland"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_h_0123",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What year did Tokyo Disneyland open?",
+    "options": ["1981", "1982", "1983", "1984"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_h_0124",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "How many theme parks are at Walt Disney World?",
+    "options": ["2", "3", "4", "5"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_h_0125",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What year was Dinosaur (originally Countdown to Extinction) opened at Animal Kingdom?",
+    "options": ["1996", "1997", "1998", "1999"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_h_0126",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What is the name of the land where you can meet characters at Magic Kingdom?",
+    "options": ["Main Street USA", "Fantasyland", "Tomorrowland", "All lands"],
+    "answerIndex": 3
+  },
+  {
+    "id": "disney_h_0127",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What year did Disneyland Paris open?",
+    "options": ["1990", "1991", "1992", "1993"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_h_0128",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What is the name of the tallest structure at Disneyland?",
+    "options": ["Sleeping Beauty Castle", "Matterhorn Bobsleds", "Space Mountain", "Big Thunder Mountain"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_h_0129",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What year did Hong Kong Disneyland open?",
+    "options": ["2003", "2004", "2005", "2006"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_h_0130",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What year did Shanghai Disneyland open?",
+    "options": ["2014", "2015", "2016", "2017"],
+    "answerIndex": 2
   }
 ]

@@ -2398,5 +2398,805 @@
     "question": "What is the seed?",
     "options": ["Plant", "World generation number", "Random value", "Both B and C"],
     "answerIndex": 3
+  },
+  {
+    "id": "minecraft_e_0101",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What color is a Creeper?",
+    "options": ["Blue", "Green", "Red", "Brown"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0102",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What animal gives you wool?",
+    "options": ["Cow", "Pig", "Sheep", "Chicken"],
+    "answerIndex": 2
+  },
+  {
+    "id": "minecraft_e_0103",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What do you use to make torches?",
+    "options": ["Coal and sticks", "Wood and stone", "Iron and sticks", "Redstone and sticks"],
+    "answerIndex": 0
+  },
+  {
+    "id": "minecraft_e_0104",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What happens when you sleep in a bed?",
+    "options": ["Nothing", "Skip to day", "Heal health", "Gain XP"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0105",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What food do you get from chickens?",
+    "options": ["Beef", "Porkchop", "Eggs", "Mutton"],
+    "answerIndex": 2
+  },
+  {
+    "id": "minecraft_e_0106",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What blocks can you grow trees on?",
+    "options": ["Stone", "Sand", "Dirt or grass", "Gravel"],
+    "answerIndex": 2
+  },
+  {
+    "id": "minecraft_e_0107",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What do pigs drop when killed?",
+    "options": ["Beef", "Porkchop", "Bacon", "Leather"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0108",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What dimension is purple and dark?",
+    "options": ["Nether", "The End", "Overworld", "Sky dimension"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0109",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What tool do you use to catch fish?",
+    "options": ["Net", "Fishing rod", "Bucket", "Sword"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0110",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What do you make glass from?",
+    "options": ["Stone", "Sand", "Water", "Ice"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0101",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "How many planks do you get from one log?",
+    "options": ["2", "3", "4", "6"],
+    "answerIndex": 2
+  },
+  {
+    "id": "minecraft_m_0102",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What biome has purple grass?",
+    "options": ["Jungle", "Taiga", "Swamp", "Mushroom fields"],
+    "answerIndex": 3
+  },
+  {
+    "id": "minecraft_m_0103",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What do you craft with blaze rods?",
+    "options": ["Ender pearls", "Blaze powder", "Fire charge", "TNT"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0104",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What villager trades emeralds for enchanted books?",
+    "options": ["Farmer", "Blacksmith", "Librarian", "Cleric"],
+    "answerIndex": 2
+  },
+  {
+    "id": "minecraft_m_0105",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "How many eyes of ender are needed to activate the End portal?",
+    "options": ["9", "10", "12", "16"],
+    "answerIndex": 2
+  },
+  {
+    "id": "minecraft_m_0106",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What block do you need to make a beacon work?",
+    "options": ["Diamond blocks", "Iron, gold, diamond, emerald, or netherite blocks", "Glass blocks", "Obsidian"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0107",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What enchantment prevents you from burning items when mining?",
+    "options": ["Fortune", "Silk Touch", "Fire Protection", "Flame"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0108",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What is the rarest ore in Minecraft?",
+    "options": ["Diamond", "Emerald", "Ancient Debris", "Lapis Lazuli"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0109",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What mob drops an Ender Pearl?",
+    "options": ["Enderman", "Ender Dragon", "Shulker", "Phantom"],
+    "answerIndex": 0
+  },
+  {
+    "id": "minecraft_m_0110",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What do you use to tame a horse?",
+    "options": ["Wheat", "Apple", "Saddle", "Keep trying to ride it"],
+    "answerIndex": 3
+  },
+  {
+    "id": "minecraft_m_0111",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What is the maximum enchantment level in survival?",
+    "options": ["20", "30", "40", "50"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0112",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What food gives the most hunger points?",
+    "options": ["Cooked beef", "Golden carrot", "Cooked porkchop", "Cake"],
+    "answerIndex": 0
+  },
+  {
+    "id": "minecraft_m_0113",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What happens when you name a mob 'Dinnerbone'?",
+    "options": ["It grows bigger", "It turns upside down", "It becomes friendly", "Nothing special"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0114",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What blocks can Endermen NOT pick up?",
+    "options": ["Dirt", "Grass", "Obsidian", "Sand"],
+    "answerIndex": 2
+  },
+  {
+    "id": "minecraft_m_0115",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What do you feed to breed pandas?",
+    "options": ["Bamboo", "Sugar cane", "Leaves", "Apples"],
+    "answerIndex": 0
+  },
+  {
+    "id": "minecraft_m_0116",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What potion effect does milk remove?",
+    "options": ["Only bad effects", "Only good effects", "All effects", "None"],
+    "answerIndex": 2
+  },
+  {
+    "id": "minecraft_m_0117",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "How many blocks high can a player jump?",
+    "options": ["0.5 blocks", "1 block", "1.25 blocks", "2 blocks"],
+    "answerIndex": 2
+  },
+  {
+    "id": "minecraft_m_0118",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What do you need to craft a brewing stand?",
+    "options": ["3 iron ingots and 4 cobblestone", "1 blaze rod and 3 cobblestone", "3 gold ingots and 4 stone", "2 blaze rods and 3 stone"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0119",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What is the blast resistance of obsidian?",
+    "options": ["600", "1200", "1800", "2400"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0120",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What mob is immune to lava?",
+    "options": ["Zombie Piglin", "Strider", "Blaze", "All of these"],
+    "answerIndex": 3
+  },
+  {
+    "id": "minecraft_m_0121",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What biome has the most villages?",
+    "options": ["Plains", "Desert", "Savanna", "They spawn equally"],
+    "answerIndex": 0
+  },
+  {
+    "id": "minecraft_m_0122",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What block makes mobs spawn faster in dungeons?",
+    "options": ["Cobblestone", "Mossy cobblestone", "Spawner", "Stone bricks"],
+    "answerIndex": 2
+  },
+  {
+    "id": "minecraft_m_0123",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What is the Y-level where diamonds are most common?",
+    "options": ["Y=12", "Y=-59", "Y=16", "Y=0"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0124",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What do you use to repair an iron golem?",
+    "options": ["Iron ingots", "Iron blocks", "Healing potion", "Golden apples"],
+    "answerIndex": 0
+  },
+  {
+    "id": "minecraft_m_0125",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What structure is found only in the Deep Dark biome?",
+    "options": ["Stronghold", "Ancient City", "Dungeon", "Mineshaft"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0126",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What enchantment allows you to walk on lava?",
+    "options": ["Frost Walker", "Fire Protection", "None exists", "Lava Walker"],
+    "answerIndex": 2
+  },
+  {
+    "id": "minecraft_m_0127",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What is the maximum stack size for Ender Pearls?",
+    "options": ["1", "16", "32", "64"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0128",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What block is needed to respawn in the Nether?",
+    "options": ["Bed", "Respawn anchor", "Campfire", "Ender chest"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0129",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What do you feed wolves to heal them?",
+    "options": ["Bones", "Any meat", "Rotten flesh", "Bread"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0130",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What mob drops prismarine shards?",
+    "options": ["Drowned", "Guardian", "Elder Guardian", "Both B and C"],
+    "answerIndex": 3
+  },
+  {
+    "id": "minecraft_m_0131",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "How many uses does a diamond pickaxe have?",
+    "options": ["1024", "1561", "2031", "3000"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0132",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What light level prevents hostile mobs from spawning?",
+    "options": ["7 or less", "8 or more", "1 or more", "15 only"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0133",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What advancement do you get for visiting all biomes?",
+    "options": ["Adventuring Time", "Explorer", "World Traveler", "Biome Hopper"],
+    "answerIndex": 0
+  },
+  {
+    "id": "minecraft_m_0134",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What material makes the fastest beacon?",
+    "options": ["Diamond", "Emerald", "Iron", "All are the same speed"],
+    "answerIndex": 3
+  },
+  {
+    "id": "minecraft_m_0135",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What tool do you use to mine ice without breaking it?",
+    "options": ["Diamond pickaxe", "Silk Touch pickaxe", "Iron shovel", "Any tool works"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0136",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What is the maximum level for the Respiration enchantment?",
+    "options": ["I", "II", "III", "IV"],
+    "answerIndex": 2
+  },
+  {
+    "id": "minecraft_m_0137",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What happens when lightning strikes a villager?",
+    "options": ["Dies", "Becomes witch", "Gains powers", "Nothing"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0138",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What do you combine with a Netherite upgrade template to upgrade diamond gear?",
+    "options": ["Netherite scrap", "Netherite ingot", "Ancient debris", "Diamond"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0139",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What is the spawn radius around the world spawn?",
+    "options": ["10 blocks", "20 blocks", "50 blocks", "Varies"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0140",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What block do you use to smelt items faster?",
+    "options": ["Furnace", "Blast furnace", "Smoker", "B for ores, C for food"],
+    "answerIndex": 3
+  },
+  {
+    "id": "minecraft_m_0141",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What mob can teleport and is found in the End?",
+    "options": ["Enderman", "Shulker", "Endermite", "Ender Dragon"],
+    "answerIndex": 0
+  },
+  {
+    "id": "minecraft_m_0142",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What is the hardest naturally occurring block?",
+    "options": ["Bedrock", "Obsidian", "Ancient Debris", "End Stone"],
+    "answerIndex": 0
+  },
+  {
+    "id": "minecraft_m_0143",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What do you feed to breed turtles?",
+    "options": ["Fish", "Seagrass", "Kelp", "Coral"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0144",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What is the maximum number of bookshelves for enchanting?",
+    "options": ["10", "15", "20", "30"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0145",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What effect does a conduit give?",
+    "options": ["Water breathing", "Night vision", "Haste", "All of these"],
+    "answerIndex": 3
+  },
+  {
+    "id": "minecraft_m_0146",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What mob drops ink sacs?",
+    "options": ["Squid", "Glow squid", "Guardian", "Both A and B"],
+    "answerIndex": 3
+  },
+  {
+    "id": "minecraft_m_0147",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What is the durability of a shield?",
+    "options": ["250", "336", "500", "1000"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0148",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What block do Piglins love?",
+    "options": ["Gold blocks", "Nether gold ore", "Both", "Neither"],
+    "answerIndex": 2
+  },
+  {
+    "id": "minecraft_m_0149",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What is suspicious stew made from?",
+    "options": ["Mushrooms and bowl", "Bowl, red mushroom, brown mushroom, and flower", "Beetroot and mushrooms", "Carrots and potatoes"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0150",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "How long does it take for a baby villager to grow up?",
+    "options": ["10 minutes", "20 minutes", "30 minutes", "1 hour"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0151",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What enchantment makes crossbows shoot further?",
+    "options": ["Power", "Punch", "None exists", "Piercing"],
+    "answerIndex": 2
+  },
+  {
+    "id": "minecraft_m_0152",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What is the rarest structure in Minecraft?",
+    "options": ["Stronghold", "Woodland Mansion", "Modified Jungle Edge biome", "Ancient City"],
+    "answerIndex": 2
+  },
+  {
+    "id": "minecraft_m_0153",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What do you get when you cure a zombie villager?",
+    "options": ["A grateful villager with discounts", "A regular villager", "XP", "Nothing special"],
+    "answerIndex": 0
+  },
+  {
+    "id": "minecraft_m_0154",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What is the maximum distance for a Nether portal to link?",
+    "options": ["128 blocks", "1024 blocks", "Infinite", "Depends on coordinates"],
+    "answerIndex": 3
+  },
+  {
+    "id": "minecraft_m_0155",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What do cats scare away?",
+    "options": ["Zombies", "Creepers and Phantoms", "Skeletons", "Nothing"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0156",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What is the maximum level for Looting?",
+    "options": ["II", "III", "IV", "V"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0157",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What do you use to make a map bigger?",
+    "options": ["More paper", "Combine with paper in crafting table", "Combine with compass", "Use cartography table"],
+    "answerIndex": 3
+  },
+  {
+    "id": "minecraft_m_0158",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What are the three components of a piston?",
+    "options": ["Wood, cobblestone, redstone", "Iron, wood, redstone", "Planks, cobblestone, iron ingot, redstone", "Stone, iron, redstone"],
+    "answerIndex": 2
+  },
+  {
+    "id": "minecraft_m_0159",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What makes sculk sensors activate?",
+    "options": ["Light", "Vibrations", "Redstone", "Sound"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0160",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What food has a small chance to poison you?",
+    "options": ["Raw chicken", "Pufferfish", "Spider eye", "All of these"],
+    "answerIndex": 3
+  },
+  {
+    "id": "minecraft_h_0101",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is the exact blast resistance of End Stone?",
+    "options": ["9", "12", "18", "45"],
+    "answerIndex": 0
+  },
+  {
+    "id": "minecraft_h_0102",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "How many ancient debris do you need for a full set of Netherite armor?",
+    "options": ["16", "24", "32", "36"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_h_0103",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is the tick speed of a normal repeater?",
+    "options": ["1-4 ticks", "2-8 ticks", "1-2 ticks", "2-4 ticks"],
+    "answerIndex": 0
+  },
+  {
+    "id": "minecraft_h_0104",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is the exact spawn rate of a chicken jockey?",
+    "options": ["0.25%", "0.5%", "1%", "5%"],
+    "answerIndex": 0
+  },
+  {
+    "id": "minecraft_h_0105",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "How many total portal frames exist in a stronghold?",
+    "options": ["9", "10", "12", "Varies"],
+    "answerIndex": 2
+  },
+  {
+    "id": "minecraft_h_0106",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is the maximum render distance in Bedrock Edition?",
+    "options": ["32 chunks", "64 chunks", "96 chunks", "128 chunks"],
+    "answerIndex": 2
+  },
+  {
+    "id": "minecraft_h_0107",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "How much damage does a fully charged trident with Riptide III do in rain?",
+    "options": ["8", "9", "12", "Same as normal"],
+    "answerIndex": 3
+  },
+  {
+    "id": "minecraft_h_0108",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is the exact chance of getting a mending book from fishing?",
+    "options": ["0.8%", "1.9%", "2.5%", "5%"],
+    "answerIndex": 0
+  },
+  {
+    "id": "minecraft_h_0109",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "How many blocks per second does a fully charged Riptide III trident move you in water?",
+    "options": ["20 blocks/sec", "33.5 blocks/sec", "40 blocks/sec", "50 blocks/sec"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_h_0110",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is the exact damage of a critical hit with a Sharpness V diamond sword?",
+    "options": ["13.5 hearts", "14.25 hearts", "15 hearts", "16.5 hearts"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_h_0111",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "How many different villager workstations exist?",
+    "options": ["10", "13", "14", "15"],
+    "answerIndex": 2
+  },
+  {
+    "id": "minecraft_h_0112",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is the block ID for command blocks in Java Edition?",
+    "options": ["minecraft:command_block", "command_block", "minecraft:commandblock", "minecraft:cmd_block"],
+    "answerIndex": 0
+  },
+  {
+    "id": "minecraft_h_0113",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is the maximum NBT level for items in survival?",
+    "options": ["255", "32767", "2147483647", "No limit"],
+    "answerIndex": 2
+  },
+  {
+    "id": "minecraft_h_0114",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "How many music discs exist in Minecraft?",
+    "options": ["12", "15", "16", "17"],
+    "answerIndex": 2
+  },
+  {
+    "id": "minecraft_h_0115",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is the exact hunger restoration of golden carrots?",
+    "options": ["3 hunger (6 points)", "4 hunger (8 points)", "5 hunger (10 points)", "6 hunger (12 points)"],
+    "answerIndex": 0
+  },
+  {
+    "id": "minecraft_h_0116",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "How many possible enchantment combinations exist for a diamond sword?",
+    "options": ["32", "64", "128", "256"],
+    "answerIndex": 2
+  },
+  {
+    "id": "minecraft_h_0117",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is the exact spawn weight of diamond ore at Y=-59?",
+    "options": ["0", "1", "2", "Varies by seed"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_h_0118",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "How many total advancement are in Java Edition?",
+    "options": ["80", "102", "122", "Varies by version"],
+    "answerIndex": 3
+  },
+  {
+    "id": "minecraft_h_0119",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is the range of a fully powered beacon with a 4-level pyramid?",
+    "options": ["50 blocks", "64 blocks", "100 blocks", "Infinite"],
+    "answerIndex": 0
+  },
+  {
+    "id": "minecraft_h_0120",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "How many emeralds does a full beacon pyramid cost if made entirely of emerald blocks?",
+    "options": ["1476", "1500", "1584", "1620"],
+    "answerIndex": 2
+  },
+  {
+    "id": "minecraft_h_0121",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is the internal name for the Wither's charging attack?",
+    "options": ["wither_charge", "skull_dangerous", "wither_attack", "blue_skull"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_h_0122",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "How many total different banner patterns exist?",
+    "options": ["16", "20", "38", "42"],
+    "answerIndex": 2
+  },
+  {
+    "id": "minecraft_h_0123",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is the exact mining speed multiplier of Efficiency V?",
+    "options": ["5x", "26x", "30x", "32x"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_h_0124",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "How many different wood types can be used to craft boats?",
+    "options": ["6", "8", "9", "10"],
+    "answerIndex": 2
+  },
+  {
+    "id": "minecraft_h_0125",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is the maximum XP level cost for anvil repairs before 'Too Expensive'?",
+    "options": ["39", "40", "63", "64"],
+    "answerIndex": 0
+  },
+  {
+    "id": "minecraft_h_0126",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "How many distinct cave biomes exist in 1.18+?",
+    "options": ["3", "4", "5", "6"],
+    "answerIndex": 2
+  },
+  {
+    "id": "minecraft_h_0127",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is the exact probability of a skeleton spawning with armor?",
+    "options": ["8.5%", "15%", "19%", "25%"],
+    "answerIndex": 0
+  },
+  {
+    "id": "minecraft_h_0128",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "How many unique item ids existed in Java Edition 1.12?",
+    "options": ["256", "400", "758", "1000+"],
+    "answerIndex": 2
+  },
+  {
+    "id": "minecraft_h_0129",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is the world border size limit?",
+    "options": ["29,999,984 blocks", "30,000,000 blocks", "59,999,968 blocks", "Infinite"],
+    "answerIndex": 2
+  },
+  {
+    "id": "minecraft_h_0130",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "How many total status effects exist in Minecraft?",
+    "options": ["27", "30", "33", "Varies by version"],
+    "answerIndex": 3
   }
 ]
