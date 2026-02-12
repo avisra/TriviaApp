@@ -1,0 +1,2402 @@
+[
+  {
+    "id": "dragonballz_e_0001",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "Who is the main character?",
+    "options": ["Vegeta", "Goku", "Gohan", "Piccolo"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_e_0002",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "What is Goku's signature technique?",
+    "options": ["Kamehameha", "Final Flash", "Special Beam Cannon", "Galick Gun"],
+    "answerIndex": 0
+  },
+  {
+    "id": "dragonballz_e_0003",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "What color is Goku's hair when he goes Super Saiyan?",
+    "options": ["Black", "Blonde", "Red", "Blue"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_e_0004",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "What is Goku's son's name?",
+    "options": ["Goten", "Gohan", "Both", "Trunks"],
+    "answerIndex": 2
+  },
+  {
+    "id": "dragonballz_e_0005",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "Who is Goku's rival?",
+    "options": ["Piccolo", "Krillin", "Vegeta", "Frieza"],
+    "answerIndex": 2
+  },
+  {
+    "id": "dragonballz_e_0006",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "What do the Dragon Balls do?",
+    "options": ["Grant wishes", "Give power", "Noth ing", "Explode"],
+    "answerIndex": 0
+  },
+  {
+    "id": "dragonballz_e_0007",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "How many Dragon Balls are there?",
+    "options": ["5", "7", "10", "12"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_e_0008",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "What appears when you collect all Dragon Balls?",
+    "options": ["Dragon", "Shenron", "Wishes", "Both A and B"],
+    "answerIndex": 3
+  },
+  {
+    "id": "dragonballz_e_0009",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "What is Piccolo's color?",
+    "options": ["Blue", "Green", "Purple", "Orange"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_e_0010",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "Who is Goku's best friend?",
+    "options": ["Yamcha", "Krillin", "Tien", "Chiaotzu"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_e_0011",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "What race is Goku?",
+    "options": ["Human", "Namekian", "Saiyan", "Alien"],
+    "answerIndex": 2
+  },
+  {
+    "id": "dragonballz_e_0012",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "What planet are Saiyans from?",
+    "options": ["Earth", "Namek", "Vegeta", "Frieza"],
+    "answerIndex": 2
+  },
+  {
+    "id": "dragonballz_e_0013",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "Who is the Prince of all Saiyans?",
+    "options": ["Goku", "Vegeta", "Gohan", "Raditz"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_e_0014",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "Who is Vegeta's son?",
+    "options": ["Gohan", "Goten", "Trunks", "None"],
+    "answerIndex": 2
+  },
+  {
+    "id": "dragonballz_e_0015",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "What is Vegeta's signature move?",
+    "options": ["Kamehameha", "Final Flash", "Galick Gun", "Both B and C"],
+    "answerIndex": 3
+  },
+  {
+    "id": "dragonballz_e_0016",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "Who trained Goku?",
+    "options": ["Master Roshi", "Kami", "King Kai", "All of these"],
+    "answerIndex": 3
+  },
+  {
+    "id": "dragonballz_e_0017",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "What does Goku ride on?",
+    "options": ["Cloud", "Flying Nimbus", "Hoverboard", "Nothing"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_e_0018",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "What is Krillin's special move?",
+    "options": ["Kamehameha", "Destructo Disc", "Solar Flare", "Both B and C"],
+    "answerIndex": 3
+  },
+  {
+    "id": "dragonballz_e_0019",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "What technique blinds opponents?",
+    "options": ["Flash", "Solar Flare", "Bright light", "Kamehameha"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_e_0020",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "Who is the first villain in Z?",
+    "options": ["Vegeta", "Raditz", "Nappa", "Frieza"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_e_0021",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "Who is Goku's brother?",
+    "options": ["Vegeta", "Gohan", "Raditz", "None"],
+    "answerIndex": 2
+  },
+  {
+    "id": "dragonballz_e_0022",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "Who destroyed Planet Vegeta?",
+    "options": ["Frieza", "Majin Buu", "Cell", "Beerus"],
+    "answerIndex": 0
+  },
+  {
+    "id": "dragonballz_e_0023",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "What is Frieza?",
+    "options": ["Saiyan", "Namekian", "Space tyrant", "Android"],
+    "answerIndex": 2
+  },
+  {
+    "id": "dragonballz_e_0024",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "What color is Frieza's final form?",
+    "options": ["Purple", "White", "Gold", "Black"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_e_0025",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "Who fought Frieza on Namek?",
+    "options": ["Vegeta", "Gohan", "Goku", "All of these"],
+    "answerIndex": 3
+  },
+  {
+    "id": "dragonballz_e_0026",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "Who defeated Frieza?",
+    "options": ["Vegeta", "Super Saiyan Goku", "Gohan", "Piccolo"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_e_0027",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "Who came from the future?",
+    "options": ["Goku", "Gohan", "Trunks", "Goten"],
+    "answerIndex": 2
+  },
+  {
+    "id": "dragonballz_e_0028",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "What weapon does Future Trunks use?",
+    "options": ["Gun", "Sword", "Axe", "None"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_e_0029",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "Who are the Androids?",
+    "options": ["Robots", "Cyborgs", "Evil creations", "All of these"],
+    "answerIndex": 3
+  },
+  {
+    "id": "dragonballz_e_0030",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "Who created the Androids?",
+    "options": ["Gero", "Dr. Gero", "Red Ribbon", "Both A and B"],
+    "answerIndex": 3
+  },
+  {
+    "id": "dragonballz_e_0031",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "Which Android becomes good?",
+    "options": ["16", "17", "18", "All of these"],
+    "answerIndex": 3
+  },
+  {
+    "id": "dragonballz_e_0032",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "Who marries Krillin?",
+    "options": ["Bulma", "Chi-Chi", "Android 18", "Launch"],
+    "answerIndex": 2
+  },
+  {
+    "id": "dragonballz_e_0033",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "Who is Goku's wife?",
+    "options": ["Bulma", "Chi-Chi", "Android 18", "Videl"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_e_0034",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "Who is Gohan's wife?",
+    "options": ["Videl", "Erasa", "Angela", "Pan"],
+    "answerIndex": 0
+  },
+  {
+    "id": "dragonballz_e_0035",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "Who is Vegeta's wife?",
+    "options": ["Chi-Chi", "Bulma", "Android 18", "Videl"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_e_0036",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "What is Cell?",
+    "options": ["Android", "Bio-android", "Robot", "Saiyan"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_e_0037",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "What does Cell absorb?",
+    "options": ["Energy", "Androids", "People", "All of these"],
+    "answerIndex": 3
+  },
+  {
+    "id": "dragonballz_e_0038",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "Who defeated Cell?",
+    "options": ["Goku", "Gohan", "Vegeta", "Trunks"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_e_0039",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "What did Teen Gohan turn into against Cell?",
+    "options": ["Super Saiyan", "Super Saiyan 2", "Super Saiyan 3", "Great Ape"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_e_0040",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "Who is the pink villain?",
+    "options": ["Frieza", "Cell", "Majin Buu", "None"],
+    "answerIndex": 2
+  },
+  {
+    "id": "dragonballz_e_0041",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "What does Majin Buu turn people into?",
+    "options": ["Stone", "Candy", "Energy", "Nothing"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_e_0042",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "What is Majin Buu's favorite food?",
+    "options": ["Candy", "Chocolate", "Sweets", "All of these"],
+    "answerIndex": 3
+  },
+  {
+    "id": "dragonballz_e_0043",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "Who is the good version of Buu?",
+    "options": ["Fat Buu", "Mr. Buu", "Good Buu", "All similar names"],
+    "answerIndex": 3
+  },
+  {
+    "id": "dragonballz_e_0044",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "Who defeated Majin Buu?",
+    "options": ["Vegeta", "Goku with Spirit Bomb", "Gohan", "Fusion"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_e_0045",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "What is the Spirit Bomb?",
+    "options": ["Energy from everyone", "Giant ball", "Ultimate move", "All of these"],
+    "answerIndex": 3
+  },
+  {
+    "id": "dragonballz_e_0046",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "What is fusion?",
+    "options": ["Dance", "Combining two fighters", "Power boost", "Both B and C"],
+    "answerIndex": 3
+  },
+  {
+    "id": "dragonballz_e_0047",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "Who fuses to make Gotenks?",
+    "options": ["Goku and Vegeta", "Goten and Trunks", "Gohan and Trunks", "None"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_e_0048",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "Who fuses to make Vegito?",
+    "options": ["Goku and Vegeta", "Goku and Gohan", "Vegeta and Trunks", "None"],
+    "answerIndex": 0
+  },
+  {
+    "id": "dragonballz_e_0049",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "What are the Potara earrings?",
+    "options": ["Jewelry", "Fusion items", "Power boost", "Decoration"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_e_0050",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "What is Instant Transmission?",
+    "options": ["Teleportation", "Speed boost", "Power", "Energy"],
+    "answerIndex": 0
+  },
+  {
+    "id": "dragonballz_e_0051",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "What does Goku put on his forehead for Instant Transmission?",
+    "options": ["Nothing", "Fingers", "Hand", "Headband"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_e_0052",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "Can Saiyans get stronger after almost dying?",
+    "options": ["No", "Yes, Zenkai boost", "Sometimes", "Only Goku"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_e_0053",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "What is a power level?",
+    "options": ["Strength measurement", "Combat power", "Ki level", "All of these"],
+    "answerIndex": 3
+  },
+  {
+    "id": "dragonballz_e_0054",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "What is a Scouter?",
+    "options": ["Device", "Reads power levels", "Eye piece", "All of these"],
+    "answerIndex": 3
+  },
+  {
+    "id": "dragonballz_e_0055",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "What happens when power levels are too high?",
+    "options": ["Nothing", "Scouter explodes", "Error", "Breaks"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_e_0056",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "What is Ki?",
+    "options": ["Energy", "Life force", "Power", "All of these"],
+    "answerIndex": 3
+  },
+  {
+    "id": "dragonballz_e_0057",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "Can humans use Ki?",
+    "options": ["No", "Yes", "Only some", "With training"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_e_0058",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "What is an aura?",
+    "options": ["Glow", "Ki visible energy", "Power display", "All of these"],
+    "answerIndex": 3
+  },
+  {
+    "id": "dragonballz_e_0059",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "Can Goku fly?",
+    "options": ["Yes", "No", "Sometimes", "Only powered up"],
+    "answerIndex": 0
+  },
+  {
+    "id": "dragonballz_e_0060",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "How do they fly?",
+    "options": ["Wings", "Ki control", "Magic", "Jetpack"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_e_0061",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "What is the Hyperbolic Time Chamber?",
+    "options": ["Room", "Training place", "Time moves different", "All of these"],
+    "answerIndex": 3
+  },
+  {
+    "id": "dragonballz_e_0062",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "How much time in the chamber equals real time?",
+    "options": ["Same", "1 day = 1 year", "Faster", "Slower"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_e_0063",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "What do Senzu Beans do?",
+    "options": ["Taste good", "Full heal", "Energy restore", "Both B and C"],
+    "answerIndex": 3
+  },
+  {
+    "id": "dragonballz_e_0064",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "Who grows Senzu Beans?",
+    "options": ["Korin", "Yajirobe", "Both", "Goku"],
+    "answerIndex": 0
+  },
+  {
+    "id": "dragonballz_e_0065",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "What is Capsule Corp?",
+    "options": ["Company", "Makes capsules", "Bulma's family business", "All of these"],
+    "answerIndex": 3
+  },
+  {
+    "id": "dragonballz_e_0066",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "What do capsules do?",
+    "options": ["Store items", "Shrink objects", "Portable storage", "All of these"],
+    "answerIndex": 3
+  },
+  {
+    "id": "dragonballz_e_0067",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "Who is the smartest?",
+    "options": ["Goku", "Bulma", "Gohan", "Vegeta"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_e_0068",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "What color is a Saiyan's hair naturally?",
+    "options": ["Blonde", "Black or brown", "Blue", "Any color"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_e_0069",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "Do Saiyan's hair grow?",
+    "options": ["Yes", "No, stays same from birth", "Slowly", "Only when cut"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_e_0070",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "What is a Great Ape?",
+    "options": ["Monster", "Saiyan transformation", "Giant monkey", "Both B and C"],
+    "answerIndex": 3
+  },
+  {
+    "id": "dragonballz_e_0071",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "What makes a Saiyan turn into a Great Ape?",
+    "options": ["Full moon", "Anger", "Power", "Magic"],
+    "answerIndex": 0
+  },
+  {
+    "id": "dragonballz_e_0072",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "How do you stop the Great Ape?",
+    "options": ["Cut tail", "Remove moon", "Wait", "Both A and B"],
+    "answerIndex": 3
+  },
+  {
+    "id": "dragonballz_e_0073",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "Do Saiyans have tails?",
+    "options": ["Yes", "No", "As kids", "Some do"],
+    "answerIndex": 2
+  },
+  {
+    "id": "dragonballz_e_0074",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "What martial arts tournament do they enter?",
+    "options": ["World Tournament", "World Martial Arts Tournament", "Tenkaichi Budokai", "All similar"],
+    "answerIndex": 3
+  },
+  {
+    "id": "dragonballz_e_0075",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "Who is Mr. Satan?",
+    "options": ["Villain", "World Champion", "Fraud who takes credit", "Videl's father"],
+    "answerIndex": 3
+  },
+  {
+    "id": "dragonballz_e_0076",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "Is Mr. Satan actually strong?",
+    "options": ["Yes, strongest human", "No, normal human", "Moderate", "Compared to Z fighters, no"],
+    "answerIndex": 3
+  },
+  {
+    "id": "dragonballz_e_0077",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "What is the Turtle School?",
+    "options": ["School for turtles", "Master Roshi's training", "Martial arts style", "Both B and C"],
+    "answerIndex": 3
+  },
+  {
+    "id": "dragonballz_e_0078",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "Who wears the turtle symbol?",
+    "options": ["Goku", "Krillin", "Yamcha", "All of these"],
+    "answerIndex": 3
+  },
+  {
+    "id": "dragonballz_e_0079",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "What planet is Piccolo from?",
+    "options": ["Earth", "Namek", "Vegeta", "Frieza"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_e_0080",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "What race is Piccolo?",
+    "options": ["Saiyan", "Namekian", "Human", "Android"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_e_0081",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "Can Namekians regenerate?",
+    "options": ["No", "Yes, limbs grow back", "Sometimes", "Only Piccolo"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_e_0082",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "Do Namekians need to eat?",
+    "options": ["Yes", "No, only water", "Sometimes", "Only plants"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_e_0083",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "Can Namekians fuse?",
+    "options": ["No", "Yes", "Only two", "Permanently"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_e_0084",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "Who is King Kai?",
+    "options": ["King", "God of Earth", "Goku's teacher", "Planet ruler"],
+    "answerIndex": 2
+  },
+  {
+    "id": "dragonballz_e_0085",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "Where does King Kai live?",
+    "options": ["Earth", "Small planet", "Heaven", "Other World"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_e_0086",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "What is Goku's real Saiyan name?",
+    "options": ["Goku", "Kakarot", "Vegeta", "Bardock"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_e_0087",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "Who is Goku's father?",
+    "options": ["Grandpa Gohan", "Bardock", "King Vegeta", "Raditz"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_e_0088",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "Who raised Goku?",
+    "options": ["Parents", "Grandpa Gohan", "Master Roshi", "Kami"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_e_0089",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "What planet is the series mostly on?",
+    "options": ["Namek", "Earth", "Vegeta", "King Kai's"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_e_0090",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "What is Other World?",
+    "options": ["Another planet", "Afterlife", "Heaven", "Both B and C"],
+    "answerIndex": 3
+  },
+  {
+    "id": "dragonballz_e_0091",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "Can you come back from death?",
+    "options": ["No", "Yes, with Dragon Balls", "Once", "Sometimes"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_e_0092",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "How many times has Goku died?",
+    "options": ["Never", "Once", "Twice", "Many times"],
+    "answerIndex": 2
+  },
+  {
+    "id": "dragonballz_e_0093",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "What gi does Goku usually wear?",
+    "options": ["Orange", "Orange and blue", "White", "Black"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_e_0094",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "What color outfit does Vegeta wear?",
+    "options": ["Blue", "Orange", "Blue armor and white/yellow under", "Black"],
+    "answerIndex": 2
+  },
+  {
+    "id": "dragonballz_e_0095",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "What are weighted clothes?",
+    "options": ["Heavy clothing", "Training weights", "Make you heavier", "All of these"],
+    "answerIndex": 3
+  },
+  {
+    "id": "dragonballz_e_0096",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "What happens when they remove weighted clothes?",
+    "options": ["Nothing", "Move faster and stronger", "Lighter", "Speed boost"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_e_0097",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "What does SSJ stand for?",
+    "options": ["Super Strong Jump", "Super Saiyan", "Super Speed", "Nothing"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_e_0098",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "How many Super Saiyan forms are there?",
+    "options": ["1", "3", "Many", "Over 5"],
+    "answerIndex": 2
+  },
+  {
+    "id": "dragonballz_e_0099",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "What triggers first Super Saiyan?",
+    "options": ["Training", "Extreme anger/emotion", "Magic", "Power level"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_e_0100",
+    "category": "dragonballz",
+    "difficulty": "easy",
+    "question": "Can half-Saiyans go Super Saiyan?",
+    "options": ["No", "Yes", "Only Gohan", "Only Trunks"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_m_0001",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "What is Goku's full birth name?",
+    "options": ["Son Goku", "Kakarot", "Both (Saiyan and Earth name)", "Son Kakarot"],
+    "answerIndex": 2
+  },
+  {
+    "id": "dragonballz_m_0002",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "What was Vegeta's role in Frieza's army?",
+    "options": ["Soldier", "Elite warrior", "Prince serving under threat", "Commander"],
+    "answerIndex": 2
+  },
+  {
+    "id": "dragonballz_m_0003",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "Who is Gohan named after?",
+    "options": ["Random name", "Goku's adoptive grandfather", "Ox-King", "Master Roshi"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_m_0004",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "What is Gohan's alter ego?",
+    "options": ["Great Saiyaman", "Masked Fighter", "Hero", "Guardian"],
+    "answerIndex": 0
+  },
+  {
+    "id": "dragonballz_m_0005",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "Who taught Gohan to fight first?",
+    "options": ["Goku", "Piccolo", "Chi-Chi", "Master Roshi"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_m_0006",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "What is the Fusion Dance time limit?",
+    "options": ["10 minutes", "30 minutes", "1 hour", "Until energy depletes"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_m_0007",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "What happens if fusion dance is done wrong?",
+    "options": ["Fails", "Weak fusion", "Fat or skinny version", "Explosion"],
+    "answerIndex": 2
+  },
+  {
+    "id": "dragonballz_m_0008",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "What is the Potara fusion time limit?",
+    "options": ["30 minutes", "1 hour for mortals", "Permanent", "Depends"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_m_0009",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "Was Potara fusion originally permanent?",
+    "options": ["Yes", "No", "For gods yes, mortals 1 hour", "Retconned to have time limit"],
+    "answerIndex": 3
+  },
+  {
+    "id": "dragonballz_m_0010",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "What name comes from Fusion Dance (Goku + Vegeta)?",
+    "options": ["Vegito", "Gogeta", "Gokuta", "Veku"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_m_0011",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "What name comes from Potara (Goku + Vegeta)?",
+    "options": ["Gogeta", "Vegito", "Gokugeta", "Vegerot"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_m_0012",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "What is Gotenks' most notable attack?",
+    "options": ["Kamehameha", "Super Ghost Kamikaze Attack", "Final Flash", "Spirit Bomb"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_m_0013",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "What Super Saiyan level can Gotenks reach?",
+    "options": ["1", "2", "3", "4"],
+    "answerIndex": 2
+  },
+  {
+    "id": "dragonballz_m_0014",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "Who was the first to achieve Super Saiyan 2?",
+    "options": ["Goku", "Gohan against Cell", "Vegeta", "Goten"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_m_0015",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "Who was the first to achieve Super Saiyan 3?",
+    "options": ["Vegeta", "Gohan", "Goku", "Gotenks"],
+    "answerIndex": 2
+  },
+  {
+    "id": "dragonballz_m_0016",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "What is notable about Super Saiyan 3?",
+    "options": ["Blonde hair", "Long hair, no eyebrows", "Red hair", "Blue hair"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_m_0017",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "What is the downside of Super Saiyan 3?",
+    "options": ["Weak", "Massive energy drain", "Slow", "Painful"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_m_0018",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "What technique did Goku learn from King Kai?",
+    "options": ["Kamehameha", "Kaio-ken", "Instant Transmission", "Flying"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_m_0019",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "What does Kaio-ken do?",
+    "options": ["Heal", "Multiply power temporarily", "Energy blast", "Speed up"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_m_0020",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "What is the risk of Kaio-ken?",
+    "options": ["None", "Damages body", "Energy drain", "Both B and C"],
+    "answerIndex": 3
+  },
+  {
+    "id": "dragonballz_m_0021",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "What is the highest Kaio-ken multiplier Goku used in Z?",
+    "options": ["x10", "x20", "x100", "Kaio-ken times 20"],
+    "answerIndex": 3
+  },
+  {
+    "id": "dragonballz_m_0022",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "Where did Goku learn Instant Transmission?",
+    "options": ["Earth", "Planet Yardrat", "King Kai", "Namek"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_m_0023",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "What is required for Instant Transmission?",
+    "options": ["Nothing", "Sense ki/energy signature", "Coordinates", "Magic"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_m_0024",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "Who taught Goku the Spirit Bomb?",
+    "options": ["Master Roshi", "King Kai", "Kami", "Korin"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_m_0025",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "What is the Spirit Bomb made of?",
+    "options": ["Goku's energy", "Energy from living things", "Ki from everyone", "Pure energy"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_m_0026",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "Can evil people be hurt by their own Spirit Bomb?",
+    "options": ["No", "Yes, pure energy rejects evil", "Sometimes", "Depends"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_m_0027",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "What is the Destructo Disc's special property?",
+    "options": ["Big damage", "Can cut anything", "Fast", "Homing"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_m_0028",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "Who created the Destructo Disc?",
+    "options": ["Goku", "Krillin", "Tien", "Yamcha"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_m_0029",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "What is Tien's signature move?",
+    "options": ["Kamehameha", "Tri-Beam", "Destructo Disc", "Wolf Fang Fist"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_m_0030",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "What happens when Tien uses Tri-Beam?",
+    "options": ["Nothing", "Uses life force", "Gets stronger", "Normal attack"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_m_0031",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "What is special about Tien?",
+    "options": ["Bald", "Three eyes", "Four arms", "Both B and C"],
+    "answerIndex": 3
+  },
+  {
+    "id": "dragonballz_m_0032",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "What is Yamcha's signature move?",
+    "options": ["Kamehameha", "Wolf Fang Fist", "Spirit Ball", "Both B and C"],
+    "answerIndex": 3
+  },
+  {
+    "id": "dragonballz_m_0033",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "What is Chiaotzu?",
+    "options": ["Human", "Alien", "Small white humanoid", "Vampire ?"],
+    "answerIndex": 2
+  },
+  {
+    "id": "dragonballz_m_0034",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "What is Chiaotzu's special ability?",
+    "options": ["Strength", "Psychic powers", "Speed", "Flight"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_m_0035",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "What did Piccolo do to the moon?",
+    "options": ["Nothing", "Destroyed it", "Moved it", "Used it"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_m_0036",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "Why did Piccolo destroy the moon?",
+    "options": ["Evil", "Stop Gohan's Great Ape transformation", "Accident", "Practice"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_m_0037",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "What is Piccolo's relationship with Gohan?",
+    "options": ["Enemy", "Mentor/father figure", "Friend", "Teacher"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_m_0038",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "Who was Piccolo originally?",
+    "options": ["Evil", "Demon King Piccolo's reincarnation", "Good", "Kami's dark half"],
+    "answerIndex": 3
+  },
+  {
+    "id": "dragonballz_m_0039",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "Who is Kami?",
+    "options": ["God of Earth", "Guardian", "Good half", "All of these"],
+    "answerIndex": 3
+  },
+  {
+    "id": "dragonballz_m_0040",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "What happens when Kami and Piccolo fuse?",
+    "options": ["Nothing", "Become Nameless Namekian/stronger Piccolo", "Die", "New being"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_m_0041",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "What happens to Dragon Balls when Kami dies?",
+    "options": ["Nothing", "Turn to stone/stop working", "Disappear", "Scatter"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_m_0042",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "Who becomes the new guardian after Kami?",
+    "options": ["Piccolo", "Dende", "Mr. Popo", "Goku"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_m_0043",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "What is Dende?",
+    "options": ["Human", "Young Namekian", "Guardian", "Both B and C"],
+    "answerIndex": 3
+  },
+  {
+    "id": "dragonballz_m_0044",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "What special ability does Dende have?",
+    "options": ["Fighting", "Healing", "Energy", "Speed"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_m_0045",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "How did the Namek Dragon Balls differ from Earth's?",
+    "options": ["Same", "Bigger, 3 wishes", "Smaller", "More balls"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_m_0046",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "How many wishes do Earth Dragon Balls grant after Dende upgrade?",
+    "options": ["1", "2 or 3 depending on scale", "3", "Unlimited"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_m_0047",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "How long before you can use Dragon Balls again?",
+    "options": ["Instant", "1 year", "6 months", "130 days (Namek)"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_m_0048",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "What is Frieza's race?",
+    "options": ["Saiyan", "Frost Demon", "Alien tyrant", "Unknown species"],
+    "answerIndex": 3
+  },
+  {
+    "id": "dragonballz_m_0049",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "How many forms does Frieza have?",
+    "options": ["1", "2", "3", "4 (plus Golden later)"],
+    "answerIndex": 3
+  },
+  {
+    "id": "dragonballz_m_0050",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "Why does Frieza transform?",
+    "options": ["Get stronger", "Suppress power in base forms", "Evolution", "Show off"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_m_0051",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "What is Frieza's brother's name?",
+    "options": ["King Cold", "Cooler", "Cell", "Ice"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_m_0052",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "Who is King Cold?",
+    "options": ["Frieza's father", "Leader", "Emperor", "Strong warrior"],
+    "answerIndex": 0
+  },
+  {
+    "id": "dragonballz_m_0053",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "What is the Ginyu Force?",
+    "options": ["Army", "Elite mercenary squad", "Frieza's special forces", "Both B and C"],
+    "answerIndex": 3
+  },
+  {
+    "id": "dragonballz_m_0054",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "Who is the leader of the Ginyu Force?",
+    "options": ["Frieza", "Captain Ginyu", "Recoome", "Burter"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_m_0055",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "What is Captain Ginyu's special ability?",
+    "options": ["Strength", "Body swap", "Speed", "Energy"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_m_0056",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "What happened to Captain Ginyu?",
+    "options": ["Died", "Trapped in frog's body", "Escaped", "Became good"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_m_0057",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "What do the Ginyu Force do before fighting?",
+    "options": ["Nothing", "Silly poses", "Power up", "Meditate"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_m_0058",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "What is Cell's goal?",
+    "options": ["Destroy Earth", "Absorb Androids 17 & 18 for perfection", "Kill Goku", "Rule universe"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_m_0059",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "What is Cell made from?",
+    "options": ["Metal", "DNA from fighters", "Energy", "Magic"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_m_0060",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "Whose techniques can Cell use?",
+    "options": ["Only his", "Anyone whose cells he has", "Goku's", "Everyone's"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_m_0061",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "What forms does Cell have?",
+    "options": ["1", "Imperfect, Semi-Perfect, Perfect", "2", "4"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_m_0062",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "What are the Cell Games?",
+    "options": ["Tournament", "Cell's martial arts tournament", "Fighting event", "All of these"],
+    "answerIndex": 3
+  },
+  {
+    "id": "dragonballz_m_0063",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "Who fought Cell first in the Cell Games?",
+    "options": ["Goku", "Vegeta", "Gohan", "Mr. Satan"],
+    "answerIndex": 0
+  },
+  {
+    "id": "dragonballz_m_0064",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "Who did Goku send to fight Cell?",
+    "options": ["Himself", "Gohan", "Vegeta", "Piccolo"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_m_0065",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "What pushed Gohan to SSJ2?",
+    "options": ["Training", "Android 16's death & rage", "Goku", "Cell attacking friends"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_m_0066",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "What did Cell do when losing?",
+    "options": ["Gave up", "Self-destruct", "Ran", "Merged"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_m_0067",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "How did Goku die against Cell?",
+    "options": ["Cell killed him", "Instant Transmission Cell to King Kai's planet", "Explosion", "Sacrifice"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_m_0068",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "Did Cell come back after exploding?",
+    "options": ["No", "Yes, regenerated from one cell", "Another timeline", "Cloned"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_m_0069",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "How did Gohan finally beat Cell?",
+    "options": ["Punch", "Father-Son Kamehameha", "Spirit Bomb", "Fusion"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_m_0070",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "What is Majin Buu?",
+    "options": ["Android", "Ancient magical being", "Alien", "Demon"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_m_0071",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "Who awakened Majin Buu?",
+    "options": ["Goku", "Babidi", "Vegeta", "Supreme Kai"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_m_0072",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "Who is Babidi?",
+    "options": ["Wizard", "Bibidi's son", "Evil sorcerer", "All of these"],
+    "answerIndex": 3
+  },
+  {
+    "id": "dragonballz_m_0073",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "What is the Majin mark?",
+    "options": ["Tattoo", "Mind control symbol", "Power boost", "Both B and C"],
+    "answerIndex": 3
+  },
+  {
+    "id": "dragonballz_m_0074",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "Who became Majin Vegeta?",
+    "options": ["Goku", "Vegeta under Babidi's control", "New form", "Nobody"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_m_0075",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "Why did Vegeta let Babidi control him?",
+    "options": ["Tricked", "Wanted power to fight Goku", "Evil", "Accident"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_m_0076",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "How many forms does Majin Buu have?",
+    "options": ["1", "2", "Multiple: Fat, Evil, Super, Kid", "3"],
+    "answerIndex": 2
+  },
+  {
+    "id": "dragonballz_m_0077",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "What is Kid Buu?",
+    "options": ["Child", "Original pure evil form", "Baby Buu", "Weak version"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_m_0078",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "What is Super Buu?",
+    "options": ["Strongest", "Evil Buu absorbed Fat Buu", "Enhanced", "Final form"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_m_0079",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "Can Buu absorb people?",
+    "options": ["No", "Yes, gains their power", "Only candy", "Sometimes"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_m_0080",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "Who did Super Buu absorb?",
+    "options": ["Nobody", "Gotenks, Piccolo, Gohan", "Goku", "Everyone"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_m_0081",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "Where did the final battle with Kid Buu happen?",
+    "options": ["Earth", "Supreme Kai's planet", "Namek", "King Kai's"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_m_0082",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "What killed Kid Buu?",
+    "options": ["Kamehameha", "Super Spirit Bomb", "Fusion attack", "Vegeta"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_m_0083",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "Who gave energy for the Spirit Bomb?",
+    "options": ["Friends", "Everyone on Earth", "Universe", "Namek"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_m_0084",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "How did Mr. Satan help?",
+    "options": ["Fought", "Convinced people to give energy", "Nothing", "Distraction"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_m_0085",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "What is Uub?",
+    "options": ["Human", "Reincarnation of Kid Buu", "Fighter", "Goku's student"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_m_0086",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "What is the relationship between power levels and actual strength?",
+    "options": ["Direct", "Unreliable after Frieza Saga", "Perfect measurement", "Always accurate"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_m_0087",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "Can fighters suppress their power level?",
+    "options": ["No", "Yes", "Only Saiyans", "With training"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_m_0088",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "What is Bulma's role?",
+    "options": ["Fighter", "Inventor/Tech support", "Scientist", "Both B and C"],
+    "answerIndex": 3
+  },
+  {
+    "id": "dragonballz_m_0089",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "What device did Bulma invent to find Dragon Balls?",
+    "options": ["Scanner", "Dragon Radar", "Detector", "Scouter"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_m_0090",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "Who is the Ox-King?",
+    "options": ["Villain", "Chi-Chi's father", "King", "Goku's father-in-law"],
+    "answerIndex": 3
+  },
+  {
+    "id": "dragonballz_m_0091",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "What is the Lookout?",
+    "options": ["Tower", "Kami's platform above Korin Tower", "Heaven", "Training ground"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_m_0092",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "Who is Mr. Popo?",
+    "options": ["Genie", "Kami's assistant", "Guardian helper", "Mysterious attendant"],
+    "answerIndex": 3
+  },
+  {
+    "id": "dragonballz_m_0093",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "How do you get to King Kai's planet?",
+    "options": ["Fly", "Die and travel Snake Way", "Portal", "Instant Transmission"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_m_0094",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "What is Snake Way?",
+    "options": ["Path", "Long road in Other World to King Kai", "Million km path", "Both B and C"],
+    "answerIndex": 3
+  },
+  {
+    "id": "dragonballz_m_0095",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "What is special about King Kai's planet?",
+    "options": ["Big", "10x Earth's gravity", "Red", "Tiny"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_m_0096",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "What is Supreme Kai?",
+    "options": ["Higher god", "Oversees universe", "Above King Kai", "All of these"],
+    "answerIndex": 3
+  },
+  {
+    "id": "dragonballz_m_0097",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "What is Old Kai?",
+    "options": ["Ancient Supreme Kai", "Sealed in Z Sword", "Ancestor", "All of these"],
+    "answerIndex": 3
+  },
+  {
+    "id": "dragonballz_m_0098",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "What did Old Kai do for Gohan?",
+    "options": ["Train", "Unlock potential", "Power boost", "Mystic/Ultimate form"],
+    "answerIndex": 3
+  },
+  {
+    "id": "dragonballz_m_0099",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "What is Gohan's Ultimate/Mystic form?",
+    "options": ["Super Saiyan", "Full potential unlocked", "New transformation", "Maximum power"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_m_0100",
+    "category": "dragonballz",
+    "difficulty": "medium",
+    "question": "Does Ultimate Gohan need Super Saiyan?",
+    "options": ["Yes", "No, stronger in base", "Sometimes", "Can still transform"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_h_0001",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "Who created Dragon Ball Z?",
+    "options": ["Toriyama", "Akira Toriyama", "Toyotarou", "Toei"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_h_0002",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "What was Dragon Ball Z originally?",
+    "options": ["Anime", "Manga continuation", "Sequel", "Part of Dragon Ball manga"],
+    "answerIndex": 3
+  },
+  {
+    "id": "dragonballz_h_0003",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "When did DBZ anime first air?",
+    "options": ["1984", "1986", "1989", "1990"],
+    "answerIndex": 2
+  },
+  {
+    "id": "dragonballz_h_0004",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "How many episodes is DBZ (original)?",
+    "options": ["200", "276", "291", "300"],
+    "answerIndex": 2
+  },
+  {
+    "id": "dragonballz_h_0005",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "What is Dragon Ball Z Kai?",
+    "options": ["Remake", "Remastered version", "Edited with filler cut", "Rerun"],
+    "answerIndex": 2
+  },
+  {
+    "id": "dragonballz_h_0006",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "How many episodes is DBZ Kai?",
+    "options": ["100", "159", "167", "200"],
+    "answerIndex": 2
+  },
+  {
+    "id": "dragonballz_h_0007",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "What is filler?",
+    "options": ["Extra content", "Non-canon anime-only episodes", "Boring parts", "Padding"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_h_0008",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "Why was there filler?",
+    "options": ["Fun", "Anime caught up to manga", "Money", "Storyline"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_h_0009",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "What is canon?",
+    "options": ["Official story", "Manga storyline", "Toriyama's work", "All of these"],
+    "answerIndex": 3
+  },
+  {
+    "id": "dragonballz_h_0010",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "Are DBZ movies canon?",
+    "options": ["Yes", "Most are not", "Some", "Only recent ones"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_h_0011",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "What is Goku's power level against Raditz?",
+    "options": ["300", "334-416 with Kamehameha", "500", "1000"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_h_0012",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "What is Goku's power level after training with King Kai?",
+    "options": ["5000", "8000", "Over 8000", "9000"],
+    "answerIndex": 2
+  },
+  {
+    "id": "dragonballz_h_0013",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "What is Vegeta's famous scouter line?",
+    "options": ["Over 9000", "It's over 8000 (Japanese)", "Power level rising", "Impossible"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_h_0014",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "Why does the English dub say over 9000?",
+    "options": ["Error", "Lip sync", "Sounds better", "Translation choice"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_h_0015",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "What was Frieza's power level in final form?",
+    "options": ["1 million", "120 million", "Varies, suppressed", "Over 1 million"],
+    "answerIndex": 2
+  },
+  {
+    "id": "dragonballz_h_0016",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "At what point do power levels become meaningless?",
+    "options": ["Never", "After Frieza Saga", "Android Saga", "Always reliable"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_h_0017",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "What is the Zenkai boost?",
+    "options": ["Power up", "Saiyan near-death power increase", "Training result", "Genetic trait"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_h_0018",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "Why did Zenkai boost stop mattering?",
+    "options": ["Too strong", "Super Saiyan made it obsolete", "Overused", "Plot convenience"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_h_0019",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "What is Goku's Super Saiyan multiplier?",
+    "options": ["10x", "50x", "100x", "Variable"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_h_0020",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "What is Super Saiyan 2's multiplier?",
+    "options": ["2x SSJ", "100x base", "Double", "Unclear"],
+    "answerIndex": 0
+  },
+  {
+    "id": "dragonballz_h_0021",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "What is Super Saiyan 3's multiplier?",
+    "options": ["200x", "400x base", "4x SSJ2", "Variable"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_h_0022",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "What was the legend of Super Saiyan?",
+    "options": ["Myth", "Once every 1000 years", "Ancient warrior", "Prophecy"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_h_0023",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "Why was SSJ made blonde?",
+    "options": ["Cool", "Easier to draw without filling in hair", "Symbolism", "Accident"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_h_0024",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "What is Goku's Saiyan armor from?",
+    "options": ["Earth", "Yardrat outfit", "Frieza Force armor", "Custom"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_h_0025",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "What is Vegeta's battle suit?",
+    "options": ["Custom", "Saiyan armor", "Frieza Force standard issue", "Royal armor"],
+    "answerIndex": 2
+  },
+  {
+    "id": "dragonballz_h_0026",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "Why does Vegeta's hair never change?",
+    "options": ["Style", "Pure Saiyans' hair doesn't change", "Genetics", "Pride"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_h_0027",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "What is different about half-Saiyan hybrids?",
+    "options": ["Weaker", "Greater potential", "Human side", "Emotions"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_h_0028",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "Why is Gohan so powerful?",
+    "options": ["Training", "Hybrid vigor", "Potential", "Rage boosts"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_h_0029",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "What is Gohan's scholar profession?",
+    "options": ["Teacher", "Professor", "Researcher", "Biologist/Entomologist"],
+    "answerIndex": 3
+  },
+  {
+    "id": "dragonballz_h_0030",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "Why did Gohan stop fighting?",
+    "options": ["Weak", "Focused on studies/family", "Chi-Chi", "Peace"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_h_0031",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "What is Goten's age during Buu Saga?",
+    "options": ["5", "7", "8", "10"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_h_0032",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "What is Trunks' age during Buu Saga?",
+    "options": ["7", "8", "9", "10"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_h_0033",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "Why can Goten and Trunks go SSJ so young?",
+    "options": ["Training", "Born with S-Cells from SSJ fathers", "Genetics", "Prodigies"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_h_0034",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "What are S-Cells?",
+    "options": ["Saiyan cells", "Retcon for easy SSJ", "Power cells", "Genetics"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_h_0035",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "What timeline is Future Trunks from?",
+    "options": ["Main", "Alternate where Goku died", "Parallel", "Different universe"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_h_0036",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "How did Goku die in Future Trunks' timeline?",
+    "options": ["Cell", "Heart virus", "Androids", "Natural"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_h_0037",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "What did Future Trunks bring?",
+    "options": ["Sword", "Medicine for Goku", "Warning", "All of these"],
+    "answerIndex": 3
+  },
+  {
+    "id": "dragonballz_h_0038",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "Who killed the Androids in Future Trunks' timeline?",
+    "options": ["Nobody", "Future Trunks", "Gohan", "Cell"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_h_0039",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "Who was Future Gohan?",
+    "options": ["Trunks' mentor", "One-armed fighter", "Last hope", "All of these"],
+    "answerIndex": 3
+  },
+  {
+    "id": "dragonballz_h_0040",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "How did Future Gohan die?",
+    "options": ["Old age", "Killed by Androids 17 & 18", "Cell", "Sacrifice"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_h_0041",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "What is the multiverse/timeline mechanic?",
+    "options": ["Many worlds", "Time travel creates branches", "Parallel universes", "Complex"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_h_0042",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "How many timelines are created?",
+    "options": ["2", "4 main ones", "Many", "Infinite"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_h_0043",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "Who is Android 16?",
+    "options": ["Cyborg", "Full robot", "Based on Gero's son", "Gentle giant"],
+    "answerIndex": 2
+  },
+  {
+    "id": "dragonballz_h_0044",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "What is Android 16's goal?",
+    "options": ["Kill Goku", "Protect nature", "Peace", "Both A and B (conflicted)"],
+    "answerIndex": 3
+  },
+  {
+    "id": "dragonballz_h_0045",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "Why can't Android 16 be revived?",
+    "options": ["Dead", "Fully mechanical (not organic)", "Rules", "Impossible"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_h_0046",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "What are Androids 17 and 18 really?",
+    "options": ["Robots", "Cyborgs (enhanced humans)", "Androids", "Modified"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_h_0047",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "What are 17 and 18's real names?",
+    "options": ["Unknown", "Lapis and Lazuli", "Numbers only", "Classified"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_h_0048",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "Can Androids 17 and 18 have children?",
+    "options": ["No", "Yes, still partially human", "Adopted", "Android 18 has Marron"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_h_0049",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "What is Android 19?",
+    "options": ["Cyborg", "Energy absorption model", "Fat android", "Gero's creation"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_h_0050",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "Who is Android 20?",
+    "options": ["Robot", "Dr. Gero himself", "Creation", "Cyborg Gero"],
+    "answerIndex": 3
+  },
+  {
+    "id": "dragonballz_h_0051",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "Why did Dr. Gero create Androids?",
+    "options": ["Science", "Revenge against Goku for Red Ribbon Army", "Power", "Evil"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_h_0052",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "What was the Red Ribbon Army?",
+    "options": ["Military", "Evil organization from Dragon Ball", "Goku destroyed them", "All of these"],
+    "answerIndex": 3
+  },
+  {
+    "id": "dragonballz_h_0053",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "What is Cell's time machine?",
+    "options": ["Bulma's", "Stolen from Future Trunks' timeline", "Built", "Alternate Trunks"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_h_0054",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "Which timeline is Cell from?",
+    "options": ["Main", "Third timeline", "Future", "Different"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_h_0055",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "Why did Cell need a time machine?",
+    "options": ["Escape", "Androids didn't exist in his time", "Mission", "Survival"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_h_0056",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "What is Cell's signature technique?",
+    "options": ["Kamehameha", "Perfect Kamehameha", "Solar Flare", "All copied moves"],
+    "answerIndex": 3
+  },
+  {
+    "id": "dragonballz_h_0057",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "Whose cells are in Cell?",
+    "options": ["Goku, Vegeta", "Many fighters", "Goku, Vegeta, Piccolo, Frieza, King Cold", "Everyone"],
+    "answerIndex": 2
+  },
+  {
+    "id": "dragonballz_h_0058",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "Can Cell regenerate?",
+    "options": ["No", "Yes, from Piccolo's cells", "Sometimes", "Head only"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_h_0059",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "What happened to Cell after regenerating from one cell?",
+    "options": ["Weaker", "Came back stronger", "Zenkai boost", "Both B and C"],
+    "answerIndex": 3
+  },
+  {
+    "id": "dragonballz_h_0060",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "What are the Cell Juniors?",
+    "options": ["Baby Cells", "Mini-Cells from Perfect Cell", "Offspring", "Clones"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_h_0061",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "What is Majin Buu's origin?",
+    "options": ["Created", "Existed since time immemorial", "Magic", "Ancient evil"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_h_0062",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "Who originally sealed Majin Buu?",
+    "options": ["Babidi", "Supreme Kai", "Grand Supreme Kai", "Bibidi"],
+    "answerIndex": 2
+  },
+  {
+    "id": "dragonballz_h_0063",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "Who is Bibidi?",
+    "options": ["Wizard", "Babidi's father", "Buu's creator/controller", "Ancient evil"],
+    "answerIndex": 2
+  },
+  {
+    "id": "dragonballz_h_0064",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "Why is Fat Buu good?",
+    "options": ["Reformed", "Absorbed Grand Supreme Kai", "Befriended Mr. Satan", "Both B and C"],
+    "answerIndex": 3
+  },
+  {
+    "id": "dragonballz_h_0065",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "What is the Grand Supreme Kai?",
+    "options": ["God", "Highest Kai absorbed by Buu", "Leader", "Deity"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_h_0066",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "How did Evil Buu form?",
+    "options": ["Split", "Fat Buu's evil expelled", "Anger", "Magic"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_h_0067",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "What is Buu's regeneration?",
+    "options": ["Fast healing", "Nearly infinite", "Molecular level", "Magic-based"],
+    "answerIndex": 2
+  },
+  {
+    "id": "dragonballz_h_0068",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "Can Buu be killed normally?",
+    "options": ["Yes", "No, needs complete destruction", "With effort", "Special technique"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_h_0069",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "What is Vegito's personality?",
+    "options": ["Goku-like", "Vegeta-like", "Cocky mix of both", "New person"],
+    "answerIndex": 2
+  },
+  {
+    "id": "dragonballz_h_0070",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "What is Gogeta's personality?",
+    "options": ["Serious", "More focused than Vegito", "Goku-like", "Balanced"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_h_0071",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "Why is Vegito cockier than Gogeta?",
+    "options": ["Potara", "Vegeta's influence stronger", "Different fusion method", "Personality blend differs"],
+    "answerIndex": 3
+  },
+  {
+    "id": "dragonballz_h_0072",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "What is the Namekian fusion?",
+    "options": ["Combine", "Permanent assimilation", "Merge", "Power transfer"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_h_0073",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "Who did Piccolo fuse with?",
+    "options": ["Kami", "Nail", "Both at different times", "Nobody"],
+    "answerIndex": 2
+  },
+  {
+    "id": "dragonballz_h_0074",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "What is Piccolo's full true name?",
+    "options": ["Piccolo", "Piccolo Jr.", "Originally unnamed Namekian split into Kami and King Piccolo", "The Nameless Namekian"],
+    "answerIndex": 3
+  },
+  {
+    "id": "dragonballz_h_0075",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "What class of Namekian is Piccolo?",
+    "options": ["Warrior", "Dragon Clan", "Both (mixed from fusion)", "Fighter"],
+    "answerIndex": 2
+  },
+  {
+    "id": "dragonballz_h_0076",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "What are the two Namekian types?",
+    "options": ["Good/Evil", "Warrior and Dragon Clan", "Strong/Weak", "Old/Young"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_h_0077",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "What is the Namekian Dragon's name?",
+    "options": ["Shenron", "Porunga", "Dragon", "Zalama"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_h_0078",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "What language does Porunga speak?",
+    "options": ["English", "Namekian", "Universal", "Japanese"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_h_0079",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "Who is the Namekian Grand Elder?",
+    "options": ["Guru", "Moori", "Elder", "Leader"],
+    "answerIndex": 0
+  },
+  {
+    "id": "dragonballz_h_0080",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "What did Guru do for Gohan and Krillin?",
+    "options": ["Train", "Unlock potential", "Heal", "Advise"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_h_0081",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "What destroyed the Saiyan home world?",
+    "options": ["Meteor", "Frieza destroyed Planet Vegeta", "War", "Natural disaster"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_h_0082",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "Why did Frieza destroy Planet Vegeta?",
+    "options": ["Evil", "Feared Super Saiyan legend", "Rebellion", "Accident"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_h_0083",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "How many Saiyans survived?",
+    "options": ["2", "Few: Goku, Vegeta, Nappa, Raditz initially", "Many", "Only Goku"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_h_0084",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "Who is Broly?",
+    "options": ["Saiyan", "Legendary Super Saiyan", "Villain", "Non-canon (original movies)"],
+    "answerIndex": 3
+  },
+  {
+    "id": "dragonballz_h_0085",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "What is the Legendary Super Saiyan?",
+    "options": ["Myth", "Berserker form", "Broly's transformation", "Different from regular SSJ"],
+    "answerIndex": 2
+  },
+  {
+    "id": "dragonballz_h_0086",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "What is Super Saiyan God?",
+    "options": ["SSJ4", "Divine form from ritual", "Red hair form", "Dragon Ball Super content"],
+    "answerIndex": 3
+  },
+  {
+    "id": "dragonballz_h_0087",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "What is Super Saiyan Blue?",
+    "options": ["New form", "Super Saiyan God Super Saiyan", "Dragon Ball Super", "Beyond Z"],
+    "answerIndex": 3
+  },
+  {
+    "id": "dragonballz_h_0088",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "What is Ultra Instinct?",
+    "options": ["Transformation", "Technique/state", "Dragon Ball Super", "Goku's ultimate form"],
+    "answerIndex": 2
+  },
+  {
+    "id": "dragonballz_h_0089",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "Are Super/GT part of Z?",
+    "options": ["Yes", "Sequels, separate series", "Same", "Continuations"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_h_0090",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "What is Dragon Ball GT?",
+    "options": ["Sequel", "Anime-only continuation", "Non-canon", "After Z"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_h_0091",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "What is Dragon Ball Super?",
+    "options": ["Sequel", "Canon continuation", "Between Z and GT", "After Buu before timeskip"],
+    "answerIndex": 3
+  },
+  {
+    "id": "dragonballz_h_0092",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "What is the proper watch order?",
+    "options": ["Z then GT", "Z then Super", "Dragon Ball, Z, Super, (GT non-canon)", "Any order"],
+    "answerIndex": 2
+  },
+  {
+    "id": "dragonballz_h_0093",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "What is Goku's job?",
+    "options": ["Fighter", "Farmer/Radish farmer", "None", "Hero"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_h_0094",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "What is Gohan's daughter's name?",
+    "options": ["Videl Jr.", "Pan", "Bulla", "Marron"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_h_0095",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "What is Vegeta's daughter's name?",
+    "options": ["Pan", "Marron", "Bulla (Bra)", "No daughter"],
+    "answerIndex": 2
+  },
+  {
+    "id": "dragonballz_h_0096",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "What is Krillin's daughter's name?",
+    "options": ["Pan", "Bulla", "Marron", "Android 18 Jr."],
+    "answerIndex": 2
+  },
+  {
+    "id": "dragonballz_h_0097",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "What is the significance of turtle symbols vs Saiyan armor?",
+    "options": ["Teams", "Training heritage (Roshi vs Vegeta's style)", "Fashion", "Ranks"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_h_0098",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "What does the Kanji on Goku's gi mean?",
+    "options": ["Goku", "Varies: Turtle, Kai, Go", "Power", "Saiyan"],
+    "answerIndex": 1
+  },
+  {
+    "id": "dragonballz_h_0099",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "What is the theme of Dragon Ball Z?",
+    "options": ["Fighting", "Strength through struggle", "Good vs Evil", "Perseverance, growth, friendship"],
+    "answerIndex": 3
+  },
+  {
+    "id": "dragonballz_h_0100",
+    "category": "dragonballz",
+    "difficulty": "hard",
+    "question": "What cultural influence is Dragon Ball based on?",
+    "options": ["Western", "Journey to the West (Chinese)", "Japanese", "Mix of martial arts film and Chinese myth"],
+    "answerIndex": 3
+  }
+]

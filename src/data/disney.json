@@ -1,0 +1,2402 @@
+[
+  {
+    "id": "disney_e_0001",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What is the name of Mickey Mouse's dog?",
+    "options": ["Goofy", "Pluto", "Max", "Bruno"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_e_0002",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What color is Snow White's bow?",
+    "options": ["Blue", "Yellow", "Red", "Pink"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_e_0003",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What kind of animal is Simba?",
+    "options": ["Tiger", "Lion", "Bear", "Panther"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_e_0004",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What is the name of Elsa's sister?",
+    "options": ["Aurora", "Anna", "Ariel", "Belle"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_e_0005",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What color is Cinderella's ball gown?",
+    "options": ["Pink", "Yellow", "Blue", "Purple"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_e_0006",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What kind of animal is Dumbo?",
+    "options": ["Elephant", "Giraffe", "Horse", "Camel"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_e_0007",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What is the name of the mouse in Cinderella?",
+    "options": ["Jerry", "Gus", "Mickey", "Stuart"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_e_0008",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What kind of animal is Winnie the Pooh?",
+    "options": ["Dog", "Cat", "Bear", "Rabbit"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_e_0009",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What is the name of the cowboy in Toy Story?",
+    "options": ["Buzz", "Woody", "Rex", "Slinky"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_e_0010",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What color is Mickey Mouse's shorts?",
+    "options": ["Blue", "Green", "Red", "Yellow"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_e_0011",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What is the name of the princess with long magical hair?",
+    "options": ["Rapunzel", "Merida", "Tiana", "Moana"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_e_0012",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What kind of animal is Nemo?",
+    "options": ["Shark", "Whale", "Fish", "Octopus"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_e_0013",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What is the name of the princess who kissed a frog?",
+    "options": ["Ariel", "Belle", "Tiana", "Jasmine"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_e_0014",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What color is Ariel's tail?",
+    "options": ["Blue", "Green", "Purple", "Pink"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_e_0015",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "Who is Mickey Mouse's girlfriend?",
+    "options": ["Daisy", "Minnie", "Clarabelle", "Penny"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_e_0016",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What kind of animal is Bambi?",
+    "options": ["Rabbit", "Fox", "Deer", "Squirrel"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_e_0017",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What is the name of the space ranger in Toy Story?",
+    "options": ["Woody", "Rex", "Buzz Lightyear", "Hamm"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_e_0018",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What kind of animal is Abu from Aladdin?",
+    "options": ["Parrot", "Monkey", "Cat", "Dog"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_e_0019",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What is the name of the lion king?",
+    "options": ["Simba", "Mufasa", "Scar", "Timon"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_e_0020",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What color dress does Belle wear in Beauty and the Beast?",
+    "options": ["Blue", "Yellow", "Pink", "Green"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_e_0021",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What kind of animal is Pegasus?",
+    "options": ["Flying horse", "Dragon", "Eagle", "Lion"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_e_0022",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What is the name of the snowman in Frozen?",
+    "options": ["Sven", "Kristoff", "Olaf", "Hans"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_e_0023",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What is the name of Aladdin's magic carpet friend?",
+    "options": ["Magic Carpet", "Flying Mat", "Carpet", "Magic Rug"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_e_0024",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What kind of animal is Timon in The Lion King?",
+    "options": ["Warthog", "Meerkat", "Monkey", "Hyena"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_e_0025",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What is the name of the princess in The Little Mermaid?",
+    "options": ["Belle", "Aurora", "Ariel", "Jasmine"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_e_0026",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What is Goofy's son's name?",
+    "options": ["Max", "Bobby", "Tommy", "Jake"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_e_0027",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What kind of animal is Pumbaa?",
+    "options": ["Meerkat", "Hyena", "Warthog", "Elephant"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_e_0028",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What is the name of the princess who slept for 100 years?",
+    "options": ["Snow White", "Aurora", "Cinderella", "Belle"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_e_0029",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What is the name of Donald Duck's girlfriend?",
+    "options": ["Minnie", "Daisy", "Clara", "Dotty"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_e_0030",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What kind of animal is Tigger?",
+    "options": ["Lion", "Cat", "Tiger", "Leopard"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_e_0031",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What is the name of the princess in Aladdin?",
+    "options": ["Ariel", "Belle", "Jasmine", "Tiana"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_e_0032",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What color is Donald Duck?",
+    "options": ["Yellow", "Blue", "White", "Green"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_e_0033",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What is the name of Moana's rooster?",
+    "options": ["Pua", "Heihei", "Tamatoa", "Maui"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_e_0034",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What is the name of the princess with red hair and a bow?",
+    "options": ["Anna", "Ariel", "Merida", "Aurora"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_e_0035",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What kind of animal is Sven in Frozen?",
+    "options": ["Dog", "Horse", "Reindeer", "Moose"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_e_0036",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What is the name of the bear in The Jungle Book?",
+    "options": ["Bagheera", "Baloo", "Shere Khan", "King Louie"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_e_0037",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What is the name of the fairy in Peter Pan?",
+    "options": ["Flora", "Fauna", "Tinker Bell", "Silvermist"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_e_0038",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What kind of animal is Crush in Finding Nemo?",
+    "options": ["Fish", "Shark", "Sea Turtle", "Whale"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_e_0039",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What is the name of the girl in Monsters, Inc.?",
+    "options": ["Lily", "Boo", "Molly", "Sally"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_e_0040",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What is the name of the forgetful fish in Finding Nemo?",
+    "options": ["Marlin", "Nemo", "Dory", "Gill"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_e_0041",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What kind of animal is Rajah from Aladdin?",
+    "options": ["Lion", "Tiger", "Panther", "Leopard"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_e_0042",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What is the name of the mouse chef in Ratatouille?",
+    "options": ["Stuart", "Remy", "Jerry", "Mickey"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_e_0043",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What is the name of the toy dinosaur in Toy Story?",
+    "options": ["Spike", "Rex", "Dino", "Barney"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_e_0044",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What kind of animal is Eeyore?",
+    "options": ["Horse", "Donkey", "Mule", "Pony"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_e_0045",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What is the name of the dog in Up?",
+    "options": ["Max", "Duke", "Dug", "Doug"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_e_0046",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What kind of animal is Sebastian from The Little Mermaid?",
+    "options": ["Fish", "Lobster", "Crab", "Shrimp"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_e_0047",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What is the name of the villain in 101 Dalmatians?",
+    "options": ["Maleficent", "Ursula", "Cruella de Vil", "Evil Queen"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_e_0048",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What is the name of the island princess who sails the ocean?",
+    "options": ["Ariel", "Pocahontas", "Moana", "Tiana"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_e_0049",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What kind of animal is Piglet?",
+    "options": ["Pig", "Rabbit", "Bear", "Tiger"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_e_0050",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What is the name of the toy cowgirl in Toy Story?",
+    "options": ["Bo Peep", "Jessie", "Barbie", "Dolly"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_e_0051",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What is the name of the big blue monster in Monsters, Inc.?",
+    "options": ["Mike", "Randall", "Sulley", "George"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_e_0052",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What kind of animal is Piglet's friend Rabbit?",
+    "options": ["Cat", "Dog", "Rabbit", "Mouse"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_e_0053",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What is the name of the princess who lives under the sea?",
+    "options": ["Belle", "Ariel", "Aurora", "Cinderella"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_e_0054",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What color are Minnie Mouse's shoes?",
+    "options": ["Red", "Yellow", "Blue", "Pink"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_e_0055",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What is the name of the boy who owns Woody and Buzz?",
+    "options": ["Andy", "Sid", "Bonnie", "Carl"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_e_0056",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What kind of animal is Flounder from The Little Mermaid?",
+    "options": ["Crab", "Fish", "Octopus", "Seahorse"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_e_0057",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What is the name of the demigod in Moana?",
+    "options": ["Tui", "Maui", "Tamatoa", "Te Fiti"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_e_0058",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What is the name of the lost boy who never grows up?",
+    "options": ["Mowgli", "Peter Pan", "Pinocchio", "Aladdin"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_e_0059",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What kind of animal is Maximus from Tangled?",
+    "options": ["Dog", "Horse", "Donkey", "Mule"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_e_0060",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What is the name of the sea witch in The Little Mermaid?",
+    "options": ["Maleficent", "Ursula", "Cruella", "Yzma"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_e_0061",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What kind of animal is Kaa from The Jungle Book?",
+    "options": ["Snake", "Lizard", "Crocodile", "Alligator"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_e_0062",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What is the name of the little elephant with big ears?",
+    "options": ["Horton", "Dumbo", "Babar", "Ellie"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_e_0063",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What kind of animal is Pascal from Tangled?",
+    "options": ["Frog", "Lizard", "Chameleon", "Gecko"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_e_0064",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What is the name of the puppet who wants to be a real boy?",
+    "options": ["Peter Pan", "Pinocchio", "Mowgli", "Arthur"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_e_0065",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What is the name of Kristoff's reindeer in Frozen?",
+    "options": ["Olaf", "Sven", "Hans", "Duke"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_e_0066",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What color is Tinker Bell's dress?",
+    "options": ["Blue", "Green", "Yellow", "Pink"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_e_0067",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What is the name of the monster with one eye in Monsters, Inc.?",
+    "options": ["Sulley", "Mike", "Randall", "George"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_e_0068",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What kind of animal is Meeko from Pocahontas?",
+    "options": ["Squirrel", "Raccoon", "Skunk", "Otter"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_e_0069",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What is the name of the boy in The Jungle Book?",
+    "options": ["Tarzan", "Mowgli", "Peter", "Arthur"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_e_0070",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What kind of animal is Stitch?",
+    "options": ["Dog", "Cat", "Alien", "Koala"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_e_0071",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What is the name of the flying carpet owner?",
+    "options": ["Jafar", "Aladdin", "Genie", "Sultan"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_e_0072",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What kind of animal is Chip from Beauty and the Beast?",
+    "options": ["Teacup", "Clock", "Candle", "Feather Duster"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_e_0073",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What is the name of the snowman who loves summer?",
+    "options": ["Frosty", "Olaf", "Jack", "Sven"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_e_0074",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What kind of animal is Lady from Lady and the Tramp?",
+    "options": ["Cat", "Dog", "Rabbit", "Fox"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_e_0075",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What is the name of Lightning McQueen's best friend?",
+    "options": ["Doc", "Ramone", "Mater", "Luigi"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_e_0076",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What is the name of the blue fish with short-term memory?",
+    "options": ["Nemo", "Marlin", "Dory", "Gill"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_e_0077",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What kind of animal is King Louie from The Jungle Book?",
+    "options": ["Gorilla", "Monkey", "Orangutan", "Baboon"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_e_0078",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What is the name of the Hawaiian girl who adopts Stitch?",
+    "options": ["Moana", "Lilo", "Nani", "Tiana"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_e_0079",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What kind of animal is Scuttle from The Little Mermaid?",
+    "options": ["Pelican", "Seagull", "Parrot", "Duck"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_e_0080",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What is the name of the prince in Sleeping Beauty?",
+    "options": ["Prince Eric", "Prince Philip", "Prince Charming", "Prince Adam"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_e_0081",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What kind of animal is Pua from Moana?",
+    "options": ["Dog", "Pig", "Chicken", "Cat"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_e_0082",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What is the name of the ice queen in Frozen?",
+    "options": ["Anna", "Elsa", "Aurora", "Ariel"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_e_0083",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What kind of animal is Bruce from Finding Nemo?",
+    "options": ["Dolphin", "Whale", "Shark", "Octopus"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_e_0084",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What is the name of the genie in Aladdin?",
+    "options": ["Jafar", "Iago", "Genie", "Sultan"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_e_0085",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What kind of animal is Mushu from Mulan?",
+    "options": ["Snake", "Dragon", "Lizard", "Salamander"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_e_0086",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What is the name of the little girl in Monsters, Inc. that Sulley calls?",
+    "options": ["Molly", "Boo", "Sally", "Lily"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_e_0087",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What kind of animal is Thumper from Bambi?",
+    "options": ["Deer", "Rabbit", "Skunk", "Squirrel"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_e_0088",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What is the name of the girl who goes to Wonderland?",
+    "options": ["Alice", "Belle", "Aurora", "Anna"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_e_0089",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What kind of animal is Roo from Winnie the Pooh?",
+    "options": ["Rabbit", "Bear", "Kangaroo", "Tiger"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_e_0090",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What is the name of the race car in Cars?",
+    "options": ["Ramone", "Lightning McQueen", "Doc Hudson", "Mater"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_e_0091",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What kind of animal is Flower from Bambi?",
+    "options": ["Rabbit", "Deer", "Skunk", "Squirrel"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_e_0092",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What is the name of the pig in Moana?",
+    "options": ["Pua", "Heihei", "Maui", "Tamatoa"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_e_0093",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What kind of animal is Mr. Big from Zootopia?",
+    "options": ["Mouse", "Rat", "Hamster", "Shrew"],
+    "answerIndex": 3
+  },
+  {
+    "id": "disney_e_0094",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What is the name of the boy who can fly?",
+    "options": ["Aladdin", "Peter Pan", "Tarzan", "Mowgli"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_e_0095",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What kind of animal is Nick Wilde from Zootopia?",
+    "options": ["Wolf", "Dog", "Fox", "Cat"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_e_0096",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What is the name of the little alien in Lilo and Stitch?",
+    "options": ["Angel", "Stitch", "Jumba", "Pleakley"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_e_0097",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What kind of animal is Judy Hopps from Zootopia?",
+    "options": ["Fox", "Cat", "Rabbit", "Mouse"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_e_0098",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What is the name of Cinderella's stepmother?",
+    "options": ["Lady Tremaine", "Maleficent", "Ursula", "Cruella"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_e_0099",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What kind of animal is Bagheera from The Jungle Book?",
+    "options": ["Tiger", "Lion", "Panther", "Leopard"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_e_0100",
+    "category": "disney",
+    "difficulty": "easy",
+    "question": "What is the name of the wooden boy?",
+    "options": ["Peter Pan", "Pinocchio", "Mowgli", "Arthur"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_m_0001",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What are the names of Cinderella's two stepsisters?",
+    "options": ["Drizella and Anastasia", "Ursula and Morgana", "Flora and Fauna", "Anna and Elsa"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_m_0002",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What does Hakuna Matata mean?",
+    "options": ["Good morning", "No worries", "Thank you", "Goodbye"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_m_0003",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of Belle's father in Beauty and the Beast?",
+    "options": ["Maurice", "Gaston", "LeFou", "Lumiere"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_m_0004",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "How many dwarfs are there in Snow White?",
+    "options": ["5", "6", "7", "8"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_m_0005",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of the kingdom in Frozen?",
+    "options": ["Arendelle", "Corona", "DunBroch", "Agrabah"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_m_0006",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What does Rapunzel use as a weapon?",
+    "options": ["A sword", "Her hair", "A frying pan", "A bow"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_m_0007",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of Simba's uncle?",
+    "options": ["Mufasa", "Scar", "Zazu", "Rafiki"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_m_0008",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of the restaurant in Ratatouille?",
+    "options": ["Gusteau's", "Le Petit Chef", "La Ratatouille", "Chez Remy"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_m_0009",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is Flynn Rider's real name in Tangled?",
+    "options": ["Eric", "Eugene Fitzherbert", "Philip", "Kristoff"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_m_0010",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "How many brothers does Prince Hans have in Frozen?",
+    "options": ["10", "11", "12", "13"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_m_0011",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of Ariel's father?",
+    "options": ["King Neptune", "King Triton", "King Sebastian", "King Poseidon"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_m_0012",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of Mulan's dragon sidekick?",
+    "options": ["Shenron", "Mushu", "Sisu", "Draco"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_m_0013",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What type of fish is Nemo?",
+    "options": ["Blue Tang", "Clownfish", "Pufferfish", "Angelfish"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_m_0014",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of the villain in The Little Mermaid?",
+    "options": ["Morgana", "Ursula", "Maleficent", "Yzma"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_m_0015",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of Pocahontas's hummingbird friend?",
+    "options": ["Flit", "Meeko", "Percy", "John"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_m_0016",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of Andy's neighbor in Toy Story?",
+    "options": ["Billy", "Sid", "Tommy", "Bobby"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_m_0017",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What are the names of the three good fairies in Sleeping Beauty?",
+    "options": ["Faith, Hope, and Charity", "Flora, Fauna, and Merryweather", "Rose, Lily, and Violet", "Dawn, Day, and Dusk"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_m_0018",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of the villain in Sleeping Beauty?",
+    "options": ["Ursula", "Maleficent", "Evil Queen", "Cruella"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_m_0019",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of the candlestick in Beauty and the Beast?",
+    "options": ["Cogsworth", "Lumiere", "Chip", "Maurice"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_m_0020",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of the clock in Beauty and the Beast?",
+    "options": ["Lumiere", "Cogsworth", "Maurice", "LeFou"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_m_0021",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of the prince in The Little Mermaid?",
+    "options": ["Prince Philip", "Prince Eric", "Prince Charming", "Prince Adam"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_m_0022",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "How many Muses are there in Hercules?",
+    "options": ["3", "4", "5", "6"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_m_0023",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of the teapot in Beauty and the Beast?",
+    "options": ["Mrs. Potts", "Mrs. Teapot", "Mama Tea", "Belle"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_m_0024",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What city does Ratatouille take place in?",
+    "options": ["London", "Rome", "Paris", "Madrid"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_m_0025",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of the parrot in Aladdin?",
+    "options": ["Iago", "Zazu", "Scuttle", "Jose"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_m_0026",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of Gaston's sidekick?",
+    "options": ["Maurice", "LeFou", "Lumiere", "Cogsworth"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_m_0027",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of the villain in Aladdin?",
+    "options": ["Iago", "Jafar", "Sultan", "Razoul"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_m_0028",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "How many fingers does Mickey Mouse have?",
+    "options": ["3", "4", "5", "6"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_m_0029",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of Nemo's mother?",
+    "options": ["Dory", "Sandy", "Coral", "Pearl"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_m_0030",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of the hummingbird in Pocahontas?",
+    "options": ["Meeko", "Flit", "Percy", "Nakoma"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_m_0031",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of Moana's grandmother?",
+    "options": ["Tala", "Sina", "Tui", "Moana"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_m_0032",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of Merida's mother?",
+    "options": ["Queen Eleanor", "Queen Elinor", "Queen Elizabeth", "Queen Emma"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_m_0033",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "How many dalmatian puppies are there in 101 Dalmatians?",
+    "options": ["99", "100", "101", "15"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_m_0034",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of the cricket in Pinocchio?",
+    "options": ["Jimmy Cricket", "Jiminy Cricket", "Johnny Cricket", "Jeremy Cricket"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_m_0035",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of the villain in Hercules?",
+    "options": ["Zeus", "Hades", "Ares", "Poseidon"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_m_0036",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of Prince Naveen's home country in The Princess and the Frog?",
+    "options": ["Maldonia", "Corona", "Arendelle", "Agrabah"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_m_0037",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of Hercules' pegasus?",
+    "options": ["Maximus", "Pegasus", "Sven", "Khan"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_m_0038",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of Mulan's horse?",
+    "options": ["Maximus", "Khan", "Angus", "Samson"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_m_0039",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of the bird in The Lion King who serves as Mufasa's advisor?",
+    "options": ["Iago", "Zazu", "Scuttle", "Nigel"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_m_0040",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of the kingdom in Tangled?",
+    "options": ["Arendelle", "Corona", "DunBroch", "Agrabah"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_m_0041",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of the villain in Tangled?",
+    "options": ["Mother Gothel", "Lady Tremaine", "Maleficent", "Ursula"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_m_0042",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What are the names of the two eels that work for Ursula?",
+    "options": ["Flotsam and Jetsam", "Flip and Flop", "Twist and Turn", "Shock and Barrel"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_m_0043",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of Tiana's restaurant at the end of The Princess and the Frog?",
+    "options": ["Tiana's Place", "Princess Palace", "The Palace", "Royal Restaurant"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_m_0044",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of the monkey in The Lion King?",
+    "options": ["Abu", "Rafiki", "King Louie", "Chim Chim"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_m_0045",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "How many wishes does the Genie grant Aladdin?",
+    "options": ["1", "2", "3", "Unlimited"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_m_0046",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of the kingdom where Merida lives?",
+    "options": ["Arendelle", "Corona", "DunBroch", "Agrabah"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_m_0047",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of the sloth in Zootopia?",
+    "options": ["Flash", "Lightning", "Speedy", "Dash"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_m_0048",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of the villain in The Jungle Book?",
+    "options": ["Scar", "Shere Khan", "Kaa", "King Louie"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_m_0049",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of the lead toy soldier in Toy Story?",
+    "options": ["Major", "Sarge", "Captain", "General"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_m_0050",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of the fashion designer in The Incredibles?",
+    "options": ["Edna Mode", "Emma Mode", "Edith Mode", "Elsa Mode"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_m_0051",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of Carl's wife in Up?",
+    "options": ["Ellen", "Emma", "Ellie", "Emily"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_m_0052",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of the young boy in Up?",
+    "options": ["Russell", "Kevin", "Carl", "Charles"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_m_0053",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of the bird in Up?",
+    "options": ["Russell", "Kevin", "Dug", "Alpha"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_m_0054",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of Lilo's older sister?",
+    "options": ["Nani", "Tia", "Nina", "Anna"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_m_0055",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is Stitch's experiment number?",
+    "options": ["626", "625", "624", "627"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_m_0056",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of the chef in Ratatouille?",
+    "options": ["Linguini", "Gusteau", "Skinner", "Colette"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_m_0057",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of the food critic in Ratatouille?",
+    "options": ["Anton Ego", "Auguste Gusteau", "Alfredo Linguini", "Chef Skinner"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_m_0058",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of Buzz Lightyear's nemesis?",
+    "options": ["Emperor Zurg", "Lotso", "Sid", "Stinky Pete"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_m_0059",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of the teddy bear villain in Toy Story 3?",
+    "options": ["Lotso", "Teddy", "Hugsy", "Cuddles"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_m_0060",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of the whale in Finding Nemo?",
+    "options": ["Willy", "Monstro", "Bailey", "The whale has no name"],
+    "answerIndex": 3
+  },
+  {
+    "id": "disney_m_0061",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the address where Nemo is taken in Finding Nemo?",
+    "options": ["42 Wallaby Way, Sydney", "42 Wallaby Road, Sydney", "44 Wallaby Way, Sydney", "40 Wallaby Way, Sydney"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_m_0062",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of Prince Eric's dog in The Little Mermaid?",
+    "options": ["Max", "Rex", "Duke", "Bruno"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_m_0063",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of the kingdom in Brave?",
+    "options": ["Arendelle", "Corona", "DunBroch", "Agrabah"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_m_0064",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "How many years was the Genie trapped in the lamp?",
+    "options": ["1,000 years", "5,000 years", "10,000 years", "100,000 years"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_m_0065",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of the planet in WALL-E?",
+    "options": ["Mars", "Jupiter", "Earth", "Venus"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_m_0066",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What does WALL-E stand for?",
+    "options": ["Waste Allocator Load Lifter - Earth class", "Waste Alien Load Lifter - Earth class", "World Allocator Load Lifter - Earth class", "Work Allocator Load Lifter - Earth class"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_m_0067",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of the boy who owns Woody before Andy?",
+    "options": ["There was no previous owner", "Sid", "Bonnie", "Al"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_m_0068",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of the superhero family's last name in The Incredibles?",
+    "options": ["Powers", "Super", "Parr", "Strong"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_m_0069",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is Mr. Incredible's real name?",
+    "options": ["Bob Parr", "Robert Parr", "Brad Parr", "Bill Parr"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_m_0070",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is Elastigirl's real name?",
+    "options": ["Helen Parr", "Holly Parr", "Hannah Parr", "Hazel Parr"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_m_0071",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of the villain in The Incredibles?",
+    "options": ["Syndrome", "Screenslaver", "Bomb Voyage", "The Underminer"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_m_0072",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is Syndrome's real name?",
+    "options": ["Buddy Pine", "Billy Pine", "Bobby Pine", "Barry Pine"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_m_0073",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "How many brothers does Prince Hans have?",
+    "options": ["10", "11", "12", "13"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_m_0074",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of the village where Belle lives?",
+    "options": ["The village has no name", "Paris", "Villeneuve", "Beaumont"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_m_0075",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of the enchantress who cursed the Beast?",
+    "options": ["Maleficent", "Agathe", "The film doesn't name her", "Morgana"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_m_0076",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What type of flower is important in Beauty and the Beast?",
+    "options": ["Lily", "Rose", "Tulip", "Daisy"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_m_0077",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of the toy collector in Toy Story 2?",
+    "options": ["Al McWhiggin", "Andy", "Sid", "Bonnie"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_m_0078",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of the prospector doll in Toy Story 2?",
+    "options": ["Stinky Pete", "Woody's Roundup Pete", "Gold Rush Pete", "Old Pete"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_m_0079",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "How many sisters does Ariel have?",
+    "options": ["4", "5", "6", "7"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_m_0080",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of the city in Big Hero 6?",
+    "options": ["Tokyo", "San Francisco", "San Fransokyo", "New Tokyo"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_m_0081",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of the healthcare robot in Big Hero 6?",
+    "options": ["Hiro", "Tadashi", "Baymax", "Fred"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_m_0082",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of the main character in Big Hero 6?",
+    "options": ["Hiro", "Tadashi", "Baymax", "Fred"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_m_0083",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of the island where Moana lives?",
+    "options": ["Motunui", "Maui", "Tahiti", "Hawaii"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_m_0084",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of the villain crab in Moana?",
+    "options": ["Sebastian", "Tamatoa", "Crush", "Bruce"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_m_0085",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of Princess Jasmine's tiger?",
+    "options": ["Raja", "Rajah", "Shere Khan", "Tiger"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_m_0086",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of the Sultan's adviser in Aladdin?",
+    "options": ["Jafar", "Jago", "Razoul", "Cassim"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_m_0087",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "How many sons does Triton have?",
+    "options": ["None", "1", "2", "7"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_m_0088",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of John Smith's friend in Pocahontas?",
+    "options": ["Thomas", "Ben", "Lon", "Percy"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_m_0089",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of the villain in Pocahontas?",
+    "options": ["John Smith", "Governor Ratcliffe", "Thomas", "Kocoum"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_m_0090",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of Miguel's idol in Coco?",
+    "options": ["Ernesto de la Cruz", "Hector", "Imelda", "Julio"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_m_0091",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of Miguel's spirit guide in Coco?",
+    "options": ["Pepita", "Dante", "Hector", "Ernesto"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_m_0092",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What instrument does Miguel play in Coco?",
+    "options": ["Piano", "Violin", "Guitar", "Trumpet"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_m_0093",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of Wreck-It Ralph's game?",
+    "options": ["Fix-It Felix Jr.", "Hero's Duty", "Sugar Rush", "Wreck-It Ralph"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_m_0094",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of the girl racer in Wreck-It Ralph?",
+    "options": ["Taffyta", "Vanellope", "Candlehead", "Rancis"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_m_0095",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is Vanellope's last name in Wreck-It Ralph?",
+    "options": ["von Sweet", "von Schweetz", "von Candy", "von Sugar"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_m_0096",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of the white robot in WALL-E?",
+    "options": ["EVE", "WALL-E", "M-O", "AUTO"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_m_0097",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is the name of the spaceship in WALL-E?",
+    "options": ["Axiom", "Enterprise", "Discovery", "Serenity"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_m_0098",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What emotion is missing from Riley's mind at the start of Inside Out?",
+    "options": ["None, all emotions are present", "Anger", "Fear", "Disgust"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_m_0099",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What city does Riley move to in Inside Out?",
+    "options": ["Los Angeles", "San Diego", "San Francisco", "Portland"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_m_0100",
+    "category": "disney",
+    "difficulty": "medium",
+    "question": "What is Riley's imaginary friend's name in Inside Out?",
+    "options": ["Jangles", "Bing Bong", "Rainbow Unicorn", "Mr. Stuffins"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_h_0001",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "In what year was Mickey Mouse created?",
+    "options": ["1927", "1928", "1929", "1930"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_h_0002",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What was the first feature-length animated Disney film?",
+    "options": ["Pinocchio", "Snow White and the Seven Dwarfs", "Fantasia", "Dumbo"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_h_0003",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What are the names of the seven dwarfs?",
+    "options": ["Doc, Grumpy, Happy, Sleepy, Bashful, Sneezy, Dopey", "Doc, Grumpy, Happy, Sleepy, Bashful, Sneezy, Dumpy", "Doc, Grumpy, Jolly, Sleepy, Bashful, Sneezy, Dopey", "Doc, Grouchy, Happy, Sleepy, Bashful, Sneezy, Dopey"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_h_0004",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What year was the original Toy Story released?",
+    "options": ["1994", "1995", "1996", "1997"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_h_0005",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What was the first Pixar film?",
+    "options": ["A Bug's Life", "Toy Story", "Finding Nemo", "Monsters, Inc."],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_h_0006",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "How many fingers does a typical Disney character have?",
+    "options": ["3", "4", "5", "It varies"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_h_0007",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What was Walt Disney's middle name?",
+    "options": ["Elias", "Edward", "Ernest", "Eugene"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_h_0008",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What is the name of Sleeping Beauty's prince?",
+    "options": ["Prince Charming", "Prince Philip", "Prince Eric", "Prince Florian"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_h_0009",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What year did Disney World open?",
+    "options": ["1969", "1970", "1971", "1972"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_h_0010",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What was the first Disney animated film to be nominated for Best Picture?",
+    "options": ["The Lion King", "Beauty and the Beast", "Up", "Toy Story 3"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_h_0011",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What is the name of Wendy's dog in Peter Pan?",
+    "options": ["Nana", "Lady", "Perdita", "Duchess"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_h_0012",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What is Aurora's alias in Sleeping Beauty?",
+    "options": ["Rose", "Briar Rose", "Sweet Rose", "Princess Rose"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_h_0013",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "How many years was Aurora cursed to sleep?",
+    "options": ["50 years", "100 years", "Forever until true love's kiss", "1000 years"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_h_0014",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What is the Beast's real name in Beauty and the Beast?",
+    "options": ["Adam", "The film never reveals it", "Philip", "Charles"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_h_0015",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What year was Frozen released?",
+    "options": ["2012", "2013", "2014", "2015"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_h_0016",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What is the name of Andy's mom in Toy Story?",
+    "options": ["Mrs. Davis", "The film never reveals it", "Emily", "Jennifer"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_h_0017",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "How many balloons were tied to the house in Up?",
+    "options": ["10,000", "20,297", "50,000", "100,000"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_h_0018",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What was Pixar's first short film?",
+    "options": ["Luxo Jr.", "Tin Toy", "Knick Knack", "Geri's Game"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_h_0019",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What was the last film Walt Disney worked on before his death?",
+    "options": ["The Jungle Book", "Mary Poppins", "The Aristocats", "101 Dalmatians"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_h_0020",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "How many hairs are on Rapunzel's head in Tangled?",
+    "options": ["70,000", "100,000", "150,000", "200,000"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_h_0021",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What year did Disneyland open?",
+    "options": ["1954", "1955", "1956", "1957"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_h_0022",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What was the working title for Toy Story?",
+    "options": ["You Are a Toy", "Toy Story", "Made in Taiwan", "Space Toy"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_h_0023",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "How long is Rapunzel's hair in Tangled?",
+    "options": ["50 feet", "60 feet", "70 feet", "80 feet"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_h_0024",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What was Mickey Mouse originally going to be named?",
+    "options": ["Marty Mouse", "Mortimer Mouse", "Matthew Mouse", "Martin Mouse"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_h_0025",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What is the name of the toy store in Toy Story 2?",
+    "options": ["Al's Toy Barn", "Andy's Toys", "Toy Palace", "Toy Kingdom"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_h_0026",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What is the name of the daycare in Toy Story 3?",
+    "options": ["Sunny Side", "Sunnyside", "Bright Side", "Happy Days"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_h_0027",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "How many emotions are in Riley's head in Inside Out?",
+    "options": ["4", "5", "6", "7"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_h_0028",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What is the name of the original owner of Woody's Roundup merchandise in Toy Story 2?",
+    "options": ["Al", "Andy", "Emily", "Molly"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_h_0029",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What year was Finding Nemo released?",
+    "options": ["2001", "2002", "2003", "2004"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_h_0030",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "How many species of fish are represented in Finding Nemo?",
+    "options": ["Over 100", "Over 200", "Over 300", "Over 400"],
+    "answerIndex": 3
+  },
+  {
+    "id": "disney_h_0031",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What is the name of the Italian restaurant where Lady and the Tramp share spaghetti?",
+    "options": ["Tony's", "Luigi's", "Mario's", "Giuseppe's"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_h_0032",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What was Disney's first animated talking film?",
+    "options": ["Snow White", "Steamboat Willie", "Fantasia", "Pinocchio"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_h_0033",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "How many spots does Pongo have in 101 Dalmatians?",
+    "options": ["72", "85", "99", "101"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_h_0034",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What year was The Lion King released?",
+    "options": ["1993", "1994", "1995", "1996"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_h_0035",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What is the name of the young chef's father in Ratatouille?",
+    "options": ["Auguste", "Alfredo", "The film doesn't reveal his first name", "Antoine"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_h_0036",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "How many fingers does a typical Disney character have on each hand?",
+    "options": ["3", "4", "5", "Varies"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_h_0037",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What was the first Disney film to use CGI?",
+    "options": ["The Black Cauldron", "The Great Mouse Detective", "Beauty and the Beast", "Aladdin"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_h_0038",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What is the name of Boo's real name in Monsters, Inc.?",
+    "options": ["Mary", "Madison", "Molly", "It's never revealed"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_h_0039",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What are the three mountains in Disneyland?",
+    "options": ["Space, Thunder, Splash", "Space, Big Thunder, Matterhorn", "Space, Thunder, Snow", "Thunder, Splash, Matterhorn"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_h_0040",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What year was Moana released?",
+    "options": ["2015", "2016", "2017", "2018"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_h_0041",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What is Mulan's horse's name?",
+    "options": ["Khan", "Mushu", "Li Shang", "Cri-Kee"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_h_0042",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What is the name of the dentist in Finding Nemo?",
+    "options": ["Dr. Philip Sherman", "Dr. Peter Sherman", "Dr. Paul Sherman", "Dr. Patrick Sherman"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_h_0043",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What year was Aladdin released?",
+    "options": ["1990", "1991", "1992", "1993"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_h_0044",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What year was Beauty and the Beast released?",
+    "options": ["1989", "1990", "1991", "1992"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_h_0045",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What year was The Little Mermaid released?",
+    "options": ["1987", "1988", "1989", "1990"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_h_0046",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "How old is Ariel in The Little Mermaid?",
+    "options": ["14", "15", "16", "17"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_h_0047",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "How old is Elsa when she becomes Queen?",
+    "options": ["18", "19", "20", "21"],
+    "answerIndex": 3
+  },
+  {
+    "id": "disney_h_0048",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What year was Brave released?",
+    "options": ["2010", "2011", "2012", "2013"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_h_0049",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What year was Tangled released?",
+    "options": ["2008", "2009", "2010", "2011"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_h_0050",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What is the name of the toy store owner in Toy Story 2?",
+    "options": ["Al McWhiggin", "Andy", "Sid Phillips", "Mr. Potato Head"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_h_0051",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What are the names of Hades' two henchmen in Hercules?",
+    "options": ["Pain and Panic", "Fear and Panic", "Pain and Fear", "Shock and Panic"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_h_0052",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What is the name of Clayton's main goal in Tarzan?",
+    "options": ["To capture Tarzan", "To capture gorillas", "To find treasure", "To colonize the jungle"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_h_0053",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What year was Hercules released?",
+    "options": ["1995", "1996", "1997", "1998"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_h_0054",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What year was Mulan released?",
+    "options": ["1996", "1997", "1998", "1999"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_h_0055",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What year was Pocahontas released?",
+    "options": ["1993", "1994", "1995", "1996"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_h_0056",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What is the name of Pocahontas's father?",
+    "options": ["Chief Powhatan", "Chief Hiawatha", "Chief Seattle", "Chief Sitting Bull"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_h_0057",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What year was The Hunchback of Notre Dame released?",
+    "options": ["1994", "1995", "1996", "1997"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_h_0058",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What is Quasimodo's occupation in The Hunchback of Notre Dame?",
+    "options": ["Bell ringer", "Guard", "Servant", "Cook"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_h_0059",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What are the names of the three gargoyles in The Hunchback of Notre Dame?",
+    "options": ["Hugo, Victor, and Laverne", "Hugo, Victor, and Louise", "Harry, Victor, and Laverne", "Hugo, Vincent, and Laverne"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_h_0060",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What year was The Princess and the Frog released?",
+    "options": ["2007", "2008", "2009", "2010"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_h_0061",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What city is The Princess and the Frog set in?",
+    "options": ["Miami", "New Orleans", "Atlanta", "Charleston"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_h_0062",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What year was Wreck-It Ralph released?",
+    "options": ["2010", "2011", "2012", "2013"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_h_0063",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What year was Big Hero 6 released?",
+    "options": ["2012", "2013", "2014", "2015"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_h_0064",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What year was Zootopia released?",
+    "options": ["2014", "2015", "2016", "2017"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_h_0065",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What is the name of the mayor in Zootopia?",
+    "options": ["Mayor Lionheart", "Mayor Bellwether", "Mayor Clawhauser", "Mayor Bogo"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_h_0066",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What year was Coco released?",
+    "options": ["2015", "2016", "2017", "2018"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_h_0067",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What is Miguel's last name in Coco?",
+    "options": ["Rivera", "Garcia", "Rodriguez", "Martinez"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_h_0068",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What year was Inside Out released?",
+    "options": ["2013", "2014", "2015", "2016"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_h_0069",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What are the five emotions in Inside Out?",
+    "options": ["Joy, Sadness, Anger, Fear, Disgust", "Joy, Sadness, Anger, Fear, Surprise", "Joy, Sadness, Rage, Fear, Disgust", "Happiness, Sadness, Anger, Fear, Disgust"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_h_0070",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What year was The Good Dinosaur released?",
+    "options": ["2013", "2014", "2015", "2016"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_h_0071",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What is the name of the dinosaur in The Good Dinosaur?",
+    "options": ["Spot", "Arlo", "Nash", "Ramsey"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_h_0072",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What is the name of the human boy in The Good Dinosaur?",
+    "options": ["Spot", "Arlo", "Buck", "Sam"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_h_0073",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What year was Ratatouille released?",
+    "options": ["2005", "2006", "2007", "2008"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_h_0074",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What year was WALL-E released?",
+    "options": ["2006", "2007", "2008", "2009"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_h_0075",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What year was Up released?",
+    "options": ["2007", "2008", "2009", "2010"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_h_0076",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What is Carl's age in Up?",
+    "options": ["75", "76", "77", "78"],
+    "answerIndex": 3
+  },
+  {
+    "id": "disney_h_0077",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What year was Cars released?",
+    "options": ["2004", "2005", "2006", "2007"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_h_0078",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What is Lightning McQueen's racing number?",
+    "options": ["86", "95", "51", "43"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_h_0079",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What year was Monsters, Inc. released?",
+    "options": ["1999", "2000", "2001", "2002"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_h_0080",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What year was A Bug's Life released?",
+    "options": ["1996", "1997", "1998", "1999"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_h_0081",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What is the name of the ant colony's princess in A Bug's Life?",
+    "options": ["Atta", "Dot", "The Queen", "Gypsy"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_h_0082",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What is the name of the main ant in A Bug's Life?",
+    "options": ["Flik", "Hopper", "Atta", "Dot"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_h_0083",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What year was The Incredibles released?",
+    "options": ["2002", "2003", "2004", "2005"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_h_0084",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What is the name of the babysitter in The Incredibles?",
+    "options": ["Kari", "Violet", "Honey", "Edna"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_h_0085",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What year was Toy Story 2 released?",
+    "options": ["1997", "1998", "1999", "2000"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_h_0086",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What year was Toy Story 3 released?",
+    "options": ["2008", "2009", "2010", "2011"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_h_0087",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What is the name of the girl who gets the toys at the end of Toy Story 3?",
+    "options": ["Molly", "Bonnie", "Emily", "Andy"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_h_0088",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What year was Finding Dory released?",
+    "options": ["2014", "2015", "2016", "2017"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_h_0089",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What type of fish is Dory?",
+    "options": ["Clownfish", "Blue Tang", "Royal Blue Tang", "Regal Blue Tang"],
+    "answerIndex": 3
+  },
+  {
+    "id": "disney_h_0090",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What year was Cars 2 released?",
+    "options": ["2009", "2010", "2011", "2012"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_h_0091",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What year was Cars 3 released?",
+    "options": ["2015", "2016", "2017", "2018"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_h_0092",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What year was Monsters University released?",
+    "options": ["2011", "2012", "2013", "2014"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_h_0093",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What year was Brave released?",
+    "options": ["2010", "2011", "2012", "2013"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_h_0094",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "How many brothers does Merida have?",
+    "options": ["2", "3", "4", "5"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_h_0095",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What are the names of Merida's three brothers?",
+    "options": ["Harris, Hubert, and Hamish", "Harry, Howard, and Henry", "Hugh, Harold, and Hamish", "Harris, Hugh, and Hamish"],
+    "answerIndex": 0
+  },
+  {
+    "id": "disney_h_0096",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What year was The Incredibles 2 released?",
+    "options": ["2016", "2017", "2018", "2019"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_h_0097",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What is Jack-Jack's first demonstrated superpower in The Incredibles?",
+    "options": ["Laser eyes", "Catching on fire", "Teleportation", "Shape-shifting"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_h_0098",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What year was Toy Story 4 released?",
+    "options": ["2017", "2018", "2019", "2020"],
+    "answerIndex": 2
+  },
+  {
+    "id": "disney_h_0099",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What is the name of the spork toy in Toy Story 4?",
+    "options": ["Sporky", "Forky", "Spork", "Fork"],
+    "answerIndex": 1
+  },
+  {
+    "id": "disney_h_0100",
+    "category": "disney",
+    "difficulty": "hard",
+    "question": "What year was Frozen 2 released?",
+    "options": ["2017", "2018", "2019", "2020"],
+    "answerIndex": 2
+  }
+]

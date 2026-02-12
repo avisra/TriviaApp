@@ -1,0 +1,2402 @@
+[
+  {
+    "id": "minecraft_e_0001",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What is the main character in Minecraft called?",
+    "options": ["Alex", "Steve", "Herobrine", "Player"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0002",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What tool do you use to mine stone?",
+    "options": ["Shovel", "Pickaxe", "Axe", "Sword"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0003",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What tool chops wood fastest?",
+    "options": ["Pickaxe", "Sword", "Axe", "Hand"],
+    "answerIndex": 2
+  },
+  {
+    "id": "minecraft_e_0004",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What do you use to dig dirt fast?",
+    "options": ["Pickaxe", "Shovel", "Axe", "Hoe"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0005",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What is the green explosive monster?",
+    "options": ["Zombie", "Creeper", "Skeleton", "Enderman"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0006",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What sound does a Creeper make?",
+    "options": ["Growl", "Hiss", "Moan", "Nothing"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0007",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What do Zombies drop?",
+    "options": ["Bones", "Rotten flesh", "Coal", "Iron"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0008",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What do Skeletons shoot?",
+    "options": ["Bullets", "Arrows", "Fireballs", "Nothing"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0009",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What mob teleports?",
+    "options": ["Creeper", "Zombie", "Enderman", "Spider"],
+    "answerIndex": 2
+  },
+  {
+    "id": "minecraft_e_0010",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What can Endermen pick up?",
+    "options": ["Players", "Blocks", "Items", "Nothing"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0011",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What dimension do Endermen come from?",
+    "options": ["Overworld", "Nether", "End", "All dimensions"],
+    "answerIndex": 2
+  },
+  {
+    "id": "minecraft_e_0012",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What color are Zombies?",
+    "options": ["Green", "Gray", "Brown", "Blue"],
+    "answerIndex": 0
+  },
+  {
+    "id": "minecraft_e_0013",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What do cows drop?",
+    "options": ["Wool", "Leather and beef", "Feathers", "Pork"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0014",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What do chickens drop?",
+    "options": ["Feathers and chicken", "Eggs only", "Nothing", "Wool"],
+    "answerIndex": 0
+  },
+  {
+    "id": "minecraft_e_0015",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What do sheep drop?",
+    "options": ["Leather", "Wool", "Feathers", "Beef"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0016",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What do pigs drop?",
+    "options": ["Beef", "Porkchop", "Bacon", "Ham"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0017",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What food can you make from wheat?",
+    "options": ["Cookies", "Bread", "Cake", "All of these"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0018",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What do you need to make a crafting table?",
+    "options": ["Stone", "Wood planks", "Iron", "Coal"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0019",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "How many wood planks does one log make?",
+    "options": ["2", "4", "6", "8"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0020",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What is the second strongest ore?",
+    "options": ["Iron", "Gold", "Diamond", "Netherite"],
+    "answerIndex": 2
+  },
+  {
+    "id": "minecraft_e_0021",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What is the strongest material?",
+    "options": ["Diamond", "Netherite", "Iron", "Gold"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0022",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What burns in a furnace?",
+    "options": ["Water", "Coal", "Stone", "Dirt"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0023",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What happens when you mine coal ore?",
+    "options": ["Get ore", "Get coal", "Get charcoal", "Nothing"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0024",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What do you get from smelting iron ore?",
+    "options": ["Iron ore", "Iron ingot", "Iron block", "Iron nugget"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0025",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What block is made from 9 diamonds?",
+    "options": ["Diamond ore", "Diamond", "Diamond block", "Nothing"],
+    "answerIndex": 2
+  },
+  {
+    "id": "minecraft_e_0026",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What do you need to go to the Nether?",
+    "options": ["Diamond", "Nether portal", "End portal", "Command"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0027",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What makes a Nether portal?",
+    "options": ["Stone", "Obsidian", "Netherrack", "Bedrock"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0028",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What lights a Nether portal?",
+    "options": ["Torch", "Flint and steel", "Lava", "Redstone"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0029",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What color is the Nether?",
+    "options": ["Green", "Red", "Blue", "Gray"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0030",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What mob shoots fireballs?",
+    "options": ["Creeper", "Ghast", "Blaze", "Both B and C"],
+    "answerIndex": 3
+  },
+  {
+    "id": "minecraft_e_0031",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What is a Ghast?",
+    "options": ["Flying white mob", "Zombie", "Creeper", "Skeleton"],
+    "answerIndex": 0
+  },
+  {
+    "id": "minecraft_e_0032",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What dimension has the Ender Dragon?",
+    "options": ["Overworld", "Nether", "End", "Sky"],
+    "answerIndex": 2
+  },
+  {
+    "id": "minecraft_e_0033",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What is the final boss?",
+    "options": ["Wither", "Ender Dragon", "Herobrine", "Giant"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0034",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What color is the End?",
+    "options": ["Red", "Black and purple", "White", "Green"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0035",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What block is everywhere in the End?",
+    "options": ["Stone", "End stone", "Obsidian", "Bedrock"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0036",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What do beds do in the Nether or End?",
+    "options": ["Sleep", "Explode", "Nothing", "Save spawn"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0037",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What can you tame with bones?",
+    "options": ["Cat", "Wolf", "Horse", "Parrot"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0038",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What can you tame with fish?",
+    "options": ["Wolf", "Cat", "Dolphin", "Turtle"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0039",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What do you use to ride a horse?",
+    "options": ["Saddle", "Reins", "Rope", "Carrot"],
+    "answerIndex": 0
+  },
+  {
+    "id": "minecraft_e_0040",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What do you use to control a pig?",
+    "options": ["Saddle", "Carrot on a stick", "Both", "Nothing"],
+    "answerIndex": 2
+  },
+  {
+    "id": "minecraft_e_0041",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What happens at night?",
+    "options": ["Nothing", "Monsters spawn", "It gets cold", "It rains"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0042",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What do torches do?",
+    "options": ["Burn things", "Provide light", "Nothing special", "Smell good"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0043",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What light level stops mobs from spawning?",
+    "options": ["Any light", "Light level 8+", "Torches only", "Full light"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0044",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What do you make with wood and coal?",
+    "options": ["Fire", "Torch", "Furnace", "Charcoal"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0045",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What biome has lots of trees?",
+    "options": ["Desert", "Forest", "Ocean", "Plains"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0046",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What biome has no trees?",
+    "options": ["Forest", "Jungle", "Desert", "Taiga"],
+    "answerIndex": 2
+  },
+  {
+    "id": "minecraft_e_0047",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What biome is all water?",
+    "options": ["River", "Ocean", "Swamp", "Beach"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0048",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What biome is cold and snowy?",
+    "options": ["Plains", "Tundra", "Ice plains", "Both B and C"],
+    "answerIndex": 3
+  },
+  {
+    "id": "minecraft_e_0049",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What block can you sleep in?",
+    "options": ["Bed", "Chair", "Couch", "Hammock"],
+    "answerIndex": 0
+  },
+  {
+    "id": "minecraft_e_0050",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What do you need to make a bed?",
+    "options": ["Wool and wood", "Feathers", "Leather", "Cotton"],
+    "answerIndex": 0
+  },
+  {
+    "id": "minecraft_e_0051",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "Can you swim in lava?",
+    "options": ["Yes safely", "Yes but you burn", "No, you die", "Only with armor"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0052",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What do you make buckets from?",
+    "options": ["Wood", "Stone", "Iron", "Diamond"],
+    "answerIndex": 2
+  },
+  {
+    "id": "minecraft_e_0053",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What can buckets hold?",
+    "options": ["Water", "Lava", "Milk", "All of these"],
+    "answerIndex": 3
+  },
+  {
+    "id": "minecraft_e_0054",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What happens when water touches lava?",
+    "options": ["Explosion", "Makes obsidian or cobblestone", "Steam", "Nothing"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0055",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What is TNT?",
+    "options": ["Block", "Explosive", "Trap", "Decoration"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0056",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "How do you activate TNT?",
+    "options": ["Hit it", "Fire or redstone", "Break it", "Water"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0057",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What is redstone?",
+    "options": ["Ore", "Wiring for circuits", "Decoration", "Fuel"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0058",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What do you find in villages?",
+    "options": ["Villagers", "Houses", "Farms", "All of these"],
+    "answerIndex": 3
+  },
+  {
+    "id": "minecraft_e_0059",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What do villagers say?",
+    "options": ["English", "Hmmm sounds", "Nothing", "Gibberish"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0060",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "Can you trade with villagers?",
+    "options": ["Yes", "No", "Sometimes", "Only adults"],
+    "answerIndex": 0
+  },
+  {
+    "id": "minecraft_e_0061",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What currency do villagers use?",
+    "options": ["Diamonds", "Emeralds", "Gold", "Iron"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0062",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What attacks villages?",
+    "options": ["Zombies", "Pillagers", "Creepers", "Skeletons"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0063",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What protects villages?",
+    "options": ["Walls", "Iron Golems", "Guards", "Nothing"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0064",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What are Iron Golems made of?",
+    "options": ["Stone", "Iron blocks", "Metal", "Steel"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0065",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What is the unbreakable block?",
+    "options": ["Obsidian", "Bedrock", "Diamond block", "Iron"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0066",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "Where is bedrock found?",
+    "options": ["Everywhere", "Bottom of world", "Nether ceiling", "Both B and C"],
+    "answerIndex": 3
+  },
+  {
+    "id": "minecraft_e_0067",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What do spiders climb?",
+    "options": ["Nothing", "Walls", "Trees", "Everything"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0068",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "When are spiders neutral?",
+    "options": ["Never", "During day", "Always", "At night"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0069",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What do you make glass from?",
+    "options": ["Sand", "Stone", "Water", "Crystal"],
+    "answerIndex": 0
+  },
+  {
+    "id": "minecraft_e_0070",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What happens when a zombie bites a villager?",
+    "options": ["Villager dies", "Becomes zombie villager", "Nothing", "Villager runs"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0071",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "Can you cure zombie villagers?",
+    "options": ["No", "Yes", "Sometimes", "Only in creative"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0072",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What do you fish with?",
+    "options": ["Hands", "Fishing rod", "Net", "Spear"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0073",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What can you catch fishing?",
+    "options": ["Fish", "Treasure", "Junk", "All of these"],
+    "answerIndex": 3
+  },
+  {
+    "id": "minecraft_e_0074",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What do you make with stick and string?",
+    "options": ["Bow", "Fishing rod", "Both", "Net"],
+    "answerIndex": 2
+  },
+  {
+    "id": "minecraft_e_0075",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What do you shoot with a bow?",
+    "options": ["Bullets", "Arrows", "Fire", "Nothing"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0076",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "Where do you find diamonds?",
+    "options": ["Surface", "Deep underground", "Nether", "End"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0077",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What level are diamonds most common?",
+    "options": ["Y=64", "Y=16 and below", "Y=0", "Any level"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0078",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "Can you mine diamonds with a stone pickaxe?",
+    "options": ["Yes", "No, need iron or better", "Sometimes", "Only in creative"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0079",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What do skeletons drop?",
+    "options": ["Rotten flesh", "Bones and arrows", "Swords", "Armor"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0080",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What are bones used for?",
+    "options": ["Weapons", "Bonemeal for farming", "Building", "Fuel"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0081",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What makes crops grow faster?",
+    "options": ["Water", "Light", "Bonemeal", "All of these"],
+    "answerIndex": 3
+  },
+  {
+    "id": "minecraft_e_0082",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What is a slime?",
+    "options": ["Green bouncing mob", "Goo", "Monster", "Block"],
+    "answerIndex": 0
+  },
+  {
+    "id": "minecraft_e_0083",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What do slimes drop?",
+    "options": ["Nothing", "Slimeballs", "Goo", "Jelly"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0084",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What can you make with slimeballs?",
+    "options": ["Nothing", "Sticky pistons", "Food", "Armor"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0085",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What do you make armor from?",
+    "options": ["Wood", "Leather, iron, gold, diamond", "Stone", "Dirt"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0086",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What pieces of armor are there?",
+    "options": ["2 pieces", "3 pieces", "4 pieces", "5 pieces"],
+    "answerIndex": 2
+  },
+  {
+    "id": "minecraft_e_0087",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What are the armor pieces?",
+    "options": ["Helmet, chestplate, leggings, boots", "Hat and shirt", "Just chestplate", "Robe"],
+    "answerIndex": 0
+  },
+  {
+    "id": "minecraft_e_0088",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What food restores the most hunger?",
+    "options": ["Bread", "Cooked steak", "Apple", "Cookie"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0089",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What happens if your hunger is empty?",
+    "options": ["Nothing", "You starve and lose health", "Walk slower", "Can't jump"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0090",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "Can you eat raw meat?",
+    "options": ["Yes", "No", "Only some", "Not safely"],
+    "answerIndex": 0
+  },
+  {
+    "id": "minecraft_e_0091",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "Is cooked meat better than raw?",
+    "options": ["No", "Yes, restores more hunger", "Same", "Depends"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0092",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What do you cook meat in?",
+    "options": ["Crafting table", "Furnace", "Campfire", "Both B and C"],
+    "answerIndex": 3
+  },
+  {
+    "id": "minecraft_e_0093",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What hides in the ground and attacks?",
+    "options": ["Zombie", "Silverfish", "Endermite", "Mite"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0094",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What have three heads?",
+    "options": ["Ender Dragon", "Wither", "Ghast", "Boss mob"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0095",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "Is the Wither a boss?",
+    "options": ["No", "Yes", "Mini-boss", "Not really"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0096",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "Can you summon the Wither?",
+    "options": ["No", "Yes", "Only creative", "Spawns naturally"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0097",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What can you ride in water?",
+    "options": ["Horse", "Boat", "Dolphin", "Turtle"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0098",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What is the aquatic hostile mob?",
+    "options": ["Fish", "Drowned", "Dolphin", "Squid"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0099",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What is a Drowned?",
+    "options": ["Dead player", "Zombie underwater", "Fish", "Ghost"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_e_0100",
+    "category": "minecraft",
+    "difficulty": "easy",
+    "question": "What do parrots do?",
+    "options": ["Attack", "Dance to music", "Nothing", "Fly away"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0001",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What is the X, Y, Z coordinate system?",
+    "options": ["Random", "Position in world", "Score", "Health"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0002",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What does Y coordinate represent?",
+    "options": ["East-West", "Height", "North-South", "Distance"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0003",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What is the bedrock level?",
+    "options": ["Y=0", "Y=-64 (updated)", "Y=1", "Y=-1"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0004",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What is the height limit?",
+    "options": ["Y=128", "Y=256", "Y=320 (updated)", "Y=512"],
+    "answerIndex": 2
+  },
+  {
+    "id": "minecraft_m_0005",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What is the standard sea level?",
+    "options": ["Y=62", "Y=63", "Y=64", "Y=65"],
+    "answerIndex": 2
+  },
+  {
+    "id": "minecraft_m_0006",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "How do you make an enchantment table?",
+    "options": ["Diamonds", "Book, diamonds, obsidian", "Magic", "Can't craft it"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0007",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What do you need to enchant?",
+    "options": ["Lapis lazuli", "Diamonds", "Gold", "Emeralds"],
+    "answerIndex": 0
+  },
+  {
+    "id": "minecraft_m_0008",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What increases enchantment levels?",
+    "options": ["Nothing", "Bookshelves around table", "Levels", "Experience"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0009",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "How many bookshelves for max enchantment?",
+    "options": ["10", "15", "20", "30"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0010",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What is the max enchantment level?",
+    "options": ["20", "30", "40", "50"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0011",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What does Fortune do?",
+    "options": ["More XP", "More drops from blocks", "Better loot", "Luck"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0012",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What does Silk Touch do?",
+    "options": ["Smooth blocks", "Mine block itself", "Soft mining", "Nothing special"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0013",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "Can you have Fortune and Silk Touch together?",
+    "options": ["Yes", "No, mutually exclusive", "Sometimes", "In creative"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0014",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What does Unbreaking do?",
+    "options": ["Unbreakable", "Lasts longer", "Repairs itself", "Never breaks"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0015",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What does Mending do?",
+    "options": ["Never breaks", "Repairs with XP", "Auto-repair", "Fixes durability"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0016",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "Can you get Mending from enchanting table?",
+    "options": ["Yes", "No, only from treasure", "Sometimes", "At high levels"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0017",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What does Sharpness do?",
+    "options": ["Makes sword sharp", "Increases damage", "Looks cool", "Cuts grass"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0018",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What does Protection do?",
+    "options": ["Blocks attacks", "Reduces damage", "Immunity", "Shield"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0019",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What does Efficiency do?",
+    "options": ["Uses less durability", "Mines faster", "Better drops", "More XP"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0020",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What does Feather Falling do?",
+    "options": ["Fly", "Reduces fall damage", "Float", "Jump higher"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0021",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What does Respiration do?",
+    "options": ["Swim faster", "Breathe underwater longer", "No drowning", "Water vision"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0022",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What does Aqua Affinity do?",
+    "options": ["Swim faster", "Mine normally underwater", "Breathe water", "See underwater"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0023",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What does Depth Strider do?",
+    "options": ["Swim faster", "Walk faster in water", "Dive deeper", "See better"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0024",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What does Frost Walker do?",
+    "options": ["Walk on ice", "Freeze water under feet", "Cold resistance", "Ice powers"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0025",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "Can you have Depth Strider and Frost Walker?",
+    "options": ["Yes", "No, mutually exclusive", "Sometimes", "Only one level"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0026",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What does Flame do on a bow?",
+    "options": ["Fire damage", "Sets arrows on fire", "Burns enemies", "All of these"],
+    "answerIndex": 3
+  },
+  {
+    "id": "minecraft_m_0027",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What does Infinity do?",
+    "options": ["Unlimited arrows", "No durability loss", "Forever enchant", "Max power"],
+    "answerIndex": 0
+  },
+  {
+    "id": "minecraft_m_0028",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "Can you have Infinity and Mending together?",
+    "options": ["Yes", "No", "Sometimes", "In creative"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0029",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What does Power do on a bow?",
+    "options": ["More arrows", "Increases arrow damage", "Shoots farther", "Faster"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0030",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What does Punch do on a bow?",
+    "options": ["More damage", "Knockback", "Penetration", "Multiple arrows"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0031",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What does Looting do?",
+    "options": ["Find treasure", "More mob drops", "Better loot", "XP boost"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0032",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What does Fire Aspect do?",
+    "options": ["Immune to fire", "Sets mobs on fire", "Fire damage", "Burns blocks"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0033",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What does Knockback do?",
+    "options": ["More damage", "Pushes enemies back", "Stun", "Knock down"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0034",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What does Thorns do?",
+    "options": ["Spiky armor", "Damages attackers", "Reflects damage", "Protection"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0035",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What does Soul Speed do?",
+    "options": ["Run faster", "Walk faster on soul sand/soil", "Ghost speed", "Nothing"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0036",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "Where do you find Netherite?",
+    "options": ["Overworld", "Nether", "End", "Everywhere"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0037",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What do you mine for Netherite?",
+    "options": ["Netherite ore", "Ancient Debris", "Netherrack", "Soul sand"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0038",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "How do you make Netherite ingots?",
+    "options": ["Smelt debris", "Debris + gold", "Just find them", "Craft from scraps"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0039",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "How do you make Netherite tools?",
+    "options": ["Craft from scratch", "Upgrade diamond tools", "Find them", "Smelt"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0040",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What do you use to upgrade to Netherite?",
+    "options": ["Crafting table", "Smithing table", "Anvil", "Furnace"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0041",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "Does Netherite burn in lava?",
+    "options": ["Yes", "No", "Sometimes", "Only tools"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0042",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What beacon power is speed?",
+    "options": ["Speed", "Haste", "Swiftness", "Both A and B are options"],
+    "answerIndex": 3
+  },
+  {
+    "id": "minecraft_m_0043",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What do you need for a beacon?",
+    "options": ["Nether star", "Pyramid of minerals", "Both", "Glass and obsidian"],
+    "answerIndex": 2
+  },
+  {
+    "id": "minecraft_m_0044",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "How do you get a Nether Star?",
+    "options": ["Find it", "Kill the Wither", "Craft it", "Trade"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0045",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What do you summon the Wither with?",
+    "options": ["Soul sand and wither skeleton skulls", "Magic", "Portal", "Ritual"],
+    "answerIndex": 0
+  },
+  {
+    "id": "minecraft_m_0046",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "Where do you find Wither Skeletons?",
+    "options": ["Overworld", "Nether fortresses", "End", "Anywhere"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0047",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What is the Wither effect?",
+    "options": ["Poison", "Health drain", "Weakness", "Slowness"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0048",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What structures spawn in the Nether?",
+    "options": ["Fortresses", "Bastions", "Both", "Villages"],
+    "answerIndex": 2
+  },
+  {
+    "id": "minecraft_m_0049",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What mobs are in bastions?",
+    "options": ["Zombie Pigmen", "Piglins", "Wither Skeletons", "Blazes"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0050",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What do Piglins love?",
+    "options": ["Diamonds", "Gold", "Emeralds", "Netherite"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0051",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What happens if you mine gold near Piglins?",
+    "options": ["Nothing", "They attack", "They help", "They run"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0052",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What protects you from Piglins?",
+    "options": ["Diamond armor", "Gold armor", "Netherite", "Nothing"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0053",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "Can you trade with Piglins?",
+    "options": ["No", "Yes, by giving gold", "Sometimes", "Only in peaceful"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0054",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What is a Piglin Brute?",
+    "options": ["Bigger piglin", "Aggressive piglin with axe", "Boss piglin", "Golden piglin"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0055",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "Do Piglin Brutes attack if you wear gold?",
+    "options": ["No", "Yes, always hostile", "Sometimes", "Only if provoked"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0056",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What happens to Piglins in Overworld?",
+    "options": ["Nothing", "Turn into Zombified Piglins", "Die", "Teleport back"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0057",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What are Hoglins?",
+    "options": ["Pig-like hostile mobs", "Piglins", "Boars", "Nether pigs"],
+    "answerIndex": 0
+  },
+  {
+    "id": "minecraft_m_0058",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What scares Hoglins?",
+    "options": ["Fire", "Warped fungus", "Players", "Light"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0059",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What happens to Hoglins in Overworld?",
+    "options": ["Nothing", "Turn into Zoglins", "Die", "Become passive"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0060",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What is a Strider?",
+    "options": ["Flying mob", "Walks on lava", "Nether spider", "Fire elemental"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0061",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "How do you ride a Strider?",
+    "options": ["Saddle", "Saddle and warped fungus on stick", "Just hop on", "Can't ride"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0062",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What do you find Eyes of Ender in?",
+    "options": ["Chests", "Strongholds", "Make them", "Both B and C"],
+    "answerIndex": 3
+  },
+  {
+    "id": "minecraft_m_0063",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "How do you make Eyes of Ender?",
+    "options": ["Find them", "Ender pearl + blaze powder", "Craft from enderman", "Magic"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0064",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What do Eyes of Ender find?",
+    "options": ["End portal", "Strongholds", "Both", "Treasure"],
+    "answerIndex": 2
+  },
+  {
+    "id": "minecraft_m_0065",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "How many Eyes of Ender for the portal?",
+    "options": ["9", "10", "12", "16"],
+    "answerIndex": 2
+  },
+  {
+    "id": "minecraft_m_0066",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "Where is the End Portal?",
+    "options": ["Surface", "Stronghold", "Nether", "Sky"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0067",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What heals the Ender Dragon?",
+    "options": ["Nothing", "End crystals", "Endermen", "Magic"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0068",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "Where are End Crystals?",
+    "options": ["Ground", "Top of obsidian pillars", "Floating", "Dragon's nest"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0069",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What drops when you kill the Dragon?",
+    "options": ["Egg", "Lots of XP", "Portal opens", "All of these"],
+    "answerIndex": 3
+  },
+  {
+    "id": "minecraft_m_0070",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "Can you respawn the Dragon?",
+    "options": ["No", "Yes, with End Crystals", "Only once", "In creative"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0071",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What happens when you kill the Dragon?",
+    "options": ["Game ends", "Credits roll, portal to surface", "Nothing", "New dimension"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0072",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What rare item is in End Cities?",
+    "options": ["Dragon egg", "Elytra", "Nether star", "Beacon"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0073",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What do Elytra do?",
+    "options": ["Armor", "Let you glide", "Fly", "Float"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0074",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What powers Elytra flight?",
+    "options": ["Nothing", "Fireworks", "Just jumping", "Wind"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0075",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What mob is in End Cities?",
+    "options": ["Endermen", "Shulkers", "End guards", "Dragon"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0076",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What do Shulkers do?",
+    "options": ["Attack", "Shoot levitation projectiles", "Hide", "Teleport"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0077",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What do Shulkers drop?",
+    "options": ["Shells", "Shulker shells", "Boxes", "Nothing"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0078",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What do you make with Shulker shells?",
+    "options": ["Armor", "Shulker boxes", "Weapons", "Decoration"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0079",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What is special about Shulker boxes?",
+    "options": ["Strong", "Keep items when broken", "Portable", "Both B and C"],
+    "answerIndex": 3
+  },
+  {
+    "id": "minecraft_m_0080",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What do you make potions in?",
+    "options": ["Cauldron", "Brewing stand", "Furnace", "Crafting table"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0081",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What powers a brewing stand?",
+    "options": ["Coal", "Blaze powder", "Fire", "Redstone"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0082",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What is the base of all potions?",
+    "options": ["Water bottle", "Awkward potion", "Nether wart", "Glass bottle"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0083",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What makes awkward potion?",
+    "options": ["Sugar", "Nether wart in water bottle", "Blaze powder", "Spider eye"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0084",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What makes a potion last longer?",
+    "options": ["Glowstone", "Redstone", "Sugar", "Gunpowder"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0085",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What makes a potion stronger?",
+    "options": ["Redstone", "Glowstone", "Blaze powder", "Dragon breath"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0086",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What makes a splash potion?",
+    "options": ["Water", "Gunpowder", "Dragon breath", "Fermented spider eye"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0087",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What makes a lingering potion?",
+    "options": ["Gunpowder", "Dragon breath", "Redstone", "Glowstone"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0088",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What ingredient makes healing potion?",
+    "options": ["Glistering melon", "Golden carrot", "Ghast tear", "Magma cream"],
+    "answerIndex": 0
+  },
+  {
+    "id": "minecraft_m_0089",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What makes a fire resistance potion?",
+    "options": ["Blaze powder", "Magma cream", "Lava", "Netherrack"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0090",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What makes a night vision potion?",
+    "options": ["Glowstone", "Golden carrot", "Ender eye", "Spider eye"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0091",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What makes an invisibility potion?",
+    "options": ["Ender pearl", "Night vision + fermented spider eye", "Glass", "Phantom membrane"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0092",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What makes a speed potion?",
+    "options": ["Feather", "Sugar", "Rabbit foot", "Leather"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0093",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What makes a jump boost potion?",
+    "options": ["Feather", "Rabbit foot", "Slime", "Phantom membrane"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0094",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What makes a strength potion?",
+    "options": ["Diamond", "Blaze powder", "Iron", "Netherite"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0095",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What makes a regeneration potion?",
+    "options": ["Golden apple", "Ghast tear", "Glistering melon", "Heart"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0096",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What makes a slow falling potion?",
+    "options": ["Feather", "Phantom membrane", "Elytra", "Cloud"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0097",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What makes a water breathing potion?",
+    "options": ["Fish", "Pufferfish", "Prismarine", "Kelp"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0098",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What flips a potion's effect?",
+    "options": ["Gunpowder", "Fermented spider eye", "Dragon breath", "Nothing"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0099",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "What do Phantoms do?",
+    "options": ["Fly around", "Attack players who don't sleep", "Guard night", "Spawn naturally"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_m_0100",
+    "category": "minecraft",
+    "difficulty": "medium",
+    "question": "How do you prevent Phantoms?",
+    "options": ["Fight them", "Sleep regularly", "Stay inside", "Use commands"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_h_0001",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "Who created Minecraft?",
+    "options": ["Notch", "Markus Persson", "Jeb", "Both A and B"],
+    "answerIndex": 3
+  },
+  {
+    "id": "minecraft_h_0002",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What company owns Minecraft now?",
+    "options": ["Mojang", "Microsoft", "Notch", "Independent"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_h_0003",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "When was Minecraft officially released?",
+    "options": ["2009", "2010", "2011", "2012"],
+    "answerIndex": 2
+  },
+  {
+    "id": "minecraft_h_0004",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is the internal name for experience?",
+    "options": ["XP", "EXP", "Score", "Points"],
+    "answerIndex": 0
+  },
+  {
+    "id": "minecraft_h_0005",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is the tick speed?",
+    "options": ["10/second", "20/second", "30/second", "Variable"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_h_0006",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is a chunk?",
+    "options": ["8x8 blocks", "16x16 blocks wide", "32x32", "64x64"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_h_0007",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "How high is a chunk?",
+    "options": ["256", "Full world height", "Variable", "128"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_h_0008",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is the world border limit?",
+    "options": ["30 million blocks", "60 million blocks total", "Infinite", "100 million"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_h_0009",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is the Farlands?",
+    "options": ["Myth", "World generation bug in old versions", "Dimension", "Biome"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_h_0010",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "Do the Farlands exist in current versions?",
+    "options": ["Yes", "No, fixed", "Only Java", "Only Bedrock"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_h_0011",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is the difference between Java and Bedrock?",
+    "options": ["Nothing", "Different engines and features", "Java is older", "Bedrock is beta"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_h_0012",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "Which version has better redstone?",
+    "options": ["Bedrock", "Java", "Same", "Neither"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_h_0013",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is quasi-connectivity?",
+    "options": ["Java redstone quirk", "Bedrock feature", "Bug", "Intended mechanic"],
+    "answerIndex": 0
+  },
+  {
+    "id": "minecraft_h_0014",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is BUD powering?",
+    "options": ["Battery", "Block Update Detector", "Bug", "Power source"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_h_0015",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is a comparator used for?",
+    "options": ["Compare signals", "Read containers", "Subtract signals", "All of these"],
+    "answerIndex": 3
+  },
+  {
+    "id": "minecraft_h_0016",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is a repeater used for?",
+    "options": ["Delay signal", "Extend signal", "Diode", "All of these"],
+    "answerIndex": 3
+  },
+  {
+    "id": "minecraft_h_0017",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is the maximum repeater delay?",
+    "options": ["1 tick", "2 ticks", "4 ticks", "8 ticks"],
+    "answerIndex": 2
+  },
+  {
+    "id": "minecraft_h_0018",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is a hopper's transfer rate?",
+    "options": ["1 item/tick", "1 item per 8 ticks", "2 items/tick", "Variable"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_h_0019",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is the fastest way to transport items?",
+    "options": ["Hoppers", "Water streams with items", "Minecarts", "Depends on distance"],
+    "answerIndex": 3
+  },
+  {
+    "id": "minecraft_h_0020",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is the spawn chunk radius?",
+    "options": ["1 chunk", "10 chunks", "Always loaded area around spawn", "23x23 chunks"],
+    "answerIndex": 3
+  },
+  {
+    "id": "minecraft_h_0021",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "Do spawn chunks ever unload?",
+    "options": ["Yes", "No, always loaded", "Only on restart", "After time"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_h_0022",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is the simulation distance?",
+    "options": ["Render distance", "How far game mechanics work", "View distance", "Chunk loading"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_h_0023",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is mob cramming?",
+    "options": ["Mobs stuck", "Entity limit in one block", "Mob farm", "Suffocation"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_h_0024",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is the mob cramming limit?",
+    "options": ["10", "12", "24", "32"],
+    "answerIndex": 2
+  },
+  {
+    "id": "minecraft_h_0025",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is the player's hitbox size?",
+    "options": ["1x1x1", "1x1x2", "0.6x0.6x1.8", "1x2x1"],
+    "answerIndex": 2
+  },
+  {
+    "id": "minecraft_h_0026",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "Can you crawl in Minecraft?",
+    "options": ["No", "Yes, in 1 block spaces", "Only in water", "Only with elytra"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_h_0027",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is the sprint speed multiplier?",
+    "options": ["1.2x", "1.3x", "1.5x", "2x"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_h_0028",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is the fastest way to travel in Overworld?",
+    "options": ["Elytra", "Horse", "Boat on ice", "Minecart"],
+    "answerIndex": 2
+  },
+  {
+    "id": "minecraft_h_0029",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is blue ice used for?",
+    "options": ["Decoration", "Fastest ice for boats", "Crafting", "Light source"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_h_0030",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is the Nether travel ratio?",
+    "options": ["1:4", "1:8", "1:16", "1:10"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_h_0031",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "How many Overworld blocks = 1 Nether block?",
+    "options": ["4", "8", "10", "16"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_h_0032",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is the best strategy for Nether travel?",
+    "options": ["Walk", "Fly", "Build paths", "Portal every 1000 blocks Nether"],
+    "answerIndex": 3
+  },
+  {
+    "id": "minecraft_h_0033",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is portal linking?",
+    "options": ["Connecting portals", "Portals link to nearest in other dimension", "Portal network", "Mechanic for travel"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_h_0034",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is the portal search radius?",
+    "options": ["16 blocks", "128 blocks", "Depends on dimension", "256 blocks"],
+    "answerIndex": 2
+  },
+  {
+    "id": "minecraft_h_0035",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is a perimeter in Minecraft?",
+    "options": ["Border", "Cleared area for farms", "Chunk", "Spawn area"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_h_0036",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is a slime chunk?",
+    "options": ["Chunk with slimes", "Specific chunks where slimes spawn", "Green chunk", "Swamp"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_h_0037",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "How do you find slime chunks?",
+    "options": ["Look around", "Seed-based calculation", "Random", "Check swamps"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_h_0038",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is the purpose of F3 screen?",
+    "options": ["Settings", "Debug information", "Map", "Inventory"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_h_0039",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What does F3+G show?",
+    "options": ["Grid", "Chunk borders", "Coordinates", "Hitboxes"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_h_0040",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What does F3+N toggle?",
+    "options": ["Night vision", "Spectator/Creative", "Noclip", "Nothing"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_h_0041",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is a datapack?",
+    "options": ["Texture pack", "Custom content/functions", "Mod", "Resource pack"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_h_0042",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is NBT data?",
+    "options": ["Texture format", "Named Binary Tag data format", "Network protocol", "Sound file"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_h_0043",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What file format is NBT?",
+    "options": ["Text", "Binary tree structure", "JSON", "XML"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_h_0044",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is structure void used for?",
+    "options": ["Nothing", "Structure blocks - marks air", "Void", "Delete blocks"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_h_0045",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is the /execute command complexity?",
+    "options": ["Simple", "Can chain multiple conditions", "One action", "Basic"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_h_0046",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is ray-tracing in Minecraft?",
+    "options": ["Lighting mod", "RTX graphics rendering", "Vision", "Path finding"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_h_0047",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What version supports ray-tracing natively?",
+    "options": ["Java", "Bedrock with RTX", "Both", "Neither"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_h_0048",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is OptiFine?",
+    "options": ["Mod", "Performance mod with shaders", "Texture pack", "Official"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_h_0049",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is Sodium?",
+    "options": ["Mod", "Performance mod alternative", "Chemical", "Server"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_h_0050",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is Fabric?",
+    "options": ["Block", "Mod loader", "Cloth", "Server software"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_h_0051",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is Forge?",
+    "options": ["Furnace", "Mod loader/API", "Weapon", "Crafting"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_h_0052",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "Can Fabric and Forge mods work together?",
+    "options": ["Yes", "No, incompatible", "Sometimes", "With converter"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_h_0053",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is a mob cap?",
+    "options": ["Hat", "Entity spawn limit", "Mob farm limit", "Cap on mobs"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_h_0054",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What affects mob spawning?",
+    "options": ["Light", "Biome", "Block type", "All of these"],
+    "answerIndex": 3
+  },
+  {
+    "id": "minecraft_h_0055",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is pack spawning?",
+    "options": ["Wolves", "Mobs spawn in groups", "Farm method", "Village"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_h_0056",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is the hostile mob cap per player?",
+    "options": ["50", "70", "80", "Depends on version"],
+    "answerIndex": 3
+  },
+  {
+    "id": "minecraft_h_0057",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is a mob switch?",
+    "options": ["Button", "Method to disable mob spawning", "Mob control", "Farm toggle"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_h_0058",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is the most efficient fuel?",
+    "options": ["Coal", "Lava bucket", "Blaze rod", "Kelp block"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_h_0059",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "How many items does one lava bucket smelt?",
+    "options": ["80", "100", "120", "64"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_h_0060",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is a zero-tick farm?",
+    "options": ["Fast farm", "Instant growth exploit", "AFK farm", "Auto farm"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_h_0061",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "Are zero-tick farms still working?",
+    "options": ["Yes", "No, patched", "Only Java", "Only Bedrock"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_h_0062",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is TNT duping?",
+    "options": ["Glitch", "Exploit to duplicate TNT", "Banned", "Feature"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_h_0063",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "Is TNT duping intended?",
+    "options": ["Yes", "No, but kept as feature", "Ban worthy", "Fixed"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_h_0064",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is carpet duping?",
+    "options": ["Dupe carpets", "Item duplication exploit", "Decoration trick", "Farm method"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_h_0065",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is a flying machine?",
+    "options": ["Aircraft", "Piston-based moving contraption", "Elytra", "Glitch"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_h_0066",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What powers a flying machine?",
+    "options": ["Redstone", "Slime + pistons + observers", "Motors", "Magic"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_h_0067",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is the piston push limit?",
+    "options": ["10 blocks", "12 blocks", "16 blocks", "Unlimited"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_h_0068",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What blocks can't be pushed?",
+    "options": ["Obsidian", "Bedrock", "Many immovable blocks", "All can be pushed"],
+    "answerIndex": 2
+  },
+  {
+    "id": "minecraft_h_0069",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is a double piston extender?",
+    "options": ["2 pistons", "Extends 2 blocks", "Redstone contraption", "Both B and C"],
+    "answerIndex": 3
+  },
+  {
+    "id": "minecraft_h_0070",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is an input/output in redstone?",
+    "options": ["Wiring", "Signal source and destination", "Logic gates", "Circuits"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_h_0071",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is an AND gate?",
+    "options": ["Logic gate", "Both inputs must be on", "Redstone circuit", "All of these"],
+    "answerIndex": 3
+  },
+  {
+    "id": "minecraft_h_0072",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is an OR gate?",
+    "options": ["Logic gate", "Any input turns it on", "Simple circuit", "All of these"],
+    "answerIndex": 3
+  },
+  {
+    "id": "minecraft_h_0073",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is a NOT gate?",
+    "options": ["Inverter", "Flips signal", "Torch logic", "All of these"],
+    "answerIndex": 3
+  },
+  {
+    "id": "minecraft_h_0074",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is an XOR gate?",
+    "options": ["Exclusive OR", "Only one input", "Complex gate", "All of these"],
+    "answerIndex": 3
+  },
+  {
+    "id": "minecraft_h_0075",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is a T flip-flop?",
+    "options": ["Toggle circuit", "Memory circuit", "Redstone device", "All of these"],
+    "answerIndex": 3
+  },
+  {
+    "id": "minecraft_h_0076",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is a dropper clock?",
+    "options": ["Timer", "Redstone clock using droppers", "Circuit", "All of these"],
+    "answerIndex": 3
+  },
+  {
+    "id": "minecraft_h_0077",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is the shortest possible delay?",
+    "options": ["1 tick", "1 redstone tick (2 game ticks)", "Instant", "4 ticks"],
+    "answerIndex": 0
+  },
+  {
+    "id": "minecraft_h_0078",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is a binary decoder?",
+    "options": ["Circuit", "Converts binary to decimal", "Redstone logic", "All of these"],
+    "answerIndex": 3
+  },
+  {
+    "id": "minecraft_h_0079",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "Can you build a computer in Minecraft?",
+    "options": ["No", "Yes, with redstone", "Requires mods", "Only simple ones"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_h_0080",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is the largest redstone computer?",
+    "options": ["Calculator", "Working CPU", "Minecraft in Minecraft", "All exist"],
+    "answerIndex": 3
+  },
+  {
+    "id": "minecraft_h_0081",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is command block chaining?",
+    "options": ["Linking blocks", "Sequence of command blocks", "Circuit", "Programming"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_h_0082",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What are the three command block types?",
+    "options": ["Red, blue, green", "Impulse, Chain, Repeat", "Normal, special, auto", "One type"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_h_0083",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is a spawn platform?",
+    "options": ["Obsidian platform in End", "Portal spawn", "Player spawn", "Mob spawner"],
+    "answerIndex": 0
+  },
+  {
+    "id": "minecraft_h_0084",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is the void?",
+    "options": ["Empty space", "Below y=0 / above build limit", "Death zone", "All of these"],
+    "answerIndex": 3
+  },
+  {
+    "id": "minecraft_h_0085",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "Can you survive the void?",
+    "options": ["No", "With creative/spectator", "With commands", "Both B and C"],
+    "answerIndex": 3
+  },
+  {
+    "id": "minecraft_h_0086",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is block 36?",
+    "options": ["Nothing", "Piston extension (technical block)", "Hidden block", "Removed"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_h_0087",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is the update order?",
+    "options": ["Random", "Specific sequence blocks update", "North-East-South-West", "Varies"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_h_0088",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is locational update order?",
+    "options": ["Position-based updates", "West-North-East-South-Up-Down", "Complex mechanic", "All of these"],
+    "answerIndex": 3
+  },
+  {
+    "id": "minecraft_h_0089",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is a headless piston?",
+    "options": ["Broken piston", "Piston without head extension", "Bug", "Technical block"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_h_0090",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is a player crafter?",
+    "options": ["Auto-crafter", "Player inventory crafting", "Dropper based crafter", "Mod"],
+    "answerIndex": 2
+  },
+  {
+    "id": "minecraft_h_0091",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is a item sorter?",
+    "options": ["Storage system", "Hopper-based sorting", "Organization", "All of these"],
+    "answerIndex": 3
+  },
+  {
+    "id": "minecraft_h_0092",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is overflow protection?",
+    "options": ["Water control", "Prevents item spillage", "Safety mechanism", "Sorter feature"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_h_0093",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is a chunk loader?",
+    "options": ["Loads chunks", "Keeps chunks active", "Portal-based or entity", "All of these"],
+    "answerIndex": 3
+  },
+  {
+    "id": "minecraft_h_0094",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is the most common chunk loader?",
+    "options": ["Nether portal", "Hopper", "Entity", "Command"],
+    "answerIndex": 0
+  },
+  {
+    "id": "minecraft_h_0095",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is entity cramming used for in farms?",
+    "options": ["Killing mobs", "Mob damage/killing method", "Efficiency", "All of these"],
+    "answerIndex": 3
+  },
+  {
+    "id": "minecraft_h_0096",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is a trident killer?",
+    "options": ["Player weapon", "Automated mob killer", "Farm component", "Both B and C"],
+    "answerIndex": 3
+  },
+  {
+    "id": "minecraft_h_0097",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What enchantment makes trident return?",
+    "options": ["Loyalty", "Return", "Boomerang", "Recall"],
+    "answerIndex": 0
+  },
+  {
+    "id": "minecraft_h_0098",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is Riptide used for?",
+    "options": ["Damage", "Propulsion in water/rain", "Swimming", "Flying"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_h_0099",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "Can you have Loyalty and Riptide together?",
+    "options": ["Yes", "No, mutually exclusive", "Sometimes", "Only in creative"],
+    "answerIndex": 1
+  },
+  {
+    "id": "minecraft_h_0100",
+    "category": "minecraft",
+    "difficulty": "hard",
+    "question": "What is the seed?",
+    "options": ["Plant", "World generation number", "Random value", "Both B and C"],
+    "answerIndex": 3
+  }
+]

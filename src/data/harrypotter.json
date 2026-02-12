@@ -1,0 +1,2402 @@
+[
+  {
+    "id": "harrypotter_e_0001",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What house is Harry Potter in?",
+    "options": ["Hufflepuff", "Gryffindor", "Ravenclaw", "Slytherin"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0002",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What is Harry's pet owl's name?",
+    "options": ["Errol", "Hedwig", "Pigwidgeon", "Scabbers"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0003",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "Who is Harry's best friend (boy)?",
+    "options": ["Ron Weasley", "Draco Malfoy", "Neville Longbottom", "Seamus Finnigan"],
+    "answerIndex": 0
+  },
+  {
+    "id": "harrypotter_e_0004",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "Who is Harry's best friend (girl)?",
+    "options": ["Ginny Weasley", "Luna Lovegood", "Hermione Granger", "Cho Chang"],
+    "answerIndex": 2
+  },
+  {
+    "id": "harrypotter_e_0005",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What school does Harry attend?",
+    "options": ["Beauxbatons", "Durmstrang", "Hogwarts", "Ilvermorny"],
+    "answerIndex": 2
+  },
+  {
+    "id": "harrypotter_e_0006",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "Who is the headmaster of Hogwarts?",
+    "options": ["Snape", "McGonagall", "Dumbledore", "Slughorn"],
+    "answerIndex": 2
+  },
+  {
+    "id": "harrypotter_e_0007",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What is Voldemort also called?",
+    "options": ["He Who Shall Not Be Named", "The Dark Lord", "You-Know-Who", "All of these"],
+    "answerIndex": 3
+  },
+  {
+    "id": "harrypotter_e_0008",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What is the name of the school's giant?",
+    "options": ["Hagrid", "Grawp", "Dobby", "Aragog"],
+    "answerIndex": 0
+  },
+  {
+    "id": "harrypotter_e_0009",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What position does Harry play in Quidditch?",
+    "options": ["Keeper", "Beater", "Seeker", "Chaser"],
+    "answerIndex": 2
+  },
+  {
+    "id": "harrypotter_e_0010",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What is the golden flying ball called in Quidditch?",
+    "options": ["Quaffle", "Bludger", "Golden Snitch", "Golden Ball"],
+    "answerIndex": 2
+  },
+  {
+    "id": "harrypotter_e_0011",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What color is Gryffindor?",
+    "options": ["Blue and bronze", "Green and silver", "Red and gold", "Yellow and black"],
+    "answerIndex": 2
+  },
+  {
+    "id": "harrypotter_e_0012",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What color is Slytherin?",
+    "options": ["Red and gold", "Green and silver", "Blue and bronze", "Yellow and black"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0013",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What color is Ravenclaw?",
+    "options": ["Blue and bronze", "Green and silver", "Red and gold", "Yellow and black"],
+    "answerIndex": 0
+  },
+  {
+    "id": "harrypotter_e_0014",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What color is Hufflepuff?",
+    "options": ["Red and gold", "Green and silver", "Blue and bronze", "Yellow and black"],
+    "answerIndex": 3
+  },
+  {
+    "id": "harrypotter_e_0015",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What animal is Gryffindor's symbol?",
+    "options": ["Eagle", "Snake", "Lion", "Badger"],
+    "answerIndex": 2
+  },
+  {
+    "id": "harrypotter_e_0016",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What animal is Slytherin's symbol?",
+    "options": ["Lion", "Snake", "Eagle", "Badger"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0017",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What do wizards use to cast spells?",
+    "options": ["Staffs", "Wands", "Hands", "Books"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0018",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What is the entrance to Platform 9¾?",
+    "options": ["A door", "A wall", "Through a brick wall", "A gate"],
+    "answerIndex": 2
+  },
+  {
+    "id": "harrypotter_e_0019",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What train takes students to Hogwarts?",
+    "options": ["The Express", "Hogwarts Train", "Hogwarts Express", "Magic Train"],
+    "answerIndex": 2
+  },
+  {
+    "id": "harrypotter_e_0020",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What is the potion teacher's name (first books)?",
+    "options": ["Dumbledore", "Snape", "McGonagall", "Slughorn"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0021",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "Who is the Transfiguration teacher?",
+    "options": ["Snape", "McGonagall", "Flitwick", "Sprout"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0022",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What creature guards the Sorcerer's Stone?",
+    "options": ["Dragon", "Three-headed dog", "Troll", "Giant spider"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0023",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What is the three-headed dog's name?",
+    "options": ["Fang", "Fluffy", "Spot", "Cerberus"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0024",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What opens the Chamber of Secrets?",
+    "options": ["Latin", "English", "Parseltongue", "Ancient runes"],
+    "answerIndex": 2
+  },
+  {
+    "id": "harrypotter_e_0025",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What is Parseltongue?",
+    "options": ["French", "Snake language", "Ancient language", "Secret code"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0026",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What creature is in the Chamber of Secrets?",
+    "options": ["Dragon", "Basilisk", "Giant spider", "Troll"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0027",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What is a Patronus?",
+    "options": ["A pet", "A protective spell", "A wand", "A potion"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0028",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What is Harry's Patronus?",
+    "options": ["Wolf", "Stag", "Horse", "Dog"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0029",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What is Hermione's Patronus?",
+    "options": ["Cat", "Otter", "Horse", "Swan"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0030",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What creature sucks out happiness?",
+    "options": ["Dementors", "Boggart", "Death Eater", "Inferius"],
+    "answerIndex": 0
+  },
+  {
+    "id": "harrypotter_e_0031",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What shape are Harry's glasses?",
+    "options": ["Square", "Round", "Oval", "Rectangular"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0032",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What is on Harry's forehead?",
+    "options": ["Birthmark", "Lightning bolt scar", "Freckle", "Nothing"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0033",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "Who are Harry's aunt and uncle?",
+    "options": ["The Weasleys", "The Dursleys", "The Malfoys", "The Potters"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0034",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What is Harry's cousin's name?",
+    "options": ["Draco", "Dudley", "Dean", "Dennis"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0035",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "How many brothers does Ron have?",
+    "options": ["3", "5", "6", "4"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0036",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What is Ron's sister's name?",
+    "options": ["Molly", "Ginny", "Luna", "Lily"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0037",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What game has flying broomsticks?",
+    "options": ["Flying", "Quidditch", "Gobstones", "Wizard chess"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0038",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What is the dark wizard's name?",
+    "options": ["Voldemort", "Grindelwald", "Snape", "Malfoy"],
+    "answerIndex": 0
+  },
+  {
+    "id": "harrypotter_e_0039",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "Who killed Harry's parents?",
+    "options": ["Death Eaters", "Voldemort", "Snape", "Malfoy"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0040",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What spell makes light?",
+    "options": ["Lumos", "Nox", "Expelliarmus", "Accio"],
+    "answerIndex": 0
+  },
+  {
+    "id": "harrypotter_e_0041",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What spell disarms opponents?",
+    "options": ["Stupefy", "Expelliarmus", "Petrificus Totalus", "Avada Kedavra"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0042",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What spell summons objects?",
+    "options": ["Lumos", "Expecto Patronum", "Accio", "Wingardium Leviosa"],
+    "answerIndex": 2
+  },
+  {
+    "id": "harrypotter_e_0043",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What spell makes things fly?",
+    "options": ["Accio", "Wingardium Leviosa", "Alohomora", "Riddikulus"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0044",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What unlocks doors?",
+    "options": ["Keys", "Alohomora", "Colloportus", "Bombarda"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0045",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What is Hermione known for?",
+    "options": ["Sports", "Being smart", "Pranks", "Flying"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0046",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What hair color does Ron have?",
+    "options": ["Blonde", "Red", "Brown", "Black"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0047",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What is Dumbledore's first name?",
+    "options": ["Albert", "Albus", "Arthur", "Alfred"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0048",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What is Hagrid's job?",
+    "options": ["Teacher", "Keeper of Keys and Grounds", "Headmaster", "Auror"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0049",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What creature is Hagrid's pet Fang?",
+    "options": ["Cat", "Dog", "Dragon", "Owl"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0050",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What dragon does Hagrid want?",
+    "options": ["Hungarian Horntail", "Norwegian Ridgeback", "Chinese Fireball", "Swedish Short-Snout"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0051",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What is the friendliest house?",
+    "options": ["Gryffindor", "Slytherin", "Ravenclaw", "Hufflepuff"],
+    "answerIndex": 3
+  },
+  {
+    "id": "harrypotter_e_0052",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What house is known for bravery?",
+    "options": ["Gryffindor", "Slytherin", "Ravenclaw", "Hufflepuff"],
+    "answerIndex": 0
+  },
+  {
+    "id": "harrypotter_e_0053",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What house is known for wisdom?",
+    "options": ["Gryffindor", "Slytherin", "Ravenclaw", "Hufflepuff"],
+    "answerIndex": 2
+  },
+  {
+    "id": "harrypotter_e_0054",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What house is known for ambition?",
+    "options": ["Gryffindor", "Slytherin", "Ravenclaw", "Hufflepuff"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0055",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What house is Draco Malfoy in?",
+    "options": ["Gryffindor", "Slytherin", "Ravenclaw", "Hufflepuff"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0056",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What house is Luna Lovegood in?",
+    "options": ["Gryffindor", "Slytherin", "Ravenclaw", "Hufflepuff"],
+    "answerIndex": 2
+  },
+  {
+    "id": "harrypotter_e_0057",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What house is Cedric Diggory in?",
+    "options": ["Gryffindor", "Slytherin", "Ravenclaw", "Hufflepuff"],
+    "answerIndex": 3
+  },
+  {
+    "id": "harrypotter_e_0058",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What house is Cho Chang in?",
+    "options": ["Gryffindor", "Slytherin", "Ravenclaw", "Hufflepuff"],
+    "answerIndex": 2
+  },
+  {
+    "id": "harrypotter_e_0059",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What do house-elves wear?",
+    "options": ["Robes", "Pillowcases or rags", "Uniforms", "Nothing"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0060",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What is the house-elf's name at Hogwarts?",
+    "options": ["Dobby", "Kreacher", "Winky", "Multiple elves"],
+    "answerIndex": 3
+  },
+  {
+    "id": "harrypotter_e_0061",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What frees a house-elf?",
+    "options": ["Magic", "Clothes", "Freedom spell", "Running away"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0062",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What is Dobby?",
+    "options": ["Wizard", "House-elf", "Goblin", "Ghost"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0063",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What family owns Dobby?",
+    "options": ["Potters", "Malfoys", "Weasleys", "Blacks"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0064",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What is Dumbledore's phoenix's name?",
+    "options": ["Hedwig", "Fawkes", "Phoenix", "Firebird"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0065",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What do phoenixes do when they die?",
+    "options": ["Stay dead", "Reborn from ashes", "Become ghosts", "Disappear"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0066",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What's special about phoenix tears?",
+    "options": ["Poison", "Healing powers", "Make fire", "Nothing"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0067",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What is the wizard prison called?",
+    "options": ["Azkaban", "Alcatraz", "The Tower", "Dark Prison"],
+    "answerIndex": 0
+  },
+  {
+    "id": "harrypotter_e_0068",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "Who guards Azkaban?",
+    "options": ["Wizards", "Dementors", "Giants", "Death Eaters"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0069",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What is the wizarding bank called?",
+    "options": ["Wizard Bank", "Gringotts", "Diagon Bank", "Magic Bank"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0070",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "Who runs Gringotts?",
+    "options": ["Wizards", "Goblins", "Elves", "Dwarves"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0071",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What shopping street do wizards use?",
+    "options": ["Main Street", "Diagon Alley", "Wizard Street", "Magic Avenue"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0072",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What is the dark alley called?",
+    "options": ["Dark Alley", "Knockturn Alley", "Evil Street", "Black Alley"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0073",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What wand shop does Harry visit?",
+    "options": ["Magic Wands", "Ollivanders", "Wand Shop", "Wizard Wands"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0074",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What is wizard money made of gold called?",
+    "options": ["Galleons", "Dollars", "Coins", "Gold pieces"],
+    "answerIndex": 0
+  },
+  {
+    "id": "harrypotter_e_0075",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What are wizard newspapers called?",
+    "options": ["Wizard Times", "Daily Prophet", "Magic News", "Wizard Post"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0076",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What moves in wizard photos?",
+    "options": ["Nothing", "Everything", "People", "The frame"],
+    "answerIndex": 2
+  },
+  {
+    "id": "harrypotter_e_0077",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What candy makes you sound like animals?",
+    "options": ["Chocolate Frogs", "Bertie Bott's Beans", "Animal Candy", "Ton-Tongue Toffee"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0078",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What candy has famous wizard cards?",
+    "options": ["Chocolate Frogs", "Bertie Bott's Beans", "Fizzing Whizzbees", "Sugar Quills"],
+    "answerIndex": 0
+  },
+  {
+    "id": "harrypotter_e_0079",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What tournament happens in book 4?",
+    "options": ["Quidditch World Cup", "Triwizard Tournament", "Wizard Duel", "House Cup"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0080",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "How many schools compete in the Triwizard?",
+    "options": ["2", "3", "4", "5"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0081",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What creature is Aragog?",
+    "options": ["Dragon", "Giant spider", "Troll", "Basilisk"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0082",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "Where does Aragog live?",
+    "options": ["Castle", "Forbidden Forest", "Lake", "Cave"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0083",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What creatures pull the carriages?",
+    "options": ["Horses", "Thestrals", "Nothing visible", "Unicorns"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0084",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "Who can see Thestrals?",
+    "options": ["Everyone", "Those who've seen death", "Teachers only", "No one"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0085",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What creature is Buckbeak?",
+    "options": ["Dragon", "Hippogriff", "Phoenix", "Griffin"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0086",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What must you do before approaching a Hippogriff?",
+    "options": ["Run", "Bow", "Yell", "Nothing"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0087",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What creatures guard treasure in Gringotts?",
+    "options": ["Dragons", "Giants", "Trolls", "Goblins"],
+    "answerIndex": 0
+  },
+  {
+    "id": "harrypotter_e_0088",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What lives in the lake at Hogwarts?",
+    "options": ["Fish", "Giant Squid and merpeople", "Plesiosaur", "Kappa"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0089",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What is Nearly Headless Nick?",
+    "options": ["Wizard", "Ghost", "Portrait", "Poltergeist"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0090",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What house is Nearly Headless Nick's ghost?",
+    "options": ["Gryffindor", "Slytherin", "Ravenclaw", "Hufflepuff"],
+    "answerIndex": 0
+  },
+  {
+    "id": "harrypotter_e_0091",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "Who is Moaning Myrtle?",
+    "options": ["Teacher", "Ghost in bathroom", "Student", "House-elf"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0092",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What is Peeves?",
+    "options": ["Ghost", "Poltergeist", "Student", "Teacher"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0093",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What can portraits do?",
+    "options": ["Nothing", "Move and talk", "Just move", "Just talk"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0094",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What guards the Gryffindor common room?",
+    "options": ["Door", "Fat Lady portrait", "Statue", "Ghost"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0095",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What do you need to enter the common room?",
+    "options": ["Key", "Password", "Badge", "Wand"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0096",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What are the three Unforgivable Curses?",
+    "options": ["Killing curses", "Torture, control, kill", "Dark spells", "Forbidden magic"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0097",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What is the killing curse?",
+    "options": ["Crucio", "Imperio", "Avada Kedavra", "Sectumsempra"],
+    "answerIndex": 2
+  },
+  {
+    "id": "harrypotter_e_0098",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What color is the killing curse?",
+    "options": ["Red", "Green", "Blue", "Black"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0099",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "What is the Deathly Hallows symbol?",
+    "options": ["Skull", "Triangle with line and circle", "Wand", "Snake"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_e_0100",
+    "category": "harrypotter",
+    "difficulty": "easy",
+    "question": "How many Deathly Hallows are there?",
+    "options": ["1", "2", "3", "7"],
+    "answerIndex": 2
+  },
+  {
+    "id": "harrypotter_m_0001",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What are Harry's parents' names?",
+    "options": ["John and Mary", "James and Lily", "Peter and Jane", "Frank and Alice"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0002",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What is the Marauder's Map?",
+    "options": ["Treasure map", "Map showing everyone in Hogwarts", "World map", "Hogsmeade map"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0003",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "Who created the Marauder's Map?",
+    "options": ["Harry's father and friends", "Dumbledore", "The Weasley twins", "Snape"],
+    "answerIndex": 0
+  },
+  {
+    "id": "harrypotter_m_0004",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What were the Marauders' nicknames?",
+    "options": ["Animals", "Moony, Wormtail, Padfoot, Prongs", "Numbers", "Colors"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0005",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "Who is Moony?",
+    "options": ["Harry's father", "Remus Lupin", "Sirius Black", "Peter Pettigrew"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0006",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "Who is Padfoot?",
+    "options": ["James Potter", "Remus Lupin", "Sirius Black", "Peter Pettigrew"],
+    "answerIndex": 2
+  },
+  {
+    "id": "harrypotter_m_0007",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "Who is Prongs?",
+    "options": ["James Potter", "Remus Lupin", "Sirius Black", "Peter Pettigrew"],
+    "answerIndex": 0
+  },
+  {
+    "id": "harrypotter_m_0008",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "Who is Wormtail?",
+    "options": ["James Potter", "Remus Lupin", "Sirius Black", "Peter Pettigrew"],
+    "answerIndex": 3
+  },
+  {
+    "id": "harrypotter_m_0009",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What is Remus Lupin?",
+    "options": ["Wizard", "Werewolf", "Vampire", "Animagus"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0010",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What is an Animagus?",
+    "options": ["Werewolf", "Wizard who transforms to animal", "Shapeshifter", "Animal wizard"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0011",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What animal is Sirius Black?",
+    "options": ["Wolf", "Dog", "Stag", "Rat"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0012",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What animal is Peter Pettigrew?",
+    "options": ["Mouse", "Rat", "Dog", "Cat"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0013",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What animal was James Potter?",
+    "options": ["Dog", "Stag", "Wolf", "Bear"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0014",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "Who betrayed Harry's parents?",
+    "options": ["Sirius Black", "Peter Pettigrew", "Snape", "Lupin"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0015",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What is Ron's rat's real identity?",
+    "options": ["Just a rat", "Peter Pettigrew", "An Animagus spy", "Wormtail"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0016",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What is Ron's rat called?",
+    "options": ["Scabbers", "Crookshanks", "Trevor", "Hedwig"],
+    "answerIndex": 0
+  },
+  {
+    "id": "harrypotter_m_0017",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What is Hermione's cat's name?",
+    "options": ["Fluffy", "Crookshanks", "Mrs. Norris", "Tibbles"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0018",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What is a Horcrux?",
+    "options": ["Dark artifact", "Object containing soul piece", "Curse", "Weapon"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0019",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "How many Horcruxes did Voldemort make?",
+    "options": ["5", "6", "7", "8"],
+    "answerIndex": 2
+  },
+  {
+    "id": "harrypotter_m_0020",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What was the first Horcrux destroyed?",
+    "options": ["Ring", "Diary", "Locket", "Cup"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0021",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "Who destroyed the diary Horcrux?",
+    "options": ["Harry", "Ron", "Hermione", "Dumbledore"],
+    "answerIndex": 0
+  },
+  {
+    "id": "harrypotter_m_0022",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What destroys Horcruxes?",
+    "options": ["Any magic", "Basilisk fang or similar", "Fire", "Smashing them"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0023",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What unintentional Horcrux exists?",
+    "options": ["Nagini", "Harry Potter", "The wand", "The castle"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0024",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What is Voldemort's snake called?",
+    "options": ["Basilisk", "Nagini", "Python", "Serpent"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0025",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What is Voldemort's real name?",
+    "options": ["Tom Riddle", "Tom Marvolo Riddle", "Voldemort", "The Dark Lord"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0026",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What does Tom Marvolo Riddle become?",
+    "options": ["An anagram", "I am Lord Voldemort", "A new name", "A title"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0027",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "Where did Tom Riddle go to school?",
+    "options": ["Durmstrang", "Hogwarts", "Beauxbatons", "Nowhere"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0028",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What house was Tom Riddle in?",
+    "options": ["Gryffindor", "Slytherin", "Ravenclaw", "Hufflepuff"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0029",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "Who is the Half-Blood Prince?",
+    "options": ["Harry", "Voldemort", "Severus Snape", "Dumbledore"],
+    "answerIndex": 2
+  },
+  {
+    "id": "harrypotter_m_0030",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "Why is Snape the Half-Blood Prince?",
+    "options": ["Royal blood", "Half-blood with mother Prince", "Nickname", "Title"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0031",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "Who did Snape love?",
+    "options": ["Lily Potter", "No one", "Narcissa", "His wife"],
+    "answerIndex": 0
+  },
+  {
+    "id": "harrypotter_m_0032",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What is Snape's Patronus?",
+    "options": ["Snake", "Doe", "Stag", "Bat"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0033",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "Why is Snape's Patronus a doe?",
+    "options": ["Random", "Same as Lily's", "He likes deer", "Family symbol"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0034",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "Who killed Dumbledore?",
+    "options": ["Voldemort", "Draco", "Severus Snape", "Bellatrix"],
+    "answerIndex": 2
+  },
+  {
+    "id": "harrypotter_m_0035",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "Why did Snape kill Dumbledore?",
+    "options": ["Evil", "Dumbledore asked him to", "Accident", "Forced"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0036",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "Was Snape good or evil?",
+    "options": ["Evil", "Good but seemed evil", "Good", "Neutral"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0037",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "Who killed Bellatrix Lestrange?",
+    "options": ["Harry", "Hermione", "Molly Weasley", "Neville"],
+    "answerIndex": 2
+  },
+  {
+    "id": "harrypotter_m_0038",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "Who killed Nagini?",
+    "options": ["Harry", "Ron", "Hermione", "Neville"],
+    "answerIndex": 3
+  },
+  {
+    "id": "harrypotter_m_0039",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What sword does Neville use?",
+    "options": ["Excalibur", "Gryffindor's Sword", "Slytherin's blade", "Magic sword"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0040",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What is special about Gryffindor's Sword?",
+    "options": ["Indestructible", "Absorbs what makes it stronger", "Sharp", "Enchanted"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0041",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What are the four house founders?",
+    "options": ["Four wizards", "Gryffindor, Slytherin, Ravenclaw, Hufflepuff", "Ancient families", "First teachers"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0042",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "Who was Salazar Slytherin's heir?",
+    "options": ["Draco", "Tom Riddle/Voldemort", "Snape", "No one"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0043",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What's in the Room of Requirement?",
+    "options": ["Nothing", "Whatever you need", "Treasure", "Secrets"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0044",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "How do you find the Room of Requirement?",
+    "options": ["Map", "Walk past wall three times thinking of need", "Ask someone", "Magic spell"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0045",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What is Dumbledore's Army?",
+    "options": ["Real army", "Student defense group", "Order", "Teachers"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0046",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "Who leads Dumbledore's Army?",
+    "options": ["Dumbledore", "Harry Potter", "Hermione", "Ron"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0047",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What is the Order of the Phoenix?",
+    "options": ["School club", "Anti-Voldemort organization", "Government", "Secret society"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0048",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "Who founded the Order of the Phoenix?",
+    "options": ["Harry's parents", "Dumbledore", "Ministry", "Sirius"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0049",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What are Death Eaters?",
+    "options": ["Monsters", "Voldemort's followers", "Dark creatures", "Curses"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0050",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What mark do Death Eaters have?",
+    "options": ["Tattoo", "Dark Mark", "Scar", "Brand"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0051",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What is the Dark Mark symbol?",
+    "options": ["Skull", "Skull with snake", "Snake", "Lightning"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0052",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "Who is Draco Malfoy's father?",
+    "options": ["Lucius Malfoy", "Severus", "Voldemort", "Snape"],
+    "answerIndex": 0
+  },
+  {
+    "id": "harrypotter_m_0053",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "Is Lucius Malfoy a Death Eater?",
+    "options": ["Yes", "No", "Sometimes", "Unclear"],
+    "answerIndex": 0
+  },
+  {
+    "id": "harrypotter_m_0054",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What is the prophecy about?",
+    "options": ["Hogwarts", "Harry and Voldemort", "The war", "The future"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0055",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "Who made the prophecy?",
+    "options": ["Dumbledore", "Professor Trelawney", "A seer", "Voldemort"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0056",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "Where are prophecies kept?",
+    "options": ["Hogwarts", "Ministry Department of Mysteries", "Dumbledore's office", "Nowhere"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0057",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What are the three Deathly Hallows?",
+    "options": ["Three wands", "Elder Wand, Resurrection Stone, Invisibility Cloak", "Three rings", "Three swords"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0058",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What does the Elder Wand do?",
+    "options": ["Most powerful wand", "Controls elders", "Makes you old", "Nothing special"],
+    "answerIndex": 0
+  },
+  {
+    "id": "harrypotter_m_0059",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What does the Resurrection Stone do?",
+    "options": ["Resurrects dead", "Brings back spirits/shadows", "Makes you immortal", "Nothing"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0060",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "Who owns the Invisibility Cloak?",
+    "options": ["Dumbledore", "Harry Potter", "Ron", "No one"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0061",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "Who gave Harry the Invisibility Cloak?",
+    "options": ["His father", "Dumbledore", "Sirius", "Santa"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0062",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What happens if you unite all Hallows?",
+    "options": ["Nothing", "Master of Death", "Immortality", "Great power"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0063",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "Who had all three Hallows?",
+    "options": ["Voldemort", "Dumbledore at different times", "Harry", "No one"],
+    "answerIndex": 2
+  },
+  {
+    "id": "harrypotter_m_0064",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What is Felix Felicis?",
+    "options": ["Love potion", "Luck potion", "Healing potion", "Poison"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0065",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What is Veritaserum?",
+    "options": ["Love potion", "Truth serum", "Poison", "Healing potion"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0066",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What is Polyjuice Potion?",
+    "options": ["Love potion", "Transformation potion", "Healing potion", "Growth potion"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0067",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "How long does Polyjuice Potion take to make?",
+    "options": ["1 day", "1 week", "1 month", "3 months"],
+    "answerIndex": 2
+  },
+  {
+    "id": "harrypotter_m_0068",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What do you need for Polyjuice Potion to work?",
+    "options": ["Blood", "Hair or DNA", "Photo", "Name"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0069",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What is Amortentia?",
+    "options": ["Love potion", "Truth serum", "Poison", "Sleep potion"],
+    "answerIndex": 0
+  },
+  {
+    "id": "harrypotter_m_0070",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What does Amortentia smell like?",
+    "options": ["Roses", "What you love most", "Nothing", "Perfume"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0071",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What is a Boggart?",
+    "options": ["Monster", "Takes shape of your fear", "Ghost", "Demon"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0072",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "How do you defeat a Boggart?",
+    "options": ["Kill it", "Riddikulus spell makes it funny", "Run away", "Ignore it"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0073",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What is Harry's greatest fear?",
+    "options": ["Voldemort", "Dementors", "Death", "Snakes"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0074",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What spell summons a Patronus?",
+    "options": ["Expecto Patronum", "Patronus", "Expelliarmus", "Lumos"],
+    "answerIndex": 0
+  },
+  {
+    "id": "harrypotter_m_0075",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What powers a Patronus?",
+    "options": ["Magic", "Happy memories", "Spell power", "Wand"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0076",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What is a corporeal Patronus?",
+    "options": ["Weak Patronus", "Animal-shaped Patronus", "Strong shield", "Mist"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0077",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What is Ron's Patronus?",
+    "options": ["Dog", "Terrier", "Stag", "Otter"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0078",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What is Luna Lovegood's father's job?",
+    "options": ["Teacher", "Edits The Quibbler", "Minister", "No job"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0079",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What is The Quibbler?",
+    "options": ["Book", "Magazine", "Newspaper", "Website"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0080",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "Who does Harry marry?",
+    "options": ["Cho", "Hermione", "Ginny Weasley", "Luna"],
+    "answerIndex": 2
+  },
+  {
+    "id": "harrypotter_m_0081",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "Who does Ron marry?",
+    "options": ["Luna", "Hermione Granger", "Lavender", "Fleur"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0082",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What is Quidditch Through the Ages?",
+    "options": ["Movie", "Book about Quidditch", "Spell", "Tournament"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0083",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What is Fantastic Beasts and Where to Find Them?",
+    "options": ["Textbook about magical creatures", "Novel", "Movie", "Spell book"],
+    "answerIndex": 0
+  },
+  {
+    "id": "harrypotter_m_0084",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "Who wrote the Hogwarts textbooks?",
+    "options": ["Real authors", "Fictional authors", "Dumbledore", "Various"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0085",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What is The Tales of Beedle the Bard?",
+    "options": ["Novel", "Wizard fairy tales", "History book", "Spell book"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0086",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What tale has the Deathly Hallows?",
+    "options": ["Three Brothers", "Fountain of Fortune", "Warlock's Hairy Heart", "Hopping Pot"],
+    "answerIndex": 0
+  },
+  {
+    "id": "harrypotter_m_0087",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "Who gives Hermione the Tales of Beedle?",
+    "options": ["Harry", "Ron", "Dumbledore in his will", "Her parents"],
+    "answerIndex": 2
+  },
+  {
+    "id": "harrypotter_m_0088",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What does O.W.L. stand for?",
+    "options": ["Ordinary Wizarding Levels", "Outstanding Wizard License", "Owl Wizard Letter", "Official Wizard Learning"],
+    "answerIndex": 0
+  },
+  {
+    "id": "harrypotter_m_0089",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What does N.E.W.T. stand for?",
+    "options": ["New Exam Wizard Test", "Nastily Exhausting Wizarding Tests", "National Education Wizard Test", "Never Ending Wizard Training"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0090",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What year do students take O.W.L.s?",
+    "options": ["3rd year", "5th year", "6th year", "7th year"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0091",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What year do students take N.E.W.T.s?",
+    "options": ["5th year", "6th year", "7th year", "8th year"],
+    "answerIndex": 2
+  },
+  {
+    "id": "harrypotter_m_0092",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What is Hogsmeade?",
+    "options": ["Village near Hogwarts", "Part of castle", "Forest", "Tower"],
+    "answerIndex": 0
+  },
+  {
+    "id": "harrypotter_m_0093",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What is the pub in Hogsmeade?",
+    "options": ["The Hog's Head", "Three Broomsticks", "Both exist", "The Leaky Cauldron"],
+    "answerIndex": 2
+  },
+  {
+    "id": "harrypotter_m_0094",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What is the candy shop in Hogsmeade?",
+    "options": ["Sweet Shop", "Honeydukes", "Sugar Shack", "Candy Castle"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0095",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What is the Shrieking Shack?",
+    "options": ["Haunted house", "Where Lupin transformed", "Abandoned building", "Ghost house"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0096",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What connects Hogwarts to Hogsmeade secretly?",
+    "options": ["Tunnel", "Secret passages", "Underground path", "All of these"],
+    "answerIndex": 3
+  },
+  {
+    "id": "harrypotter_m_0097",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What is Apparition?",
+    "options": ["Flying", "Teleportation", "Running fast", "Invisibility"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0098",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "Can you Apparate at Hogwarts?",
+    "options": ["Yes", "No, it's protected", "Only teachers", "Only in class"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_m_0099",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What age can you take Apparition test?",
+    "options": ["15", "16", "17", "18"],
+    "answerIndex": 2
+  },
+  {
+    "id": "harrypotter_m_0100",
+    "category": "harrypotter",
+    "difficulty": "medium",
+    "question": "What is Splinching?",
+    "options": ["Perfect apparition", "Body parts left behind", "Being caught", "Failed spell"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0001",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What is Harry's full name?",
+    "options": ["Harry Potter", "Harry James Potter", "Harry Evans Potter", "Henry James Potter"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0002",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What is Hermione's full name?",
+    "options": ["Hermione Granger", "Hermione Jane Granger", "Hermione Jean Granger", "Hermione Ann Granger"],
+    "answerIndex": 2
+  },
+  {
+    "id": "harrypotter_h_0003",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What is Ron's full name?",
+    "options": ["Ronald Weasley", "Ronald Bilius Weasley", "Ronald Arthur Weasley", "Ron Billius Weasley"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0004",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What is Dumbledore's full name?",
+    "options": ["Albus Dumbledore", "Albus Percival Wulfric Brian Dumbledore", "Albus Brian Dumbledore", "Albert Dumbledore"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0005",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "How many staircases does Hogwarts have?",
+    "options": ["100", "142", "200", "Unknown exact number"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0006",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What day is Harry's birthday?",
+    "options": ["July 30", "July 31", "August 1", "June 31"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0007",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What year was Harry born?",
+    "options": ["1979", "1980", "1981", "1982"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0008",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What is the core of Harry's wand?",
+    "options": ["Dragon heartstring", "Phoenix feather", "Unicorn hair", "Thestral tail"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0009",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What phoenix gave Harry's wand feather?",
+    "options": ["Random phoenix", "Fawkes", "Another phoenix", "Multiple"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0010",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "How many feathers did Fawkes give?",
+    "options": ["1", "2", "3", "Many"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0011",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "Whose wand is the brother to Harry's?",
+    "options": ["Dumbledore", "Voldemort", "Snape", "Lily"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0012",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What is Voldemort's wand core?",
+    "options": ["Dragon heartstring", "Phoenix feather from Fawkes", "Unicorn hair", "Bone"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0013",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What wood is Harry's wand?",
+    "options": ["Oak", "Holly", "Yew", "Elder"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0014",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What wood is Voldemort's wand?",
+    "options": ["Holly", "Yew", "Oak", "Elder"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0015",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What is Hermione's wand core?",
+    "options": ["Phoenix feather", "Dragon heartstring", "Unicorn hair", "Thestral"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0016",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What is Hermione's wand wood?",
+    "options": ["Oak", "Vine", "Willow", "Elder"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0017",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What is Ron's first wand?",
+    "options": ["New wand", "Hand-me-down from Charlie", "From Bill", "From his father"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0018",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What breaks Ron's first wand?",
+    "options": ["Fight", "Car crash into Whomping Willow", "Spell backfire", "Dropped it"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0019",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What is Ron's second wand core?",
+    "options": ["Phoenix feather", "Dragon heartstring", "Unicorn hair", "Thestral"],
+    "answerIndex": 2
+  },
+  {
+    "id": "harrypotter_h_0020",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What is the Elder Wand made of?",
+    "options": ["Oak", "Elder wood", "Yew", "Holly"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0021",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What is the Elder Wand's core?",
+    "options": ["Phoenix feather", "Dragon heartstring", "Thestral tail hair", "Unicorn hair"],
+    "answerIndex": 2
+  },
+  {
+    "id": "harrypotter_h_0022",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "Who owns the Elder Wand before Dumbledore?",
+    "options": ["Voldemort", "Grindelwald", "His predecessor", "Unknown"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0023",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "Who actually masters the Elder Wand after Dumbledore?",
+    "options": ["Snape", "Voldemort", "Draco Malfoy then Harry", "Harry directly"],
+    "answerIndex": 2
+  },
+  {
+    "id": "harrypotter_h_0024",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "Why does Harry master the Elder Wand?",
+    "options": ["He's chosen", "Disarmed Draco who disarmed Dumbledore", "Found it", "Inherited it"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0025",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What does Harry do with the Elder Wand?",
+    "options": ["Keeps it", "Buries it with Dumbledore", "Destroys it", "Gives it away"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0026",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What is Neville's toad's name?",
+    "options": ["Trevor", "Toad", "Tommy", "Todd"],
+    "answerIndex": 0
+  },
+  {
+    "id": "harrypotter_h_0027",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What is Neville's grandmother called?",
+    "options": ["Gran", "Grandmother Longbottom", "Augusta", "Both A and C"],
+    "answerIndex": 3
+  },
+  {
+    "id": "harrypotter_h_0028",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What happened to Neville's parents?",
+    "options": ["Died", "Tortured into insanity", "Disappeared", "Nothing"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0029",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "Who tortured the Longbottoms?",
+    "options": ["Voldemort", "Bellatrix Lestrange and others", "Death Eaters", "Unknown"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0030",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What plant is Neville good at?",
+    "options": ["All plants", "Herbology", "Mimbulus mimbletonia", "Devil's Snare"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0031",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What does Neville become?",
+    "options": ["Auror", "Herbology Professor", "Minister", "Nothing specific"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0032",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What are the Weasley twins' names?",
+    "options": ["Fred and George", "George and Fred", "Bill and Charlie", "Ron and Harry"],
+    "answerIndex": 0
+  },
+  {
+    "id": "harrypotter_h_0033",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What shop do Fred and George open?",
+    "options": ["Joke shop", "Weasleys' Wizard Wheezes", "Prank Palace", "Magic Shop"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0034",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "Which twin dies?",
+    "options": ["George", "Fred", "Neither", "Both"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0035",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "How did Fred die?",
+    "options": ["Voldemort", "Explosion in Battle of Hogwarts", "Death Eater", "Curse"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0036",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What are all of Ron's brothers' names?",
+    "options": ["Bill, Charlie, Percy, Fred, George", "6 brothers total", "Bill, Charlie, Percy, twins", "Many brothers"],
+    "answerIndex": 0
+  },
+  {
+    "id": "harrypotter_h_0037",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What does Bill Weasley do?",
+    "options": ["Works at Ministry", "Curse breaker at Gringotts", "Teacher", "Auror"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0038",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What does Charlie Weasley do?",
+    "options": ["Works with dragons", "Auror", "Teacher", "Ministry worker"],
+    "answerIndex": 0
+  },
+  {
+    "id": "harrypotter_h_0039",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What does Percy Weasley do?",
+    "options": ["Works at Ministry of Magic", "Teacher", "Auror", "Business"],
+    "answerIndex": 0
+  },
+  {
+    "id": "harrypotter_h_0040",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "Who does Bill marry?",
+    "options": ["A Weasley", "Fleur Delacour", "Tonks", "No one"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0041",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What school is Fleur from?",
+    "options": ["Hogwarts", "Beauxbatons", "Durmstrang", "Ilvermorny"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0042",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What is Fleur part?",
+    "options": ["Human", "Part Veela", "Fairy", "Elf"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0043",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What are Veela?",
+    "options": ["Witches", "Magical beings, beautiful", "Fairies", "Sirens"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0044",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What is Tonks' first name?",
+    "options": ["Nymphadora", "Dora", "Tonks", "Never said"],
+    "answerIndex": 0
+  },
+  {
+    "id": "harrypotter_h_0045",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What is Tonks' special ability?",
+    "options": ["Strong magic", "Metamorphmagus", "Animagus", "Legilimens"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0046",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What is a Metamorphmagus?",
+    "options": ["Shapeshifter", "Can change appearance at will", "Animagus", "Transformation expert"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0047",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "Who does Tonks marry?",
+    "options": ["No one", "Remus Lupin", "Sirius", "Another wizard"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0048",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What happens to Tonks and Lupin?",
+    "options": ["Live happily", "Both die in Battle of Hogwarts", "Separate", "One dies"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0049",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "Who is Teddy Lupin?",
+    "options": ["Random character", "Tonks and Lupin's son", "Harry's son", "Lupin's brother"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0050",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "Who raises Teddy after his parents die?",
+    "options": ["Harry", "His grandmother Andromeda", "The Weasleys", "Hogwarts"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0051",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What is Legilimency?",
+    "options": ["Mind reading", "Telepathy", "Reading emotions and thoughts", "Magic skill"],
+    "answerIndex": 2
+  },
+  {
+    "id": "harrypotter_h_0052",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What is Occlumency?",
+    "options": ["Mind reading", "Blocking Legilimency", "Meditation", "Defense magic"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0053",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "Who teaches Harry Occlumency?",
+    "options": ["Dumbledore", "Snape", "Lupin", "No one"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0054",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "Why must Harry learn Occlumency?",
+    "options": ["To be strong", "Block Voldemort from his mind", "Pass exams", "Become Auror"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0055",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What connects Harry and Voldemort's minds?",
+    "options": ["Magic", "Horcrux connection", "Prophecy", "Curse scar"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0056",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What is Fiendfyre?",
+    "options": ["Normal fire", "Cursed fire that destroys anything", "Magical flame", "Dragon fire"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0057",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "Can Fiendfyre destroy Horcruxes?",
+    "options": ["No", "Yes", "Sometimes", "Unknown"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0058",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "Who accidentally uses Fiendfyre?",
+    "options": ["Harry", "Voldemort", "Crabbe", "Goyle"],
+    "answerIndex": 2
+  },
+  {
+    "id": "harrypotter_h_0059",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What happens to Crabbe?",
+    "options": ["Lives", "Dies from his own Fiendfyre", "Captured", "Escapes"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0060",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What is the Triwizard Cup actually?",
+    "options": ["Just a cup", "Portkey", "Trap", "Trophy"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0061",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What is a Portkey?",
+    "options": ["Key", "Object that transports you", "Door", "Spell"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0062",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "Where does the Triwizard Cup take Harry?",
+    "options": ["Home", "Graveyard", "Voldemort", "Nowhere"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0063",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "Who touches the Triwizard Cup with Harry?",
+    "options": ["No one", "Cedric Diggory", "Krum", "Fleur"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0064",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What happens to Cedric?",
+    "options": ["Lives", "Killed by Voldemort", "Escapes", "Captured"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0065",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What spell kills Cedric?",
+    "options": ["Crucio", "Avada Kedavra", "Other", "Fight"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0066",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "Who put Harry's name in the Goblet?",
+    "options": ["Voldemort", "Barty Crouch Jr as Moody", "Karkaroff", "Someone unknown"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0067",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "Who is the real Mad-Eye Moody kept?",
+    "options": ["Prison", "Trunk", "Nowhere", "Killed"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0068",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "How does Barty Crouch Jr look like Moody?",
+    "options": ["Makeup", "Polyjuice Potion", "Spell", "He doesn't"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0069",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "How does Voldemort return physically?",
+    "options": ["Magic", "Ritual with Harry's blood", "Horcruxes", "Dark magic"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0070",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What does Voldemort's ritual need?",
+    "options": ["Blood of enemy, bone of father, flesh of servant", "Just magic", "Horcruxes", "Death"],
+    "answerIndex": 0
+  },
+  {
+    "id": "harrypotter_h_0071",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "Who gives flesh to Voldemort's ritual?",
+    "options": ["Cedric", "Peter Pettigrew", "Death Eater", "Someone"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0072",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What happens to Pettigrew's hand?",
+    "options": ["Nothing", "Cuts it off for ritual", "Loses it", "Injured"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0073",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What does Voldemort give Pettigrew?",
+    "options": ["Nothing", "Silver hand", "New hand", "Reward"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0074",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What kills Pettigrew?",
+    "options": ["Harry", "His own silver hand", "Voldemort", "Death Eaters"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0075",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What is Priori Incantatem?",
+    "options": ["Spell", "When twin wands connect", "Curse", "Magic effect"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0076",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What happens during Priori Incantatem?",
+    "options": ["Explosion", "Wands show previous spells", "Nothing", "Both break"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0077",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "Who are the Peverell brothers?",
+    "options": ["Random wizards", "Original Deathly Hallows owners", "Ancient family", "Myth"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0078",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "Which brother got the Elder Wand?",
+    "options": ["Youngest", "Middle", "Antioch (oldest)", "None"],
+    "answerIndex": 2
+  },
+  {
+    "id": "harrypotter_h_0079",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "Which brother got the Resurrection Stone?",
+    "options": ["Oldest", "Cadmus (middle)", "Youngest", "None"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0080",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "Which brother got the Cloak?",
+    "options": ["Oldest", "Middle", "Ignotus (youngest)", "None"],
+    "answerIndex": 2
+  },
+  {
+    "id": "harrypotter_h_0081",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "Who is Harry descended from?",
+    "options": ["All brothers", "Ignotus Peverell", "No one special", "Gryffindor"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0082",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "Who is Voldemort descended from?",
+    "options": ["No one", "Slytherin", "Peverells through Gaunts", "Both B and C"],
+    "answerIndex": 3
+  },
+  {
+    "id": "harrypotter_h_0083",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What is the Gaunt family?",
+    "options": ["Random family", "Slytherin's descendants", "Pureblood family", "Both B and C"],
+    "answerIndex": 3
+  },
+  {
+    "id": "harrypotter_h_0084",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "Who was Voldemort's mother?",
+    "options": ["A witch", "Merope Gaunt", "Unknown", "Muggle"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0085",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "Who was Voldemort's father?",
+    "options": ["Wizard", "Tom Riddle Sr (Muggle)", "Unknown", "Gaunt"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0086",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "How did Merope make Tom Riddle Sr love her?",
+    "options": ["Love potion or Imperius", "True love", "Magic", "Unknown"],
+    "answerIndex": 0
+  },
+  {
+    "id": "harrypotter_h_0087",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What happened when Merope stopped the spell?",
+    "options": ["Nothing", "Tom Riddle Sr left", "They stayed together", "He loved her"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0088",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "Where was Voldemort born?",
+    "options": ["Hospital", "Orphanage", "Gaunt house", "Unknown"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0089",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What happened to Merope?",
+    "options": ["Raised Tom", "Died giving birth", "Disappeared", "Unknown"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0090",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "Why can't Voldemort feel love?",
+    "options": ["Born under love potion", "Evil", "No soul", "Choice"],
+    "answerIndex": 0
+  },
+  {
+    "id": "harrypotter_h_0091",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What is the Veil?",
+    "options": ["Curtain", "Gateway to death", "Portal", "Mystery"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0092",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "Where is the Veil?",
+    "options": ["Hogwarts", "Department of Mysteries", "Graveyard", "Nowhere"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0093",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "Who falls through the Veil?",
+    "options": ["Harry", "Sirius Black", "Lupin", "No one"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0094",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "Who pushes Sirius through?",
+    "options": ["Voldemort", "Bellatrix Lestrange", "Death Eater", "Accident"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0095",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "Can you return from the Veil?",
+    "options": ["Yes", "No", "Maybe", "Unknown"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0096",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What is a Pensieve?",
+    "options": ["Bowl", "Device to view memories", "Magic item", "Container"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0097",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "Whose Pensieve does Harry use?",
+    "options": ["His own", "Dumbledore's", "Snape's", "School's"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0098",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What does Harry see in the Mirror of Erised?",
+    "options": ["Himself", "His parents", "Future", "Riches"],
+    "answerIndex": 1
+  },
+  {
+    "id": "harrypotter_h_0099",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What does 'Erised' spell backwards?",
+    "options": ["Desire", "Mirror", "Wish", "Dream"],
+    "answerIndex": 0
+  },
+  {
+    "id": "harrypotter_h_0100",
+    "category": "harrypotter",
+    "difficulty": "hard",
+    "question": "What is the Mirror of Erised's inscription?",
+    "options": ["I show desire", "Erised stra ehru oyt ube cafru oyt on wohsi", "See your heart", "Show me truth"],
+    "answerIndex": 1
+  }
+]

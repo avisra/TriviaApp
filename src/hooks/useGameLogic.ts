@@ -3,6 +3,12 @@ import animalsData from '../data/animals.json';
 import pokemonData from '../data/pokemon.json';
 import prehistoricData from '../data/prehistoric.json';
 import comicsData from '../data/comics.json';
+import disneyData from '../data/disney.json';
+import marioData from '../data/mario.json';
+import starwarsData from '../data/starwars.json';
+import harrypotterData from '../data/harrypotter.json';
+import minecraftData from '../data/minecraft.json';
+import dragonballzData from '../data/dragonballz.json';
 
 /**
  * Shuffles an array using Fisher-Yates algorithm
@@ -45,7 +51,7 @@ function getDifficultyDistributionByAge(age: number): [number, number, number] {
 /**
  * Get questions for a specific category
  */
-function getQuestionsByCategory(category: 'animals' | 'pokemon' | 'prehistoric' | 'comics'): Question[] {
+function getQuestionsByCategory(category: 'animals' | 'pokemon' | 'prehistoric' | 'comics' | 'disney' | 'mario' | 'starwars' | 'harrypotter' | 'minecraft' | 'dragonballz'): Question[] {
   switch (category) {
     case 'animals':
       return animalsData as Question[];
@@ -55,6 +61,18 @@ function getQuestionsByCategory(category: 'animals' | 'pokemon' | 'prehistoric' 
       return prehistoricData as Question[];
     case 'comics':
       return comicsData as Question[];
+    case 'disney':
+      return disneyData as Question[];
+    case 'mario':
+      return marioData as Question[];
+    case 'starwars':
+      return starwarsData as Question[];
+    case 'harrypotter':
+      return harrypotterData as Question[];
+    case 'minecraft':
+      return minecraftData as Question[];
+    case 'dragonballz':
+      return dragonballzData as Question[];
     default:
       return animalsData as Question[];
   }

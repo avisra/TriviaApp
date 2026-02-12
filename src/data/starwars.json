@@ -1,0 +1,2402 @@
+[
+  {
+    "id": "starwars_e_0001",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What color is Luke Skywalker's first lightsaber?",
+    "options": ["Green", "Blue", "Red", "Purple"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0002",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "Who is Luke Skywalker's father?",
+    "options": ["Obi-Wan Kenobi", "Darth Vader", "Han Solo", "Emperor Palpatine"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0003",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What is the name of Han Solo's ship?",
+    "options": ["X-Wing", "Millennium Falcon", "Star Destroyer", "Death Star"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0004",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What color is Darth Vader's lightsaber?",
+    "options": ["Blue", "Green", "Red", "Purple"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_e_0005",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What is the name of the small green Jedi Master?",
+    "options": ["Yoda", "Yidu", "Yoga", "Yondo"],
+    "answerIndex": 0
+  },
+  {
+    "id": "starwars_e_0006",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "Who is Princess Leia's brother?",
+    "options": ["Han Solo", "Luke Skywalker", "Obi-Wan", "Anakin"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0007",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What is the name of the furry creature that helps the rebels?",
+    "options": ["Wookiee", "Ewok", "Jawa", "Tusken"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0008",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What is Chewbacca's species?",
+    "options": ["Ewok", "Jawa", "Wookiee", "Human"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_e_0009",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What color is Yoda?",
+    "options": ["Blue", "Green", "Brown", "Gray"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0010",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What do Jedi use for weapons?",
+    "options": ["Swords", "Guns", "Lightsabers", "Staffs"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_e_0011",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What is the name of the golden droid?",
+    "options": ["R2-D2", "C-3PO", "BB-8", "K-2SO"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0012",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What is the name of the small round droid?",
+    "options": ["C-3PO", "R2-D2", "BB-8", "D-O"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0013",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What is the evil empire's leader called?",
+    "options": ["Emperor", "King", "President", "Darth Vader"],
+    "answerIndex": 0
+  },
+  {
+    "id": "starwars_e_0014",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What planet is covered in sand?",
+    "options": ["Hoth", "Endor", "Tatooine", "Dagobah"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_e_0015",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What planet is covered in ice and snow?",
+    "options": ["Tatooine", "Hoth", "Endor", "Naboo"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0016",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What do stormtroopers wear?",
+    "options": ["Black armor", "White armor", "Red armor", "Blue armor"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0017",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What is the name of the power that Jedi use?",
+    "options": ["Magic", "The Force", "Power", "Energy"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0018",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "Who is Darth Vader's boss?",
+    "options": ["Grand Moff Tarkin", "Emperor Palpatine", "Count Dooku", "Darth Maul"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0019",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What is the huge space station that can destroy planets?",
+    "options": ["Star Destroyer", "Death Star", "Space Station", "Battle Station"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0020",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "Who trained Luke Skywalker first?",
+    "options": ["Yoda", "Obi-Wan Kenobi", "Qui-Gon Jinn", "Mace Windu"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0021",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What is Princess Leia's hairstyle?",
+    "options": ["Braids", "Buns", "Ponytail", "Short hair"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0022",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What does R2-D2 say?",
+    "options": ["English", "Beeps and whistles", "Nothing", "Binary"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0023",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What is the bad guys' army called?",
+    "options": ["Republic", "Rebels", "Empire", "Resistance"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_e_0024",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What is the good guys' group called in the original trilogy?",
+    "options": ["Jedi", "Rebels", "Republic", "Resistance"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0025",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "Who saves Princess Leia?",
+    "options": ["Luke and Han", "Yoda", "Obi-Wan", "Chewbacca"],
+    "answerIndex": 0
+  },
+  {
+    "id": "starwars_e_0026",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What planet has Ewoks?",
+    "options": ["Tatooine", "Hoth", "Endor", "Naboo"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_e_0027",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What color is Luke's second lightsaber?",
+    "options": ["Blue", "Green", "Red", "Purple"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0028",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What is Darth Vader's real name?",
+    "options": ["Luke", "Anakin", "Ben", "Owen"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0029",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What planet does Yoda live on when Luke finds him?",
+    "options": ["Tatooine", "Hoth", "Dagobah", "Endor"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_e_0030",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What sound does a lightsaber make?",
+    "options": ["Vroom", "Buzz", "Whoosh", "Humming sound"],
+    "answerIndex": 3
+  },
+  {
+    "id": "starwars_e_0031",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "Who is Han Solo's co-pilot?",
+    "options": ["Luke", "Chewbacca", "Leia", "R2-D2"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0032",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What is Jabba the Hutt?",
+    "options": ["A human", "A giant slug", "A robot", "An alien soldier"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0033",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "Who is Anakin's son?",
+    "options": ["Han Solo", "Luke Skywalker", "Obi-Wan", "Rey"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0034",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "Who is Anakin's daughter?",
+    "options": ["Rey", "Princess Leia", "Padmé", "Ahsoka"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0035",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What color are stormtrooper armor?",
+    "options": ["Black", "White", "Gray", "Silver"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0036",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What starfighter does Luke fly?",
+    "options": ["TIE Fighter", "X-Wing", "A-Wing", "Y-Wing"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0037",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What do evil force users have red lightsabers called?",
+    "options": ["Jedi", "Sith", "Dark Force", "Evil Jedi"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0038",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What is the sound a TIE Fighter makes?",
+    "options": ["Beep beep", "Screaming sound", "Whoosh", "Silent"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0039",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "Who tells Luke he is his father?",
+    "options": ["Obi-Wan", "Yoda", "Darth Vader", "Emperor"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_e_0040",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What is C-3PO worried about?",
+    "options": ["Nothing", "Everything", "Fighting", "Flying"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0041",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What planet is Padmé from?",
+    "options": ["Tatooine", "Naboo", "Coruscant", "Alderaan"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0042",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "Who is young Anakin's mother?",
+    "options": ["Leia", "Padmé", "Shmi", "Ahsoka"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_e_0043",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What can Force users move with their mind?",
+    "options": ["Nothing", "Only lightsabers", "Objects", "Everything"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_e_0044",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What color is Mace Windu's lightsaber?",
+    "options": ["Blue", "Green", "Purple", "Red"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_e_0045",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What is the Jedi's weapon called?",
+    "options": ["Laser sword", "Lightsaber", "Light sword", "Energy blade"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0046",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "Who trained Obi-Wan Kenobi?",
+    "options": ["Yoda", "Qui-Gon Jinn", "Mace Windu", "Luke"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0047",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "Who trained Anakin Skywalker?",
+    "options": ["Yoda", "Qui-Gon Jinn", "Obi-Wan Kenobi", "Mace Windu"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_e_0048",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What do Jawas collect?",
+    "options": ["Food", "Droids and scrap", "Weapons", "Water"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0049",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What planet has two suns?",
+    "options": ["Hoth", "Endor", "Tatooine", "Naboo"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_e_0050",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What is Kylo Ren's real name?",
+    "options": ["Luke", "Ben Solo", "Anakin", "Han"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0051",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "Who are Kylo Ren's parents?",
+    "options": ["Luke and Leia", "Han and Leia", "Obi-Wan and Leia", "Luke and Padmé"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0052",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What color is Rey's lightsaber at the end?",
+    "options": ["Blue", "Green", "Yellow", "Purple"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_e_0053",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What is BB-8?",
+    "options": ["A droid", "A ship", "A planet", "A weapon"],
+    "answerIndex": 0
+  },
+  {
+    "id": "starwars_e_0054",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What shape is BB-8?",
+    "options": ["Square", "Round ball", "Triangle", "Cylinder"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0055",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "Who is Finn?",
+    "options": ["A Jedi", "A former stormtrooper", "A pilot", "A droid"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0056",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "Who is Poe Dameron?",
+    "options": ["A pilot", "A Jedi", "A stormtrooper", "A droid"],
+    "answerIndex": 0
+  },
+  {
+    "id": "starwars_e_0057",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What is the First Order?",
+    "options": ["Good guys", "Bad guys", "Neutral", "Jedi"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0058",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "Who is the scavenger from Jakku?",
+    "options": ["Leia", "Rey", "Padmé", "Ahsoka"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0059",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What weapon does Chewbacca use?",
+    "options": ["Lightsaber", "Bowcaster", "Blaster", "Rifle"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0060",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What does Han Solo do?",
+    "options": ["Jedi Knight", "Smuggler", "Pilot only", "Bounty hunter"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0061",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What animal does Luke ride on Hoth?",
+    "options": ["Horse", "Tauntaun", "Yeti", "Bantha"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0062",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What are the AT-AT walkers?",
+    "options": ["Ships", "Droids", "Giant walking vehicles", "Weapons"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_e_0063",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What is Darth Maul's lightsaber special feature?",
+    "options": ["It's red", "Double-bladed", "Very long", "It floats"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0064",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What color is Darth Maul's skin?",
+    "options": ["Red and black", "Green", "Blue", "Gray"],
+    "answerIndex": 0
+  },
+  {
+    "id": "starwars_e_0065",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What is the Clone Army?",
+    "options": ["Droids", "Clone soldiers", "Jedi", "Aliens"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0066",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "Who are the clones based on?",
+    "options": ["Anakin", "Obi-Wan", "Jango Fett", "Yoda"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_e_0067",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What is the Trade Federation?",
+    "options": ["Good guys", "Bad guys", "Neutral traders", "Jedi"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0068",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What is Count Dooku?",
+    "options": ["Jedi", "Sith", "Clone", "Droid"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0069",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What is General Grievous?",
+    "options": ["Human", "Droid", "Cyborg", "Alien"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_e_0070",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "How many lightsabers can General Grievous use?",
+    "options": ["1", "2", "3", "4"],
+    "answerIndex": 3
+  },
+  {
+    "id": "starwars_e_0071",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What planet is the capital of the Republic?",
+    "options": ["Naboo", "Tatooine", "Coruscant", "Alderaan"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_e_0072",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What is the Jedi Temple?",
+    "options": ["A school", "A church", "Jedi headquarters", "A library"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_e_0073",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What weapon do stormtroopers use?",
+    "options": ["Lightsaber", "Blaster", "Sword", "Bow"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0074",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "Who is the Supreme Leader of the First Order?",
+    "options": ["Kylo Ren", "Snoke", "Hux", "Phasma"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0075",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What planet was destroyed by the Death Star?",
+    "options": ["Naboo", "Tatooine", "Alderaan", "Hoth"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_e_0076",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "Who is Boba Fett?",
+    "options": ["Jedi", "Bounty hunter", "Pilot", "Clone"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0077",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What is special about Mandalorian armor?",
+    "options": ["It's red", "Very strong", "It flies", "It's invisible"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0078",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What do you become when you turn to the dark side?",
+    "options": ["Jedi", "Sith", "Clone", "Droid"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0079",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What is the dark side of the Force?",
+    "options": ["Good", "Evil", "Neutral", "Mysterious"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0080",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What emotion leads to the dark side?",
+    "options": ["Love", "Joy", "Fear and anger", "Sadness"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_e_0081",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "Can droids use the Force?",
+    "options": ["Yes", "No", "Sometimes", "Only special ones"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0082",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What is hyperspace?",
+    "options": ["A planet", "Fast space travel", "A weapon", "A force power"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0083",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What is the Resistance fighting against?",
+    "options": ["Empire", "First Order", "Republic", "Jedi"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0084",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "Who leads the Resistance?",
+    "options": ["Rey", "Leia", "Poe", "Finn"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0085",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What is The Mandalorian's nickname?",
+    "options": ["Boba", "Mando", "Hunter", "Bounty"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0086",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What is Baby Yoda's real name?",
+    "options": ["Yoda", "Grogu", "Yodling", "Yaddle"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0087",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What color is the Mandalorian's armor?",
+    "options": ["Black", "Silver", "Gold", "Blue"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0088",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What does the Mandalorian do for work?",
+    "options": ["Jedi", "Bounty hunter", "Pilot", "Soldier"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0089",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "Can Grogu use the Force?",
+    "options": ["Yes", "No", "Sometimes", "Not yet"],
+    "answerIndex": 0
+  },
+  {
+    "id": "starwars_e_0090",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What weapon does Ahsoka Tano use?",
+    "options": ["Blaster", "Two lightsabers", "Bow", "Staff"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0091",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What color are Ahsoka's lightsabers?",
+    "options": ["Blue and green", "White", "Blue", "Green"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0092",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What species is Ahsoka?",
+    "options": ["Human", "Togruta", "Twi'lek", "Zabrak"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0093",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What planet do Wookiees come from?",
+    "options": ["Tatooine", "Kashyyyk", "Endor", "Naboo"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0094",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What is a Padawan?",
+    "options": ["A master Jedi", "A Jedi in training", "A Sith", "A planet"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0095",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What do you call a fully trained Jedi?",
+    "options": ["Master", "Jedi Knight", "Padawan", "Grandmaster"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0096",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What is a lightsaber made of?",
+    "options": ["Metal", "Plasma/energy", "Light", "Crystal light"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0097",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "Can a lightsaber cut through anything?",
+    "options": ["Yes", "No, some materials resist it", "Only metal", "Only organic things"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0098",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What is the Sarlacc?",
+    "options": ["A ship", "A desert monster", "A droid", "A weapon"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0099",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "What is the Rancor?",
+    "options": ["A ship", "A large monster", "A droid", "A weapon"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_e_0100",
+    "category": "starwars",
+    "difficulty": "easy",
+    "question": "Who owns the Rancor in Jabba's palace?",
+    "options": ["Boba Fett", "Jabba the Hutt", "Leia", "Han Solo"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0001",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What is Darth Vader's real first name?",
+    "options": ["Luke", "Anakin", "Ben", "Owen"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0002",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "Who is Padmé Amidala?",
+    "options": ["Queen then Senator", "Just a queen", "Just a senator", "Princess"],
+    "answerIndex": 0
+  },
+  {
+    "id": "starwars_m_0003",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "Who are Luke and Leia's mother?",
+    "options": ["Shmi", "Padmé", "Breha", "Mon Mothma"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0004",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What is Obi-Wan's nickname for Anakin?",
+    "options": ["Padawan", "Young one", "Ani", "Skywalker"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_m_0005",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What is Order 66?",
+    "options": ["Attack the Jedi", "Defend the Republic", "Retreat", "Protect the Emperor"],
+    "answerIndex": 0
+  },
+  {
+    "id": "starwars_m_0006",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What council does Yoda lead?",
+    "options": ["Senate", "Jedi Council", "Republic Council", "War Council"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0007",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What is the Separatist droid army leader's name?",
+    "options": ["Count Dooku", "General Grievous", "Darth Sidious", "Battle Droid"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0008",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What is Chancellor Palpatine's Sith name?",
+    "options": ["Darth Vader", "Darth Sidious", "Darth Tyranus", "Darth Maul"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0009",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What is Count Dooku's Sith name?",
+    "options": ["Darth Sidious", "Darth Vader", "Darth Tyranus", "Darth Maul"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_m_0010",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "Who is Anakin's Padawan?",
+    "options": ["Luke", "Ahsoka Tano", "Obi-Wan", "No one"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0011",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What is the weapon of a Tusken Raider?",
+    "options": ["Blaster", "Gaderffii stick", "Spear", "Club"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0012",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What is the Trade Federation blockading at the start of Episode I?",
+    "options": ["Tatooine", "Naboo", "Coruscant", "Alderaan"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0013",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What is the Gungan city called?",
+    "options": ["Theed", "Otoh Gunga", "Gungan City", "Naboo City"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0014",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "Who is Jar Jar Binks?",
+    "options": ["Human", "Gungan", "Ewok", "Wookiee"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0015",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What is a midi-chlorian?",
+    "options": ["A ship", "Microscopic life form in blood", "A weapon", "A planet"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0016",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What is Anakin's pod racer number?",
+    "options": ["1", "7", "11", "The number varies"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_m_0017",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "Who owns Anakin as a slave?",
+    "options": ["Jabba", "Watto", "A Hutt", "No one"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0018",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What did young Anakin build?",
+    "options": ["A ship", "C-3PO", "A lightsaber", "A pod racer"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0019",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What is the Clone Wars?",
+    "options": ["Civil war", "War with clones and droids", "Galactic war", "Rebellion"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0020",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "Who created the clone army?",
+    "options": ["Jedi", "Kaminoans", "Republic", "Palpatine secretly"],
+    "answerIndex": 3
+  },
+  {
+    "id": "starwars_m_0021",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What planet are the clones created on?",
+    "options": ["Coruscant", "Kamino", "Geonosis", "Naboo"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0022",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "Who is Jango Fett's son?",
+    "options": ["Boba Fett", "No son", "Rex", "Cody"],
+    "answerIndex": 0
+  },
+  {
+    "id": "starwars_m_0023",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What is special about Boba Fett?",
+    "options": ["He's a Jedi", "Unaltered clone", "Force sensitive", "A droid"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0024",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What planet has the droid factories?",
+    "options": ["Kamino", "Geonosis", "Mustafar", "Utapau"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0025",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What is the first battle of the Clone Wars?",
+    "options": ["Battle of Naboo", "Battle of Geonosis", "Battle of Coruscant", "Battle of Kamino"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0026",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "Who killed Qui-Gon Jinn?",
+    "options": ["Count Dooku", "General Grievous", "Darth Maul", "Darth Vader"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_m_0027",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "Who killed Darth Maul in Episode I?",
+    "options": ["Qui-Gon", "Obi-Wan", "Anakin", "Yoda"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0028",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What is the Rule of Two?",
+    "options": ["Two Jedi", "Only two Sith at a time", "Two lightsabers", "Two apprentices"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0029",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "Who are the two Sith in Episode I?",
+    "options": ["Sidious and Vader", "Sidious and Maul", "Sidious and Tyranus", "Maul and Tyranus"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0030",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What planet is the Wookiee homeworld?",
+    "options": ["Endor", "Kashyyyk", "Tatooine", "Hoth"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0031",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "Where does Anakin fight Obi-Wan?",
+    "options": ["Tatooine", "Mustafar", "Coruscant", "Geonosis"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0032",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What planet is covered in lava?",
+    "options": ["Tatooine", "Mustafar", "Geonosis", "Sullust"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0033",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "How does Anakin get his suit?",
+    "options": ["Born with it", "Badly burned", "Fashion choice", "Gift"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0034",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "Who saves Anakin on Mustafar?",
+    "options": ["Obi-Wan", "Palpatine", "Padmé", "Yoda"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0035",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "Who adopts Leia?",
+    "options": ["Obi-Wan", "Organa family", "Owen and Beru", "Yoda"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0036",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "Who raises Luke?",
+    "options": ["Obi-Wan", "Yoda", "Owen and Beru Lars", "Bail Organa"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_m_0037",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What is Leia's fake last name?",
+    "options": ["Skywalker", "Organa", "Amidala", "Solo"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0038",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What does the Empire replace the Republic?",
+    "options": ["Democracy", "Dictatorship", "Monarchy", "Council"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0039",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "Who destroys the first Death Star?",
+    "options": ["Han Solo", "Luke Skywalker", "Leia", "Obi-Wan"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0040",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What is the Rebel base on Hoth called?",
+    "options": ["Ice Base", "Echo Base", "Hoth Base", "Cold Base"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0041",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What does AT-AT stand for?",
+    "options": ["Armed Terrain Armored Transport", "All Terrain Armored Transport", "Attack Transport Armored Tank", "All Terrain Attack Transport"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0042",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What creature attacks Luke on Hoth?",
+    "options": ["Tauntaun", "Wampa", "Yeti", "Ice Monster"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0043",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "Who appears as a ghost to Luke on Hoth?",
+    "options": ["Yoda", "Anakin", "Obi-Wan", "Qui-Gon"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_m_0044",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What city is in the clouds?",
+    "options": ["Sky City", "Cloud City", "Bespin", "Mining Colony"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0045",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "Who runs Cloud City?",
+    "options": ["Han Solo", "Lando Calrissian", "Boba Fett", "Vader"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0046",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What happens to Han Solo at the end of Empire?",
+    "options": ["Dies", "Frozen in carbonite", "Escapes", "Captured"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0047",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "Who takes Han Solo in carbonite?",
+    "options": ["Vader", "Boba Fett", "Jabba", "Stormtroopers"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0048",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "Where does Boba Fett take Han?",
+    "options": ["Death Star", "Jabba's Palace", "Tatooine prison", "Empire"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0049",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "Who infiltrates Jabba's palace as a bounty hunter?",
+    "options": ["Luke", "Leia", "Lando", "Chewie"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0050",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "Who kills Jabba the Hutt?",
+    "options": ["Luke", "Han", "Leia", "Chewbacca"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_m_0051",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What is the second Death Star's status?",
+    "options": ["Complete", "Under construction", "Destroyed", "Abandoned"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0052",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What moon has the shield generator?",
+    "options": ["Endor", "Yavin", "Hoth", "Tatooine's moon"],
+    "answerIndex": 0
+  },
+  {
+    "id": "starwars_m_0053",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "Who helps destroy the shield generator?",
+    "options": ["Ewoks", "Wookiees", "Gungans", "Jawas"],
+    "answerIndex": 0
+  },
+  {
+    "id": "starwars_m_0054",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "Who redeems Darth Vader?",
+    "options": ["Leia", "Luke", "Obi-Wan", "Yoda"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0055",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "Who kills Emperor Palpatine in Return of the Jedi?",
+    "options": ["Luke", "Vader", "Leia", "No one"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0056",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "Who destroys the second Death Star?",
+    "options": ["Luke", "Lando", "Han", "Wedge"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0057",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What happens to Anakin at the end of Return of the Jedi?",
+    "options": ["Lives", "Dies redeemed", "Stays evil", "Disappears"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0058",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "Who are the Force ghosts at the end?",
+    "options": ["Obi-Wan, Yoda, Anakin", "Just Obi-Wan", "Yoda and Qui-Gon", "All the Jedi"],
+    "answerIndex": 0
+  },
+  {
+    "id": "starwars_m_0059",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What is Kylo Ren's weapon?",
+    "options": ["Normal lightsaber", "Crossguard lightsaber", "Double-bladed", "No lightsaber"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0060",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What makes Kylo's lightsaber special?",
+    "options": ["It's red", "Unstable with crossguards", "Very long", "Double blade"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0061",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "Who trained Kylo Ren?",
+    "options": ["Luke Skywalker", "Snoke", "Both Luke then Snoke", "Han Solo"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_m_0062",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What is Starkiller Base?",
+    "options": ["A ship", "Planet weapon", "Space station", "Death Star 3"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0063",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What does Starkiller Base destroy?",
+    "options": ["One planet", "Multiple planets", "A sun", "Moons"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0064",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "Who destroys Starkiller Base?",
+    "options": ["Rey", "Poe and resistance", "Luke", "Kylo"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0065",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What happens to Han Solo in Force Awakens?",
+    "options": ["Retires", "Dies", "Captured", "Escapes"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0066",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "Who kills Han Solo?",
+    "options": ["Snoke", "Kylo Ren", "Stormtrooper", "Hux"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0067",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "Where does Rey find Luke?",
+    "options": ["Tatooine", "Dagobah", "Ahch-To", "Jakku"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_m_0068",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What is Luke doing when Rey finds him?",
+    "options": ["Training", "Hiding in exile", "Fighting", "Meditating"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0069",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What creatures live on Luke's island?",
+    "options": ["Ewoks", "Porgs", "Wookiees", "Jawas"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0070",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "Who are the Praetorian Guards?",
+    "options": ["Stormtroopers", "Snoke's elite guards", "Kylo's guards", "First Order soldiers"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0071",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "Who kills Supreme Leader Snoke?",
+    "options": ["Rey", "Luke", "Kylo Ren", "Hux"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_m_0072",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What planet has the battle with AT-M6 walkers?",
+    "options": ["Hoth", "Endor", "Crait", "Tatooine"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_m_0073",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What is special about Crait?",
+    "options": ["Ice planet", "Salt planet with red soil", "Desert", "Ocean world"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0074",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "How does Luke appear on Crait?",
+    "options": ["He flies there", "Force projection", "Hologram", "He doesn't"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0075",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What happens to Luke at the end of Last Jedi?",
+    "options": ["Lives", "Becomes one with Force", "captured", "Escapes"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0076",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "Who leads the First Order after Snoke?",
+    "options": ["Hux", "Kylo Ren", "Phasma", "Pryde"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0077",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "Who is revealed to be Palpatine's granddaughter?",
+    "options": ["Leia", "Rey", "Jannah", "No one"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0078",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "Who returns in Rise of Skywalker?",
+    "options": ["Vader", "Emperor Palpatine", "Snoke", "Maul"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0079",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What is Palpatine's secret fleet called?",
+    "options": ["Final Order", "First Order", "Empire", "Sith Fleet"],
+    "answerIndex": 0
+  },
+  {
+    "id": "starwars_m_0080",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "Where is Palpatine hiding?",
+    "options": ["Death Star", "Exegol", "Coruscant", "Mustafar"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0081",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What does Rey do at the end of Rise of Skywalker?",
+    "options": ["Dies", "Lives and takes Skywalker name", "Becomes a Sith", "Disappears"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0082",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "Who helps Rey defeat Palpatine?",
+    "options": ["Kylo", "Spirits of past Jedi", "Finn", "Poe"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0083",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What is Ben Solo's fate?",
+    "options": ["Lives", "Dies saving Rey", "Stays evil", "Captured"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0084",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What is the Mandalorian's real name?",
+    "options": ["Boba", "Din Djarin", "Mando", "Never revealed"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0085",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What is the Mandalorian's ship called?",
+    "options": ["Razor Crest", "Slave I", "Falcon", "Star Cruiser"],
+    "answerIndex": 0
+  },
+  {
+    "id": "starwars_m_0086",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What weapon does the Mandalorian use?",
+    "options": ["Lightsaber", "Blaster and various weapons", "Bowcaster", "Staff"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0087",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What is Grogu's age?",
+    "options": ["5 years old", "10 years old", "50 years old", "100 years old"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_m_0088",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What is the Darksaber?",
+    "options": ["Red lightsaber", "Black-bladed lightsaber", "Double blade", "Broken saber"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0089",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "Who created the Darksaber?",
+    "options": ["Sith", "First Mandalorian Jedi", "Palpatine", "Darth Maul"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0090",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What material can resist lightsabers?",
+    "options": ["Nothing", "Beskar", "Durasteel", "Cortosis"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0091",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What is special about Beskar?",
+    "options": ["Lightsaber resistant", "Very strong", "Mandalorian metal", "All of these"],
+    "answerIndex": 3
+  },
+  {
+    "id": "starwars_m_0092",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "Who takes Grogu to train him?",
+    "options": ["Yoda", "Ahsoka", "Luke Skywalker", "Mace Windu"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_m_0093",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What is Boba Fett's ship called?",
+    "options": ["Slave I", "Slave II", "Bounty Hunter", "Firespray"],
+    "answerIndex": 0
+  },
+  {
+    "id": "starwars_m_0094",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "Who is Fennec Shand?",
+    "options": ["Jedi", "Assassin", "Pilot", "Droid"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0095",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What color are Ahsoka Tano's lightsabers originally?",
+    "options": ["Green", "Blue", "White", "Yellow"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0096",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "Why are Ahsoka's sabers white later?",
+    "options": ["She painted them", "Purified corrupted crystals", "New crystals", "Gift from Anakin"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0097",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What species is Grand Admiral Thrawn?",
+    "options": ["Human", "Chiss", "Twi'lek", "Zabrak"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0098",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What color is Thrawn's skin?",
+    "options": ["Red", "Blue", "Green", "Gray"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0099",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What are kyber crystals?",
+    "options": ["Jewelry", "Power source for lightsabers", "Currency", "Decorations"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_m_0100",
+    "category": "starwars",
+    "difficulty": "medium",
+    "question": "What determines a lightsaber's color?",
+    "options": ["Random", "The kyber crystal and Force connection", "User's choice", "Weapon type"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_h_0001",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What year was the first Star Wars movie released?",
+    "options": ["1975", "1976", "1977", "1978"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_h_0002",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What was the original title of A New Hope?",
+    "options": ["Star Wars Episode IV", "Star Wars", "A New Hope", "The Star Wars"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_h_0003",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "Who created Star Wars?",
+    "options": ["Steven Spielberg", "George Lucas", "J.J. Abrams", "James Cameron"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_h_0004",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is Darth Vader's full Sith title?",
+    "options": ["Lord Vader", "Darth Vader, Dark Lord of the Sith", "Sith Lord Vader", "Supreme Commander Vader"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_h_0005",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "How many midi-chlorians does Anakin have?",
+    "options": ["15,000", "20,000", "Over 20,000", "10,000"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_h_0006",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is Obi-Wan's fake name on Tatooine?",
+    "options": ["Ben", "Ben Kenobi", "Old Ben", "All of these"],
+    "answerIndex": 3
+  },
+  {
+    "id": "starwars_h_0007",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is the Millennium Falcon's model?",
+    "options": ["X-70", "YT-1300", "YT-2400", "YT-1000"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_h_0008",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is the Kessel Run distance Han claims?",
+    "options": ["Less than 12 parsecs", "Less than 14 parsecs", "10 parsecs", "Less than 15 parsecs"],
+    "answerIndex": 0
+  },
+  {
+    "id": "starwars_h_0009",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is a parsec?",
+    "options": ["Time measurement", "Distance measurement", "Speed measurement", "Both time and distance"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_h_0010",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "How many forms of lightsaber combat are there?",
+    "options": ["5", "7", "10", "12"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_h_0011",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is Obi-Wan's lightsaber form?",
+    "options": ["Form I", "Form III (Soresu)", "Form V", "Form VII"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_h_0012",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is Anakin's lightsaber form?",
+    "options": ["Form IV", "Form V (Djem So)", "Form VII", "Form III"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_h_0013",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is Darth Maul's lightsaber form?",
+    "options": ["Form VII (Juyo)", "Form VI", "Form V", "Form IV"],
+    "answerIndex": 0
+  },
+  {
+    "id": "starwars_h_0014",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is the most aggressive lightsaber form?",
+    "options": ["Form V", "Form VI", "Form VII (Juyo/Vaapad)", "Form IV"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_h_0015",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "Who invented Form VII Vaapad?",
+    "options": ["Yoda", "Mace Windu", "Anakin", "Obi-Wan"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_h_0016",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is the Jedi Code's first line?",
+    "options": ["There is no emotion", "Peace is a lie", "A Jedi uses the Force", "I am one with the Force"],
+    "answerIndex": 0
+  },
+  {
+    "id": "starwars_h_0017",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is the Sith Code's first line?",
+    "options": ["There is no peace", "Peace is a lie", "Through passion I gain strength", "The dark side is power"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_h_0018",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "How many members are on the Jedi Council?",
+    "options": ["10", "12", "15", "20"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_h_0019",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What planet is the Jedi Temple on?",
+    "options": ["Naboo", "Coruscant", "Alderaan", "Chandrila"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_h_0020",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What Sith temple is under the Jedi Temple?",
+    "options": ["None", "Ancient Sith shrine", "Darth Bane's tomb", "Palpatine's lair"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_h_0021",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is the Galactic Republic's capital?",
+    "options": ["Naboo", "Alderaan", "Coruscant", "Chandrila"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_h_0022",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is the Senate building called?",
+    "options": ["The Senate", "Senate Rotunda", "Republic Tower", "Government Plaza"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_h_0023",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "How many levels does Coruscant have?",
+    "options": ["1000", "5000", "Thousands", "Unknown exact number"],
+    "answerIndex": 3
+  },
+  {
+    "id": "starwars_h_0024",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is the lowest level of Coruscant called?",
+    "options": ["The Underground", "Level 0", "The Underworld", "The Depths"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_h_0025",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What species is Yoda?",
+    "options": ["Unknown", "Yoda species", "Ancient species", "The species has no name"],
+    "answerIndex": 0
+  },
+  {
+    "id": "starwars_h_0026",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "How old is Yoda when he dies?",
+    "options": ["800", "850", "900", "950"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_h_0027",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "Who trained Yoda?",
+    "options": ["No one", "Unknown ancient Jedi", "N'Kata Del Gormo", "Not revealed in films"],
+    "answerIndex": 3
+  },
+  {
+    "id": "starwars_h_0028",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is Count Dooku's first name?",
+    "options": ["Christopher", "Dooku", "His title IS Count", "Never revealed"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_h_0029",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "Who trained Count Dooku?",
+    "options": ["Palpatine", "Yoda", "Both Yoda then Palpatine", "Qui-Gon"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_h_0030",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "Who did Count Dooku train?",
+    "options": ["Anakin", "Qui-Gon Jinn", "Obi-Wan", "General Grievous"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_h_0031",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is the name of Dooku's lightsaber hilt style?",
+    "options": ["Straight", "Curved", "Double", "Standard"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_h_0032",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What species is Darth Maul?",
+    "options": ["Sith Pureblood", "Zabrak", "Dathomirian", "Nightbrother"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_h_0033",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What planet is Darth Maul from?",
+    "options": ["Iridonia", "Dathomir", "Mustafar", "Korriban"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_h_0034",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is Darth Maul's real name?",
+    "options": ["Maul", "Just Maul", "Never revealed", "Maul is his birth name"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_h_0035",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "Who trained Darth Maul?",
+    "options": ["Darth Sidious", "Count Dooku", "Darth Plagueis", "Mother Talzin"],
+    "answerIndex": 0
+  },
+  {
+    "id": "starwars_h_0036",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is General Grievous's species originally?",
+    "options": ["Droid", "Kaleesh", "Cyborg species", "Unknown"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_h_0037",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "How did Grievous become a cyborg?",
+    "options": ["Born that way", "Accident", "Chosen modification", "Ship crash arranged by Dooku"],
+    "answerIndex": 3
+  },
+  {
+    "id": "starwars_h_0038",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "Can General Grievous use the Force?",
+    "options": ["Yes", "No", "Partially", "With technology"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_h_0039",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "Who killed General Grievous?",
+    "options": ["Anakin", "Obi-Wan Kenobi", "Yoda", "Clone troopers"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_h_0040",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What planet does Obi-Wan kill Grievous on?",
+    "options": ["Geonosis", "Mustafar", "Utapau", "Mygeeto"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_h_0041",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is the name of the Clone Wars animated series creator?",
+    "options": ["George Lucas", "Dave Filoni", "J.J. Abrams", "Jon Favreau"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_h_0042",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is Captain Rex's CT number?",
+    "options": ["CT-7567", "CT-5555", "CT-2187", "CT-1138"],
+    "answerIndex": 0
+  },
+  {
+    "id": "starwars_h_0043",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What clone battalion has blue markings?",
+    "options": ["212th", "501st", "91st", "104th"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_h_0044",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is Anakin's 501st nickname?",
+    "options": ["Vader's Fist", "Skywalker's Legion", "Blue Battalion", "Clone Force"],
+    "answerIndex": 0
+  },
+  {
+    "id": "starwars_h_0045",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What battalion does Obi-Wan command?",
+    "options": ["501st", "212th Attack Battalion", "104th", "327th"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_h_0046",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is Commander Cody's CT number?",
+    "options": ["CT-2224", "CT-7567", "CT-5555", "CT-1138"],
+    "answerIndex": 0
+  },
+  {
+    "id": "starwars_h_0047",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What species is Ahsoka Tano?",
+    "options": ["Human", "Togruta", "Twi'lek", "Zabrak"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_h_0048",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What are Ahsoka's head appendages called?",
+    "options": ["Lekku", "Montrals", "Both lekku and montrals", "Horns"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_h_0049",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "Why did Ahsoka leave the Jedi Order?",
+    "options": ["Turned dark", "Falsely accused", "Disagreed with Council", "To help Mandalore"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_h_0050",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is Ahsoka's nickname?",
+    "options": ["Snips", "Soka", "Ash", "Young one"],
+    "answerIndex": 0
+  },
+  {
+    "id": "starwars_h_0051",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is the World Between Worlds?",
+    "options": ["A planet", "Dimension connecting time/space", "Force realm", "Hyperspace route"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_h_0052",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "Who found the World Between Worlds?",
+    "options": ["Ahsoka", "Ezra Bridger", "Luke", "Yoda"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_h_0053",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is Mortis?",
+    "options": ["Planet", "Realm in the Force", "Space station", "Ancient temple"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_h_0054",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "Who are the Mortis Gods?",
+    "options": ["Ancient Sith", "Father, Son, Daughter", "Force beings", "Both B and C"],
+    "answerIndex": 3
+  },
+  {
+    "id": "starwars_h_0055",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What does the Son represent?",
+    "options": ["Light side", "Dark side", "Balance", "Chaos"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_h_0056",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What does the Daughter represent?",
+    "options": ["Dark side", "Light side", "Balance", "Order"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_h_0057",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is the Chosen One prophecy?",
+    "options": ["Destroy the Sith", "Bring balance to Force", "Rule galaxy", "Rebuild Jedi"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_h_0058",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "Who is the Chosen One?",
+    "options": ["Luke", "Anakin Skywalker", "Rey", "Unclear"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_h_0059",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is the Prophecy of the Chosen One from?",
+    "options": ["Ancient Jedi texts", "Sith prophecy", "Whills", "Unknown origin"],
+    "answerIndex": 0
+  },
+  {
+    "id": "starwars_h_0060",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What are the Whills?",
+    "options": ["Ancient species", "Force-sensitive beings", "Chroniclers of the Force", "Mysterious cosmic entities"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_h_0061",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is a Force dyad?",
+    "options": ["Two Force users", "Force bond", "Two Force users as one in Force", "Master and apprentice"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_h_0062",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "Who are the dyad in the sequel trilogy?",
+    "options": ["Rey and Finn", "Rey and Kylo", "Luke and Leia", "Kylo and Luke"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_h_0063",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is Force healing?",
+    "options": ["Healing wounds with Force", "Healing diseases", "Bringing back from death", "All healing abilities"],
+    "answerIndex": 0
+  },
+  {
+    "id": "starwars_h_0064",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "Can Force healing bring people back from death?",
+    "options": ["Yes", "No", "Only immediately after death", "With life force transfer"],
+    "answerIndex": 3
+  },
+  {
+    "id": "starwars_h_0065",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is the ancient Sith homeworld?",
+    "options": ["Korriban/Moraband", "Exegol", "Dromund Kaas", "Mustafar"],
+    "answerIndex": 0
+  },
+  {
+    "id": "starwars_h_0066",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is the secret Sith planet in Rise of Skywalker?",
+    "options": ["Korriban", "Exegol", "Moraband", "Ziost"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_h_0067",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "How many Star Destroyers does Palpatine's Final Order have?",
+    "options": ["100", "1000", "10,000", "Over 1000"],
+    "answerIndex": 3
+  },
+  {
+    "id": "starwars_h_0068",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is special about Final Order Star Destroyers?",
+    "options": ["Bigger", "Planet-destroying weapons", "Red color", "Cloaking"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_h_0069",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is the ancient Jedi temple planet?",
+    "options": ["Coruscant", "Ahch-To", "Both have temples", "Jedha"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_h_0070",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is Jedha known for?",
+    "options": ["Jedi temple", "Kyber crystals", "Force pilgrimage site", "All of these"],
+    "answerIndex": 3
+  },
+  {
+    "id": "starwars_h_0071",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What partially destroys Jedha?",
+    "options": ["Empire", "Death Star test", "Civil war", "Natural disaster"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_h_0072",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is the name of the Death Star plans mission?",
+    "options": ["Operation Stardust", "Rogue One", "Project Stardust", "Scarif Mission"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_h_0073",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "Who designed the Death Star?",
+    "options": ["Tarkin", "Palpatine", "Galen Erso", "Krennic"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_h_0074",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is the Death Star's weakness?",
+    "options": ["Thermal exhaust port", "Reactor flaw", "Intentional weakness by Galen", "All of these"],
+    "answerIndex": 3
+  },
+  {
+    "id": "starwars_h_0075",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "Who is Jyn Erso?",
+    "options": ["Rebel soldier", "Galen Erso's daughter", "Rogue One leader", "All of these"],
+    "answerIndex": 3
+  },
+  {
+    "id": "starwars_h_0076",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What droid helps in Rogue One?",
+    "options": ["R2-D2", "C-3PO", "K-2SO", "BB-8"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_h_0077",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What happens to the Rogue One crew?",
+    "options": ["They survive", "All die heroes", "Some survive", "Captured"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_h_0078",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is the blind warrior's name in Rogue One?",
+    "options": ["Baze Malbus", "Chirrut Îmwe", "Saw Gerrera", "Bodhi Rook"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_h_0079",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is Chirrut's mantra?",
+    "options": ["May the Force be with you", "I am one with the Force", "Trust in the Force", "The Force guides me"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_h_0080",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is a Star Destroyer's length approximately?",
+    "options": ["500 meters", "900 meters", "1,600 meters", "2,000 meters"],
+    "answerIndex": 2
+  },
+  {
+    "id": "starwars_h_0081",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is a Super Star Destroyer's name?",
+    "options": ["Executor-class", "Imperial-class", "Victory-class", "Venator-class"],
+    "answerIndex": 0
+  },
+  {
+    "id": "starwars_h_0082",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is Vader's flagship?",
+    "options": ["Devastator", "Executor", "Avenger", "Chimaera"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_h_0083",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "How long is the Executor?",
+    "options": ["5km", "19km", "8km", "12km"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_h_0084",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What class is the Millennium Falcon?",
+    "options": ["Corellian freighter", "YT-1300 light freighter", "Smuggler ship", "Modified freighter"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_h_0085",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "Who owned the Falcon before Han?",
+    "options": ["Lando Calrissian", "Unknown smuggler", "Han stole it", "Lando lost it gambling"],
+    "answerIndex": 0
+  },
+  {
+    "id": "starwars_h_0086",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is the Razor Crest's fate?",
+    "options": ["Still flying", "Destroyed", "Abandoned", "Lost"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_h_0087",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What destroyed the Razor Crest?",
+    "options": ["First Order", "Moff Gideon's cruiser", "Pirates", "Accident"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_h_0088",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is Moff Gideon's weapon?",
+    "options": ["Blaster", "Darksaber", "Lightsaber", "Staff"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_h_0089",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "Who wins the Darksaber from Gideon?",
+    "options": ["Bo-Katan", "Din Djarin", "Ahsoka", "Luke"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_h_0090",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is the rule for wielding the Darksaber?",
+    "options": ["Be Mandalorian", "Win it in combat", "Be Force sensitive", "No special rule"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_h_0091",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is the first rule of Mandalorian culture Din follows?",
+    "options": ["Never remove helmet", "Protect foundlings", "Strength above all", "Loyalty to clan"],
+    "answerIndex": 0
+  },
+  {
+    "id": "starwars_h_0092",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is Din Djarin's creed?",
+    "options": ["This is the Way", "Mandalorians never surrender", "Strength and honor", "For Mandalore"],
+    "answerIndex": 0
+  },
+  {
+    "id": "starwars_h_0093",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is a foundling?",
+    "options": ["Orphan adopted by Mandalorians", "Lost Mandalorian", "Exile", "New recruit"],
+    "answerIndex": 0
+  },
+  {
+    "id": "starwars_h_0094",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "Who is Bo-Katan Kryze?",
+    "options": ["Mandalorian leader", "Former ruler of Mandalore", "Death Watch member", "All of these"],
+    "answerIndex": 3
+  },
+  {
+    "id": "starwars_h_0095",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What happened to Mandalore?",
+    "options": ["Destroyed", "Empire purged it", "Civil war", "Abandoned"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_h_0096",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is the Great Purge?",
+    "options": ["Sith purge", "Empire's attack on Mandalore", "Jedi extinction", "Clone purge"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_h_0097",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is the Living Waters of Mandalore?",
+    "options": ["Healing spring", "Sacred Mandalorian site", "Myth", "Redemption ritual site"],
+    "answerIndex": 3
+  },
+  {
+    "id": "starwars_h_0098",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What creature lives in the Living Waters?",
+    "options": ["Dragon", "Mythosaur", "Sea monster", "Nothing"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_h_0099",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is the Mythosaur?",
+    "options": ["Myth", "Ancient Mandalorian beast", "Dragon", "Extinct creature"],
+    "answerIndex": 1
+  },
+  {
+    "id": "starwars_h_0100",
+    "category": "starwars",
+    "difficulty": "hard",
+    "question": "What is the Armorer's role?",
+    "options": ["Leader", "Makes Mandalorian armor", "Warrior", "All of these"],
+    "answerIndex": 1
+  }
+]

@@ -14,12 +14,12 @@ export const SetupScreen: React.FC<SetupScreenProps> = ({
   onBack,
 }) => {
   const [questionsPerPlayer, setQuestionsPerPlayer] = useState<10 | 20 | 30 | 50>(10);
-  const [categories, setCategories] = useState<('animals' | 'pokemon' | 'prehistoric' | 'comics')[]>(['animals']);
+  const [categories, setCategories] = useState<('animals' | 'pokemon' | 'prehistoric' | 'comics' | 'disney' | 'mario' | 'starwars' | 'harrypotter' | 'minecraft' | 'dragonballz')[]>(['animals']);
   const [scaleByAge, setScaleByAge] = useState<boolean>(false);
 
   const questionOptions: Array<10 | 20 | 30 | 50> = [10, 20, 30, 50];
 
-  const toggleCategory = (category: 'animals' | 'pokemon' | 'prehistoric' | 'comics') => {
+  const toggleCategory = (category: 'animals' | 'pokemon' | 'prehistoric' | 'comics' | 'disney' | 'mario' | 'starwars' | 'harrypotter' | 'minecraft' | 'dragonballz') => {
     if (categories.includes(category)) {
       // Don't allow deselecting if it's the only one selected
       if (categories.length > 1) {
@@ -102,6 +102,42 @@ export const SetupScreen: React.FC<SetupScreenProps> = ({
               onClick={() => toggleCategory('comics')}
             >
               🦸 Comics
+            </button>
+            <button
+              className={`category-option ${categories.includes('disney') ? 'selected' : ''}`}
+              onClick={() => toggleCategory('disney')}
+            >
+              🏰 Disney
+            </button>
+            <button
+              className={`category-option ${categories.includes('mario') ? 'selected' : ''}`}
+              onClick={() => toggleCategory('mario')}
+            >
+              🍄 Mario
+            </button>
+            <button
+              className={`category-option ${categories.includes('starwars') ? 'selected' : ''}`}
+              onClick={() => toggleCategory('starwars')}
+            >
+              ⭐ Star Wars
+            </button>
+            <button
+              className={`category-option ${categories.includes('harrypotter') ? 'selected' : ''}`}
+              onClick={() => toggleCategory('harrypotter')}
+            >
+              ⚡ Harry Potter
+            </button>
+            <button
+              className={`category-option ${categories.includes('minecraft') ? 'selected' : ''}`}
+              onClick={() => toggleCategory('minecraft')}
+            >
+              🧱 Minecraft
+            </button>
+            <button
+              className={`category-option ${categories.includes('dragonballz') ? 'selected' : ''}`}
+              onClick={() => toggleCategory('dragonballz')}
+            >
+              🐉 Dragon Ball Z
             </button>
           </div>
         </div>

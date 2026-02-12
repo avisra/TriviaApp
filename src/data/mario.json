@@ -1,0 +1,2402 @@
+[
+  {
+    "id": "mario_e_0001",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What color is Mario's hat?",
+    "options": ["Blue", "Green", "Red", "Yellow"],
+    "answerIndex": 2
+  },
+  {
+    "id": "mario_e_0002",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What is Mario's brother's name?",
+    "options": ["Luigi", "Wario", "Waluigi", "Toad"],
+    "answerIndex": 0
+  },
+  {
+    "id": "mario_e_0003",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What color is Luigi's hat?",
+    "options": ["Red", "Green", "Blue", "Yellow"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_e_0004",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "Who is the princess that Mario rescues?",
+    "options": ["Princess Daisy", "Princess Peach", "Princess Zelda", "Princess Rosalina"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_e_0005",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What is the name of the turtle enemy in Mario?",
+    "options": ["Goomba", "Koopa", "Bowser", "Shy Guy"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_e_0006",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What is the name of Mario's main enemy?",
+    "options": ["Wario", "Donkey Kong", "Bowser", "King Boo"],
+    "answerIndex": 2
+  },
+  {
+    "id": "mario_e_0007",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What does Mario collect for points?",
+    "options": ["Stars", "Coins", "Rings", "Gems"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_e_0008",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What makes Mario bigger?",
+    "options": ["Fire Flower", "Super Mushroom", "Star", "1-Up Mushroom"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_e_0009",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What dinosaur is Mario's friend?",
+    "options": ["Bowser", "Yoshi", "Donkey Kong", "Koopa"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_e_0010",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What color is Yoshi?",
+    "options": ["Red", "Blue", "Green", "Yellow"],
+    "answerIndex": 2
+  },
+  {
+    "id": "mario_e_0011",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What is the mushroom character's name?",
+    "options": ["Toad", "Mushroom", "Fungi", "Spotty"],
+    "answerIndex": 0
+  },
+  {
+    "id": "mario_e_0012",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What makes Mario invincible?",
+    "options": ["Fire Flower", "Super Mushroom", "Super Star", "Cape Feather"],
+    "answerIndex": 2
+  },
+  {
+    "id": "mario_e_0013",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What kind of animal is Bowser?",
+    "options": ["Turtle", "Dragon", "Crocodile", "Dinosaur"],
+    "answerIndex": 0
+  },
+  {
+    "id": "mario_e_0014",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What lets Mario throw fireballs?",
+    "options": ["Fire Flower", "Super Mushroom", "Star", "Fire Star"],
+    "answerIndex": 0
+  },
+  {
+    "id": "mario_e_0015",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What is Mario's job?",
+    "options": ["Doctor", "Plumber", "Chef", "Teacher"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_e_0016",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What do you jump on to go underground?",
+    "options": ["Question Block", "Brick", "Pipe", "Door"],
+    "answerIndex": 2
+  },
+  {
+    "id": "mario_e_0017",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What enemy is brown and mushroom-shaped?",
+    "options": ["Koopa", "Goomba", "Shy Guy", "Boo"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_e_0018",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What gives Mario an extra life?",
+    "options": ["Super Mushroom", "Fire Flower", "1-Up Mushroom", "Star"],
+    "answerIndex": 2
+  },
+  {
+    "id": "mario_e_0019",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What should you NOT look at to make Boo move?",
+    "options": ["The ground", "Boo", "The sky", "Your feet"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_e_0020",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What is at the end of most Mario levels?",
+    "options": ["Door", "Pipe", "Flagpole", "Castle"],
+    "answerIndex": 2
+  },
+  {
+    "id": "mario_e_0021",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What blocks have question marks on them?",
+    "options": ["Brick Blocks", "Question Blocks", "Mystery Blocks", "Item Blocks"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_e_0022",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What color are the pipes in Mario games?",
+    "options": ["Red", "Blue", "Green", "Yellow"],
+    "answerIndex": 2
+  },
+  {
+    "id": "mario_e_0023",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What is the name of the ghost enemy?",
+    "options": ["Boo", "Spook", "Ghosty", "Phantom"],
+    "answerIndex": 0
+  },
+  {
+    "id": "mario_e_0024",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What happens when Mario touches a Super Star?",
+    "options": ["He grows bigger", "He shoots fire", "He becomes invincible", "He flies"],
+    "answerIndex": 2
+  },
+  {
+    "id": "mario_e_0025",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What is Bowser's castle usually at the end of?",
+    "options": ["The first level", "The middle of the game", "The final world", "Every world"],
+    "answerIndex": 2
+  },
+  {
+    "id": "mario_e_0026",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What enemy has a shell?",
+    "options": ["Goomba", "Koopa Troopa", "Shy Guy", "Boo"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_e_0027",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What can you ride on water levels?",
+    "options": ["Boat", "Yoshi", "Dolphin", "Platform"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_e_0028",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What enemy wears a mask?",
+    "options": ["Boo", "Shy Guy", "Koopa", "Goomba"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_e_0029",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What kingdom does Princess Peach rule?",
+    "options": ["Mario Kingdom", "Mushroom Kingdom", "Star Kingdom", "Peach Kingdom"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_e_0030",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What do you hit blocks with?",
+    "options": ["Your hand", "Your head", "Your feet", "A hammer"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_e_0031",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What fruit does Yoshi love?",
+    "options": ["Apples", "Bananas", "Melons", "Any fruit"],
+    "answerIndex": 3
+  },
+  {
+    "id": "mario_e_0032",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What is Mario's signature move?",
+    "options": ["Running", "Jumping", "Swimming", "Flying"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_e_0033",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What enemy flies with a cloud?",
+    "options": ["Koopa", "Lakitu", "Paratroopa", "Cheep Cheep"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_e_0034",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What is the red evil version of Mario?",
+    "options": ["Luigi", "Wario", "Waluigi", "Bowser"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_e_0035",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What enemy is a spiky turtle?",
+    "options": ["Koopa", "Spiny", "Lakitu", "Bowser"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_e_0036",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What do you collect to unlock new levels?",
+    "options": ["Coins", "Stars", "Mushrooms", "Flowers"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_e_0037",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What enemy is a fish?",
+    "options": ["Blooper", "Cheep Cheep", "Urchin", "All of these"],
+    "answerIndex": 3
+  },
+  {
+    "id": "mario_e_0038",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What is Mario's mustache color?",
+    "options": ["Red", "Black", "Brown", "Gray"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_e_0039",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What enemy has wings on a Koopa?",
+    "options": ["Flying Koopa", "Paratroopa", "Sky Turtle", "Wing Koopa"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_e_0040",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What blocks can break when you hit them?",
+    "options": ["Question Blocks", "Brick Blocks", "Stone Blocks", "Metal Blocks"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_e_0041",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What is Bowser Jr.'s relationship to Bowser?",
+    "options": ["Brother", "Friend", "Son", "Nephew"],
+    "answerIndex": 2
+  },
+  {
+    "id": "mario_e_0042",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What enemy is a squid?",
+    "options": ["Cheep Cheep", "Blooper", "Urchin", "Octopus"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_e_0043",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What suit lets Mario fly?",
+    "options": ["Fire Suit", "Cape Suit", "Frog Suit", "Hammer Suit"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_e_0044",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "How many lives does Mario start with?",
+    "options": ["1", "2", "3", "5"],
+    "answerIndex": 2
+  },
+  {
+    "id": "mario_e_0045",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What is the name of Bowser's son?",
+    "options": ["Bowser Baby", "Little Bowser", "Bowser Jr.", "Mini Bowser"],
+    "answerIndex": 2
+  },
+  {
+    "id": "mario_e_0046",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What plant enemy lives in pipes?",
+    "options": ["Flower Enemy", "Piranha Plant", "Venus Plant", "Pipe Plant"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_e_0047",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What color overalls does Mario wear?",
+    "options": ["Red", "Green", "Blue", "Brown"],
+    "answerIndex": 2
+  },
+  {
+    "id": "mario_e_0048",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What enemy throws hammers?",
+    "options": ["Koopa", "Hammer Bro", "Bowser", "Iggy"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_e_0049",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What bird enemy is large and scary?",
+    "options": ["Big Bird", "Tweeter", "Big Boo", "Big Bertha"],
+    "answerIndex": 3
+  },
+  {
+    "id": "mario_e_0050",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What enemy is a bullet?",
+    "options": ["Bullet Bill", "Cannon Ball", "Banzai Bill", "Rocket"],
+    "answerIndex": 0
+  },
+  {
+    "id": "mario_e_0051",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What is Toad's job?",
+    "options": ["Guard", "Servant to Princess Peach", "Chef", "Gardener"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_e_0052",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What enemy bounces around?",
+    "options": ["Goomba", "Boo", "Koopa", "Pokey"],
+    "answerIndex": 2
+  },
+  {
+    "id": "mario_e_0053",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What suit lets Mario swim better?",
+    "options": ["Frog Suit", "Penguin Suit", "Swim Suit", "Fish Suit"],
+    "answerIndex": 0
+  },
+  {
+    "id": "mario_e_0054",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What is the princess's real first name?",
+    "options": ["Peach", "Toadstool", "Both are correct", "Daisy"],
+    "answerIndex": 2
+  },
+  {
+    "id": "mario_e_0055",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What enemy is made of bones?",
+    "options": ["Dry Bones", "Skeleton", "Bony", "Skull"],
+    "answerIndex": 0
+  },
+  {
+    "id": "mario_e_0056",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What do you stomp to defeat most enemies?",
+    "options": ["Their head", "Their body", "Their feet", "Their side"],
+    "answerIndex": 0
+  },
+  {
+    "id": "mario_e_0057",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What enemy is a chain chomp?",
+    "options": ["Cat", "Bird", "Dog", "Snake"],
+    "answerIndex": 2
+  },
+  {
+    "id": "mario_e_0058",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What happens when you get 100 coins?",
+    "options": ["Nothing", "Extra life", "Power-up", "Star"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_e_0059",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What color is a 1-Up Mushroom?",
+    "options": ["Red", "Yellow", "Green", "Blue"],
+    "answerIndex": 2
+  },
+  {
+    "id": "mario_e_0060",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What is Wario's color?",
+    "options": ["Red", "Green", "Purple", "Yellow"],
+    "answerIndex": 3
+  },
+  {
+    "id": "mario_e_0061",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What enemy is a cactus?",
+    "options": ["Spiky", "Pokey", "Cactus Jack", "Needles"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_e_0062",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "Where does Bowser usually keep Princess Peach?",
+    "options": ["Tower", "Dungeon", "Castle", "Cave"],
+    "answerIndex": 2
+  },
+  {
+    "id": "mario_e_0063",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What suit turns Mario into a statue?",
+    "options": ["Stone Suit", "Tanooki Suit", "Statue Suit", "Rock Suit"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_e_0064",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What color is Waluigi?",
+    "options": ["Red", "Green", "Purple", "Yellow"],
+    "answerIndex": 2
+  },
+  {
+    "id": "mario_e_0065",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What is the evil version of Luigi?",
+    "options": ["Wario", "Waluigi", "Evil Luigi", "Bad Luigi"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_e_0066",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What are the walking bombs called?",
+    "options": ["Bomb-ombs", "Bob-ombs", "Bombies", "Boom-booms"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_e_0067",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What enemy shoots ink?",
+    "options": ["Squid", "Blooper", "Octopus", "Ink Enemy"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_e_0068",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What do you race in Mario Kart?",
+    "options": ["Cars", "Bikes", "Karts", "Trucks"],
+    "answerIndex": 2
+  },
+  {
+    "id": "mario_e_0069",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What color shell makes you go fast in Mario Kart?",
+    "options": ["Red", "Green", "Blue", "Gold"],
+    "answerIndex": 2
+  },
+  {
+    "id": "mario_e_0070",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What is the main sport in Mario's sports games?",
+    "options": ["Football", "Tennis", "Golf", "All of these"],
+    "answerIndex": 3
+  },
+  {
+    "id": "mario_e_0071",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What enemy is a spiky ball?",
+    "options": ["Spike", "Urchin", "Spiny", "Pokey"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_e_0072",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What do you use to open locked doors?",
+    "options": ["Stars", "Coins", "Keys", "Hammers"],
+    "answerIndex": 2
+  },
+  {
+    "id": "mario_e_0073",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What happens when Mario falls in a pit?",
+    "options": ["Nothing", "Loses a life", "Goes back", "Game over"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_e_0074",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What is Princess Peach's castle called?",
+    "options": ["Peach Castle", "Mushroom Castle", "Princess Castle", "Rainbow Castle"],
+    "answerIndex": 0
+  },
+  {
+    "id": "mario_e_0075",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What enemy throws boomerangs?",
+    "options": ["Hammer Bro", "Boomerang Bro", "Fire Bro", "Ice Bro"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_e_0076",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What is the big version of Bullet Bill?",
+    "options": ["Super Bullet", "Big Bullet", "Banzai Bill", "Mega Bill"],
+    "answerIndex": 2
+  },
+  {
+    "id": "mario_e_0077",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What enemy stretches its body?",
+    "options": ["Wiggler", "Stretchy", "Spike", "Pokey"],
+    "answerIndex": 0
+  },
+  {
+    "id": "mario_e_0078",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What power-up makes Mario tiny?",
+    "options": ["Mini Mushroom", "Small Mushroom", "Tiny Mushroom", "Micro Mushroom"],
+    "answerIndex": 0
+  },
+  {
+    "id": "mario_e_0079",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What enemy is a big ghost?",
+    "options": ["Boo", "King Boo", "Big Boo", "Mega Boo"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_e_0080",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What is the name of the dinosaur kingdom?",
+    "options": ["Yoshi Island", "Dinosaur Land", "Dino Kingdom", "Yoshi World"],
+    "answerIndex": 0
+  },
+  {
+    "id": "mario_e_0081",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What enemy has a flower on its back?",
+    "options": ["Flower Enemy", "Petey Piranha", "Bloom", "Garden Enemy"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_e_0082",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What makes Mario big and strong?",
+    "options": ["Fire Flower", "Super Mushroom", "Mega Mushroom", "Star"],
+    "answerIndex": 2
+  },
+  {
+    "id": "mario_e_0083",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What enemy walks on two legs and is penguin-like?",
+    "options": ["Penguin", "Spike", "Monty Mole", "None"],
+    "answerIndex": 3
+  },
+  {
+    "id": "mario_e_0084",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What is Mario's nationality?",
+    "options": ["American", "Italian", "French", "Spanish"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_e_0085",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What suit gives Mario a propeller?",
+    "options": ["Propeller Suit", "Helicopter Suit", "Flying Suit", "Spin Suit"],
+    "answerIndex": 0
+  },
+  {
+    "id": "mario_e_0086",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What enemy lives underground?",
+    "options": ["Goomba", "Monty Mole", "Koopa", "Shy Guy"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_e_0087",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What power-up turns Mario into ice?",
+    "options": ["Ice Flower", "Blue Flower", "Freeze Flower", "Cold Flower"],
+    "answerIndex": 0
+  },
+  {
+    "id": "mario_e_0088",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What does Yoshi do with his tongue?",
+    "options": ["Talk", "Eat enemies", "Fight", "Sing"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_e_0089",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What blocks float and don't fall?",
+    "options": ["Brick", "Question", "Cloud", "All blocks"],
+    "answerIndex": 2
+  },
+  {
+    "id": "mario_e_0090",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What is the name of Mario's company mascot?",
+    "options": ["Toad", "Luigi", "Mario", "Yoshi"],
+    "answerIndex": 2
+  },
+  {
+    "id": "mario_e_0091",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What do pipes connect to?",
+    "options": ["Underground", "Sky", "Water", "Nothing"],
+    "answerIndex": 0
+  },
+  {
+    "id": "mario_e_0092",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What is the lava enemy called?",
+    "options": ["Lava Monster", "Podoboo", "Fire Ball", "Hot Guy"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_e_0093",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What suit turns Mario into a cat?",
+    "options": ["Cat Suit", "Super Bell", "Tiger Suit", "Lion Suit"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_e_0094",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What enemy carries a spear?",
+    "options": ["Spear Guy", "Shy Guy", "Koopa", "Lakitu"],
+    "answerIndex": 0
+  },
+  {
+    "id": "mario_e_0095",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What do warp pipes do?",
+    "options": ["Give coins", "Transport you", "Kill enemies", "Nothing"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_e_0096",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What obstacle has spikes?",
+    "options": ["Block", "Wall", "Trap", "All of these"],
+    "answerIndex": 3
+  },
+  {
+    "id": "mario_e_0097",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What is the most common Mario enemy?",
+    "options": ["Goomba", "Koopa", "Shy Guy", "Boo"],
+    "answerIndex": 0
+  },
+  {
+    "id": "mario_e_0098",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What do red coins usually give you?",
+    "options": ["Extra coins", "Power-up", "Star", "Life"],
+    "answerIndex": 2
+  },
+  {
+    "id": "mario_e_0099",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What is the final boss in most Mario games?",
+    "options": ["Bowser Jr.", "Bowser", "Wario", "King Boo"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_e_0100",
+    "category": "mario",
+    "difficulty": "easy",
+    "question": "What happens when you touch an enemy without power-up?",
+    "options": ["Nothing", "Lose a life", "Get smaller", "Game over"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_m_0001",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What is Mario's full name?",
+    "options": ["Mario Mario", "Mario Brothers", "Super Mario", "Mario Luigi"],
+    "answerIndex": 0
+  },
+  {
+    "id": "mario_m_0002",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What year was the original Super Mario Bros. released?",
+    "options": ["1983", "1985", "1987", "1989"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_m_0003",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What was Mario's original profession in Donkey Kong?",
+    "options": ["Plumber", "Carpenter", "Firefighter", "Doctor"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_m_0004",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What was Mario originally called?",
+    "options": ["Jumpman", "Mr. Video", "Super Guy", "Red Plumber"],
+    "answerIndex": 0
+  },
+  {
+    "id": "mario_m_0005",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "How many Koopalings are there?",
+    "options": ["5", "6", "7", "8"],
+    "answerIndex": 2
+  },
+  {
+    "id": "mario_m_0006",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What is the name of the star companion in Super Mario Galaxy?",
+    "options": ["Luma", "Starry", "Twinkle", "Sparkle"],
+    "answerIndex": 0
+  },
+  {
+    "id": "mario_m_0007",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What is Princess Rosalina's ship called?",
+    "options": ["Space Station", "Comet Observatory", "Star Ship", "Galaxy Cruiser"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_m_0008",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What power-up turns Mario into a bee?",
+    "options": ["Bee Mushroom", "Honey Flower", "Bee Suit", "Yellow Mushroom"],
+    "answerIndex": 0
+  },
+  {
+    "id": "mario_m_0009",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What is the name of the painting world portals in Super Mario 64?",
+    "options": ["Magic Paintings", "Portal Paintings", "Power Stars are in paintings", "Bob-omb Battlefield"],
+    "answerIndex": 2
+  },
+  {
+    "id": "mario_m_0010",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "How many Power Stars are in Super Mario 64?",
+    "options": ["100", "120", "150", "200"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_m_0011",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What is the name of the flying turtle enemy?",
+    "options": ["Sky Koopa", "Paratroopa", "Flying Turtle", "Koopa Wings"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_m_0012",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What is Luigi's special ability in Luigi's Mansion?",
+    "options": ["Super Jump", "Vacuum cleaner", "Fire power", "Ice power"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_m_0013",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What is the name of Professor E. Gadd's vacuum?",
+    "options": ["Ghost Vacuum", "Poltergust 3000", "Spirit Sucker", "Boo Blaster"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_m_0014",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What enemy throws wrenches?",
+    "options": ["Hammer Bro", "Rocky Wrench", "Monty Mole", "Spike"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_m_0015",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What is the name of the first level in Super Mario Bros.?",
+    "options": ["World 1-1", "Mushroom Plains", "Green Hill", "Level 1"],
+    "answerIndex": 0
+  },
+  {
+    "id": "mario_m_0016",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What is Toadette's special item in Mario Kart?",
+    "options": ["Mushroom", "Triple Mushroom", "Golden Mushroom", "Super Star"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_m_0017",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What console was Super Mario World released on?",
+    "options": ["NES", "SNES", "Nintendo 64", "GameCube"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_m_0018",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What is the name of Mario's dinosaur companion?",
+    "options": ["Yoshi", "Birdo", "Rex", "Dorrie"],
+    "answerIndex": 0
+  },
+  {
+    "id": "mario_m_0019",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What is Bowser's Japanese name?",
+    "options": ["Daimao", "Koopa", "Kuppa", "King Koopa"],
+    "answerIndex": 2
+  },
+  {
+    "id": "mario_m_0020",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What is the name of the ice world in most Mario games?",
+    "options": ["Frozen Land", "Ice Land", "Snow World", "Winter World"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_m_0021",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What power-up allows Mario to turn into a stone statue?",
+    "options": ["Statue Leaf", "Tanooki Suit", "Stone Suit", "P-Wing"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_m_0022",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What is the name of the desert kingdom in Super Mario Odyssey?",
+    "options": ["Sand Kingdom", "Desert Land", "Tostarena", "Dry Dry Desert"],
+    "answerIndex": 2
+  },
+  {
+    "id": "mario_m_0023",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What is Mario's special hat in Super Mario Odyssey?",
+    "options": ["Magic Hat", "Cappy", "Hat Guy", "Cap Kingdom"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_m_0024",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What allows Mario to capture enemies in Odyssey?",
+    "options": ["Net", "Cappy", "Magic", "Super Star"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_m_0025",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What is the name of the kingdom with dinosaurs in Odyssey?",
+    "options": ["Dinosaur Kingdom", "Cascade Kingdom", "Jurassic Kingdom", "Fossil Falls"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_m_0026",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "How many worlds are in the original Super Mario Bros.?",
+    "options": ["6", "7", "8", "10"],
+    "answerIndex": 2
+  },
+  {
+    "id": "mario_m_0027",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What enemy is a sun that attacks you?",
+    "options": ["Hot Sun", "Angry Sun", "Fire Sun", "Mad Sun"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_m_0028",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What is the name of the penguin in Super Mario 64?",
+    "options": ["Penguin", "Tuxie", "Slippy", "Freezy"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_m_0029",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What item makes you invincible in Mario Kart?",
+    "options": ["Rainbow Star", "Super Star", "Bullet Bill", "Both A and B"],
+    "answerIndex": 3
+  },
+  {
+    "id": "mario_m_0030",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What is the blue shell in Mario Kart called?",
+    "options": ["Blue Shell", "Spiny Shell", "Super Shell", "Thunder Shell"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_m_0031",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What enemy is a spike top?",
+    "options": ["Red Koopa with spikes", "Buzzy Beetle with spikes", "Goomba with spikes", "Dry Bones with spikes"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_m_0032",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What is the multiplayer character in Super Mario Galaxy?",
+    "options": ["Luigi", "Co-Star Luma", "Toad", "Princess Peach"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_m_0033",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What power-up lets Mario slow down time?",
+    "options": ["Clock", "P Switch", "Stopwatch", "Time Freeze"],
+    "answerIndex": 0
+  },
+  {
+    "id": "mario_m_0034",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What is the name of the haunted mansion level in Mario 64?",
+    "options": ["Boo's Mansion", "Big Boo's Haunt", "Ghost House", "Spooky Mansion"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_m_0035",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What enemy is a fire-breathing plant?",
+    "options": ["Fire Piranha", "Venus Fire Trap", "Flame Chomper", "Hot Plant"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_m_0036",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What is the name of the paint mechanic in Mario Sunshine?",
+    "options": ["FLUDD", "Water Pack", "Spray Pack", "Hydro Pack"],
+    "answerIndex": 0
+  },
+  {
+    "id": "mario_m_0037",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What island is Super Mario Sunshine set on?",
+    "options": ["Delfino Plaza", "Isle Delfino", "Sunshine Isle", "Tropical Island"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_m_0038",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "Who is the imposter Mario in Sunshine?",
+    "options": ["Wario", "Shadow Mario", "Evil Mario", "Dark Mario"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_m_0039",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What enemy is a rotating fire bar?",
+    "options": ["Fire Bar", "Flame Bar", "Hot Bar", "Lava Stick"],
+    "answerIndex": 0
+  },
+  {
+    "id": "mario_m_0040",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What is the name of the bee character in Super Mario Galaxy?",
+    "options": ["Queen Bee", "Honey Queen", "Bee Captain", "Royal Bee"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_m_0041",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What enemy is a living chain ball?",
+    "options": ["Chain Ball", "Chain Chomp", "Ball and Chain", "Chomp Chain"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_m_0042",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What is the name of the ghost-catching device?",
+    "options": ["Ghost Vacuum", "Poltergust", "Spirit Sucker", "Boo Catcher"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_m_0043",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What enemy throws soccer balls?",
+    "options": ["Ball Brother", "Chargin' Chuck", "Sports Koopa", "Soccer Guy"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_m_0044",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What is the name of Yoshi's island home?",
+    "options": ["Yoshi Island", "Dinosaur Land", "Yoshi Valley", "Dino Isle"],
+    "answerIndex": 0
+  },
+  {
+    "id": "mario_m_0045",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What enemy is a spiky creature that rolls?",
+    "options": ["Spike", "Bramball", "Spiny", "Pokey"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_m_0046",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What is the final boss theme music called in most games?",
+    "options": ["Boss Battle", "Bowser's Theme", "Final Showdown", "Koopa's Castle"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_m_0047",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What enemy spits poison?",
+    "options": ["Poison Mushroom", "Poison Plant", "Dino Rhino", "Ptooie"],
+    "answerIndex": 2
+  },
+  {
+    "id": "mario_m_0048",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What is the underwater dinosaur in Mario 64?",
+    "options": ["Sea Monster", "Dorrie", "Water Dragon", "Nessie"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_m_0049",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What item in Mario Kart shocks all players?",
+    "options": ["Lightning", "Thunder Cloud", "Shock", "Electric Bolt"],
+    "answerIndex": 0
+  },
+  {
+    "id": "mario_m_0050",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What is the princess in Super Mario Land?",
+    "options": ["Peach", "Daisy", "Rosalina", "Toadette"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_m_0051",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What character has a bow and shoots eggs?",
+    "options": ["Yoshi", "Birdo", "Koopa", "Paratroopa"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_m_0052",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What enemy walks while sleeping?",
+    "options": ["Sleepy Guy", "Snooze Koopa", "Sniffit", "Spike Top"],
+    "answerIndex": 2
+  },
+  {
+    "id": "mario_m_0053",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What is the name of the cloud enemy with glasses?",
+    "options": ["Lakitu", "Cloud Guy", "Sky Turtle", "Flying Koopa"],
+    "answerIndex": 0
+  },
+  {
+    "id": "mario_m_0054",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What enemy throws spinies from a cloud?",
+    "options": ["Cloud Koopa", "Lakitu", "Sky Thrower", "Spiny Tosser"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_m_0055",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What is the giant eel in Super Mario 64?",
+    "options": ["Big Eel", "Unagi", "Sea Dragon", "Water Snake"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_m_0056",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What power-up gives Mario a raccoon tail?",
+    "options": ["Raccoon Leaf", "Super Leaf", "Tail Leaf", "Flying Leaf"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_m_0057",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What is the name of Mario's arcade rival?",
+    "options": ["Bowser", "Donkey Kong", "Wario", "King Kong"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_m_0058",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What is princess Peach's original American name?",
+    "options": ["Princess Toadstool", "Princess Mushroom", "Princess Peach", "Princess Daisy"],
+    "answerIndex": 0
+  },
+  {
+    "id": "mario_m_0059",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What enemy is a mole with sunglasses?",
+    "options": ["Mole Guy", "Monty Mole", "Underground Mole", "Sunglasses Mole"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_m_0060",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What blocks give temporary coins?",
+    "options": ["Question Blocks", "Coin Blocks", "Brick Blocks", "P Switch Blocks"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_m_0061",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What is the name of the rabbit in Super Mario 64?",
+    "options": ["Bunny", "MIPS", "Rabbit", "Hoppy"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_m_0062",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What is the penguin race level in Mario 64?",
+    "options": ["Penguin Race", "Cool Cool Mountain", "Freeze Mountain", "Icy Slide"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_m_0063",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What enemy is a ball with spikes that bounces?",
+    "options": ["Spike Ball", "Gordo", "Spiny", "Urchin"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_m_0064",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What is the name of the painting boss in Luigi's Mansion?",
+    "options": ["King Boo", "Portrait Ghost", "Gallery Ghost", "Various Portrait Ghosts"],
+    "answerIndex": 3
+  },
+  {
+    "id": "mario_m_0065",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What enemy is a flying carpet?",
+    "options": ["Magic Carpet", "Fly Guy", "Lakitu", "Cloud Enemy"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_m_0066",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What is the red Yoshi's special ability?",
+    "options": ["Speed", "Fire breathing", "Flying", "Ground pound"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_m_0067",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What is the blue Yoshi's special ability?",
+    "options": ["Swimming", "Flying", "Speed", "Ice"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_m_0068",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What is the yellow Yoshi's special ability?",
+    "options": ["Ground pound", "Speed", "Flying", "Fire"],
+    "answerIndex": 0
+  },
+  {
+    "id": "mario_m_0069",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What enemy can't be jumped on?",
+    "options": ["Koopa", "Goomba", "Buzzy Beetle", "Spiny"],
+    "answerIndex": 3
+  },
+  {
+    "id": "mario_m_0070",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What is the name of the submarine in Mario?",
+    "options": ["Sub", "Marine Pop", "S.S. Mario", "Water Ship"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_m_0071",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What enemy throws ice balls?",
+    "options": ["Ice Bro", "Freeze Guy", "Snow Koopa", "Cold Bro"],
+    "answerIndex": 0
+  },
+  {
+    "id": "mario_m_0072",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What is the hardest world in most Mario games?",
+    "options": ["World 7", "World 8", "World 9", "Special World"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_m_0073",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What character is Mario's childhood friend?",
+    "options": ["Luigi", "Wario", "Yoshi", "Toad"],
+    "answerIndex": 2
+  },
+  {
+    "id": "mario_m_0074",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What enemy is a plant that walks?",
+    "options": ["Walking Piranha", "Stalking Piranha", "Moving Plant", "Piranha Creeper"],
+    "answerIndex": 3
+  },
+  {
+    "id": "mario_m_0075",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What is Mario's signature catchphrase?",
+    "options": ["Let's-a go!", "Here we go!", "Wahoo!", "Yahoo!"],
+    "answerIndex": 0
+  },
+  {
+    "id": "mario_m_0076",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What enemy is a beanstalk obstacle?",
+    "options": ["Plant", "Piranha", "Stem Enemy", "Beanstalk"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_m_0077",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What is the P-Wing?",
+    "options": ["Infinite flight", "Extra life", "Invincibility", "Speed boost"],
+    "answerIndex": 0
+  },
+  {
+    "id": "mario_m_0078",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What enemy shoots bullet bills?",
+    "options": ["Cannon", "Bill Blaster", "Bullet Cannon", "Shell Shooter"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_m_0079",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What is the big fish enemy?",
+    "options": ["Big Cheep", "Boss Bass", "Mega Fish", "Giant Cheep"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_m_0080",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What enemy is a caterpillar?",
+    "options": ["Wiggler", "Caterpillar", "Inchworm", "Crawler"],
+    "answerIndex": 0
+  },
+  {
+    "id": "mario_m_0081",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What turns coin blocks into bricks?",
+    "options": ["Hitting it", "P Switch", "Ground pound", "Fire"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_m_0082",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What enemy is a piranha plant on fire?",
+    "options": ["Fire Piranha", "Flame Piranha", "Hot Plant", "Venus Fire Trap"],
+    "answerIndex": 3
+  },
+  {
+    "id": "mario_m_0083",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What is the castle theme called?",
+    "options": ["Castle", "Fortress", "Tower", "All correct"],
+    "answerIndex": 3
+  },
+  {
+    "id": "mario_m_0084",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What enemy throws fireballs from above?",
+    "options": ["Fire Bro", "Podoboo", "Flame Guy", "Hot Head"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_m_0085",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What type of kart does Bowser drive?",
+    "options": ["Light", "Medium", "Heavy", "Super Heavy"],
+    "answerIndex": 2
+  },
+  {
+    "id": "mario_m_0086",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What is the ghost house music style?",
+    "options": ["Happy", "Spooky", "Fast", "Slow"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_m_0087",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What blocks move left and right?",
+    "options": ["Moving Blocks", "Swing Blocks", "Platform Blocks", "Donut Blocks"],
+    "answerIndex": 0
+  },
+  {
+    "id": "mario_m_0088",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What enemy is a crow?",
+    "options": ["Crow", "Raven", "Crowber", "Black Bird"],
+    "answerIndex": 2
+  },
+  {
+    "id": "mario_m_0089",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What is the spring mushroom power?",
+    "options": ["High jump", "Bounce", "Super jump", "Spring jump"],
+    "answerIndex": 0
+  },
+  {
+    "id": "mario_m_0090",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What enemy is a bat?",
+    "options": ["Bat", "Swooper", "Flyer", "Wing"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_m_0091",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What blocks fall when you stand on them?",
+    "options": ["Falling Blocks", "Donut Blocks", "Break Blocks", "Weak Blocks"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_m_0092",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What enemy is a dinosaur that breathes fire?",
+    "options": ["Fire Dino", "Rex", "Reznor", "Dragon"],
+    "answerIndex": 2
+  },
+  {
+    "id": "mario_m_0093",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What power-up creates a duplicate Mario?",
+    "options": ["Double Cherry", "Clone Mushroom", "Twin Flower", "Mirror Mario"],
+    "answerIndex": 0
+  },
+  {
+    "id": "mario_m_0094",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What is Bowser's airship called?",
+    "options": ["Koopa Cruiser", "Bowser's Airship", "Doom Ship", "Sky Castle"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_m_0095",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What enemy is a tornado?",
+    "options": ["Tornado", "Tweester", "Wind Enemy", "Cyclone"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_m_0096",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What blocks are invisible until you hit them?",
+    "options": ["Secret Blocks", "Hidden Blocks", "Invisible Blocks", "Ghost Blocks"],
+    "answerIndex": 2
+  },
+  {
+    "id": "mario_m_0097",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What enemy shoots three fireballs?",
+    "options": ["Fire Bro", "Amazing Flyin' Hammer Brother", "Fire Snake", "Firebar"],
+    "answerIndex": 2
+  },
+  {
+    "id": "mario_m_0098",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What is the boomerang power-up called?",
+    "options": ["Boomerang Flower", "Boomerang Suit", "Boomerang Bro Suit", "Super Boomerang"],
+    "answerIndex": 0
+  },
+  {
+    "id": "mario_m_0099",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What enemy spins and has spikes?",
+    "options": ["Spinner", "Spindrift", "Spin Guy", "Twirler"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_m_0100",
+    "category": "mario",
+    "difficulty": "medium",
+    "question": "What is the name of the Galaxy hub world?",
+    "options": ["Space Station", "Star Observatory", "Comet Observatory", "Galaxy Central"],
+    "answerIndex": 2
+  },
+  {
+    "id": "mario_h_0001",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What are the names of all seven Koopalings?",
+    "options": ["Larry, Morton, Wendy, Iggy, Roy, Lemmy, Ludwig", "Larry, Morton, Wendy, Iggy, Roy, Lemmy, Bowser Jr.", "Larry, Ludwig, Wendy, Iggy, Roy, Lemmy, Morton Jr.", "Ludwig, Morton, Wendy, Iggy, Roy, Larry, Jr."],
+    "answerIndex": 0
+  },
+  {
+    "id": "mario_h_0002",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What is Luigi's first solo game?",
+    "options": ["Luigi's Mansion", "Mario is Missing!", "Super Luigi", "Luigi's Adventure"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_h_0003",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What year was Mario created?",
+    "options": ["1980", "1981", "1982", "1983"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_h_0004",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What is the name of Nintendo's first mascot before Mario?",
+    "options": ["Donkey Kong", "Mr. Video", "Link", "Kirby"],
+    "answerIndex": 0
+  },
+  {
+    "id": "mario_h_0005",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What was the first 3D Mario game?",
+    "options": ["Super Mario 64", "Super Mario Sunshine", "Super Mario Galaxy", "Super Mario 3D Land"],
+    "answerIndex": 0
+  },
+  {
+    "id": "mario_h_0006",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "How many secret levels are in Super Mario World?",
+    "options": ["72", "96", "74", "95"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_h_0007",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What is the total number of Power Moons in Super Mario Odyssey?",
+    "options": ["836", "880", "999", "1000"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_h_0008",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What is Mario named after?",
+    "options": ["A game developer", "Nintendo's landlord", "A famous Italian", "A cartoon character"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_h_0009",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What is the name of Mario's original girlfriend in Donkey Kong?",
+    "options": ["Peach", "Daisy", "Pauline", "Rosalina"],
+    "answerIndex": 2
+  },
+  {
+    "id": "mario_h_0010",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What is the maximum number of lives in Super Mario Bros.?",
+    "options": ["99", "128", "999", "Unlimited"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_h_0011",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What is the underwater level music tempo compared to overworld?",
+    "options": ["Same speed", "Slower", "Faster", "Different song"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_h_0012",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What was the best-selling Mario game of all time?",
+    "options": ["Super Mario Bros.", "Super Mario World", "New Super Mario Bros.", "Mario Kart Wii"],
+    "answerIndex": 0
+  },
+  {
+    "id": "mario_h_0013",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What does FLUDD stand for?",
+    "options": ["Flash Liquidizer Ultra Dousing Device", "Flash Liquidizer Ultra Device", "Fluid Liquidizer Ultra Dousing Device", "Fluid Liquidizer Ultra Device"],
+    "answerIndex": 0
+  },
+  {
+    "id": "mario_h_0014",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What is the secret world in Super Mario World called?",
+    "options": ["Star World", "Special World", "Secret World", "Star Road"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_h_0015",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "How many kingdoms are in Super Mario Odyssey?",
+    "options": ["14", "16", "17", "20"],
+    "answerIndex": 2
+  },
+  {
+    "id": "mario_h_0016",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What is the name of the final kingdom in Odyssey?",
+    "options": ["Moon Kingdom", "Dark Side", "Darker Side", "Bowser's Kingdom"],
+    "answerIndex": 2
+  },
+  {
+    "id": "mario_h_0017",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What game introduced Rosalina?",
+    "options": ["Super Mario Galaxy", "Super Mario Galaxy 2", "Mario Kart Wii", "Super Mario 3D World"],
+    "answerIndex": 0
+  },
+  {
+    "id": "mario_h_0018",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What is the name of Mario's voice actor?",
+    "options": ["Charles Martinet", "Chris Pratt", "Lou Albano", "Walker Boone"],
+    "answerIndex": 0
+  },
+  {
+    "id": "mario_h_0019",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What is the warp zone in World 1-2 of SMB?",
+    "options": ["Goes to World 2", "Goes to World 4", "Goes to World 5", "Goes to World 8"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_h_0020",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What console was Super Mario 64 a launch title for?",
+    "options": ["Nintendo 64", "GameCube", "SNES", "Wii"],
+    "answerIndex": 0
+  },
+  {
+    "id": "mario_h_0021",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What year was Super Mario 64 released?",
+    "options": ["1995", "1996", "1997", "1998"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_h_0022",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What is the minus world in Super Mario Bros.?",
+    "options": ["World -1", "A glitch world", "World 0", "Both A and B"],
+    "answerIndex": 3
+  },
+  {
+    "id": "mario_h_0023",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What is the first Mario game to feature Yoshi?",
+    "options": ["Super Mario World", "Super Mario Bros. 3", "Yoshi's Island", "Mario World"],
+    "answerIndex": 0
+  },
+  {
+    "id": "mario_h_0024",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What year was Super Mario World released?",
+    "options": ["1989", "1990", "1991", "1992"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_h_0025",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What is the Cape Feather based on?",
+    "options": ["Eagle", "Falcon", "Raccoon", "Cape concept"],
+    "answerIndex": 3
+  },
+  {
+    "id": "mario_h_0026",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "How many Power Stars are needed to beat Super Mario 64?",
+    "options": ["70", "80", "100", "120"],
+    "answerIndex": 0
+  },
+  {
+    "id": "mario_h_0027",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What is the name of the final level in Mario 64?",
+    "options": ["Bowser in the Sky", "Final Bowser", "Sky Battle", "Rainbow Ride"],
+    "answerIndex": 0
+  },
+  {
+    "id": "mario_h_0028",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What is the speedrun world record category for Mario 64?",
+    "options": ["Any%", "70 Star", "120 Star", "All of these"],
+    "answerIndex": 3
+  },
+  {
+    "id": "mario_h_0029",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What console was Super Mario Sunshine released on?",
+    "options": ["Nintendo 64", "GameCube", "Wii", "Wii U"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_h_0030",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "How many Shine Sprites are in Mario Sunshine?",
+    "options": ["100", "120", "150", "200"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_h_0031",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What year was Mario Kart first released?",
+    "options": ["1990", "1992", "1994", "1996"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_h_0032",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What is the official Mario timeline?",
+    "options": ["There is none", "Linear timeline", "Multiple universes", "Split timeline"],
+    "answerIndex": 0
+  },
+  {
+    "id": "mario_h_0033",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What game introduced the blue shell?",
+    "options": ["Mario Kart 64", "Mario Kart: Double Dash!!", "Super Mario Kart", "Mario Kart Wii"],
+    "answerIndex": 0
+  },
+  {
+    "id": "mario_h_0034",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What is the name of Mario's dad?",
+    "options": ["Papa Mario", "He has no confirmed name", "Giuseppe", "Antonio"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_h_0035",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What is the first Mario RPG game?",
+    "options": ["Paper Mario", "Super Mario RPG", "Mario & Luigi: Superstar Saga", "Mario RPG"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_h_0036",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What company developed Super Mario RPG?",
+    "options": ["Nintendo", "Square", "Intelligent Systems", "AlphaDream"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_h_0037",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "How many Green Stars are in Super Mario Galaxy 2?",
+    "options": ["120", "150", "200", "242"],
+    "answerIndex": 3
+  },
+  {
+    "id": "mario_h_0038",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What is the last galaxy in Super Mario Galaxy?",
+    "options": ["Bowser's Galaxy Generator", "Grand Finale Galaxy", "Grandmaster Galaxy", "Final Galaxy"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_h_0039",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What is the hardest level in Super Mario Galaxy 2?",
+    "options": ["The Perfect Run", "Grandmaster Galaxy", "Final Galaxy", "Green Stars"],
+    "answerIndex": 0
+  },
+  {
+    "id": "mario_h_0040",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What is the maximum coin count display in Mario games?",
+    "options": ["99", "999", "9999", "No limit"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_h_0041",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What is Bowser's full name?",
+    "options": ["King Koopa", "Bowser Koopa", "King Bowser Koopa", "There is no official full name"],
+    "answerIndex": 2
+  },
+  {
+    "id": "mario_h_0042",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What is the name of the developers of Mario?",
+    "options": ["Nintendo", "Nintendo EAD", "Nintendo EPD", "Both B and C"],
+    "answerIndex": 3
+  },
+  {
+    "id": "mario_h_0043",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "Who created Mario?",
+    "options": ["Miyamoto Shigeru", "Shigeru Miyamoto", "Satoru Iwata", "Koji Kondo"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_h_0044",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What is the Star Road in Super Mario World?",
+    "options": ["Secret area", "Shortcut path", "Special levels", "All of these"],
+    "answerIndex": 3
+  },
+  {
+    "id": "mario_h_0045",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What is the longest Mario game to 100% complete?",
+    "options": ["Super Mario Odyssey", "Super Mario 64", "Super Mario Galaxy 2", "Super Mario Sunshine"],
+    "answerIndex": 0
+  },
+  {
+    "id": "mario_h_0046",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What is the total number of courses in Mario Kart 8 Deluxe?",
+    "options": ["32", "48", "64", "96"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_h_0047",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What year was the first Mario Kart released?",
+    "options": ["1990", "1991", "1992", "1993"],
+    "answerIndex": 2
+  },
+  {
+    "id": "mario_h_0048",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What is the rarest power-up in Mario history?",
+    "options": ["Statue Leaf", "P-Wing", "Blue Shell", "Various rare items"],
+    "answerIndex": 3
+  },
+  {
+    "id": "mario_h_0049",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What is Luigi's first appearance?",
+    "options": ["Mario Bros.", "Super Mario Bros.", "Donkey Kong", "Game & Watch"],
+    "answerIndex": 0
+  },
+  {
+    "id": "mario_h_0050",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What year was Luigi's Mansion released?",
+    "options": ["2000", "2001", "2002", "2003"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_h_0051",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What console was Luigi's Mansion a launch title for?",
+    "options": ["N64", "GameCube", "Wii", "DS"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_h_0052",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "How many portrait ghosts are in Luigi's Mansion?",
+    "options": ["20", "23", "25", "27"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_h_0053",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What is Professor E. Gadd's full name?",
+    "options": ["Elvin Gadd", "Professor Elvin Gadd", "E. Gadd", "Never revealed"],
+    "answerIndex": 0
+  },
+  {
+    "id": "mario_h_0054",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What is the final boss painting worth in Luigi's Mansion?",
+    "options": ["5,000G", "10,000G", "50,000G", "No value"],
+    "answerIndex": 3
+  },
+  {
+    "id": "mario_h_0055",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What is the maximum money in Luigi's Mansion?",
+    "options": ["99,999G", "142,390G", "999,999G", "No limit"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_h_0056",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What is the hidden mansion in Luigi's Mansion?",
+    "options": ["Second quest", "Hard mode", "Mirrored mansion", "All of these"],
+    "answerIndex": 3
+  },
+  {
+    "id": "mario_h_0057",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What year was Paper Mario first released?",
+    "options": ["1999", "2000", "2001", "2002"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_h_0058",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What company develops Paper Mario?",
+    "options": ["Nintendo", "Intelligent Systems", "AlphaDream", "Square"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_h_0059",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What is the first Mario & Luigi game?",
+    "options": ["Superstar Saga", "Partners in Time", "Bowser's Inside Story", "Dream Team"],
+    "answerIndex": 0
+  },
+  {
+    "id": "mario_h_0060",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What company developed Mario & Luigi series?",
+    "options": ["Nintendo", "Intelligent Systems", "AlphaDream", "Square"],
+    "answerIndex": 2
+  },
+  {
+    "id": "mario_h_0061",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What year was Super Mario Bros. 2 (USA) released?",
+    "options": ["1987", "1988", "1989", "1990"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_h_0062",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What game was Mario Bros. 2 (USA) based on?",
+    "options": ["Doki Doki Panic", "Super Mario Bros.", "Original game", "Yume Kojo"],
+    "answerIndex": 0
+  },
+  {
+    "id": "mario_h_0063",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What is the Japanese Super Mario Bros. 2?",
+    "options": ["Same as USA", "The Lost Levels", "Doki Doki Panic", "Different game"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_h_0064",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What is World 9 called in The Lost Levels?",
+    "options": ["World A", "World 9", "Special World", "Bonus World"],
+    "answerIndex": 0
+  },
+  {
+    "id": "mario_h_0065",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "How many worlds are in The Lost Levels?",
+    "options": ["8", "12", "13", "16"],
+    "answerIndex": 2
+  },
+  {
+    "id": "mario_h_0066",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What year was Super Mario Bros. 3 released (Japan)?",
+    "options": ["1988", "1989", "1990", "1991"],
+    "answerIndex": 0
+  },
+  {
+    "id": "mario_h_0067",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "How many levels are in Super Mario Bros. 3?",
+    "options": ["76", "88", "90", "96"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_h_0068",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What is the recorder item in Mario 3?",
+    "options": ["Flute", "Warp Whistle", "Magic Flute", "Both B and C"],
+    "answerIndex": 3
+  },
+  {
+    "id": "mario_h_0069",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What is the maximum P-Meter speed?",
+    "options": ["5 arrows", "6 arrows", "7 arrows", "Full bar"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_h_0070",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What does the Hammer Suit do?",
+    "options": ["Throw hammers", "Fire resistance", "Break blocks", "All of these"],
+    "answerIndex": 3
+  },
+  {
+    "id": "mario_h_0071",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What is the Kuribo's Shoe?",
+    "options": ["Boot power-up", "Goomba's Shoe", "Hopping boot", "All of these"],
+    "answerIndex": 3
+  },
+  {
+    "id": "mario_h_0072",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "How many Warp Whistles are in Mario 3?",
+    "options": ["1", "2", "3", "4"],
+    "answerIndex": 2
+  },
+  {
+    "id": "mario_h_0073",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What is the white Toad house?",
+    "options": ["Special items", "Rare items", "Warp whistle", "P-Wing"],
+    "answerIndex": 3
+  },
+  {
+    "id": "mario_h_0074",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What year was Super Mario 3D World released?",
+    "options": ["2012", "2013", "2014", "2015"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_h_0075",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What is the name of Mario's original arcade villain before Bowser?",
+    "options": ["King Koopa", "Donkey Kong", "Wario", "Tatanga"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_h_0076",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "Which game introduced the F.L.U.D.D. water pack?",
+    "options": ["Super Mario Galaxy", "Super Mario Sunshine", "Super Mario 64", "Super Mario 3D World"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_h_0077",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What is the maximum player count in 3D World?",
+    "options": ["2", "3", "4", "5"],
+    "answerIndex": 2
+  },
+  {
+    "id": "mario_h_0078",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What is Captain Toad's spinoff game?",
+    "options": ["Toad's Adventure", "Captain Toad: Treasure Tracker", "Treasure Hunter Toad", "Toad Tracker"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_h_0079",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What year was New Super Mario Bros. released?",
+    "options": ["2004", "2005", "2006", "2007"],
+    "answerIndex": 2
+  },
+  {
+    "id": "mario_h_0080",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What console was NSMB first on?",
+    "options": ["DS", "Wii", "3DS", "GameCube"],
+    "answerIndex": 0
+  },
+  {
+    "id": "mario_h_0081",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What is the Mega Mushroom?",
+    "options": ["Giant Mario", "Invincible", "Super strength", "Destroys everything"],
+    "answerIndex": 0
+  },
+  {
+    "id": "mario_h_0082",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What is the Mini Mushroom?",
+    "options": ["Tiny Mario", "Small Mario", "Can walk on water", "All of these"],
+    "answerIndex": 3
+  },
+  {
+    "id": "mario_h_0083",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What is the Blue Shell power-up?",
+    "options": ["Shell suit", "Koopa shell", "Swim fast", "Shell dash"],
+    "answerIndex": 0
+  },
+  {
+    "id": "mario_h_0084",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What year was Super Mario Maker released?",
+    "options": ["2014", "2015", "2016", "2017"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_h_0085",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What game styles are in Mario Maker?",
+    "options": ["4 styles", "5 styles", "6 styles", "Multiple styles"],
+    "answerIndex": 0
+  },
+  {
+    "id": "mario_h_0086",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What is the course upload limit in Mario Maker?",
+    "options": ["10", "32", "100", "Unlimited"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_h_0087",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What year was Super Mario Maker 2 released?",
+    "options": ["2018", "2019", "2020", "2021"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_h_0088",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What new game style was added in Maker 2?",
+    "options": ["3D World", "Odyssey", "Galaxy", "Sunshine"],
+    "answerIndex": 0
+  },
+  {
+    "id": "mario_h_0089",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What is the course upload limit in Maker 2?",
+    "options": ["32", "64", "100", "Unlimited"],
+    "answerIndex": 2
+  },
+  {
+    "id": "mario_h_0090",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What year was Super Mario Run released?",
+    "options": ["2015", "2016", "2017", "2018"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_h_0091",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What platforms is Mario Run on?",
+    "options": ["iOS only", "Android only", "Both iOS and Android", "Mobile and Switch"],
+    "answerIndex": 2
+  },
+  {
+    "id": "mario_h_0092",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What is Dr. Mario's profession?",
+    "options": ["Doctor", "Pharmacist", "Scientist", "Virus fighter"],
+    "answerIndex": 0
+  },
+  {
+    "id": "mario_h_0093",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What year was the first Dr. Mario released?",
+    "options": ["1988", "1989", "1990", "1991"],
+    "answerIndex": 2
+  },
+  {
+    "id": "mario_h_0094",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What are the virus colors in Dr. Mario?",
+    "options": ["Red, Blue, Yellow", "Red, Blue, Green", "Blue, Yellow, Green", "Red, Yellow, Green"],
+    "answerIndex": 0
+  },
+  {
+    "id": "mario_h_0095",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What is Mario's age?",
+    "options": ["24-25", "26", "Unknown/varies", "40+"],
+    "answerIndex": 2
+  },
+  {
+    "id": "mario_h_0096",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What is Mario's height?",
+    "options": ["4'11\"", "5'1\"", "5'5\"", "Varies by game"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_h_0097",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What is Mario's official occupation?",
+    "options": ["Plumber", "Hero", "Adventurer", "Multiple jobs"],
+    "answerIndex": 3
+  },
+  {
+    "id": "mario_h_0098",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What is Luigi's height compared to Mario?",
+    "options": ["Same", "Slightly taller", "Much taller", "Shorter"],
+    "answerIndex": 1
+  },
+  {
+    "id": "mario_h_0099",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "What is Waluigi's first appearance?",
+    "options": ["Mario Tennis", "Mario Party 3", "Mario Kart", "Wario Land"],
+    "answerIndex": 0
+  },
+  {
+    "id": "mario_h_0100",
+    "category": "mario",
+    "difficulty": "hard",
+    "question": "Who created Waluigi?",
+    "options": ["Nintendo", "Camelot", "Shigeru Miyamoto", "Fumihide Aoki"],
+    "answerIndex": 1
+  }
+]
