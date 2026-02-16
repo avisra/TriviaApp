@@ -1,0 +1,3202 @@
+[
+    {
+      "id": "bible_e_0001",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "Who built an ark to save animals from the flood?",
+      "options": ["Moses", "Noah", "Abraham", "David"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_e_0002",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "Who fought the giant Goliath?",
+      "options": ["David", "Samson", "Joshua", "Daniel"],
+      "answerIndex": 0
+    },
+    {
+      "id": "bible_e_0003",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "What did God create on the first day?",
+      "options": ["Animals", "Light", "Plants", "Humans"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_e_0004",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "Who was swallowed by a big fish?",
+      "options": ["Peter", "Jonah", "John", "James"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_e_0005",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "Who was the mother of Jesus?",
+      "options": ["Ruth", "Mary", "Sarah", "Elizabeth"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_e_0006",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "How many days and nights did it rain during the flood?",
+      "options": ["20", "30", "40", "50"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_e_0007",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "What did Jesus turn water into at a wedding?",
+      "options": ["Milk", "Wine", "Juice", "Oil"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_e_0008",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "Who led the Israelites out of Egypt?",
+      "options": ["Aaron", "Moses", "Joshua", "Joseph"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_e_0009",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "Where was Jesus born?",
+      "options": ["Nazareth", "Jerusalem", "Bethlehem", "Egypt"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_e_0010",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "How many disciples did Jesus choose?",
+      "options": ["10", "12", "15", "20"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_e_0011",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "Who was the first man God created?",
+      "options": ["Abraham", "Noah", "Adam", "Moses"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_e_0012",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "Who was the first woman God created?",
+      "options": ["Eve", "Sarah", "Mary", "Ruth"],
+      "answerIndex": 0
+    },
+    {
+      "id": "bible_e_0013",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "What did David use to defeat Goliath?",
+      "options": ["Sword", "Spear", "Sling and stone", "Bow and arrow"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_e_0014",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "Who betrayed Jesus for 30 pieces of silver?",
+      "options": ["Peter", "John", "Judas", "Thomas"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_e_0015",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "What animal did Jesus ride into Jerusalem?",
+      "options": ["Horse", "Camel", "Donkey", "Ox"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_e_0016",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "Who was thrown into a den of lions?",
+      "options": ["Daniel", "David", "Joseph", "Samson"],
+      "answerIndex": 0
+    },
+    {
+      "id": "bible_e_0017",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "What did God give Moses on Mount Sinai?",
+      "options": ["The Ark", "Ten Commandments", "A staff", "The Tabernacle"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_e_0018",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "How many brothers did Joseph have?",
+      "options": ["10", "11", "12", "13"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_e_0019",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "Who was the strongest man in the Bible?",
+      "options": ["David", "Goliath", "Samson", "Joshua"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_e_0020",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "What was the name of the garden where Adam and Eve lived?",
+      "options": ["Garden of Gethsemane", "Garden of Eden", "Paradise Garden", "Heaven's Garden"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_e_0021",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "Who walked on water with Jesus?",
+      "options": ["John", "James", "Peter", "Andrew"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_e_0022",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "How many days was Lazarus dead before Jesus raised him?",
+      "options": ["2 days", "3 days", "4 days", "5 days"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_e_0023",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "What did Jesus feed 5000 people with?",
+      "options": ["3 loaves and 2 fish", "5 loaves and 2 fish", "7 loaves and 3 fish", "10 loaves and 5 fish"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_e_0024",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "Who baptized Jesus?",
+      "options": ["Peter", "John the Baptist", "James", "Andrew"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_e_0025",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "What sign did God put in the sky after the flood?",
+      "options": ["A star", "A cloud", "A rainbow", "Lightning"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_e_0026",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "Who wrote most of the Psalms?",
+      "options": ["Solomon", "Moses", "David", "Samuel"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_e_0027",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "What did the wise men follow to find baby Jesus?",
+      "options": ["A map", "An angel", "A star", "A dove"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_e_0028",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "Who was Jesus' cousin?",
+      "options": ["Peter", "John the Baptist", "James", "Matthew"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_e_0029",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "What did Samson's strength come from?",
+      "options": ["His muscles", "His hair", "His sword", "His armor"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_e_0030",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "Who denied Jesus three times?",
+      "options": ["John", "Peter", "Thomas", "Judas"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_e_0031",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "What did Jacob see in his dream?",
+      "options": ["Angels on a ladder", "A burning bush", "A rainbow", "The promised land"],
+      "answerIndex": 0
+    },
+    {
+      "id": "bible_e_0032",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "Who was the wisest king of Israel?",
+      "options": ["David", "Solomon", "Saul", "Josiah"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_e_0033",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "What did God create on the second day?",
+      "options": ["Animals", "Sky", "Land", "Plants"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_e_0034",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "Who was swallowed up by the earth for disobeying God?",
+      "options": ["Korah", "Absalom", "Saul", "Achan"],
+      "answerIndex": 0
+    },
+    {
+      "id": "bible_e_0035",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "What did Moses' staff turn into?",
+      "options": ["A sword", "A snake", "A bird", "A tree"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_e_0036",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "Who was the first king of Israel?",
+      "options": ["David", "Solomon", "Saul", "Samuel"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_e_0037",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "What did God use to speak to Moses in the desert?",
+      "options": ["A cloud", "A burning bush", "Thunder", "An angel"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_e_0038",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "How many people were on Noah's ark?",
+      "options": ["6", "8", "10", "12"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_e_0039",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "Who was the brother of Moses?",
+      "options": ["Joshua", "Aaron", "Caleb", "Joseph"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_e_0040",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "What fruit did Adam and Eve eat in the garden?",
+      "options": ["Apple", "Grape", "Fig", "Forbidden fruit"],
+      "answerIndex": 3
+    },
+    {
+      "id": "bible_e_0041",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "Who saved baby Moses from the river?",
+      "options": ["Miriam", "Pharaoh's daughter", "Moses' mother", "An Egyptian woman"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_e_0042",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "What city walls fell down after people marched around them?",
+      "options": ["Jerusalem", "Jericho", "Babylon", "Nineveh"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_e_0043",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "Who was the father of many nations?",
+      "options": ["Isaac", "Jacob", "Abraham", "Noah"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_e_0044",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "What did Jesus say is the greatest commandment?",
+      "options": ["Don't steal", "Love God with all your heart", "Honor your parents", "Don't lie"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_e_0045",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "Who was cast into a fiery furnace?",
+      "options": ["Daniel", "Shadrach, Meshach, and Abednego", "Joseph", "Moses"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_e_0046",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "What was Jesus' job before he started teaching?",
+      "options": ["Fisherman", "Carpenter", "Shepherd", "Farmer"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_e_0047",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "Who was sold into slavery by his brothers?",
+      "options": ["Benjamin", "Joseph", "Jacob", "Reuben"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_e_0048",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "What did Zacchaeus climb to see Jesus?",
+      "options": ["A mountain", "A tree", "A building", "A ladder"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_e_0049",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "How many plagues did God send to Egypt?",
+      "options": ["7", "10", "12", "15"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_e_0050",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "Who was Ruth's mother-in-law?",
+      "options": ["Rachel", "Leah", "Naomi", "Sarah"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_e_0051",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "What angel appeared to Mary to tell her she would have Jesus?",
+      "options": ["Michael", "Gabriel", "Raphael", "Uriel"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_e_0052",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "Who killed his brother Abel?",
+      "options": ["Seth", "Cain", "Adam", "Enoch"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_e_0053",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "What did Jesus use to heal a blind man?",
+      "options": ["Water", "Oil", "Mud and spit", "His hand"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_e_0054",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "Who took Jesus' body down from the cross?",
+      "options": ["Peter", "John", "Joseph of Arimathea", "Nicodemus"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_e_0055",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "What did God create on the sixth day?",
+      "options": ["Fish", "Birds", "Animals and humans", "Plants"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_m_0001",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "What was the name of Abraham's wife?",
+      "options": ["Rachel", "Sarah", "Rebekah", "Leah"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0002",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "How long did Jesus fast in the wilderness?",
+      "options": ["30 days and nights", "40 days and nights", "50 days and nights", "7 days and nights"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0003",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Who was the tax collector that Jesus called to be a disciple?",
+      "options": ["Luke", "Matthew", "Mark", "Zacchaeus"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0004",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "What was the name of the mountain where Moses received the Ten Commandments?",
+      "options": ["Mount Ararat", "Mount Sinai", "Mount Carmel", "Mount Zion"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0005",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Who interpreted dreams for Pharaoh in Egypt?",
+      "options": ["Daniel", "Joseph", "Moses", "Aaron"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0006",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "What was the name of David's best friend?",
+      "options": ["Samuel", "Jonathan", "Solomon", "Nathan"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0007",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Who was the mother of Samuel?",
+      "options": ["Hannah", "Ruth", "Deborah", "Esther"],
+      "answerIndex": 0
+    },
+    {
+      "id": "bible_m_0008",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "What were the names of Noah's three sons?",
+      "options": ["Cain, Abel, Seth", "Shem, Ham, Japheth", "Abraham, Isaac, Jacob", "Peter, James, John"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0009",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Who was the judge of Israel who defeated the Midianites with 300 men?",
+      "options": ["Samson", "Gideon", "Jephthah", "Deborah"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0010",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "What was the name of the woman who hid Israelite spies in Jericho?",
+      "options": ["Deborah", "Ruth", "Rahab", "Esther"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_m_0011",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Who was the prophet taken to heaven in a whirlwind?",
+      "options": ["Elijah", "Elisha", "Enoch", "Isaiah"],
+      "answerIndex": 0
+    },
+    {
+      "id": "bible_m_0012",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "What was the name of the son Abraham almost sacrificed?",
+      "options": ["Ishmael", "Isaac", "Jacob", "Joseph"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0013",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Who was the Roman governor who sentenced Jesus to death?",
+      "options": ["Herod", "Caesar", "Pilate", "Felix"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_m_0014",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Which disciple doubted Jesus' resurrection until he saw Him?",
+      "options": ["Peter", "Thomas", "Philip", "Andrew"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0015",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "What was the name of the blind beggar Jesus healed in Jericho?",
+      "options": ["Lazarus", "Bartimaeus", "Zacchaeus", "Nicodemus"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0016",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Who was the queen who saved the Jewish people from destruction?",
+      "options": ["Ruth", "Deborah", "Esther", "Jezebel"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_m_0017",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "What did the Israelites eat in the wilderness?",
+      "options": ["Bread from Egypt", "Manna and quail", "Fish and locusts", "Honey and figs"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0018",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Who was the prophetess and judge who led Israel to victory?",
+      "options": ["Esther", "Ruth", "Deborah", "Hannah"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_m_0019",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "What was Jesus' first miracle?",
+      "options": ["Healing a blind man", "Walking on water", "Turning water into wine", "Feeding 5000"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_m_0020",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Who was the woman who washed Jesus' feet with her tears?",
+      "options": ["Martha", "Mary Magdalene", "Mary of Bethany", "A sinful woman"],
+      "answerIndex": 3
+    },
+    {
+      "id": "bible_m_0021",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "What was the name of Jacob's first wife?",
+      "options": ["Rachel", "Leah", "Rebekah", "Bilhah"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0022",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Who was the prophet who confronted King David about his sin?",
+      "options": ["Samuel", "Isaiah", "Nathan", "Jeremiah"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_m_0023",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "What was the name of Moses' sister?",
+      "options": ["Deborah", "Miriam", "Rachel", "Sarah"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0024",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Who was the young boy who heard God calling him at night?",
+      "options": ["David", "Samuel", "Timothy", "Josiah"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0025",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "In the parable of the Good Samaritan, who helped the injured man?",
+      "options": ["A priest", "A Levite", "A Samaritan", "A Roman"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_m_0026",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "What did John the Baptist eat in the wilderness?",
+      "options": ["Fish and bread", "Manna", "Locusts and wild honey", "Fruit and vegetables"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_m_0027",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Who was the king when Jesus was born?",
+      "options": ["Herod", "Pilate", "Caesar Augustus", "Pharaoh"],
+      "answerIndex": 0
+    },
+    {
+      "id": "bible_m_0028",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "What did Esau sell to Jacob for a bowl of stew?",
+      "options": ["His coat", "His birthright", "His sheep", "His land"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0029",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Who was the youngest son of Jacob?",
+      "options": ["Joseph", "Benjamin", "Judah", "Dan"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0030",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "What did Delilah do to Samson?",
+      "options": ["Poisoned him", "Cut his hair", "Betrayed him to enemies", "Both cut his hair and betrayed him"],
+      "answerIndex": 3
+    },
+    {
+      "id": "bible_m_0031",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Who succeeded Moses as the leader of Israel?",
+      "options": ["Aaron", "Caleb", "Joshua", "Samuel"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_m_0032",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "What was the name of the place where Jesus was crucified?",
+      "options": ["Bethlehem", "Nazareth", "Golgotha", "Mount Sinai"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_m_0033",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Who was thrown into prison with Jesus' disciple Peter?",
+      "options": ["Paul", "John", "James", "Barnabas"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0034",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "What did God create on the fifth day?",
+      "options": ["Land animals", "Sea creatures and birds", "Plants", "Humans"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0035",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Who was the father of Jacob and Esau?",
+      "options": ["Abraham", "Isaac", "Joseph", "Judah"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0036",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "What river did John the Baptist baptize people in?",
+      "options": ["Nile", "Euphrates", "Jordan", "Tigris"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_m_0037",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Who was the son of David who tried to steal his throne?",
+      "options": ["Solomon", "Absalom", "Nathan", "Adonijah"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0038",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Who was the cupbearer to the king who rebuilt Jerusalem's walls?",
+      "options": ["Ezra", "Nehemiah", "Daniel", "Mordecai"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0039",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "In the parable of the Prodigal Son, what job did the son get?",
+      "options": ["Shepherd", "Farmer", "Feeding pigs", "Carpenter"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_m_0040",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Who was the first martyr of the Christian church?",
+      "options": ["Peter", "James", "Stephen", "Paul"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_m_0041",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "What did Jesus say was built on rock and not sand?",
+      "options": ["A temple", "A wise man's house", "The church", "Faith"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0042",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Who climbed a sycamore tree to see Jesus?",
+      "options": ["Matthew", "Nicodemus", "Zacchaeus", "Bartimaeus"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_m_0043",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "What was the name of the servant whose ear Peter cut off?",
+      "options": ["Malchus", "Matthias", "Marcus", "Manaen"],
+      "answerIndex": 0
+    },
+    {
+      "id": "bible_m_0044",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Who were the parents of John the Baptist?",
+      "options": ["Joseph and Mary", "Zacharias and Elizabeth", "Abraham and Sarah", "Joachim and Anne"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0045",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "What type of tree did Jesus curse for not having fruit?",
+      "options": ["Olive tree", "Fig tree", "Palm tree", "Apple tree"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0046",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Who was the woman at the well that Jesus spoke to?",
+      "options": ["A Jewish woman", "A Roman woman", "A Samaritan woman", "An Egyptian woman"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_m_0047",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "How many years did the Israelites wander in the wilderness?",
+      "options": ["20 years", "30 years", "40 years", "50 years"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_m_0048",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Who was the king of Babylon who saw the writing on the wall?",
+      "options": ["Nebuchadnezzar", "Belshazzar", "Cyrus", "Darius"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0049",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "What was the name of the island where John wrote Revelation?",
+      "options": ["Cyprus", "Crete", "Malta", "Patmos"],
+      "answerIndex": 3
+    },
+    {
+      "id": "bible_m_0050",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Who was the husband of Mary who ministered to Jesus?",
+      "options": ["Lazarus", "Joseph", "Cleopas", "Chuza"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_m_0051",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "What did Jesus write in the sand when the woman caught in adultery was brought to him?",
+      "options": ["The Ten Commandments", "Her sins", "The Bible doesn't say", "Their sins"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_m_0052",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Who was the wicked queen married to King Ahab?",
+      "options": ["Athaliah", "Jezebel", "Herodias", "Vashti"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0053",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "What was Paul's name before he became a Christian?",
+      "options": ["Saul", "Simon", "Samuel", "Solomon"],
+      "answerIndex": 0
+    },
+    {
+      "id": "bible_m_0054",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Who was the man let go instead of Jesus?",
+      "options": ["Judas", "Barabbas", "Simon", "Demas"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0055",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "What did Jacob give Joseph that made his brothers jealous?",
+      "options": ["Gold coins", "A colorful coat", "A special blessing", "Land"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0056",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Who was the person that carried Jesus' cross?",
+      "options": ["Peter", "John", "Simon of Cyrene", "Joseph of Arimathea"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_m_0057",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "What was the name of the city where Jesus grew up?",
+      "options": ["Bethlehem", "Jerusalem", "Nazareth", "Capernaum"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_m_0058",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Who sold his birthright for a bowl of stew?",
+      "options": ["Jacob", "Esau", "Ishmael", "Reuben"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0059",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "What was Jonah doing when the storm hit the ship?",
+      "options": ["Praying", "Sleeping", "Steering the ship", "Fishing"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0060",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Who was the Roman centurion whose servant Jesus healed?",
+      "options": ["Julius", "Cornelius", "The centurion at Capernaum", "Marcus"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_m_0061",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "What did the dove bring back to Noah on the ark?",
+      "options": ["A fig leaf", "An olive branch", "A flower", "Nothing"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0062",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Who was King David's father?",
+      "options": ["Samuel", "Jesse", "Saul", "Jonathan"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0063",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "What musical instrument did David play?",
+      "options": ["Flute", "Harp", "Trumpet", "Tambourine"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0064",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Who was the disciple known as 'the Rock'?",
+      "options": ["John", "James", "Peter", "Andrew"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_m_0065",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "What was the name of the garden where Jesus prayed before his arrest?",
+      "options": ["Garden of Eden", "Garden of Gethsemane", "Olive Garden", "King's Garden"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0066",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Who was the first person to see Jesus after his resurrection?",
+      "options": ["Peter", "John", "Mary Magdalene", "Thomas"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_m_0067",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "What did God create on the fourth day?",
+      "options": ["Animals", "Sun, moon, and stars", "Plants", "Seas"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0068",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Who was the disciple that Jesus loved?",
+      "options": ["Peter", "John", "James", "Andrew"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0069",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "What was the last plague God sent on Egypt?",
+      "options": ["Darkness", "Locusts", "Death of firstborn", "Hail"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_m_0070",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Who was the wife of Isaac?",
+      "options": ["Rachel", "Leah", "Rebekah", "Sarah"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_m_0071",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "In the parable of the sower, where did some seeds fall and grow?",
+      "options": ["On rocks", "On the path", "Among thorns", "On good soil"],
+      "answerIndex": 3
+    },
+    {
+      "id": "bible_m_0072",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Who was the judge who made a rash vow about his daughter?",
+      "options": ["Gideon", "Samson", "Jephthah", "Barak"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_m_0073",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "What did Jesus say we cannot serve along with God?",
+      "options": ["Sin", "Money", "Ourselves", "The world"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0074",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Who baptized the Ethiopian eunuch?",
+      "options": ["Peter", "Paul", "Philip", "Barnabas"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_m_0075",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "What did the Pharisees criticize Jesus' disciples for not doing before eating?",
+      "options": ["Praying", "Washing hands", "Giving thanks", "Fasting"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0076",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Who was known for his wisdom and wrote many proverbs?",
+      "options": ["David", "Solomon", "Moses", "Daniel"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0077",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "What was Abram's name changed to?",
+      "options": ["Israel", "Abraham", "Isaac", "Jacob"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0078",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Who found baby Moses in a basket?",
+      "options": ["The queen", "Pharaoh's daughter", "An Egyptian slave", "Moses' sister"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0079",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "How many sons did Jacob have?",
+      "options": ["10", "11", "12", "13"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_m_0080",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Who was the missionary companion of Paul?",
+      "options": ["Timothy", "Barnabas", "Silas", "All of them at different times"],
+      "answerIndex": 3
+    },
+    {
+      "id": "bible_h_0001",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "What were the names of the two spies who gave a good report about the Promised Land?",
+      "options": ["Moses and Aaron", "Joshua and Caleb", "Gideon and Samson", "David and Jonathan"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_h_0002",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "Who was the king of Salem who blessed Abraham?",
+      "options": ["Abimelech", "Melchizedek", "Lot", "Pharaoh"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_h_0003",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "What was the name of Moses' father-in-law?",
+      "options": ["Jethro", "Aaron", "Hobab", "Both Jethro and Hobab"],
+      "answerIndex": 3
+    },
+    {
+      "id": "bible_h_0004",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "How many years did it take Solomon to build the temple?",
+      "options": ["5 years", "7 years", "10 years", "20 years"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_h_0005",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "Who was the oldest man in the Bible?",
+      "options": ["Noah", "Adam", "Methuselah", "Enoch"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_h_0006",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "What was the name of Abraham's son with Hagar?",
+      "options": ["Isaac", "Jacob", "Ishmael", "Esau"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_h_0007",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "How many times did Naaman have to dip in the Jordan River to be healed?",
+      "options": ["3 times", "5 times", "7 times", "10 times"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_h_0008",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "Who was the prophet that succeeded Elijah?",
+      "options": ["Isaiah", "Elisha", "Jeremiah", "Ezekiel"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_h_0009",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "What was the name of the field purchased with Judas' betrayal money?",
+      "options": ["Potter's Field", "Field of Blood", "Akeldama", "All of these names"],
+      "answerIndex": 3
+    },
+    {
+      "id": "bible_h_0010",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "How many fish were caught in the miraculous catch after Jesus' resurrection?",
+      "options": ["100", "120", "144", "153"],
+      "answerIndex": 3
+    },
+    {
+      "id": "bible_h_0011",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "Who was the high priest when Jesus was arrested?",
+      "options": ["Annas", "Caiaphas", "Both Annas and Caiaphas", "Pontius Pilate"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_h_0012",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "What was the name of the sorcerer Paul encountered in Cyprus?",
+      "options": ["Simon", "Bar-Jesus (Elymas)", "Demetrius", "Apollos"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_h_0013",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "Who was the king of Judah when Jerusalem was destroyed by Babylon?",
+      "options": ["Josiah", "Jehoiakim", "Zedekiah", "Jehoiachin"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_h_0014",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "How many books are in the Old Testament?",
+      "options": ["27", "39", "46", "66"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_h_0015",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "What was the name of the servant of Abraham who found a wife for Isaac?",
+      "options": ["Eleazar", "Eliezer", "Lot", "The Bible doesn't say"],
+      "answerIndex": 3
+    },
+    {
+      "id": "bible_h_0016",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "Who was the judge after Gideon?",
+      "options": ["Samson", "Jephthah", "Abimelech", "Tola"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_h_0017",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "How many years did Jacob serve Laban for Rachel?",
+      "options": ["7 years", "14 years", "20 years", "21 years"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_h_0018",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "What was the name of the Canaanite woman whose faith Jesus praised?",
+      "options": ["Mary", "Martha", "The Syrophoenician woman", "Rahab"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_h_0019",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "Who was the judge of Israel who sacrificed his daughter?",
+      "options": ["Gideon", "Samson", "Jephthah", "Barak"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_h_0020",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "What was Saul doing when Samuel came to anoint him king?",
+      "options": ["Farming", "Looking for his father's donkeys", "Praying", "Fighting"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_h_0021",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "How many pieces of silver did the brothers sell Joseph for?",
+      "options": ["20", "25", "30", "40"],
+      "answerIndex": 0
+    },
+    {
+      "id": "bible_h_0022",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "What was the name of the tax collector who climbed a tree?",
+      "options": ["Matthew", "Levi", "Zacchaeus", "Simon"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_h_0023",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "Which of David's sons murdered his brother Amnon?",
+      "options": ["Solomon", "Absalom", "Adonijah", "Nathan"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_h_0024",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "Who was the prophet that anointed both Saul and David as kings?",
+      "options": ["Nathan", "Elijah", "Samuel", "Isaiah"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_h_0025",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "What city did Joshua and the Israelites defeat after Jericho?",
+      "options": ["Hebron", "Ai", "Gibeon", "Bethel"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_h_0026",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "Who was the father of King Jehu?",
+      "options": ["Ahab", "Jehoshaphat", "Nimshi", "The Bible says grandson of Nimshi"],
+      "answerIndex": 3
+    },
+    {
+      "id": "bible_h_0027",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "What was the name of the town where Jesus raised the widow's son from the dead?",
+      "options": ["Bethany", "Bethsaida", "Nain", "Capernaum"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_h_0028",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "How many years did the Israelites serve the Philistines before Samson became judge?",
+      "options": ["20 years", "30 years", "40 years", "50 years"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_h_0029",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "Who was the king of Persia who allowed the Jews to return to Jerusalem?",
+      "options": ["Darius", "Cyrus", "Xerxes", "Artaxerxes"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_h_0030",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "What was the name of Ruth's first husband?",
+      "options": ["Boaz", "Mahlon", "Elimelech", "Chilion"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_h_0031",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "How many times did Peter deny Jesus?",
+      "options": ["2 times", "3 times", "4 times", "5 times"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_h_0032",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "Who was the woman judge of Israel?",
+      "options": ["Esther", "Ruth", "Deborah", "Hannah"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_h_0033",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "What was the name of the man who replaced Judas as a disciple?",
+      "options": ["Barnabas", "Matthias", "Timothy", "Silas"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_h_0034",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "How many years did Sarah live?",
+      "options": ["120 years", "127 years", "137 years", "147 years"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_h_0035",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "Who was the brother of Mary and Martha?",
+      "options": ["Simon", "Lazarus", "Joseph", "Barnabas"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_h_0036",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "What offering did Cain bring to God?",
+      "options": ["A lamb", "Fruit of the ground", "Gold", "Incense"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_h_0037",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "Who was the man who took care of Paul after his conversion?",
+      "options": ["Barnabas", "Ananias", "Silas", "Timothy"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_h_0038",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "How many deacons were chosen in the early church?",
+      "options": ["5", "7", "10", "12"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_h_0039",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "What was the name of the metal worker who opposed Paul?",
+      "options": ["Simon", "Alexander", "Demetrius", "Apollos"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_h_0040",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "Who was the father-in-law of Moses?",
+      "options": ["Hobab", "Jethro", "Reuel", "All these names refer to him"],
+      "answerIndex": 3
+    },
+    {
+      "id": "bible_h_0041",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "What was the name of the apostle who replaced Judas?",
+      "options": ["Paul", "Silas", "Matthias", "Barnabas"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_h_0042",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "How many generations are listed from Abraham to David?",
+      "options": ["12", "14", "16", "18"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_h_0043",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "Who was the wife of Uriah whom David married?",
+      "options": ["Michal", "Abigail", "Bathsheba", "Ahinoam"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_h_0044",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "What was the name of the place where Jacob wrestled with God?",
+      "options": ["Bethel", "Peniel", "Mizpah", "Gilgal"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_h_0045",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "How many men did Nebuchadnezzar see walking in the fiery furnace?",
+      "options": ["3", "4", "5", "7"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_h_0046",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "Who was the great-grandmother of King David?",
+      "options": ["Ruth", "Rahab", "Tamar", "Bathsheba"],
+      "answerIndex": 0
+    },
+    {
+      "id": "bible_h_0047",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "What was the name of Potiphar's wife who falsely accused Joseph?",
+      "options": ["Asenath", "The Bible doesn't say", "Zipporah", "Bathsheba"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_h_0048",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "How old was Abraham when Isaac was born?",
+      "options": ["90 years", "100 years", "110 years", "120 years"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_h_0049",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "What did Esau do to make his parents sad?",
+      "options": ["He stole from them", "He married Hittite women", "He left home", "He rejected God"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_h_0050",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "Who was the prophet who anointed Solomon as king?",
+      "options": ["Nathan", "Zadok the priest", "Both Nathan and Zadok", "Samuel"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_h_0051",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "How many chapters are in the book of Psalms?",
+      "options": ["100", "120", "150", "175"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_h_0052",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "Who was the commander of Saul's army?",
+      "options": ["Joab", "Abner", "Benaiah", "Abishai"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_h_0053",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "What was the name of the Egyptian slave that Abraham married?",
+      "options": ["Hagar", "Keturah", "Bilhah", "Zilpah"],
+      "answerIndex": 0
+    },
+    {
+      "id": "bible_h_0054",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "Who was the mother of James and John?",
+      "options": ["Salome", "Mary", "Joanna", "Susanna"],
+      "answerIndex": 0
+    },
+    {
+      "id": "bible_h_0055",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "What was Paul's occupation?",
+      "options": ["Fisherman", "Tentmaker", "Tax collector", "Carpenter"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_h_0056",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "How many books did Paul write in the New Testament?",
+      "options": ["9", "13", "14", "21"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_h_0057",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "Who was the prophet who married a prostitute?",
+      "options": ["Isaiah", "Jeremiah", "Hosea", "Ezekiel"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_h_0058",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "What was the name of the city where Paul was from?",
+      "options": ["Jerusalem", "Tarsus", "Damascus", "Antioch"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_h_0059",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "How many brothers did David have?",
+      "options": ["5", "6", "7", "8"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_h_0060",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "Who was the commander of David's army?",
+      "options": ["Abner", "Joab", "Benaiah", "Abishai"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_h_0061",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "What was the name of the gate Beautiful where Peter healed the lame man?",
+      "options": ["Golden Gate", "Sheep Gate", "Beautiful Gate", "Water Gate"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_h_0062",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "Who was the young man who fell asleep during Paul's preaching and fell from a window?",
+      "options": ["Timothy", "Eutychus", "Titus", "Epaphras"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_h_0063",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "How many books are in the New Testament?",
+      "options": ["23", "25", "27", "29"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_h_0064",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "Who was the woman who lied about the price of property and died?",
+      "options": ["Sapphira", "Tabitha", "Lydia", "Priscilla"],
+      "answerIndex": 0
+    },
+    {
+      "id": "bible_h_0065",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "What was the name of the first Christian convert in Europe?",
+      "options": ["Priscilla", "Lydia", "Phoebe", "Lois"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_e_0056",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "Where was Jesus born?",
+      "options": ["Jerusalem", "Nazareth", "Bethlehem", "Egypt"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_e_0057",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "What holiday celebrates Jesus' birth?",
+      "options": ["Easter", "Christmas", "Pentecost", "Thanksgiving"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_e_0058",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "What holiday celebrates Jesus rising from the dead?",
+      "options": ["Easter", "Christmas", "Palm Sunday", "Good Friday"],
+      "answerIndex": 0
+    },
+    {
+      "id": "bible_e_0059",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "How many commandments did God give to Moses?",
+      "options": ["Five", "Seven", "Ten", "Twelve"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_e_0060",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "What is the first book of the Bible?",
+      "options": ["Exodus", "Genesis", "Matthew", "Psalms"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_e_0061",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "What is the last book of the Bible?",
+      "options": ["Revelation", "Jude", "Acts", "Romans"],
+      "answerIndex": 0
+    },
+    {
+      "id": "bible_e_0062",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "What did God give Moses on Mount Sinai?",
+      "options": ["A crown", "The Ten Commandments", "A staff", "Food"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_e_0063",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "Which prophet was thrown into a den of lions?",
+      "options": ["Isaiah", "Jeremiah", "Daniel", "Elijah"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_e_0064",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "What city is known as the Holy City?",
+      "options": ["Bethlehem", "Nazareth", "Jerusalem", "Jericho"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_e_0065",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "Who was the first man God created?",
+      "options": ["Cain", "Seth", "Adam", "Abel"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_e_0066",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "Who was the first woman God created?",
+      "options": ["Mary", "Eve", "Sarah", "Rachel"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_e_0067",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "What is the first commandment?",
+      "options": ["Honor your parents", "Do not steal", "You shall have no other gods", "Do not lie"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_e_0068",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "Which book contains the story of creation?",
+      "options": ["Genesis", "Exodus", "Leviticus", "Numbers"],
+      "answerIndex": 0
+    },
+    {
+      "id": "bible_e_0069",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "Which prophet went up to heaven in a whirlwind?",
+      "options": ["Elisha", "Elijah", "Isaiah", "Ezekiel"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_e_0070",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "What does 'Blessed are the poor in spirit' mean?",
+      "options": ["Happy are the humble", "Sad are the weak", "Rich are blessed", "Strong are happy"],
+      "answerIndex": 0
+    },
+    {
+      "id": "bible_e_0071",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "Which commandment says 'Honor your father and mother'?",
+      "options": ["Third", "Fourth", "Fifth", "Sixth"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_e_0072",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "What book comes after Matthew in the New Testament?",
+      "options": ["Luke", "Mark", "John", "Acts"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_e_0073",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "Where did the wise men find baby Jesus?",
+      "options": ["Nazareth", "Bethlehem", "Egypt", "Jerusalem"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_e_0074",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "Which commandment says 'You shall not steal'?",
+      "options": ["Sixth", "Seventh", "Eighth", "Ninth"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_e_0075",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "Which prophet called down fire from heaven?",
+      "options": ["Elijah", "Isaiah", "Jeremiah", "Ezekiel"],
+      "answerIndex": 0
+    },
+    {
+      "id": "bible_e_0076",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "What is the book of songs and praises in the Bible?",
+      "options": ["Proverbs", "Psalms", "Song of Solomon", "Ecclesiastes"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_e_0077",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "Who betrayed Jesus for 30 pieces of silver?",
+      "options": ["Peter", "John", "Judas", "Thomas"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_e_0078",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "Blessed are the merciful, for they shall receive what?",
+      "options": ["Mercy", "Riches", "Power", "Fame"],
+      "answerIndex": 0
+    },
+    {
+      "id": "bible_e_0079",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "Which book tells about the Israelites leaving Egypt?",
+      "options": ["Genesis", "Exodus", "Numbers", "Deuteronomy"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_e_0080",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "Where did Jesus grow up?",
+      "options": ["Bethlehem", "Nazareth", "Jerusalem", "Capernaum"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_e_0081",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "Who wrote most of the Psalms?",
+      "options": ["Solomon", "Moses", "David", "Samuel"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_e_0082",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "Blessed are the pure in heart, for they shall see what?",
+      "options": ["Angels", "God", "Heaven", "Treasures"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_e_0083",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "Which commandment says 'You shall not murder'?",
+      "options": ["Fifth", "Sixth", "Seventh", "Eighth"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_e_0084",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "Which prophet was swallowed by a big fish?",
+      "options": ["Jonah", "Joel", "Amos", "Micah"],
+      "answerIndex": 0
+    },
+    {
+      "id": "bible_e_0085",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "What are the first four books of the New Testament called?",
+      "options": ["Letters", "Gospels", "Prophets", "Epistles"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_e_0086",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "Which commandment says 'Remember the Sabbath day'?",
+      "options": ["Second", "Third", "Fourth", "Fifth"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_e_0087",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "Where did Jesus pray before he was arrested?",
+      "options": ["The Temple", "Garden of Gethsemane", "Mount of Olives", "Upper Room"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_e_0088",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "Blessed are the peacemakers, for they shall be called what?",
+      "options": ["Children of God", "Heroes", "Winners", "Leaders"],
+      "answerIndex": 0
+    },
+    {
+      "id": "bible_e_0089",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "Which prophet built an ark?",
+      "options": ["Abraham", "Moses", "Noah", "David"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_e_0090",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "What book comes after Acts in the New Testament?",
+      "options": ["Romans", "Corinthians", "Galatians", "Ephesians"],
+      "answerIndex": 0
+    },
+    {
+      "id": "bible_e_0091",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "Which commandment says 'You shall not commit adultery'?",
+      "options": ["Sixth", "Seventh", "Eighth", "Ninth"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_e_0092",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "In what city was Jesus crucified?",
+      "options": ["Nazareth", "Bethlehem", "Jerusalem", "Jericho"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_e_0093",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "Which prophet heard God's voice as a young boy?",
+      "options": ["Samuel", "David", "Isaiah", "Jeremiah"],
+      "answerIndex": 0
+    },
+    {
+      "id": "bible_e_0094",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "Blessed are those who mourn, for they shall be what?",
+      "options": ["Sad forever", "Comforted", "Alone", "Forgotten"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_e_0095",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "Which book contains wise sayings of Solomon?",
+      "options": ["Psalms", "Ecclesiastes", "Proverbs", "Song of Solomon"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_e_0096",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "Which commandment says 'You shall not bear false witness'?",
+      "options": ["Seventh", "Eighth", "Ninth", "Tenth"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_e_0097",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "On what day did Jesus rise from the dead?",
+      "options": ["Friday", "Saturday", "Sunday", "Monday"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_e_0098",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "Which prophet saw a ladder reaching to heaven?",
+      "options": ["Moses", "Jacob", "Joseph", "Abraham"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_e_0099",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "Which book tells the story of the walls of Jericho falling?",
+      "options": ["Judges", "Joshua", "1 Samuel", "2 Kings"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_e_0100",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "Blessed are the meek, for they shall inherit what?",
+      "options": ["The kingdom", "The earth", "Heaven", "Treasures"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_e_0101",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "Which commandment says 'You shall not covet'?",
+      "options": ["Eighth", "Ninth", "Tenth", "Seventh"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_e_0102",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "What special meal did Jesus share with his disciples before he died?",
+      "options": ["Breakfast", "The Last Supper", "Lunch", "Wedding Feast"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_e_0103",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "Which prophet wrote the longest book in the Bible?",
+      "options": ["Isaiah", "Jeremiah", "Ezekiel", "Daniel"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_e_0104",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "Which book comes after Genesis?",
+      "options": ["Leviticus", "Numbers", "Exodus", "Deuteronomy"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_e_0105",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "How many Beatitudes did Jesus teach?",
+      "options": ["Six", "Seven", "Eight", "Nine"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_e_0106",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "Where was Jesus when he taught the Beatitudes?",
+      "options": ["By the sea", "In the temple", "On a mountain", "In a house"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_e_0107",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "What city did David capture and make his capital?",
+      "options": ["Bethlehem", "Jerusalem", "Hebron", "Jericho"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_e_0108",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "Which prophet was thrown into a fiery furnace?",
+      "options": ["Daniel", "Shadrach", "Ezekiel", "Hosea"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_e_0109",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "Blessed are those who hunger and thirst for what?",
+      "options": ["Food", "Righteousness", "Water", "Knowledge"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_e_0110",
+      "category": "bible",
+      "difficulty": "easy",
+      "question": "Which book contains stories of judges like Gideon and Samson?",
+      "options": ["Joshua", "Judges", "Ruth", "1 Samuel"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0081",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "In which book do the Ten Commandments first appear?",
+      "options": ["Genesis", "Exodus", "Leviticus", "Deuteronomy"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0082",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "What was King Herod's title when Jesus was born?",
+      "options": ["King of Israel", "King of Judea", "King of Jerusalem", "Emperor"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0083",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Which prophet was commanded to marry an unfaithful wife?",
+      "options": ["Hosea", "Amos", "Joel", "Micah"],
+      "answerIndex": 0
+    },
+    {
+      "id": "bible_m_0084",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "What does the name 'Bethlehem' mean?",
+      "options": ["City of Peace", "House of Bread", "City of Kings", "Place of Rest"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0085",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "How many books are in the New Testament?",
+      "options": ["25", "27", "29", "31"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0086",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Which beatitude says 'for theirs is the kingdom of heaven'?",
+      "options": ["Blessed are the poor in spirit", "Blessed are the meek", "Blessed are the merciful", "Blessed are the pure in heart"],
+      "answerIndex": 0
+    },
+    {
+      "id": "bible_m_0087",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Which prophet prophesied about the valley of dry bones?",
+      "options": ["Isaiah", "Jeremiah", "Ezekiel", "Daniel"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_m_0088",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "What is the shortest book in the New Testament?",
+      "options": ["Philemon", "2 John", "3 John", "Jude"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_m_0089",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "What pool in Jerusalem was Jesus told to wash in to be healed?",
+      "options": ["Pool of Bethesda", "Pool of Siloam", "Pool of Gibeon", "Pool of Solomon"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0090",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Which commandment prohibits making graven images?",
+      "options": ["First", "Second", "Third", "Fourth"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0091",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "What major prophet was also a priest?",
+      "options": ["Isaiah", "Jeremiah", "Ezekiel", "Daniel"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_m_0092",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "How many books did the Apostle John write?",
+      "options": ["Three", "Four", "Five", "Six"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_m_0093",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "At which gate of Jerusalem did Peter heal the lame man?",
+      "options": ["Golden Gate", "Beautiful Gate", "Sheep Gate", "Damascus Gate"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0094",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "During which Jewish feast was Jesus crucified?",
+      "options": ["Passover", "Pentecost", "Tabernacles", "Purim"],
+      "answerIndex": 0
+    },
+    {
+      "id": "bible_m_0095",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Which prophet was told to walk barefoot and naked for three years?",
+      "options": ["Jeremiah", "Ezekiel", "Isaiah", "Hosea"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_m_0096",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "What does 'Blessed are those who are persecuted' promise?",
+      "options": ["Peace on earth", "The kingdom of heaven", "Great rewards", "Long life"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0097",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "How many books are in the Old Testament?",
+      "options": ["37", "39", "41", "43"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0098",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Which commandment says 'You shall not take the name of the Lord in vain'?",
+      "options": ["Second", "Third", "Fourth", "Fifth"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0099",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "In what city did Jesus turn water into wine?",
+      "options": ["Cana", "Bethany", "Nazareth", "Capernaum"],
+      "answerIndex": 0
+    },
+    {
+      "id": "bible_m_0100",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Which prophet saw the vision of God's throne room?",
+      "options": ["Isaiah", "Ezekiel", "Daniel", "Both A and B"],
+      "answerIndex": 3
+    },
+    {
+      "id": "bible_m_0101",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "What is the shortest book in the Old Testament?",
+      "options": ["Obadiah", "Jonah", "Haggai", "Nahum"],
+      "answerIndex": 0
+    },
+    {
+      "id": "bible_m_0102",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Where did Jesus appear to his disciples after his resurrection first?",
+      "options": ["Galilee", "Jerusalem", "Bethany", "Emmaus"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0103",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Which gate of Jerusalem will Jesus enter at his second coming?",
+      "options": ["Damascus Gate", "Eastern Gate", "Zion Gate", "Jaffa Gate"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0104",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "How many total commandments are traditionally counted in the Torah?",
+      "options": ["365", "513", "613", "713"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_m_0105",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Which prophet had a vision of a plumb line?",
+      "options": ["Amos", "Micah", "Nahum", "Habakkuk"],
+      "answerIndex": 0
+    },
+    {
+      "id": "bible_m_0106",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "What is the longest book in the Bible?",
+      "options": ["Genesis", "Psalms", "Isaiah", "Jeremiah"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0107",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Where in the Bible are the Beatitudes found?",
+      "options": ["Matthew 5", "Mark 4", "Luke 6", "Both A and C"],
+      "answerIndex": 3
+    },
+    {
+      "id": "bible_m_0108",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "From which mountain did Moses see the Promised Land?",
+      "options": ["Mount Sinai", "Mount Horeb", "Mount Nebo", "Mount Carmel"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_m_0109",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Which prophet complained to God about injustice?",
+      "options": ["Nahum", "Habakkuk", "Zephaniah", "Haggai"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0110",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "What is the book between Job and Proverbs?",
+      "options": ["Ecclesiastes", "Psalms", "Song of Solomon", "Isaiah"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0111",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "According to tradition, where was Jesus' tomb located?",
+      "options": ["Mount of Olives", "Golgotha area", "Bethany", "Mount Zion"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0112",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Which prophet was known as the 'weeping prophet'?",
+      "options": ["Isaiah", "Jeremiah", "Ezekiel", "Hosea"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0113",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "How many days after the crucifixion is Easter celebrated?",
+      "options": ["One", "Two", "Three", "Seven"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_m_0114",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Which commandment deals with the Sabbath day?",
+      "options": ["Third", "Fourth", "Fifth", "Sixth"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0115",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Which book comes between Judges and 1 Samuel?",
+      "options": ["Joshua", "Ruth", "Esther", "Job"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0116",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Which prophet prophesied the birth of Jesus in Bethlehem?",
+      "options": ["Isaiah", "Jeremiah", "Micah", "Hosea"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_m_0117",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "From which mountain did Jesus ascend to heaven?",
+      "options": ["Mount Sinai", "Mount of Olives", "Mount Zion", "Mount Tabor"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0118",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Which beatitude speaks about inheriting the earth?",
+      "options": ["Blessed are the poor in spirit", "Blessed are the meek", "Blessed are the merciful", "Blessed are the peacemakers"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0119",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Which prophet saw a vision of a basket of summer fruit?",
+      "options": ["Amos", "Hosea", "Joel", "Jonah"],
+      "answerIndex": 0
+    },
+    {
+      "id": "bible_m_0120",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "What book comes after 2 Chronicles?",
+      "options": ["Ezra", "Nehemiah", "Esther", "Job"],
+      "answerIndex": 0
+    },
+    {
+      "id": "bible_m_0121",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "In Jerusalem, what was the temple mount also called?",
+      "options": ["Mount Sinai", "Mount Moriah", "Mount Zion", "Mount Calvary"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0122",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Which prophet had a vision of four chariots?",
+      "options": ["Zechariah", "Haggai", "Malachi", "Joel"],
+      "answerIndex": 0
+    },
+    {
+      "id": "bible_m_0123",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "What season is Easter always celebrated in (Northern Hemisphere)?",
+      "options": ["Winter", "Spring", "Summer", "Fall"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0124",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "How many books of the Bible are named after women?",
+      "options": ["One", "Two", "Three", "Four"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0125",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Which prophet was taken up in a chariot of fire?",
+      "options": ["Elijah", "Elisha", "Enoch", "Isaiah"],
+      "answerIndex": 0
+    },
+    {
+      "id": "bible_m_0126",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "In the Ten Commandments, what are the first four about?",
+      "options": ["Our relationship with others", "Our relationship with God", "Family relationships", "Community rules"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0127",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "What book comes immediately after Song of Solomon?",
+      "options": ["Isaiah", "Jeremiah", "Ezekiel", "Daniel"],
+      "answerIndex": 0
+    },
+    {
+      "id": "bible_m_0128",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Where was Paul when Jesus appeared to him?",
+      "options": ["Jerusalem", "Road to Damascus", "Tarsus", "Rome"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0129",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Which prophet was commanded to eat a scroll?",
+      "options": ["Isaiah", "Jeremiah", "Ezekiel", "Daniel"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_m_0130",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "In which book are all the Beatitudes recorded together?",
+      "options": ["Matthew", "Mark", "Luke", "John"],
+      "answerIndex": 0
+    },
+    {
+      "id": "bible_m_0131",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "What river flows through Jerusalem?",
+      "options": ["Jordan", "Nile", "Kidron", "Euphrates"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_m_0132",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "How many Minor Prophets are in the Old Testament?",
+      "options": ["10", "12", "14", "16"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0133",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "What book comes between Philemon and James?",
+      "options": ["Titus", "Hebrews", "1 Peter", "1 John"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0134",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "What does Christmas literally celebrate?",
+      "options": ["Jesus' baptism", "Jesus' birth", "Jesus' ministry", "Jesus' presentation"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0135",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Which of the Ten Commandments is about coveting?",
+      "options": ["Eighth", "Ninth", "Tenth", "Seventh"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_m_0136",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Which prophet wrote about the suffering servant?",
+      "options": ["Isaiah", "Jeremiah", "Ezekiel", "Daniel"],
+      "answerIndex": 0
+    },
+    {
+      "id": "bible_m_0137",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "What is the last book of the Old Testament?",
+      "options": ["Zechariah", "Malachi", "Habakkuk", "Zephaniah"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0138",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "What was Bethlehem also called in the Old Testament?",
+      "options": ["Bethel", "Ephrath", "Beth-shemesh", "Beersheba"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0139",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Which beatitude promises 'they shall be filled'?",
+      "options": ["Those who mourn", "Those who hunger for righteousness", "The merciful", "The pure in heart"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0140",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Which prophet challenged the prophets of Baal on Mount Carmel?",
+      "options": ["Elijah", "Elisha", "Isaiah", "Jeremiah"],
+      "answerIndex": 0
+    },
+    {
+      "id": "bible_m_0141",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "What are the first five books of the Bible called?",
+      "options": ["Gospels", "Torah", "Prophets", "Writings"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0142",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "From which city did many come to see Jesus enter Jerusalem?",
+      "options": ["Nazareth", "Bethany", "Jericho", "Capernaum"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0143",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "How many days is the season of Lent before Easter?",
+      "options": ["30", "40", "50", "60"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0144",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Which prophet saw a vision of a man with a measuring line?",
+      "options": ["Zechariah", "Haggai", "Ezekiel", "Daniel"],
+      "answerIndex": 0
+    },
+    {
+      "id": "bible_m_0145",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "What comes after the book of Joel?",
+      "options": ["Amos", "Obadiah", "Jonah", "Micah"],
+      "answerIndex": 0
+    },
+    {
+      "id": "bible_m_0146",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "The Ten Commandments were written on tablets of what?",
+      "options": ["Wood", "Stone", "Clay", "Bronze"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0147",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "What does 'Jerusalem' mean?",
+      "options": ["City of God", "City of Peace", "Holy City", "City of Kings"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0148",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Which prophet was told to lie on his side for 390 days?",
+      "options": ["Isaiah", "Jeremiah", "Ezekiel", "Daniel"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_m_0149",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "What are the last three books before Revelation?",
+      "options": ["1, 2, 3 John", "1, 2 Peter and Jude", "Hebrews, James, 1 Peter", "2 Peter, 1, 2, 3 John, Jude"],
+      "answerIndex": 0
+    },
+    {
+      "id": "bible_m_0150",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Which beatitude promises seeing God?",
+      "options": ["The poor in spirit", "The meek", "The pure in heart", "The peacemakers"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_m_0151",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "What day of the week is Christmas always on?",
+      "options": ["Sunday", "Monday", "It varies", "Saturday"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_m_0152",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Which prophet prophesied during the Babylonian exile?",
+      "options": ["Isaiah", "Jeremiah", "Ezekiel", "All of the above"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_m_0153",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "What book comes between Nahum and Zephaniah?",
+      "options": ["Micah", "Habakkuk", "Haggai", "Obadiah"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0154",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Where in Jerusalem did Jesus cleanse the temple?",
+      "options": ["Outer court", "Court of Gentiles", "Holy Place", "Solomon's Porch"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0155",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "How many tablets were the Ten Commandments written on?",
+      "options": ["One", "Two", "Three", "Four"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0156",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Which prophet was a shepherd from Tekoa?",
+      "options": ["Amos", "Hosea", "Micah", "Joel"],
+      "answerIndex": 0
+    },
+    {
+      "id": "bible_m_0157",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "What is the book between Lamentations and Daniel?",
+      "options": ["Jeremiah", "Ezekiel", "Isaiah", "Hosea"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_m_0158",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "How many days after Christmas is Epiphany celebrated?",
+      "options": ["8", "10", "12", "14"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_m_0159",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "Which beatitude promises 'they shall obtain mercy'?",
+      "options": ["The poor in spirit", "Those who mourn", "The merciful", "The pure in heart"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_m_0160",
+      "category": "bible",
+      "difficulty": "medium",
+      "question": "From Bethlehem, which direction is Jerusalem?",
+      "options": ["North", "South", "East", "West"],
+      "answerIndex": 0
+    },
+    {
+      "id": "bible_h_0066",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "In which chapter of Exodus are the Ten Commandments first given?",
+      "options": ["Exodus 19", "Exodus 20", "Exodus 21", "Exodus 34"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_h_0067",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "Which prophet had a vision of four living creatures with wheels?",
+      "options": ["Isaiah", "Jeremiah", "Ezekiel", "Daniel"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_h_0068",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "What was the original name of the Garden of Gethsemane location?",
+      "options": ["Oil Press", "Olive Grove", "Prayer Garden", "Mount of Anointing"],
+      "answerIndex": 0
+    },
+    {
+      "id": "bible_h_0069",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "Which prophet spoke of 'swords into plowshares'?",
+      "options": ["Isaiah", "Micah", "Joel", "Both A and B"],
+      "answerIndex": 3
+    },
+    {
+      "id": "bible_h_0070",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "How many times is 'Blessed' used in the Beatitudes?",
+      "options": ["Seven", "Eight", "Nine", "Ten"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_h_0071",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "What book comes between 2 Thessalonians and 2 Timothy?",
+      "options": ["Titus", "1 Timothy", "Philemon", "Hebrews"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_h_0072",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "Which prophet saw a vision of a flying scroll?",
+      "options": ["Ezekiel", "Daniel", "Zechariah", "Jeremiah"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_h_0073",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "What was the ancient Jebusite name for Jerusalem?",
+      "options": ["Jebus", "Salem", "Zion", "Ariel"],
+      "answerIndex": 0
+    },
+    {
+      "id": "bible_h_0074",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "In Deuteronomy, which chapter repeats the Ten Commandments?",
+      "options": ["Deuteronomy 4", "Deuteronomy 5", "Deuteronomy 6", "Deuteronomy 10"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_h_0075",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "Which minor prophet's name means 'Yahweh is God'?",
+      "options": ["Joel", "Micah", "Obadiah", "Elijah"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_h_0076",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "How many books separate Ezra from Esther?",
+      "options": ["None", "One", "Two", "Three"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_h_0077",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "What is the Hebrew name for the Feast of Tabernacles?",
+      "options": ["Pesach", "Shavuot", "Sukkot", "Purim"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_h_0078",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "Which prophet had twelve symbolic acts recorded?",
+      "options": ["Isaiah", "Jeremiah", "Ezekiel", "Hosea"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_h_0079",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "In Biblical measurements, how far was Bethlehem from Jerusalem?",
+      "options": ["3 miles", "5 miles", "7 miles", "10 miles"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_h_0080",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "Which beatitude appears twice with slightly different wording?",
+      "options": ["Blessed are the poor in spirit", "Blessed are those who mourn", "Blessed are those who are persecuted", "Blessed are the meek"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_h_0081",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "What book immediately precedes Amos?",
+      "options": ["Hosea", "Joel", "Obadiah", "Jonah"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_h_0082",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "Which prophet was contemporary with Isaiah?",
+      "options": ["Jeremiah", "Micah", "Hosea", "Both B and C"],
+      "answerIndex": 3
+    },
+    {
+      "id": "bible_h_0083",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "How many gates did ancient Jerusalem have in Jesus' time?",
+      "options": ["8", "10", "12", "14"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_h_0084",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "What feast celebrates the giving of the Ten Commandments?",
+      "options": ["Passover", "Pentecost", "Tabernacles", "Trumpets"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_h_0085",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "Which prophet saw a vision of a basket of ripe fruit?",
+      "options": ["Amos", "Hosea", "Joel", "Obadiah"],
+      "answerIndex": 0
+    },
+    {
+      "id": "bible_h_0086",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "What are the five books of Major Prophets?",
+      "options": ["Isaiah through Daniel", "Isaiah through Lamentations", "Jeremiah through Malachi", "Isaiah through Hosea"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_h_0087",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "What day does Easter fall on in the church calendar?",
+      "options": ["First Sunday after Passover", "First Sunday after spring equinox full moon", "Third Sunday in April", "50 days after Ash Wednesday"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_h_0088",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "What is the Greek name for the Mount of Olives?",
+      "options": ["Olivet", "Gethsemane", "Golgotha", "Ophel"],
+      "answerIndex": 0
+    },
+    {
+      "id": "bible_h_0089",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "Which beatitude is unique to Matthew's gospel?",
+      "options": ["Blessed are the meek", "Blessed are the pure in heart", "Blessed are the merciful", "All variations exist"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_h_0090",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "Which two prophets never mention the name of God in their books?",
+      "options": ["Obadiah and Nahum", "Esther and Song of Solomon", "Joel and Amos", "Jonah and Micah"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_h_0091",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "How many books come between Galatians and 2 Thessalonians?",
+      "options": ["Three", "Four", "Five", "Six"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_h_0092",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "Which prophet prophesied to the northern kingdom exclusively?",
+      "options": ["Isaiah", "Hosea", "Micah", "Jeremiah"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_h_0093",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "What tower in Jerusalem did Jesus mention in Luke 13?",
+      "options": ["Tower of David", "Tower of Siloam", "Tower of Babel", "Tower of Hananel"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_h_0094",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "In Jewish tradition, on which two tablets were the commandments divided?",
+      "options": ["Randomly", "By importance", "Duties to God and duties to man", "Positive and negative commands"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_h_0095",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "Which celebration occurs 50 days after Easter?",
+      "options": ["Ascension", "Pentecost", "Trinity Sunday", "Corpus Christi"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_h_0096",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "Which prophet's book contains only one chapter?",
+      "options": ["Obadiah", "Jude", "Philemon", "All of the above"],
+      "answerIndex": 0
+    },
+    {
+      "id": "bible_h_0097",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "What is the last book of the Pentateuch?",
+      "options": ["Numbers", "Deuteronomy", "Joshua", "Leviticus"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_h_0098",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "Which gate of Jerusalem is also called the Golden Gate?",
+      "options": ["Sheep Gate", "Eastern Gate", "Beautiful Gate", "Damascus Gate"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_h_0099",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "Which prophet was told to marry Gomer?",
+      "options": ["Hosea", "Amos", "Joel", "Micah"],
+      "answerIndex": 0
+    },
+    {
+      "id": "bible_h_0100",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "How many verses are in the Sermon on the Mount (Matthew 5-7)?",
+      "options": ["101", "107", "111", "117"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_h_0101",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "Which book comes between Titus and Hebrews?",
+      "options": ["1 Timothy", "2 Timothy", "Philemon", "James"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_h_0102",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "What was the Latin name for Bethlehem used by Jerome?",
+      "options": ["Bethlehema", "Bethleemum", "Bethleem", "Ephratha"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_h_0103",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "Which prophet had a vision of horns and craftsmen?",
+      "options": ["Daniel", "Ezekiel", "Zechariah", "Jeremiah"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_h_0104",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "What is the traditional date for celebrating Christmas in the Eastern Orthodox Church?",
+      "options": ["December 25", "January 6", "January 7", "December 24"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_h_0105",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "In the Hebrew Bible, what are the Ten Commandments called?",
+      "options": ["The Decalogue", "The Ten Words", "The Law of Moses", "The Covenant Words"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_h_0106",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "Which prophet had a vision of a man holding a plumb line?",
+      "options": ["Amos", "Zechariah", "Ezekiel", "Isaiah"],
+      "answerIndex": 0
+    },
+    {
+      "id": "bible_h_0107",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "How many books are in the Wisdom Literature?",
+      "options": ["Three", "Four", "Five", "Six"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_h_0108",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "What valley borders Jerusalem on the south and west?",
+      "options": ["Kidron Valley", "Valley of Hinnom", "Tyropoeon Valley", "Jehoshaphat Valley"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_h_0109",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "Where in Luke's Gospel are the Beatitudes found?",
+      "options": ["Luke 5", "Luke 6", "Luke 7", "Luke 8"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_h_0110",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "Which prophet warned Nineveh of its destruction?",
+      "options": ["Jonah", "Nahum", "Both A and B", "Zephaniah"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_h_0111",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "How many books are between 1 Peter and Revelation?",
+      "options": ["Four", "Five", "Six", "Seven"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_h_0112",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "What was the Pool of Bethesda's Hebrew name?",
+      "options": ["Beth-Hesda", "Bethzatha", "Beth-Chessed", "Both A and B"],
+      "answerIndex": 3
+    },
+    {
+      "id": "bible_h_0113",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "Which post-exilic prophet urged rebuilding the temple?",
+      "options": ["Haggai", "Zechariah", "Malachi", "Both A and B"],
+      "answerIndex": 3
+    },
+    {
+      "id": "bible_h_0114",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "What is the season before Christmas called?",
+      "options": ["Lent", "Advent", "Ordinary Time", "Epiphany"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_h_0115",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "Which commandment uses the verb 'remember'?",
+      "options": ["Third", "Fourth", "Fifth", "Sixth"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_h_0116",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "What are the first seventeen books of the Old Testament called?",
+      "options": ["Historical Books", "Books of the Law and History", "Torah and Former Prophets", "Pentateuch and Historical"],
+      "answerIndex": 0
+    },
+    {
+      "id": "bible_h_0117",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "Which valley is between Jerusalem and the Mount of Olives?",
+      "options": ["Hinnom Valley", "Kidron Valley", "Jehoshaphat Valley", "Both B and C"],
+      "answerIndex": 3
+    },
+    {
+      "id": "bible_h_0118",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "Which prophet spoke to the returned exiles about spiritual renewal?",
+      "options": ["Haggai", "Zechariah", "Malachi", "All of the above"],
+      "answerIndex": 3
+    },
+    {
+      "id": "bible_h_0119",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "How do Matthew's and Luke's Beatitudes differ in number?",
+      "options": ["Same number", "Matthew has 9, Luke has 4", "Matthew has 8, Luke has 6", "Matthew has 10, Luke has 7"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_h_0120",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "What is the middle book of the Bible?",
+      "options": ["Psalms", "Proverbs", "Micah", "Nahum"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_h_0121",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "In which year's calendar does Easter fall earliest?",
+      "options": ["Late March", "Early April", "Mid-April", "Varies widely"],
+      "answerIndex": 3
+    },
+    {
+      "id": "bible_h_0122",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "Where was David anointed king over all Israel?",
+      "options": ["Bethlehem", "Jerusalem", "Hebron", "Gibeah"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_h_0123",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "Which prophet used the most symbolic actions?",
+      "options": ["Isaiah", "Jeremiah", "Ezekiel", "Hosea"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_h_0124",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "The Ten Commandments are also found in which Psalm?",
+      "options": ["Psalm 19", "Psalm 119", "Neither", "Both"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_h_0125",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "What are the last five books of the Old Testament called?",
+      "options": ["Minor Prophets", "The Twelve", "Post-Exilic Prophets", "Final Prophets"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_h_0126",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "Which Christmas celebration emphasizes Christ's divinity?",
+      "options": ["Christmas Day", "Epiphany", "Advent", "Christmastide"],
+      "answerIndex": 1
+    },
+    {
+      "id": "bible_h_0127",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "What city north of Jerusalem was a rival worship center?",
+      "options": ["Shechem", "Bethel", "Dan", "All of the above"],
+      "answerIndex": 3
+    },
+    {
+      "id": "bible_h_0128",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "Which prophet's visions included a woman in a basket?",
+      "options": ["Ezekiel", "Daniel", "Zechariah", "Jeremiah"],
+      "answerIndex": 2
+    },
+    {
+      "id": "bible_h_0129",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "In Luke's Beatitudes, what are the four woes contrasted with?",
+      "options": ["Four blessings", "Seven blessings", "Eight blessings", "No blessings"],
+      "answerIndex": 0
+    },
+    {
+      "id": "bible_h_0130",
+      "category": "bible",
+      "difficulty": "hard",
+      "question": "How many books come between Jonah and Habakkuk?",
+      "options": ["One", "Two", "Three", "Four"],
+      "answerIndex": 1
+    }
+]

@@ -14,12 +14,12 @@ export const SetupScreen: React.FC<SetupScreenProps> = ({
   onBack,
 }) => {
   const [questionsPerPlayer, setQuestionsPerPlayer] = useState<10 | 20 | 30 | 50>(10);
-  const [categories, setCategories] = useState<('animals' | 'pokemon' | 'prehistoric' | 'comics' | 'disney' | 'mario' | 'starwars' | 'harrypotter' | 'minecraft' | 'dragonballz')[]>(['animals']);
+  const [categories, setCategories] = useState<('animals' | 'pokemon' | 'prehistoric' | 'comics' | 'disney' | 'mario' | 'starwars' | 'harrypotter' | 'minecraft' | 'dragonballz' | 'bible')[]>(['animals']);
   const [scaleByAge, setScaleByAge] = useState<boolean>(false);
 
   const questionOptions: Array<10 | 20 | 30 | 50> = [10, 20, 30, 50];
 
-  const toggleCategory = (category: 'animals' | 'pokemon' | 'prehistoric' | 'comics' | 'disney' | 'mario' | 'starwars' | 'harrypotter' | 'minecraft' | 'dragonballz') => {
+  const toggleCategory = (category: 'animals' | 'pokemon' | 'prehistoric' | 'comics' | 'disney' | 'mario' | 'starwars' | 'harrypotter' | 'minecraft' | 'dragonballz' | 'bible') => {
     if (categories.includes(category)) {
       // Don't allow deselecting if it's the only one selected
       if (categories.length > 1) {
@@ -138,6 +138,12 @@ export const SetupScreen: React.FC<SetupScreenProps> = ({
               onClick={() => toggleCategory('dragonballz')}
             >
               🐉 Dragon Ball Z
+            </button>
+            <button
+              className={`category-option ${categories.includes('bible') ? 'selected' : ''}`}
+              onClick={() => toggleCategory('bible')}
+            >
+              📖 Bible
             </button>
           </div>
         </div>

@@ -9,6 +9,7 @@ import starwarsData from '../data/starwars.json';
 import harrypotterData from '../data/harrypotter.json';
 import minecraftData from '../data/minecraft.json';
 import dragonballzData from '../data/dragonballz.json';
+import bibleData from '../data/bible.json';
 
 /**
  * Shuffles an array using Fisher-Yates algorithm
@@ -51,7 +52,7 @@ function getDifficultyDistributionByAge(age: number): [number, number, number] {
 /**
  * Get questions for a specific category
  */
-function getQuestionsByCategory(category: 'animals' | 'pokemon' | 'prehistoric' | 'comics' | 'disney' | 'mario' | 'starwars' | 'harrypotter' | 'minecraft' | 'dragonballz'): Question[] {
+function getQuestionsByCategory(category: 'animals' | 'pokemon' | 'prehistoric' | 'comics' | 'disney' | 'mario' | 'starwars' | 'harrypotter' | 'minecraft' | 'dragonballz' | 'bible'): Question[] {
   switch (category) {
     case 'animals':
       return animalsData as Question[];
@@ -73,6 +74,8 @@ function getQuestionsByCategory(category: 'animals' | 'pokemon' | 'prehistoric' 
       return minecraftData as Question[];
     case 'dragonballz':
       return dragonballzData as Question[];
+    case 'bible':
+      return bibleData as Question[];
     default:
       return animalsData as Question[];
   }
